@@ -1,0 +1,29 @@
+services:
+  bot:
+    build: .
+    command: python -m bot.main
+    env_file: .env
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:////app/data/shopmate.db
+    volumes:
+      - shopmate_data:/app/data
+      - shopmate_logs:/app/logs
+    restart: unless-stopped
+
+  admin:
+    build: .
+    command: uvicorn admin.main:app --host 0.0.0.0 --port 8000
+    env_file: .env
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:////app/data/shopmate.db
+    ports:
+      - "8000:8000"
+    volumes:
+      - shopmate_data:/app/data
+    restart: unless-stopped
+    depends_on:
+      - bot
+
+volumes:
+  shopmate_data:
+  shopmate_logs:
