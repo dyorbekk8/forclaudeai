@@ -6,6 +6,10 @@ from aiogram.types import (
 )
 
 from bot.i18n import t
+from bot.models import Order
+from bot.payments.click import click_provider
+from bot.payments.payme import payme_provider
+from bot.payments.stripe_provider import stripe_provider
 
 
 def language_keyboard() -> InlineKeyboardMarkup:
@@ -54,6 +58,24 @@ def quantity_keyboard() -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(
         inline_keyboard=[[InlineKeyboardButton(text=str(n), callback_data=f"qty:{n}") for n in range(1, 6)]]
     )
+
+
+def payment_options_keyboard(lang: str, order: Order) -> InlineKeyboardMarkup | None:
+    rows = []
+    if click_provider.enabled:
+        link = click_provider.build_payment_link(order)
+        rows.append([InlineKeyboardButton(text=t("pay_with_click", lang), url=link.url)])
+    if payme_provider.enabled:
+        link = payme_provider.build_payment_link(order)
+        rows.append([InlineKeyboardButton(text=t("pay_with_payme", lang), url=link.url)])
+    if stripe_provider.enabled:
+        rows.append(
+            [InlineKeyboardButton(text=t("pay_with_card", lang), callback_data=f"pay_stripe:{order.id}")]
+        )
+    rows.append(
+        [InlineKeyboardButton(text=t("pay_with_stars", lang), callback_data=f"pay_stars:{order.id}")]
+    )
+    return InlineKeyboardMarkup(inline_keyboard=rows)
 
 
 def order_confirm_keyboard(lang: str) -> InlineKeyboardMarkup:

@@ -9,7 +9,17 @@ from sqlalchemy import func, select
 
 from admin.auth import AdminAuth
 from bot.config import settings
-from bot.models import BroadcastMessage, CartEvent, Client, FAQItem, Order, Product, Subscriber
+from bot.models import (
+    BroadcastMessage,
+    CartEvent,
+    Client,
+    FAQItem,
+    Order,
+    PaymeTransaction,
+    Product,
+    Subscriber,
+)
+from bot.payments.webhooks import router as payments_router
 from bot.services.broadcast_service import send_broadcast
 from bot.services.db import async_session, engine, init_db
 
@@ -21,6 +31,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(title=f"{settings.store_name} — ShopMate Admin", lifespan=lifespan)
+app.include_router(payments_router)
 
 
 class ClientAdmin(ModelView, model=Client):
@@ -102,6 +113,21 @@ class BroadcastMessageAdmin(ModelView, model=BroadcastMessage):
     can_edit = False
 
 
+class PaymeTransactionAdmin(ModelView, model=PaymeTransaction):
+    name = "Payme Transaction"
+    name_plural = "Payme Transactions"
+    icon = "fa-solid fa-money-check-dollar"
+    column_list = [
+        PaymeTransaction.id,
+        PaymeTransaction.order_id,
+        PaymeTransaction.amount,
+        PaymeTransaction.state,
+        PaymeTransaction.create_time,
+    ]
+    can_create = False
+    can_edit = False
+
+
 admin = Admin(
     app,
     engine,
@@ -114,6 +140,7 @@ admin.add_view(ProductAdmin)
 admin.add_view(OrderAdmin)
 admin.add_view(FAQItemAdmin)
 admin.add_view(BroadcastMessageAdmin)
+admin.add_view(PaymeTransactionAdmin)
 
 
 PAGE_STYLE = """

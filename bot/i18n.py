@@ -50,6 +50,18 @@ TEXTS: dict[str, dict[str, str]] = {
     },
     "confirm_button": {"en": "✅ Confirm order", "ru": "✅ Подтвердить"},
     "cancel_button": {"en": "❌ Cancel", "ru": "❌ Отмена"},
+    "choose_payment": {
+        "en": "How would you like to pay? (Or ignore this — we'll also confirm by phone.)",
+        "ru": "Как вы хотите оплатить? (Или пропустите — мы также подтвердим по телефону.)",
+    },
+    "pay_with_click": {"en": "💳 Pay with Click", "ru": "💳 Оплатить через Click"},
+    "pay_with_payme": {"en": "💳 Pay with Payme", "ru": "💳 Оплатить через Payme"},
+    "pay_with_card": {"en": "💳 Pay with card", "ru": "💳 Оплатить картой"},
+    "pay_with_stars": {"en": "⭐ Pay with Telegram Stars", "ru": "⭐ Оплатить через Telegram Stars"},
+    "payment_link_ready": {
+        "en": "Tap below to complete payment:",
+        "ru": "Нажмите ниже, чтобы завершить оплату:",
+    },
     "order_created": {
         "en": "🎉 Thank you! Your order #{order_id} has been placed. "
         "We'll contact you shortly to confirm delivery.",

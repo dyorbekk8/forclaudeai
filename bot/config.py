@@ -13,13 +13,17 @@ class Settings(BaseSettings):
     store_name: str = "My Shop"
     timezone: str = "Asia/Tashkent"
 
+    stars_per_usd: float = 100.0
+
     llm_api_key: str = ""
     llm_api_base: str = "https://api.openai.com/v1"
     llm_model: str = "gpt-4o-mini"
 
     click_merchant_id: str = ""
     click_service_id: str = ""
+    click_secret_key: str = ""
     payme_merchant_id: str = ""
+    payme_secret_key: str = ""
     stripe_key: str = ""
 
     @property

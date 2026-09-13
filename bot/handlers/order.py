@@ -6,7 +6,7 @@ from aiogram.types import CallbackQuery, Message
 
 from bot.config import settings
 from bot.i18n import t
-from bot.keyboards import order_confirm_keyboard
+from bot.keyboards import order_confirm_keyboard, payment_options_keyboard
 from bot.services import cart_service, order_service, product_service, subscriber_service
 from bot.services.db import get_session
 from bot.states import OrderStates
@@ -111,6 +111,9 @@ async def handle_order_confirm(callback: CallbackQuery, state: FSMContext, bot: 
 
     await callback.message.edit_reply_markup(reply_markup=None)
     await callback.message.answer(t("order_created", lang, order_id=order.id))
+    await callback.message.answer(
+        t("choose_payment", lang), reply_markup=payment_options_keyboard(lang, order)
+    )
 
     if settings.owner_telegram_id:
         try:
