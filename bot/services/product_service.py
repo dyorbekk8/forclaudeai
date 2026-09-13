@@ -1,0 +1,16 @@
+from sqlalchemy import select
+from sqlalchemy.ext.asyncio import AsyncSession
+
+from bot.models import Product
+
+
+async def list_available(session: AsyncSession) -> list[Product]:
+    result = await session.execute(
+        select(Product).where(Product.is_available.is_(True)).order_by(Product.id)
+    )
+    return list(result.scalars().all())
+
+
+async def get(session: AsyncSession, product_id: int) -> Product | None:
+    result = await session.execute(select(Product).where(Product.id == product_id))
+    return result.scalar_one_or_none()

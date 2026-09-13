@@ -1,0 +1,19 @@
+# DECISIONS.md — mustaqil qabul qilingan qarorlar
+
+Bu fayl Claude Code tomonidan, TELEGRAM_BOT_TOPSHIRIQ.md asosida, foydalanuvchidan
+so'ramasdan qabul qilingan har bir muhim qarorni sabab bilan qayd etadi.
+
+| # | Qaror | Sabab |
+|---|-------|-------|
+| 1 | Loyiha reponing o'zida (`forclaudeai`), alohida `shopmate/` papkasiz, ildiz katalogda quriladi. | Repo bo'sh va aynan shu maqsad uchun; qo'shimcha ichma-ich papka faqat yo'llarni uzaytiradi, Docker/Railway konfiguratsiyasini murakkablashtiradi. |
+| 2 | Bot nomi "ShopMate" saqlab qolindi. | Nom aniq, tushunarli va do'kon-botlar bozorida band emas; o'zgartirish qo'shimcha qiymat bermaydi. |
+| 3 | SQLAlchemy 2.x **async** rejimda (aiosqlite / asyncpg drayverlari bilan). | aiogram 3.x to'liq async; sync ORM chaqiruvlari event loop'ni bloklab, botni sekinlashtiradi. Async oxiridan-oxirigacha izchil. |
+| 4 | `bot/models`, `bot/services` kabi modullar admin panel (`admin/main.py`) tomonidan ham to'g'ridan-to'g'ri import qilinadi (alohida nusxa emas). | Bitta manba — modelning ikki joyda tavsiflanishi (drift) xavfini yo'q qiladi. |
+| 5 | Til tanlash: ingliz va rus (spec bo'yicha), o'zbekcha keyinroq FUTURE_IDEAS.md'ga qo'shildi. | Boshlang'ich ICP — xalqaro/CIS mijozlar; o'zbekcha UI hozircha ustuvor emas. |
+| 6 | AI-FAQ integratsiyasi OpenAI-mos ("OpenAI-compatible") `/chat/completions` endpoint sifatida amalga oshirildi, `LLM_API_BASE`/`LLM_MODEL` orqali sozlanadi. | `LLM_API_KEY` provayderi spec'da aniq ko'rsatilmagan; OpenAI-mos interfeys eng keng tarqalgan standart (OpenAI, Groq, Together, va boshqa ko'p provayderlar shu formatni qo'llaydi), shuning uchun eng moslashuvchan tanlov. |
+| 7 | To'lov provayderlar: Telegram Stars — to'liq ishlaydigan (haqiqiy Telegram Invoice API); Stripe — haqiqiy Checkout Session yaratish (httpx orqali to'g'ridan-to'g'ri Stripe REST API, faqat `STRIPE_KEY` kerak); Click/Payme — haqiqiy "pay-by-link" URL formatlarini generatsiya qiladi (bu ularning hujjatlashtirilgan ochiq linkidir), lekin to'liq merchant-callback (prepare/complete) webhook imzosi tekshiruvi README/PAYMENTS_GUIDE.md'da "keyingi qadam" sifatida qoldirildi. | Click/Payme to'liq merchant-API integratsiyasi ularning biznes-panelida ro'yxatdan o'tib, webhook manzilini ro'yxatga olishni talab qiladi — buni oldindan yozib bo'lmaydi, lekin mijoz to'lov qila oladigan ishlaydigan link kod bilan birga keladi. |
+| 8 | Admin panel autentifikatsiyasi — SQLAdmin'ning `AuthenticationBackend'i, `.env`dagi `ADMIN_USERNAME`/`ADMIN_PASSWORD` bilan, sessiya cookie `ADMIN_SECRET_KEY` bilan imzolanadi. | Eng oddiy, qo'shimcha bog'liqlik talab qilmaydigan, ishlab chiqarishga yetarlicha xavfsiz yechim (bitta admin, ko'p foydalanuvchili tizim shart emas). |
+| 9 | Narxlash rejalari: Starter $19/oy, Growth $39/oy, Custom Setup $99 bir martalik + $19/oy. | ManyChat va shunga o'xshash umumiy chat-bot platformalari $15-45/oy narxlanadi, lekin ular do'kon-specific emas; ShopMate shaxsiylashtirilgan+arzon pozitsiyalanadi (2-bo'lim taxminiy narx oralig'i bilan mos). |
+| 10 | Standart baza — SQLite fayli (`shopmate.db`), `DATABASE_URL` orqali istalgan Postgres'ga o'tish mumkin. | Spec talabi; demo/kichik mijozlar uchun SQLite yetarli, sozlash shart emas. |
+| 11 | Testlar uchun har bir test funksiyasi vaqtinchalik fayl-SQLite baza yaratadi (`tmp_path` fixture), xotiradagi baza emas. | aiosqlite xotiradagi (`:memory:`) bazada har bir yangi ulanish alohida bo'sh baza ochadi (connection pool muammosi); fayl-baza barqaror va oddiy. |
+| 12 | Savat-eslatma va xush-kelibsiz seriyasi bir xil APScheduler `AsyncIOScheduler`da, alohida job funksiyalari sifatida ishlaydi (har 5 daqiqada tekshiradi). | Bitta scheduler instance botning asosiy event loop'ida ishlaydi — qo'shimcha process/queue kerak emas, kichik-o'rtacha do'kon trafigi uchun yetarli. |
