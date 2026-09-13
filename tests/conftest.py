@@ -1,3 +1,11 @@
+import os
+import tempfile
+
+os.environ.setdefault(
+    "DATABASE_URL", f"sqlite+aiosqlite:///{tempfile.gettempdir()}/shopmate_test.db"
+)
+os.environ.setdefault("BOT_TOKEN", "123456789:AAHtestTesttestTesttestTesttestTestT")
+
 import pytest
 import pytest_asyncio
 from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker, create_async_engine
