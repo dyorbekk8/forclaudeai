@@ -1,3 +1,4 @@
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -26,6 +27,13 @@ class Settings(BaseSettings):
     payme_secret_key: str = ""
     stripe_key: str = ""
     stripe_webhook_secret: str = ""
+
+    @field_validator("owner_telegram_id", mode="before")
+    @classmethod
+    def _blank_owner_id_means_unset(cls, value: object) -> object:
+        if value == "":
+            return 0
+        return value
 
     @property
     def llm_enabled(self) -> bool:
