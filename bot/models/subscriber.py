@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from sqlalchemy import BigInteger, Boolean, DateTime, ForeignKey, String, func
+from sqlalchemy import BigInteger, Boolean, DateTime, ForeignKey, Integer, String, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from bot.models.base import Base
@@ -20,6 +20,9 @@ class Subscriber(Base):
         ForeignKey("subscribers.id"), nullable=True
     )
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
+    welcome_step_sent: Mapped[int] = mapped_column(
+        Integer, default=0, doc="How many welcome-series messages have been sent (0-2)"
+    )
 
     referred_by: Mapped["Subscriber | None"] = relationship(
         remote_side=[id], back_populates="referrals"
