@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from aiogram.fsm.storage.memory import MemoryStorage
-from aiogram.types import ErrorEvent
+from aiogram.types import BotCommand, ErrorEvent
 
 from bot.config import settings
 from bot.handlers import build_root_router
@@ -20,6 +20,15 @@ logger = logging.getLogger(__name__)
 async def on_startup(bot: Bot) -> None:
     await init_db()
     logger.info("Database ready")
+    await bot.set_my_commands(
+        [
+            BotCommand(command="start", description="Restart / show main menu"),
+            BotCommand(command="menu", description="Show main menu"),
+            BotCommand(command="myorders", description="See your past orders"),
+            BotCommand(command="invite", description="Get your referral link"),
+            BotCommand(command="stop", description="Unsubscribe from messages"),
+        ]
+    )
 
 
 def create_dispatcher() -> Dispatcher:

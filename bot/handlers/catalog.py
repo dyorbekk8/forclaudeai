@@ -23,6 +23,15 @@ def _product_card_text(lang: str, product, index: int, total: int) -> str:
     )
 
 
+async def _send_product_card(message: Message, lang: str, product, index: int, total: int) -> None:
+    text = _product_card_text(lang, product, index, total)
+    keyboard = product_card_keyboard(lang, index, total, product.id)
+    if product.image_url:
+        await message.answer_photo(product.image_url, caption=text, reply_markup=keyboard)
+    else:
+        await message.answer(text, reply_markup=keyboard)
+
+
 @router.message(F.text.in_({t("menu_products", "en"), t("menu_products", "ru")}))
 async def handle_products_button(message: Message, state: FSMContext) -> None:
     await state.clear()
@@ -39,10 +48,8 @@ async def handle_products_button(message: Message, state: FSMContext) -> None:
 
         product = products[0]
         await cart_service.record_view(session, subscriber, product.id)
-        text = _product_card_text(lang, product, 0, len(products))
-        keyboard = product_card_keyboard(lang, 0, len(products), product.id)
 
-    await message.answer(text, reply_markup=keyboard)
+    await _send_product_card(message, lang, product, 0, len(products))
 
 
 @router.callback_query(F.data.startswith("product:"))
@@ -62,10 +69,14 @@ async def handle_product_navigation(callback: CallbackQuery) -> None:
         product = products[index]
         await cart_service.record_view(session, subscriber, product.id)
 
-        text = _product_card_text(lang, product, index, len(products))
-        keyboard = product_card_keyboard(lang, index, len(products), product.id)
-
-    await callback.message.edit_text(text, reply_markup=keyboard)
+    # Products can mix text-only and photo cards, and Telegram doesn't allow
+    # editing a text message into a photo message (or vice versa) — so we
+    # replace the message outright instead of trying to edit it in place.
+    try:
+        await callback.message.delete()
+    except Exception:  # noqa: BLE001 - message may already be gone/too old to delete
+        pass
+    await _send_product_card(callback.message, lang, product, index, len(products))
     await callback.answer()
 
 

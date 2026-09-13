@@ -7,6 +7,7 @@ from bot.config import settings
 from bot.models import Order, OrderStatus
 from bot.payments.click import ClickProvider
 from bot.payments.payme import PaymeError, PaymeProvider
+from bot.payments.stripe_provider import StripeProvider
 from bot.services import order_service, subscriber_service
 
 
@@ -137,6 +138,29 @@ async def test_payme_cancel_transaction(session, payme):
 
     await session.refresh(order)
     assert order.status == OrderStatus.CANCELLED
+
+
+def test_stripe_webhook_signature_roundtrip(monkeypatch):
+    import hashlib
+    import hmac as hmac_lib
+    import time
+
+    monkeypatch.setattr(settings, "stripe_webhook_secret", "whsec_test")
+    provider = StripeProvider()
+
+    payload = b'{"type": "checkout.session.completed"}'
+    timestamp = str(int(time.time()))
+    signed_payload = f"{timestamp}.{payload.decode()}".encode()
+    signature = hmac_lib.new(b"whsec_test", signed_payload, hashlib.sha256).hexdigest()
+    header = f"t={timestamp},v1={signature}"
+
+    assert provider.verify_webhook_signature(payload, header) is True
+    assert provider.verify_webhook_signature(payload, f"t={timestamp},v1=deadbeef") is False
+
+
+def test_stripe_webhook_rejects_without_secret_configured():
+    provider = StripeProvider()
+    assert provider.verify_webhook_signature(b"{}", "t=1,v1=abc") is False
 
 
 def test_payme_webhook_rejects_bad_auth():

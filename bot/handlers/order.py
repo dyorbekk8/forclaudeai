@@ -1,6 +1,7 @@
 import logging
 
 from aiogram import Bot, F, Router
+from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.types import CallbackQuery, Message
 
@@ -145,6 +146,7 @@ async def handle_order_cancel(callback: CallbackQuery, state: FSMContext) -> Non
     await callback.answer()
 
 
+@router.message(Command("myorders"))
 @router.message(F.text.in_({t("menu_orders", "en"), t("menu_orders", "ru")}))
 async def handle_my_orders(message: Message, state: FSMContext) -> None:
     await state.clear()

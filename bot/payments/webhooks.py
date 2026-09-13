@@ -1,4 +1,5 @@
 import base64
+import json
 
 from fastapi import APIRouter, Request
 from fastapi.responses import JSONResponse
@@ -13,7 +14,9 @@ from bot.payments.click import (
     click_provider,
 )
 from bot.payments.payme import PaymeError, payme_provider
+from bot.payments.stripe_provider import stripe_provider
 from bot.services.db import async_session
+from bot.services.notify import notify_owner
 
 router = APIRouter()
 
@@ -46,6 +49,11 @@ async def click_webhook(request: Request) -> JSONResponse:
 
         if action == "0":
             if not click_provider.verify_prepare_signature(data):
+                await notify_owner(
+                    f"⚠️ Click payment signature check failed on order #{order.id} "
+                    "(prepare step). This may indicate a misconfigured CLICK_SECRET_KEY "
+                    "or a forged request."
+                )
                 return JSONResponse(
                     {
                         **base_response,
@@ -64,6 +72,11 @@ async def click_webhook(request: Request) -> JSONResponse:
 
         if action == "1":
             if not click_provider.verify_complete_signature(data):
+                await notify_owner(
+                    f"⚠️ Click payment signature check failed on order #{order.id} "
+                    "(complete step). This may indicate a misconfigured CLICK_SECRET_KEY "
+                    "or a forged request."
+                )
                 return JSONResponse(
                     {
                         **base_response,
@@ -118,3 +131,31 @@ async def payme_webhook(request: Request) -> JSONResponse:
                     "error": {"code": exc.code, "message": exc.message},
                 }
             )
+
+
+@router.post("/payments/stripe")
+async def stripe_webhook(request: Request) -> JSONResponse:
+    """Stripe webhook — see PAYMENTS_GUIDE.md. Listens for
+    `checkout.session.completed` and marks the matching order paid."""
+    payload = await request.body()
+    signature_header = request.headers.get("stripe-signature", "")
+
+    if not stripe_provider.verify_webhook_signature(payload, signature_header):
+        await notify_owner(
+            "⚠️ A Stripe webhook request failed signature verification. This may "
+            "indicate a misconfigured STRIPE_WEBHOOK_SECRET or a forged request."
+        )
+        return JSONResponse({"error": "invalid signature"}, status_code=400)
+
+    event = json.loads(payload)
+    if event.get("type") == "checkout.session.completed":
+        session_obj = event["data"]["object"]
+        order_id_str = session_obj.get("client_reference_id", "")
+
+        async with async_session() as session:
+            order = await session.get(Order, int(order_id_str)) if order_id_str.isdigit() else None
+            if order is not None:
+                order.status = OrderStatus.COMPLETED
+                await session.commit()
+
+    return JSONResponse({"received": True})

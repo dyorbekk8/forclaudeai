@@ -25,6 +25,7 @@ class Settings(BaseSettings):
     payme_merchant_id: str = ""
     payme_secret_key: str = ""
     stripe_key: str = ""
+    stripe_webhook_secret: str = ""
 
     @property
     def llm_enabled(self) -> bool:

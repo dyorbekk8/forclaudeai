@@ -61,9 +61,15 @@ with a client's first payment-enabled deployment.
 1. Create a Stripe account at [stripe.com](https://stripe.com) and grab
    your **secret key** from the dashboard (Developers → API keys).
 2. Set `STRIPE_KEY` in `.env`.
-3. That's it — ShopMate creates a Stripe Checkout Session per order via the
+3. In the Stripe dashboard, go to Developers → Webhooks → Add endpoint, set
+   the URL to `https://<your-admin-domain>/payments/stripe`, and subscribe
+   to the `checkout.session.completed` event. Copy the **signing secret**
+   Stripe gives you into `STRIPE_WEBHOOK_SECRET` in `.env`.
+4. That's it — ShopMate creates a Stripe Checkout Session per order via the
    Stripe API directly (no pre-created Product/Price needed in your Stripe
-   dashboard), and sends the customer the checkout URL.
+   dashboard), sends the customer the checkout URL, and marks the order
+   paid automatically once Stripe confirms the payment via the webhook
+   (signature verified using `STRIPE_WEBHOOK_SECRET`).
 
 Stripe is the best fit for stores whose customers pay in USD/EUR by card
 rather than local Uzbek payment rails.
