@@ -39,7 +39,11 @@ maps cleanly onto ShopMate's two processes.
 
 4. **Create the admin service.**
    - *New* → *GitHub Repo* → same repo again.
-   - Set the **Start Command** to: `uvicorn admin.main:app --host 0.0.0.0 --port $PORT`
+   - Set the **Start Command** to: `sh -c "uvicorn admin.main:app --host 0.0.0.0 --port $PORT"`
+     (the `sh -c "..."` wrapper matters — Railway runs a custom start command
+     directly rather than through a shell, so `$PORT` is never expanded
+     without it, and uvicorn fails immediately with
+     `Invalid value for '--port': '$PORT' is not a valid integer`)
    - Copy the same variables as the bot service (same `DATABASE_URL`, same
      `ADMIN_SECRET_KEY` etc.) — Railway lets you reference shared variables
      so you only set them once, in a shared "environment" scope.
