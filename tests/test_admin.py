@@ -27,9 +27,7 @@ def test_admin_login_and_dashboard():
 
 def test_admin_login_rejects_wrong_password():
     with TestClient(app) as client:
-        login = client.post(
-            "/admin/login", data={"username": "admin", "password": "wrong"}
-        )
+        login = client.post("/admin/login", data={"username": "admin", "password": "wrong"})
         assert login.status_code == 400
 
         response = client.get("/admin/", follow_redirects=False)

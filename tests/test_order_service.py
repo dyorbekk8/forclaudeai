@@ -33,12 +33,8 @@ async def test_list_for_subscriber_returns_orders_newest_first(session):
     session.add(product)
     await session.commit()
 
-    first = await order_service.create_order(
-        session, subscriber, [(product, 1)], "A", "1", "addr"
-    )
-    second = await order_service.create_order(
-        session, subscriber, [(product, 1)], "A", "1", "addr"
-    )
+    first = await order_service.create_order(session, subscriber, [(product, 1)], "A", "1", "addr")
+    second = await order_service.create_order(session, subscriber, [(product, 1)], "A", "1", "addr")
 
     orders = await order_service.list_for_subscriber(session, subscriber)
     assert [o.id for o in orders] == [second.id, first.id]

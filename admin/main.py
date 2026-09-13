@@ -57,16 +57,33 @@ class SubscriberAdmin(ModelView, model=Subscriber):
     ]
     column_searchable_list = [Subscriber.first_name, Subscriber.username]
     column_sortable_list = [Subscriber.id, Subscriber.created_at]
-    form_columns = [Subscriber.first_name, Subscriber.username, Subscriber.language_code, Subscriber.is_active]
+    form_columns = [
+        Subscriber.first_name,
+        Subscriber.username,
+        Subscriber.language_code,
+        Subscriber.is_active,
+    ]
 
 
 class ProductAdmin(ModelView, model=Product):
     name = "Product"
     name_plural = "Products"
     icon = "fa-solid fa-box"
-    column_list = [Product.id, Product.name, Product.price, Product.is_available, Product.created_at]
+    column_list = [
+        Product.id,
+        Product.name,
+        Product.price,
+        Product.is_available,
+        Product.created_at,
+    ]
     column_searchable_list = [Product.name]
-    form_columns = [Product.name, Product.description, Product.price, Product.image_url, Product.is_available]
+    form_columns = [
+        Product.name,
+        Product.description,
+        Product.price,
+        Product.image_url,
+        Product.is_available,
+    ]
 
 
 class OrderAdmin(ModelView, model=Order):
@@ -169,16 +186,26 @@ class DashboardView(BaseView):
         since = datetime.utcnow() - timedelta(days=1)
         async with async_session() as session:
             total_subscribers = (
-                await session.execute(select(func.count()).select_from(Subscriber).where(Subscriber.is_active.is_(True)))
+                await session.execute(
+                    select(func.count())
+                    .select_from(Subscriber)
+                    .where(Subscriber.is_active.is_(True))
+                )
             ).scalar_one()
-            total_products = (await session.execute(select(func.count()).select_from(Product))).scalar_one()
+            total_products = (
+                await session.execute(select(func.count()).select_from(Product))
+            ).scalar_one()
             orders_today = (
-                await session.execute(select(func.count()).select_from(Order).where(Order.created_at >= since))
+                await session.execute(
+                    select(func.count()).select_from(Order).where(Order.created_at >= since)
+                )
             ).scalar_one()
             total_sales = (
                 await session.execute(select(func.coalesce(func.sum(Order.total_amount), 0)))
             ).scalar_one()
-            total_carts = (await session.execute(select(func.count()).select_from(CartEvent))).scalar_one()
+            total_carts = (
+                await session.execute(select(func.count()).select_from(CartEvent))
+            ).scalar_one()
 
         html = f"""
         <html><head><title>ShopMate Dashboard</title>{PAGE_STYLE}</head>

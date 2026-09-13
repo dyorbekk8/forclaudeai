@@ -63,7 +63,11 @@ def test_click_prepare_signature_roundtrip(click):
         "sign_time": "2026-01-01 00:00:00",
     }
     data["sign_string"] = click._sign_prepare(
-        data["click_trans_id"], data["merchant_trans_id"], data["amount"], data["action"], data["sign_time"]
+        data["click_trans_id"],
+        data["merchant_trans_id"],
+        data["amount"],
+        data["action"],
+        data["sign_time"],
     )
     assert click.verify_prepare_signature(data) is True
 
@@ -88,11 +92,19 @@ async def test_payme_create_and_perform_transaction(session, payme):
     order = await _make_order(session)
     amount = round(float(order.total_amount) * 100)
 
-    check = await payme.check_perform_transaction(session, {"amount": amount, "account": {"order_id": order.id}})
+    check = await payme.check_perform_transaction(
+        session, {"amount": amount, "account": {"order_id": order.id}}
+    )
     assert check == {"allow": True}
 
     created = await payme.create_transaction(
-        session, {"id": "txn1", "time": int(time.time() * 1000), "amount": amount, "account": {"order_id": order.id}}
+        session,
+        {
+            "id": "txn1",
+            "time": int(time.time() * 1000),
+            "amount": amount,
+            "account": {"order_id": order.id},
+        },
     )
     assert created["state"] == 1
 
@@ -107,7 +119,9 @@ async def test_payme_create_and_perform_transaction(session, payme):
 async def test_payme_wrong_amount_raises(session, payme):
     order = await _make_order(session)
     with pytest.raises(PaymeError):
-        await payme.check_perform_transaction(session, {"amount": 1, "account": {"order_id": order.id}})
+        await payme.check_perform_transaction(
+            session, {"amount": 1, "account": {"order_id": order.id}}
+        )
 
 
 @pytest.mark.asyncio
@@ -129,6 +143,8 @@ def test_payme_webhook_rejects_bad_auth():
     from admin.main import app
 
     with TestClient(app) as client:
-        response = client.post("/payments/payme", json={"method": "CheckTransaction", "params": {}, "id": 1})
+        response = client.post(
+            "/payments/payme", json={"method": "CheckTransaction", "params": {}, "id": 1}
+        )
         body = response.json()
         assert body["error"]["code"] == -32504

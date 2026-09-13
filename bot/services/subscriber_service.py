@@ -6,16 +6,12 @@ from bot.services.referral_service import generate_referral_code
 
 
 async def get_by_telegram_id(session: AsyncSession, telegram_id: int) -> Subscriber | None:
-    result = await session.execute(
-        select(Subscriber).where(Subscriber.telegram_id == telegram_id)
-    )
+    result = await session.execute(select(Subscriber).where(Subscriber.telegram_id == telegram_id))
     return result.scalar_one_or_none()
 
 
 async def get_by_referral_code(session: AsyncSession, code: str) -> Subscriber | None:
-    result = await session.execute(
-        select(Subscriber).where(Subscriber.referral_code == code)
-    )
+    result = await session.execute(select(Subscriber).where(Subscriber.referral_code == code))
     return result.scalar_one_or_none()
 
 

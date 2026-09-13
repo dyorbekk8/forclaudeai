@@ -42,6 +42,10 @@ def setup_scheduler(bot: Bot) -> AsyncIOScheduler:
         replace_existing=True,
     )
 
-    logger.info("Scheduler configured: cart_abandonment=%dmin, welcome_series=%dmin, daily_report=%02d:00",
-                CART_CHECK_INTERVAL_MINUTES, WELCOME_SERIES_INTERVAL_MINUTES, DAILY_REPORT_HOUR)
+    logger.info(
+        "Scheduler configured: cart_abandonment=%dmin, welcome_series=%dmin, daily_report=%02d:00",
+        CART_CHECK_INTERVAL_MINUTES,
+        WELCOME_SERIES_INTERVAL_MINUTES,
+        DAILY_REPORT_HOUR,
+    )
     return scheduler

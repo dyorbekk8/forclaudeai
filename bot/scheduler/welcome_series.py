@@ -21,7 +21,9 @@ async def send_welcome_series(bot: Bot) -> None:
     now = datetime.utcnow()
     async with get_session() as session:
         result = await session.execute(
-            select(Subscriber).where(Subscriber.is_active.is_(True), Subscriber.welcome_step_sent < 2)
+            select(Subscriber).where(
+                Subscriber.is_active.is_(True), Subscriber.welcome_step_sent < 2
+            )
         )
         subscribers = list(result.scalars().all())
 
@@ -33,10 +35,14 @@ async def send_welcome_series(bot: Bot) -> None:
                 continue
 
             try:
-                await bot.send_message(subscriber.telegram_id, t(text_key, subscriber.language_code))
+                await bot.send_message(
+                    subscriber.telegram_id, t(text_key, subscriber.language_code)
+                )
                 sent_count += 1
             except TelegramForbiddenError:
-                logger.info("Subscriber %s blocked the bot; skipping welcome step", subscriber.telegram_id)
+                logger.info(
+                    "Subscriber %s blocked the bot; skipping welcome step", subscriber.telegram_id
+                )
             except Exception as exc:  # noqa: BLE001 - one failure must not stop the batch
                 logger.warning("Failed to send welcome-series message: %s", exc)
             finally:

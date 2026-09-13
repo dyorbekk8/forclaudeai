@@ -48,7 +48,7 @@ FAQ_ITEMS = [
     (
         "How can I track my order?",
         "track, tracking, where is my order, status",
-        "Use the \"My Orders\" button in the main menu to see the status of "
+        'Use the "My Orders" button in the main menu to see the status of '
         "all your orders at any time.",
     ),
     (

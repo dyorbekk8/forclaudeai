@@ -7,7 +7,7 @@ from sqlalchemy.orm import Mapped, mapped_column, relationship
 from bot.models.base import Base
 
 
-class OrderStatus(str, enum.Enum):
+class OrderStatus(enum.StrEnum):
     NEW = "new"
     PROCESSING = "processing"
     COMPLETED = "completed"
@@ -23,9 +23,7 @@ class Order(Base):
     phone: Mapped[str] = mapped_column(String(50))
     address: Mapped[str] = mapped_column(String(500))
     total_amount: Mapped[float] = mapped_column(Numeric(10, 2), default=0)
-    status: Mapped[OrderStatus] = mapped_column(
-        Enum(OrderStatus), default=OrderStatus.NEW
-    )
+    status: Mapped[OrderStatus] = mapped_column(Enum(OrderStatus), default=OrderStatus.NEW)
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
     updated_at: Mapped[datetime] = mapped_column(
         DateTime, server_default=func.now(), onupdate=func.now()

@@ -16,9 +16,7 @@ class Subscriber(Base):
     language_code: Mapped[str] = mapped_column(String(5), default="en")
     is_active: Mapped[bool] = mapped_column(Boolean, default=True)
     referral_code: Mapped[str] = mapped_column(String(16), unique=True, index=True)
-    referred_by_id: Mapped[int | None] = mapped_column(
-        ForeignKey("subscribers.id"), nullable=True
-    )
+    referred_by_id: Mapped[int | None] = mapped_column(ForeignKey("subscribers.id"), nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
     welcome_step_sent: Mapped[int] = mapped_column(
         Integer, default=0, doc="How many welcome-series messages have been sent (0-2)"

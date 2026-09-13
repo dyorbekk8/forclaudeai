@@ -1,5 +1,3 @@
-import pytest
-
 from bot.config import settings
 from bot.models import FAQItem
 from bot.services.faq_engine import KeywordFAQEngine, get_faq_engine

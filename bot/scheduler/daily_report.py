@@ -29,7 +29,9 @@ async def send_daily_report(bot: Bot) -> None:
         ).scalar_one()
         revenue = (
             await session.execute(
-                select(func.coalesce(func.sum(Order.total_amount), 0)).where(Order.created_at >= since)
+                select(func.coalesce(func.sum(Order.total_amount), 0)).where(
+                    Order.created_at >= since
+                )
             )
         ).scalar_one()
 

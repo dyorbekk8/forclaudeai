@@ -45,7 +45,9 @@ class ClickProvider:
             url += f"&return_url={return_url}"
         return PaymentLink(provider=self.key, url=url)
 
-    def _sign_prepare(self, click_trans_id: str, merchant_trans_id: str, amount: str, action: str, sign_time: str) -> str:
+    def _sign_prepare(
+        self, click_trans_id: str, merchant_trans_id: str, amount: str, action: str, sign_time: str
+    ) -> str:
         raw = f"{click_trans_id}{settings.click_service_id}{settings.click_secret_key}{merchant_trans_id}{amount}{action}{sign_time}"
         return hashlib.md5(raw.encode()).hexdigest()
 
@@ -66,7 +68,11 @@ class ClickProvider:
 
     def verify_prepare_signature(self, data: dict) -> bool:
         expected = self._sign_prepare(
-            data["click_trans_id"], data["merchant_trans_id"], data["amount"], data["action"], data["sign_time"]
+            data["click_trans_id"],
+            data["merchant_trans_id"],
+            data["amount"],
+            data["action"],
+            data["sign_time"],
         )
         return expected == data.get("sign_string")
 

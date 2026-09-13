@@ -14,8 +14,12 @@ class PaymeTransaction(Base):
 
     id: Mapped[str] = mapped_column(String(50), primary_key=True)
     order_id: Mapped[int] = mapped_column(ForeignKey("orders.id"))
-    amount: Mapped[int] = mapped_column(BigInteger, doc="Amount in tiyin (1/100 UZS), per Payme's protocol")
-    state: Mapped[int] = mapped_column(Integer, default=1, doc="1=created, 2=completed, -1/-2=cancelled")
+    amount: Mapped[int] = mapped_column(
+        BigInteger, doc="Amount in tiyin (1/100 UZS), per Payme's protocol"
+    )
+    state: Mapped[int] = mapped_column(
+        Integer, default=1, doc="1=created, 2=completed, -1/-2=cancelled"
+    )
     create_time: Mapped[int] = mapped_column(BigInteger, default=0)
     perform_time: Mapped[int] = mapped_column(BigInteger, default=0)
     cancel_time: Mapped[int] = mapped_column(BigInteger, default=0)

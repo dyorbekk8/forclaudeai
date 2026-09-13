@@ -19,10 +19,16 @@ async def send_abandonment_reminders(bot: Bot) -> None:
             try:
                 await bot.send_message(
                     subscriber.telegram_id,
-                    t("cart_abandonment_reminder", subscriber.language_code, product_name=product.name),
+                    t(
+                        "cart_abandonment_reminder",
+                        subscriber.language_code,
+                        product_name=product.name,
+                    ),
                 )
             except TelegramForbiddenError:
-                logger.info("Subscriber %s blocked the bot; skipping reminder", subscriber.telegram_id)
+                logger.info(
+                    "Subscriber %s blocked the bot; skipping reminder", subscriber.telegram_id
+                )
             except Exception as exc:  # noqa: BLE001 - one failure must not stop the batch
                 logger.warning("Failed to send abandonment reminder: %s", exc)
             finally:

@@ -57,7 +57,10 @@ TEXTS: dict[str, dict[str, str]] = {
     "pay_with_click": {"en": "💳 Pay with Click", "ru": "💳 Оплатить через Click"},
     "pay_with_payme": {"en": "💳 Pay with Payme", "ru": "💳 Оплатить через Payme"},
     "pay_with_card": {"en": "💳 Pay with card", "ru": "💳 Оплатить картой"},
-    "pay_with_stars": {"en": "⭐ Pay with Telegram Stars", "ru": "⭐ Оплатить через Telegram Stars"},
+    "pay_with_stars": {
+        "en": "⭐ Pay with Telegram Stars",
+        "ru": "⭐ Оплатить через Telegram Stars",
+    },
     "payment_link_ready": {
         "en": "Tap below to complete payment:",
         "ru": "Нажмите ниже, чтобы завершить оплату:",
@@ -79,13 +82,13 @@ TEXTS: dict[str, dict[str, str]] = {
     },
     "ask_faq_question": {
         "en": "Type your question and I'll try to answer it. Tap "
-        "\"Back to menu\" when you're done.",
+        '"Back to menu" when you\'re done.',
         "ru": "Напишите свой вопрос, и я постараюсь на него ответить. "
         "Нажмите «Назад в меню», когда закончите.",
     },
     "faq_no_match": {
         "en": "I couldn't find an answer to that. Try rephrasing, or tap "
-        "\"Contact\" in the main menu to reach us directly.",
+        '"Contact" in the main menu to reach us directly.',
         "ru": "Не смог найти ответ. Попробуйте переформулировать вопрос "
         "или нажмите «Связаться» в главном меню.",
     },
@@ -114,8 +117,7 @@ TEXTS: dict[str, dict[str, str]] = {
     "welcome_series_day1": {
         "en": "👋 Just checking in! Have a look at our best-selling products "
         "with the 🛍 Products button.",
-        "ru": "👋 Просто напоминаем! Посмотрите наши популярные товары — "
-        "кнопка 🛍 Товары.",
+        "ru": "👋 Просто напоминаем! Посмотрите наши популярные товары — кнопка 🛍 Товары.",
     },
     "welcome_series_day3": {
         "en": "🎁 Still deciding? Use /invite to get a referral link — "

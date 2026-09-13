@@ -31,7 +31,9 @@ def create_dispatcher() -> Dispatcher:
     async def handle_error(event: ErrorEvent, bot: Bot) -> None:
         logger.exception("Unhandled error while processing update: %s", event.exception)
         update = event.update
-        source = update.message or (update.callback_query.message if update.callback_query else None)
+        source = update.message or (
+            update.callback_query.message if update.callback_query else None
+        )
         if source is not None:
             try:
                 await bot.send_message(source.chat.id, t("error_generic", "en"))

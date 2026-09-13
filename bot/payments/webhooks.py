@@ -40,25 +40,51 @@ async def click_webhook(request: Request) -> JSONResponse:
         }
 
         if order is None:
-            return JSONResponse({**base_response, "error": ERROR_ORDER_NOT_FOUND, "error_note": "Order not found"})
+            return JSONResponse(
+                {**base_response, "error": ERROR_ORDER_NOT_FOUND, "error_note": "Order not found"}
+            )
 
         if action == "0":
             if not click_provider.verify_prepare_signature(data):
-                return JSONResponse({**base_response, "error": ERROR_SIGN_CHECK_FAILED, "error_note": "Sign check failed"})
+                return JSONResponse(
+                    {
+                        **base_response,
+                        "error": ERROR_SIGN_CHECK_FAILED,
+                        "error_note": "Sign check failed",
+                    }
+                )
             return JSONResponse(
-                {**base_response, "merchant_prepare_id": order.id, "error": ERROR_SUCCESS, "error_note": "Success"}
+                {
+                    **base_response,
+                    "merchant_prepare_id": order.id,
+                    "error": ERROR_SUCCESS,
+                    "error_note": "Success",
+                }
             )
 
         if action == "1":
             if not click_provider.verify_complete_signature(data):
-                return JSONResponse({**base_response, "error": ERROR_SIGN_CHECK_FAILED, "error_note": "Sign check failed"})
+                return JSONResponse(
+                    {
+                        **base_response,
+                        "error": ERROR_SIGN_CHECK_FAILED,
+                        "error_note": "Sign check failed",
+                    }
+                )
             if order.status == OrderStatus.COMPLETED:
-                return JSONResponse({**base_response, "error": ERROR_ALREADY_PAID, "error_note": "Already paid"})
+                return JSONResponse(
+                    {**base_response, "error": ERROR_ALREADY_PAID, "error_note": "Already paid"}
+                )
 
             order.status = OrderStatus.COMPLETED
             await session.commit()
             return JSONResponse(
-                {**base_response, "merchant_confirm_id": order.id, "error": ERROR_SUCCESS, "error_note": "Success"}
+                {
+                    **base_response,
+                    "merchant_confirm_id": order.id,
+                    "error": ERROR_SUCCESS,
+                    "error_note": "Success",
+                }
             )
 
     return JSONResponse({**base_response, "error": -3, "error_note": "Action not found"})
@@ -67,7 +93,9 @@ async def click_webhook(request: Request) -> JSONResponse:
 @router.post("/payments/payme")
 async def payme_webhook(request: Request) -> JSONResponse:
     """Payme merchant callback (JSON-RPC 2.0) — see PAYMENTS_GUIDE.md."""
-    expected_auth = "Basic " + base64.b64encode(f"Paycom:{settings.payme_secret_key}".encode()).decode()
+    expected_auth = (
+        "Basic " + base64.b64encode(f"Paycom:{settings.payme_secret_key}".encode()).decode()
+    )
     if request.headers.get("Authorization") != expected_auth:
         return JSONResponse(
             {"error": {"code": -32504, "message": "Insufficient privilege to perform this method"}}
@@ -84,5 +112,9 @@ async def payme_webhook(request: Request) -> JSONResponse:
             return JSONResponse({"jsonrpc": "2.0", "id": request_id, "result": result})
         except PaymeError as exc:
             return JSONResponse(
-                {"jsonrpc": "2.0", "id": request_id, "error": {"code": exc.code, "message": exc.message}}
+                {
+                    "jsonrpc": "2.0",
+                    "id": request_id,
+                    "error": {"code": exc.code, "message": exc.message},
+                }
             )
