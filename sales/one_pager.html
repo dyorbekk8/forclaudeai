@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShopMate — One Pager</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #ffffff;
+    color: #0f172a;
+    margin: 0;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 40px 32px; }
+  .header {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    border-bottom: 1px solid #e2e8f0; padding-bottom: 24px; margin-bottom: 32px;
+  }
+  .brand h1 { margin: 0; font-size: 24px; font-weight: 800; color: #4338ca; }
+  .brand p { margin: 4px 0 0; color: #64748b; font-size: 14px; }
+  .contact { text-align: right; font-size: 13px; color: #64748b; }
+  .contact p { margin: 2px 0; }
+  .intro { font-size: 17px; line-height: 1.6; color: #334155; margin-bottom: 32px; }
+  .columns { display: flex; gap: 24px; margin-bottom: 32px; flex-wrap: wrap; }
+  .col { flex: 1; min-width: 240px; }
+  .col h2 { font-size: 15px; margin: 0 0 12px; color: #0f172a; }
+  .col ul { margin: 0; padding-left: 0; list-style: none; }
+  .col li { font-size: 13.5px; color: #475569; margin-bottom: 8px; padding-left: 22px; position: relative; }
+  .col li::before { content: "✓"; position: absolute; left: 0; color: #4338ca; font-weight: 700; }
+  .pricing {
+    background: #f8fafc; border-radius: 12px; padding: 24px; margin-bottom: 32px;
+  }
+  .pricing h2 { font-size: 15px; margin: 0 0 16px; }
+  .plans { display: flex; gap: 16px; flex-wrap: wrap; }
+  .plan { flex: 1; min-width: 150px; }
+  .plan .name { font-weight: 700; font-size: 13.5px; margin-bottom: 4px; }
+  .plan .price { font-size: 22px; font-weight: 800; color: #4338ca; }
+  .plan .price span { font-size: 13px; font-weight: 500; color: #64748b; }
+  .plan .sub { font-size: 12.5px; color: #64748b; margin-top: 2px; }
+  .cta { text-align: center; }
+  .cta p.lead { font-size: 15px; color: #334155; margin: 0 0 4px; }
+  .cta p.action { font-size: 16px; font-weight: 700; color: #4338ca; margin: 0; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+
+    <div class="header">
+      <div class="brand">
+        <h1>ShopMate</h1>
+        <p>A Telegram bot that sells and supports for your store</p>
+      </div>
+      <div class="contact">
+        <p>hello@example.com</p>
+        <p>t.me/your_agency_handle</p>
+      </div>
+    </div>
+
+    <p class="intro">
+      ShopMate turns your Telegram into a 24/7 store assistant — customers browse
+      products, order, get their questions answered, and get reminded if they
+      almost bought something, all without you lifting a finger.
+    </p>
+
+    <div class="columns">
+      <div class="col">
+        <h2>What it does</h2>
+        <ul>
+          <li>Product catalog &amp; in-chat ordering</li>
+          <li>Instant FAQ answers, day or night</li>
+          <li>Automatic abandoned-cart reminders</li>
+          <li>One-click broadcasts to all subscribers</li>
+          <li>Click / Payme / card / Telegram Stars payments</li>
+          <li>A simple dashboard for orders &amp; products</li>
+        </ul>
+      </div>
+      <div class="col">
+        <h2>Why it's different</h2>
+        <ul>
+          <li>Fully built for your store — not a blank tool you configure yourself</li>
+          <li>Live inside Telegram — no app, no website rebuild</li>
+          <li>Set up and running within a day</li>
+          <li>You own the customer relationship, not a marketplace</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pricing">
+      <h2>Pricing</h2>
+      <div class="plans">
+        <div class="plan">
+          <div class="name">Starter</div>
+          <div class="price">$19<span>/mo</span></div>
+          <div class="sub">+ $99 setup</div>
+        </div>
+        <div class="plan">
+          <div class="name">Growth</div>
+          <div class="price">$39<span>/mo</span></div>
+          <div class="sub">+ $149 setup · in-chat payments</div>
+        </div>
+        <div class="plan">
+          <div class="name">Custom Setup</div>
+          <div class="price">$99<span> one-time</span></div>
+          <div class="sub">+ $19/mo hosting</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="cta">
+      <p class="lead">Want to see it working with a few of your own products?</p>
+      <p class="action">Reply to this email and we'll set up a free live demo.</p>
+    </div>
+
+  </div>
+</body>
+</html>
