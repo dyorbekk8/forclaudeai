@@ -1,6 +1,7 @@
 import base64
 import time
 
+from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from bot.config import settings
@@ -155,6 +156,36 @@ class PaymeProvider:
             "reason": transaction.reason,
         }
 
+    async def get_statement(self, session: AsyncSession, params: dict) -> dict:
+        """Lists transactions in a time window, for Payme's reconciliation
+        reports in the merchant dashboard. `from`/`to` are ms-epoch bounds
+        on create_time, per Payme's protocol."""
+        period_from = params.get("from", 0)
+        period_to = params.get("to", int(time.time() * 1000))
+
+        result = await session.execute(
+            select(PaymeTransaction)
+            .where(PaymeTransaction.create_time >= period_from)
+            .where(PaymeTransaction.create_time <= period_to)
+            .order_by(PaymeTransaction.create_time)
+        )
+        transactions = [
+            {
+                "id": txn.id,
+                "time": txn.create_time,
+                "amount": txn.amount,
+                "account": {"order_id": str(txn.order_id)},
+                "create_time": txn.create_time,
+                "perform_time": txn.perform_time,
+                "cancel_time": txn.cancel_time,
+                "transaction": txn.id,
+                "state": txn.state,
+                "reason": txn.reason,
+            }
+            for txn in result.scalars().all()
+        ]
+        return {"transactions": transactions}
+
     async def dispatch(self, session: AsyncSession, method: str, params: dict) -> dict:
         handlers = {
             "CheckPerformTransaction": self.check_perform_transaction,
@@ -162,6 +193,7 @@ class PaymeProvider:
             "PerformTransaction": self.perform_transaction,
             "CancelTransaction": self.cancel_transaction,
             "CheckTransaction": self.check_transaction,
+            "GetStatement": self.get_statement,
         }
         handler = handlers.get(method)
         if handler is None:

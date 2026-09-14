@@ -117,6 +117,27 @@ async def test_payme_create_and_perform_transaction(session, payme):
 
 
 @pytest.mark.asyncio
+async def test_payme_get_statement_lists_transactions_in_window(session, payme):
+    order = await _make_order(session)
+    amount = round(float(order.total_amount) * 100)
+    now_ms = int(time.time() * 1000)
+
+    await payme.create_transaction(
+        session,
+        {"id": "txn-in-range", "time": now_ms, "amount": amount, "account": {"order_id": order.id}},
+    )
+
+    statement = await payme.get_statement(session, {"from": now_ms - 1000, "to": now_ms + 1000})
+    assert len(statement["transactions"]) == 1
+    assert statement["transactions"][0]["id"] == "txn-in-range"
+
+    empty_statement = await payme.get_statement(
+        session, {"from": now_ms + 10_000, "to": now_ms + 20_000}
+    )
+    assert empty_statement["transactions"] == []
+
+
+@pytest.mark.asyncio
 async def test_payme_wrong_amount_raises(session, payme):
     order = await _make_order(session)
     with pytest.raises(PaymeError):
