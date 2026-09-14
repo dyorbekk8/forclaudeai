@@ -17,6 +17,7 @@ class Settings(BaseSettings):
     bot_display_name: str = ""
     bot_description: str = ""
     bot_short_description: str = ""
+    intro_video_url: str = ""
 
     stars_per_usd: float = 100.0
 

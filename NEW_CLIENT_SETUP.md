@@ -45,7 +45,7 @@ Also set:
   case set `BOT_DISPLAY_NAME` / `BOT_DESCRIPTION` / `BOT_SHORT_DESCRIPTION`.
   The description is what a stranger sees on the empty chat screen
   *before* they ever tap Start — worth writing well per client.
-- **Intro video/image on the pre-Start "What can this bot do?" screen**
+- **Static image on the pre-Start "What can this bot do?" screen**
   (optional, recommended) — this is a *different* BotFather feature from
   the profile photo above, called **Edit Description Picture**: open
   @BotFather → `/mybots` → select the bot → **Edit Bot** → **Edit
@@ -56,11 +56,25 @@ Also set:
   *exact* pixel match for this slot — a photo or video/GIF must be
   precisely 320×180, 640×360, or 960×540, nothing else (confirmed by
   BotFather's own rejection message: "GIF dimensions are invalid. Must
-  be 320x180, 640x360 or 960x540 pixels"). `assets/intro_description.mp4`
-  is the branded intro clip letterboxed to exactly 960×540 (the largest
-  of the three, for the least quality loss) for this exact purpose
-  (re-render `assets/intro.mp4` with the client's own branding first,
-  then re-run the same letterbox step, if reskinning for a new client).
+  be 320x180, 640x360 or 960x540 pixels"). **Important: even a video
+  upload here only ever displays as a static cover frame, never
+  animated/looping** — this slot behaves the same as a regular Telegram
+  video profile picture, which is static inline and only plays on tap.
+  `assets/intro_description.mp4` is the branded intro clip (trimmed to
+  skip its own fade-in, so its first frame is already a finished card)
+  letterboxed to exactly 960×540 for this purpose (re-render
+  `assets/intro.mp4` with the client's own branding first, then re-run
+  the same trim+letterbox step, if reskinning for a new client).
+- **Actual moving video, sent as a chat message** (optional) — the only
+  way to show real motion to a new visitor. Set `INTRO_VIDEO_URL` in
+  `.env` to a hosted video/GIF URL and it's sent as a real message via
+  `send_video` right after a brand-new visitor taps Start, before the
+  language picker — this one does autoplay and loop like any Telegram
+  video message. `assets/intro.mp4` (the full, un-letterboxed clip) works
+  well here since message bubbles handle any aspect ratio. Host it
+  somewhere Telegram's servers can fetch — a GitHub raw URL
+  (`raw.githubusercontent.com/.../assets/intro.mp4`) works well. Leave
+  `INTRO_VIDEO_URL` empty to skip it.
 
 ## 3. Deploy a new instance
 

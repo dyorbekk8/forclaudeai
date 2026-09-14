@@ -1,3 +1,5 @@
+import logging
+
 from aiogram import F, Router
 from aiogram.filters import Command, CommandObject, CommandStart
 from aiogram.fsm.context import FSMContext
@@ -10,6 +12,7 @@ from bot.services.db import get_session
 from bot.services.referral_service import parse_start_payload
 from bot.services.subscriber_service import get_or_create, set_language
 
+logger = logging.getLogger(__name__)
 router = Router(name="start")
 
 
@@ -37,6 +40,11 @@ async def handle_start(message: Message, command: CommandObject) -> None:
         lang = subscriber.language_code
 
     if created:
+        if settings.intro_video_url:
+            try:
+                await message.answer_video(video=settings.intro_video_url)
+            except Exception as exc:  # noqa: BLE001 - a broken video must never block onboarding
+                logger.warning("Failed to send intro video: %s", exc)
         await message.answer(t("choose_language", "en"), reply_markup=language_keyboard())
     else:
         await send_main_menu(message, lang)
