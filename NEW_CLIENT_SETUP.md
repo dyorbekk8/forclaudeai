@@ -45,14 +45,13 @@ Also set:
   case set `BOT_DISPLAY_NAME` / `BOT_DESCRIPTION` / `BOT_SHORT_DESCRIPTION`.
   The description is what a stranger sees on the empty chat screen
   *before* they ever tap Start — worth writing well per client.
-- **Intro video (optional, recommended)** — set `INTRO_VIDEO_URL` in
-  `.env` to a hosted video/GIF URL and it's sent as the very first
-  message to every brand-new visitor, before the language picker. Real
-  `send_video` via the Bot API (not a BotFather trick), so it's fully
-  reliable. `assets/intro.mp4` is a generic branded version; re-render
-  the source (Playwright + CSS animation, see the git history for the
-  approach) with the client's own branding, or skip it — leave
-  `INTRO_VIDEO_URL` empty and no video is sent.
+- **Intro video (optional, recommended)** — @BotFather → `/setuserpic` now
+  also accepts a short video, which Telegram then shows animated on that
+  same pre-Start "what can this bot do" screen. `assets/intro.mp4` is a
+  generic branded version (re-render the source — Playwright + CSS
+  animation, see git history — with the client's own branding); upload it
+  the same one-time manual way as the profile photo above. There is no
+  Bot API way to do this programmatically — it must go through BotFather.
 
 ## 3. Deploy a new instance
 
