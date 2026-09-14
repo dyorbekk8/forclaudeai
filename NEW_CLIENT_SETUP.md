@@ -45,13 +45,20 @@ Also set:
   case set `BOT_DISPLAY_NAME` / `BOT_DESCRIPTION` / `BOT_SHORT_DESCRIPTION`.
   The description is what a stranger sees on the empty chat screen
   *before* they ever tap Start — worth writing well per client.
-- **Intro video (optional, recommended)** — @BotFather → `/setuserpic` now
-  also accepts a short video, which Telegram then shows animated on that
-  same pre-Start "what can this bot do" screen. `assets/intro.mp4` is a
-  generic branded version (re-render the source — Playwright + CSS
-  animation, see git history — with the client's own branding); upload it
-  the same one-time manual way as the profile photo above. There is no
-  Bot API way to do this programmatically — it must go through BotFather.
+- **Intro video/image on the pre-Start "What can this bot do?" screen**
+  (optional, recommended) — this is a *different* BotFather feature from
+  the profile photo above, called **Edit Description Picture**: open
+  @BotFather → `/mybots` → select the bot → **Edit Bot** → **Edit
+  Description Picture** → tap the paperclip in the input box → **Photo**
+  or **Video**. It is not set via `/setuserpic` (that only ever changes
+  the round avatar, never this block) and there is no Bot API method for
+  it — it must go through BotFather, manually. Telegram's own recommended
+  size for this slot is 640×360 (a photo) or a short video/GIF at the
+  same widescreen ratio; `assets/intro_description.mp4` is a version of
+  the branded intro clip already letterboxed to 640×360 for this exact
+  purpose (re-render `assets/intro.mp4` with the client's own branding
+  first, then re-run the same letterbox step, if reskinning for a new
+  client).
 
 ## 3. Deploy a new instance
 
