@@ -10,9 +10,13 @@ of it can be overridden per-client via BOT_DISPLAY_NAME/BOT_DESCRIPTION/
 BOT_SHORT_DESCRIPTION in .env.
 """
 
+import logging
+
 from aiogram import Bot
 
 from bot.config import settings
+
+logger = logging.getLogger(__name__)
 
 # Telegram's own limits — exceeding these raises TelegramBadRequest.
 MAX_NAME_LENGTH = 64
@@ -47,6 +51,17 @@ async def apply_bot_identity(bot: Bot) -> None:
         :MAX_SHORT_DESCRIPTION_LENGTH
     ]
 
-    await bot.set_my_name(name=name)
-    await bot.set_my_description(description=description)
-    await bot.set_my_short_description(short_description=short_description)
+    # Each call is independent and best-effort: Telegram rate-limits these
+    # identity-setting methods fairly aggressively (a flood-control block can
+    # last many hours), and a bot restart must never depend on them
+    # succeeding — the bot still has to come up and serve customers even if
+    # its name/description couldn't be refreshed this time.
+    for method, kwargs in (
+        (bot.set_my_name, {"name": name}),
+        (bot.set_my_description, {"description": description}),
+        (bot.set_my_short_description, {"short_description": short_description}),
+    ):
+        try:
+            await method(**kwargs)
+        except Exception as exc:  # noqa: BLE001 - identity refresh must never block startup
+            logger.warning("Failed to apply bot identity via %s: %s", method.__name__, exc)
