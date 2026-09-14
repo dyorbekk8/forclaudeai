@@ -8,12 +8,24 @@ from aiogram.types import CallbackQuery, Message
 from bot.config import settings
 from bot.i18n import t
 from bot.keyboards import order_confirm_keyboard, payment_options_keyboard
+from bot.models import OrderStatus
 from bot.services import cart_service, order_service, product_service, subscriber_service
 from bot.services.db import get_session
 from bot.states import OrderStates
 
 logger = logging.getLogger(__name__)
 router = Router(name="order")
+
+_PROGRESS_KEYS = {
+    OrderStatus.NEW: "order_progress_new",
+    OrderStatus.PROCESSING: "order_progress_processing",
+    OrderStatus.COMPLETED: "order_progress_completed",
+    OrderStatus.CANCELLED: "order_progress_cancelled",
+}
+
+
+def _progress_bar(status: OrderStatus, lang: str) -> str:
+    return t(_PROGRESS_KEYS[status], lang)
 
 
 @router.callback_query(F.data.startswith("qty:"), OrderStates.choosing_quantity)
@@ -111,7 +123,9 @@ async def handle_order_confirm(callback: CallbackQuery, state: FSMContext, bot: 
         await cart_service.mark_ordered(session, subscriber, product.id)
 
     await callback.message.edit_reply_markup(reply_markup=None)
-    await callback.message.answer(t("order_created", lang, order_id=order.id))
+    await callback.message.answer(
+        t("order_created", lang, order_id=order.id, progress=_progress_bar(order.status, lang))
+    )
     await callback.message.answer(
         t("choose_payment", lang), reply_markup=payment_options_keyboard(lang, order)
     )
@@ -166,11 +180,11 @@ async def handle_my_orders(message: Message, state: FSMContext) -> None:
                 "order_list_item",
                 lang,
                 id=order.id,
-                status=order.status.value,
                 total=f"{order.total_amount:.2f}",
                 date=order.created_at.strftime("%Y-%m-%d %H:%M"),
+                progress=_progress_bar(order.status, lang),
             )
             for order in orders
         ]
 
-    await message.answer("\n".join(lines))
+    await message.answer("\n\n".join(lines))

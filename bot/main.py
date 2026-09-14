@@ -7,6 +7,7 @@ from aiogram.enums import ParseMode
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import BotCommand, ErrorEvent
 
+from bot.branding import apply_bot_identity
 from bot.config import settings
 from bot.handlers import build_root_router
 from bot.i18n import t
@@ -20,6 +21,8 @@ logger = logging.getLogger(__name__)
 async def on_startup(bot: Bot) -> None:
     await init_db()
     logger.info("Database ready")
+    await apply_bot_identity(bot)
+    logger.info("Bot identity (name/description) applied")
     await bot.set_my_commands(
         [
             BotCommand(command="start", description="Restart / show main menu"),

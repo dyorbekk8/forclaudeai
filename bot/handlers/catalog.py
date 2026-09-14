@@ -11,7 +11,7 @@ from bot.states import OrderStates
 router = Router(name="catalog")
 
 
-def _product_card_text(lang: str, product, index: int, total: int) -> str:
+def _product_card_text(lang: str, product, index: int, total: int, is_bestseller: bool) -> str:
     return t(
         "product_card",
         lang,
@@ -20,11 +20,14 @@ def _product_card_text(lang: str, product, index: int, total: int) -> str:
         price=f"{product.price:.2f}",
         index=index + 1,
         total=total,
+        badge=t("bestseller_badge", lang) if is_bestseller else "",
     )
 
 
-async def _send_product_card(message: Message, lang: str, product, index: int, total: int) -> None:
-    text = _product_card_text(lang, product, index, total)
+async def _send_product_card(
+    message: Message, lang: str, product, index: int, total: int, is_bestseller: bool
+) -> None:
+    text = _product_card_text(lang, product, index, total, is_bestseller)
     keyboard = product_card_keyboard(lang, index, total, product.id)
     if product.image_url:
         await message.answer_photo(product.image_url, caption=text, reply_markup=keyboard)
@@ -48,8 +51,9 @@ async def handle_products_button(message: Message, state: FSMContext) -> None:
 
         product = products[0]
         await cart_service.record_view(session, subscriber, product.id)
+        bestsellers = await product_service.bestseller_ids(session)
 
-    await _send_product_card(message, lang, product, 0, len(products))
+    await _send_product_card(message, lang, product, 0, len(products), product.id in bestsellers)
 
 
 @router.callback_query(F.data.startswith("product:"))
@@ -68,6 +72,7 @@ async def handle_product_navigation(callback: CallbackQuery) -> None:
         index = max(0, min(index, len(products) - 1))
         product = products[index]
         await cart_service.record_view(session, subscriber, product.id)
+        bestsellers = await product_service.bestseller_ids(session)
 
     # Products can mix text-only and photo cards, and Telegram doesn't allow
     # editing a text message into a photo message (or vice versa) — so we
@@ -76,7 +81,9 @@ async def handle_product_navigation(callback: CallbackQuery) -> None:
         await callback.message.delete()
     except Exception:  # noqa: BLE001 - message may already be gone/too old to delete
         pass
-    await _send_product_card(callback.message, lang, product, index, len(products))
+    await _send_product_card(
+        callback.message, lang, product, index, len(products), product.id in bestsellers
+    )
     await callback.answer()
 
 

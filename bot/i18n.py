@@ -26,9 +26,10 @@ TEXTS: dict[str, dict[str, str]] = {
         "ru": "Пока нет доступных товаров — загляните позже!",
     },
     "product_card": {
-        "en": "<b>{name}</b>\n{description}\n\n💵 Price: ${price}\n\n({index}/{total})",
-        "ru": "<b>{name}</b>\n{description}\n\n💵 Цена: ${price}\n\n({index}/{total})",
+        "en": "{badge}<b>{name}</b>\n{description}\n\n💵 Price: ${price}\n\n({index}/{total})",
+        "ru": "{badge}<b>{name}</b>\n{description}\n\n💵 Цена: ${price}\n\n({index}/{total})",
     },
+    "bestseller_badge": {"en": "🔥 <b>Bestseller</b>\n", "ru": "🔥 <b>Хит продаж</b>\n"},
     "order_button": {"en": "✅ Order this", "ru": "✅ Заказать"},
     "prev_button": {"en": "◀️ Prev", "ru": "◀️ Назад"},
     "next_button": {"en": "▶️ Next", "ru": "▶️ Далее"},
@@ -66,10 +67,12 @@ TEXTS: dict[str, dict[str, str]] = {
         "ru": "Нажмите ниже, чтобы завершить оплату:",
     },
     "order_created": {
-        "en": "🎉 Thank you! Your order #{order_id} has been placed. "
+        "en": "🎉 Thank you! Your order #{order_id} has been placed.\n\n"
+        "{progress}\n\n"
         "We'll contact you shortly to confirm delivery.",
-        "ru": "🎉 Спасибо! Ваш заказ №{order_id} принят. Мы скоро свяжемся "
-        "с вами для подтверждения доставки.",
+        "ru": "🎉 Спасибо! Ваш заказ №{order_id} принят.\n\n"
+        "{progress}\n\n"
+        "Мы скоро свяжемся с вами для подтверждения доставки.",
     },
     "order_cancelled": {"en": "Order cancelled.", "ru": "Заказ отменён."},
     "no_orders": {
@@ -77,9 +80,22 @@ TEXTS: dict[str, dict[str, str]] = {
         "ru": "У вас пока нет заказов.",
     },
     "order_list_item": {
-        "en": "#{id} — {status} — ${total} — {date}",
-        "ru": "№{id} — {status} — ${total} — {date}",
+        "en": "#{id} — ${total} — {date}\n{progress}",
+        "ru": "№{id} — ${total} — {date}\n{progress}",
     },
+    "order_progress_new": {
+        "en": "🟢 Placed  ⚪ Processing  ⚪ Completed",
+        "ru": "🟢 Оформлен  ⚪ В обработке  ⚪ Завершён",
+    },
+    "order_progress_processing": {
+        "en": "✅ Placed  🟢 Processing  ⚪ Completed",
+        "ru": "✅ Оформлен  🟢 В обработке  ⚪ Завершён",
+    },
+    "order_progress_completed": {
+        "en": "✅ Placed  ✅ Processing  🟢 Completed",
+        "ru": "✅ Оформлен  ✅ В обработке  🟢 Завершён",
+    },
+    "order_progress_cancelled": {"en": "❌ Cancelled", "ru": "❌ Отменён"},
     "ask_faq_question": {
         "en": "Type your question and I'll try to answer it. Tap "
         '"Back to menu" when you\'re done.',

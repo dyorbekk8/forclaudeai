@@ -14,6 +14,10 @@ class Settings(BaseSettings):
     store_name: str = "My Shop"
     timezone: str = "Asia/Tashkent"
 
+    bot_display_name: str = ""
+    bot_description: str = ""
+    bot_short_description: str = ""
+
     stars_per_usd: float = 100.0
 
     llm_api_key: str = ""

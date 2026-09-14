@@ -31,9 +31,20 @@ Decide who owns the bot account:
   better).
 
 Also set:
-- Bot profile photo (their logo) via @BotFather → `/setuserpic`
-- Bot description via `/setdescription`
-- Bot about text via `/setabouttext`
+- **Bot profile photo** via @BotFather → `/setuserpic`. This is the *only*
+  way to set it — the Bot API has no method for a bot to set its own
+  profile photo, so it's always a one-time manual upload. Use the client's
+  real logo if they have one; otherwise `assets/bot_avatar.png` (a generic
+  branded icon, see `assets/bot_avatar_source.html` for the editable
+  source — change the gradient colors and re-render with Playwright/any
+  headless browser to reskin it) works as a placeholder until they supply
+  one.
+- **Name and description are set automatically by the bot itself** on
+  every startup (see `bot/branding.py`) — built from `STORE_NAME` in
+  `.env`, so nothing to do here unless you want custom wording, in which
+  case set `BOT_DISPLAY_NAME` / `BOT_DESCRIPTION` / `BOT_SHORT_DESCRIPTION`.
+  The description is what a stranger sees on the empty chat screen
+  *before* they ever tap Start — worth writing well per client.
 
 ## 3. Deploy a new instance
 
