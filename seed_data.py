@@ -1,27 +1,84 @@
 """Populate the database with demo data so a new ShopMate deployment has
-something to show immediately: sample products, FAQ entries, and a couple of
-demo subscribers. Safe to re-run — it skips seeding if products already exist.
+something to show immediately: sample products (with images), FAQ entries,
+and a couple of demo subscribers. Safe to re-run — it skips inserting new
+rows if products already exist, but backfills `image_url` on existing
+products that don't have one yet (so re-running after an image update
+still helps, instead of being a pure no-op forever).
 
 Usage: python seed_data.py
 """
 
 import asyncio
 
+from sqlalchemy import select
+
 from bot.models import FAQItem, Product, Subscriber
 from bot.services.db import async_session, init_db
 from bot.services.referral_service import generate_referral_code
 
+IMAGE_BASE_URL = "https://raw.githubusercontent.com/dyorbekk8/forclaudeai/claude/new-session-61ocf3/assets/products"
+
 PRODUCTS = [
-    ("Classic Tote Bag", "Durable canvas tote, fits a laptop and groceries.", 24.99),
-    ("Minimalist Wallet", "Slim leather wallet with RFID-blocking lining.", 34.50),
-    ("Wireless Earbuds", "Bluetooth 5.3 earbuds with 24h battery case.", 49.00),
-    ("Ceramic Coffee Mug", "12oz hand-glazed mug, microwave and dishwasher safe.", 14.00),
-    ("Linen Throw Blanket", "Soft 100% linen blanket, 130x180cm.", 59.00),
-    ("Scented Soy Candle", "Hand-poured candle, 40h burn time, lavender scent.", 18.50),
-    ("Everyday Backpack", "Water-resistant 20L backpack with padded laptop sleeve.", 64.00),
-    ("Stainless Water Bottle", "Insulated 750ml bottle, keeps drinks cold 24h.", 22.00),
-    ("Bamboo Desk Organizer", "5-compartment organizer for pens, cards and cables.", 27.00),
-    ("Cotton Baseball Cap", "Adjustable strap, embroidered logo, one size.", 19.99),
+    (
+        "Classic Tote Bag",
+        "Durable canvas tote, fits a laptop and groceries.",
+        24.99,
+        f"{IMAGE_BASE_URL}/tote.png",
+    ),
+    (
+        "Minimalist Wallet",
+        "Slim leather wallet with RFID-blocking lining.",
+        34.50,
+        f"{IMAGE_BASE_URL}/wallet.png",
+    ),
+    (
+        "Wireless Earbuds",
+        "Bluetooth 5.3 earbuds with 24h battery case.",
+        49.00,
+        f"{IMAGE_BASE_URL}/earbuds.png",
+    ),
+    (
+        "Ceramic Coffee Mug",
+        "12oz hand-glazed mug, microwave and dishwasher safe.",
+        14.00,
+        f"{IMAGE_BASE_URL}/mug.png",
+    ),
+    (
+        "Linen Throw Blanket",
+        "Soft 100% linen blanket, 130x180cm.",
+        59.00,
+        f"{IMAGE_BASE_URL}/blanket.png",
+    ),
+    (
+        "Scented Soy Candle",
+        "Hand-poured candle, 40h burn time, lavender scent.",
+        18.50,
+        f"{IMAGE_BASE_URL}/candle.png",
+    ),
+    (
+        "Everyday Backpack",
+        "Water-resistant 20L backpack with padded laptop sleeve.",
+        64.00,
+        f"{IMAGE_BASE_URL}/backpack.png",
+    ),
+    (
+        "Stainless Water Bottle",
+        "Insulated 750ml bottle, keeps drinks cold 24h.",
+        22.00,
+        f"{IMAGE_BASE_URL}/bottle.png",
+    ),
+    (
+        "Bamboo Desk Organizer",
+        "5-compartment organizer for pens, cards and cables.",
+        27.00,
+        f"{IMAGE_BASE_URL}/organizer.png",
+    ),
+    (
+        "Cotton Baseball Cap",
+        "Adjustable strap, embroidered logo, one size.",
+        19.99,
+        f"{IMAGE_BASE_URL}/cap.png",
+    ),
 ]
 
 FAQ_ITEMS = [
@@ -72,16 +129,35 @@ DEMO_SUBSCRIBERS = [
 ]
 
 
+async def _backfill_product_images(session) -> int:
+    image_by_name = {name: image_url for name, _, _, image_url in PRODUCTS}
+    result = await session.execute(select(Product).where(Product.image_url.is_(None)))
+    updated = 0
+    for product in result.scalars().all():
+        if product.name in image_by_name:
+            product.image_url = image_by_name[product.name]
+            updated += 1
+    if updated:
+        await session.commit()
+    return updated
+
+
 async def seed() -> None:
     await init_db()
     async with async_session() as session:
         existing = await session.execute(Product.__table__.select())
         if existing.first() is not None:
-            print("Database already has data — skipping seed.")
+            updated = await _backfill_product_images(session)
+            if updated:
+                print(f"Database already has data — backfilled image_url on {updated} product(s).")
+            else:
+                print("Database already has data — skipping seed.")
             return
 
-        for name, description, price in PRODUCTS:
-            session.add(Product(name=name, description=description, price=price))
+        for name, description, price, image_url in PRODUCTS:
+            session.add(
+                Product(name=name, description=description, price=price, image_url=image_url)
+            )
 
         for question, keywords, answer in FAQ_ITEMS:
             session.add(FAQItem(question=question, keywords=keywords, answer=answer))
