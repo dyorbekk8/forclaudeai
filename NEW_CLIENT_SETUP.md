@@ -52,13 +52,15 @@ Also set:
   Description Picture** → tap the paperclip in the input box → **Photo**
   or **Video**. It is not set via `/setuserpic` (that only ever changes
   the round avatar, never this block) and there is no Bot API method for
-  it — it must go through BotFather, manually. Telegram's own recommended
-  size for this slot is 640×360 (a photo) or a short video/GIF at the
-  same widescreen ratio; `assets/intro_description.mp4` is a version of
-  the branded intro clip already letterboxed to 640×360 for this exact
-  purpose (re-render `assets/intro.mp4` with the client's own branding
-  first, then re-run the same letterbox step, if reskinning for a new
-  client).
+  it — it must go through BotFather, manually. Telegram enforces an
+  *exact* pixel match for this slot — a photo or video/GIF must be
+  precisely 320×180, 640×360, or 960×540, nothing else (confirmed by
+  BotFather's own rejection message: "GIF dimensions are invalid. Must
+  be 320x180, 640x360 or 960x540 pixels"). `assets/intro_description.mp4`
+  is the branded intro clip letterboxed to exactly 960×540 (the largest
+  of the three, for the least quality loss) for this exact purpose
+  (re-render `assets/intro.mp4` with the client's own branding first,
+  then re-run the same letterbox step, if reskinning for a new client).
 
 ## 3. Deploy a new instance
 
