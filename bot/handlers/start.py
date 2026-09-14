@@ -40,6 +40,11 @@ async def handle_start(message: Message, command: CommandObject) -> None:
         lang = subscriber.language_code
 
     if created:
+        if settings.intro_video_url:
+            try:
+                await message.answer_video(video=settings.intro_video_url)
+            except Exception as exc:  # noqa: BLE001 - a broken video must never block onboarding
+                logger.warning("Failed to send intro video: %s", exc)
         await message.answer(t("choose_language", "en"), reply_markup=language_keyboard())
     else:
         await send_main_menu(message, lang)
