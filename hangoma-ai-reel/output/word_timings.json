@@ -1,0 +1,146 @@
+{
+  "engine": "espeak-ng (offline fallback)",
+  "segments": [
+    {
+      "text": "Haliyam soatlab montaj qilib, bir necha yuzta ko'rishga erishyapsizmi?",
+      "duration": 3.738
+    },
+    {
+      "text": "Endi kerak emas. Sun'iy intellekt bilan, daqiqalarda kuchli video tayyor.",
+      "duration": 3.98
+    },
+    {
+      "text": "Narxi bilan tanishish uchun, directga yoz.",
+      "duration": 2.315
+    }
+  ],
+  "gap": 0.2,
+  "total_duration": 10.468,
+  "words": [
+    {
+      "word": "Haliyam",
+      "start": 0.0,
+      "end": 0.436
+    },
+    {
+      "word": "soatlab",
+      "start": 0.436,
+      "end": 0.872
+    },
+    {
+      "word": "montaj",
+      "start": 0.872,
+      "end": 1.246
+    },
+    {
+      "word": "qilib",
+      "start": 1.246,
+      "end": 1.557
+    },
+    {
+      "word": "bir",
+      "start": 1.557,
+      "end": 1.744
+    },
+    {
+      "word": "necha",
+      "start": 1.744,
+      "end": 2.056
+    },
+    {
+      "word": "yuzta",
+      "start": 2.056,
+      "end": 2.367
+    },
+    {
+      "word": "ko'rishga",
+      "start": 2.367,
+      "end": 2.928
+    },
+    {
+      "word": "erishyapsizmi",
+      "start": 2.928,
+      "end": 3.738
+    },
+    {
+      "word": "Endi",
+      "start": 3.938,
+      "end": 4.199
+    },
+    {
+      "word": "kerak",
+      "start": 4.199,
+      "end": 4.525
+    },
+    {
+      "word": "emas",
+      "start": 4.525,
+      "end": 4.786
+    },
+    {
+      "word": "Sun'iy",
+      "start": 4.786,
+      "end": 5.177
+    },
+    {
+      "word": "intellekt",
+      "start": 5.177,
+      "end": 5.765
+    },
+    {
+      "word": "bilan",
+      "start": 5.765,
+      "end": 6.091
+    },
+    {
+      "word": "daqiqalarda",
+      "start": 6.091,
+      "end": 6.809
+    },
+    {
+      "word": "kuchli",
+      "start": 6.809,
+      "end": 7.2
+    },
+    {
+      "word": "video",
+      "start": 7.2,
+      "end": 7.526
+    },
+    {
+      "word": "tayyor",
+      "start": 7.526,
+      "end": 7.918
+    },
+    {
+      "word": "Narxi",
+      "start": 8.118,
+      "end": 8.449
+    },
+    {
+      "word": "bilan",
+      "start": 8.449,
+      "end": 8.779
+    },
+    {
+      "word": "tanishish",
+      "start": 8.779,
+      "end": 9.374
+    },
+    {
+      "word": "uchun",
+      "start": 9.374,
+      "end": 9.705
+    },
+    {
+      "word": "directga",
+      "start": 9.705,
+      "end": 10.234
+    },
+    {
+      "word": "yoz",
+      "start": 10.234,
+      "end": 10.433
+    }
+  ]
+}

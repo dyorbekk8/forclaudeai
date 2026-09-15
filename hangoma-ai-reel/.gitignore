@@ -1,0 +1,7 @@
+output/_*
+output/vo_seg*.wav
+output/vo_seg*.mp3
+output/voiceover.wav
+output/voiceover_44100.wav
+output/silent_video.mp4
+output/mixed_audio.wav
