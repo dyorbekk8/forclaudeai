@@ -1,0 +1,12 @@
+# heavy / reproducible artefacts
+01_research/ref_videos/
+01_research/frames/*/*.json
+03_voiceover/models/
+03_voiceover/out/lines/
+**/*.wav
+**/*.mp4
+**/*.mp3
+05_visuals/node_modules/
+05_visuals/public/audio/
+05_visuals/.browser
+08_qa/stills/*.png
