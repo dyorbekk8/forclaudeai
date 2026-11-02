@@ -440,7 +440,7 @@ def m4_tender():
     bars2 = ['F', 'C', 'Am', 'F', 'C', 'G', 'F', 'Cadd9']
     r = S2.rng
     # single piano note alone at 45.5 s
-    S2.put('pno', I.piano(F('C5'), S2.spb * 2.2, 0.42, r, release=0.8), 0, 0.15, jitter=0)
+    S2.put('pno', I.piano(F('C5'), S2.spb * 2.2, 0.5, r, release=0.8), 0, 0.15, gain=1.8, jitter=0)
     mel2 = ('r:4 '
             'E5:2 D5:1 C5:1  A4:3 C5:1  '
             'A4:1 C5:1 F5:2  E5:2 D5:1 C5:1  '

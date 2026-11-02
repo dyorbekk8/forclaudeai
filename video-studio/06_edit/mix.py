@@ -99,16 +99,16 @@ sfx("riser_short", POPS[0][0] - 1.0, -14)
 
 # ---------- ambience beds ----------
 loop("room_tone_home", 0, SH["A6a"], -30)
-loop("crowd_murmur", SH["C1"], SH["C9"], -33)
-loop("crowd_murmur", SH["C11"], SH["D1"], -31)
+loop("crowd_murmur", SH["C1"], SH["C9"], -38)
+loop("crowd_murmur", SH["C11"], SH["D1"], -36)
 loop("room_tone_home", SH["D2"], SH["D3"], -30)
-loop("crowd_murmur", SH["D4"], SH["D5"], -33)
+loop("crowd_murmur", SH["D4"], SH["D5"], -38)
 loop("room_tone_home", SH["D9"], SH["D10"], -30)
 loop("room_tone_care", SH["E1"], SH["E5"], -30)
 loop("room_tone_care", SH["E9"], SH["F1"], -30)
 loop("room_tone_care", SH["G1"], SH["G5"], -30)
 loop("room_tone_care", SH["G10"], SH["H1"], -31)
-loop("crowd_murmur", SH["H1"], SH["H2"], -34)
+loop("crowd_murmur", SH["H1"], SH["H2"], -38)
 loop("room_tone_care", SH["H4"], SH["I1"], -31)
 loop("room_tone_home", SH["I1"], SH["I4"], -31)
 
@@ -224,7 +224,7 @@ for i, x in enumerate(a_d):
     env[i] = v
 env = np.interp(np.arange(N), np.arange(len(env)) * hop, env)
 duck_db = -11.0
-mgain = 10 ** ((duck_db * env) / 20) * 10 ** (-12 / 20)  # music sits ~12 dB under VO when idle
+mgain = 10 ** ((duck_db * env) / 20) * 10 ** (-6 / 20)  # music sits ~6 dB under VO level when idle
 mus *= mgain[:, None]
 
 mix = vo * 1.0 + mus + sfx_bus * 10 ** (-3 / 20)

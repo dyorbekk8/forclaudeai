@@ -265,6 +265,12 @@
    "tr": "fade"
   },
   {
+   "name": "E8b scale",
+   "at": 161.613,
+   "comp": "E8b",
+   "tr": "whip"
+  },
+  {
    "name": "E9 again",
    "at": 165.401,
    "comp": "E9",
@@ -353,6 +359,12 @@
    "at": 213.413,
    "comp": "G5",
    "tr": "slowfade"
+  },
+  {
+   "name": "G5b wedding close",
+   "at": 217.252,
+   "comp": "G5b",
+   "tr": "cut"
   },
   {
    "name": "G6 dancer",
@@ -759,7 +771,7 @@
    "t": 56.735,
    "loop": "crowd_murmur",
    "until": 79.249,
-   "db": -33
+   "db": -38
   },
   {
    "t": 56.735,
@@ -884,7 +896,7 @@
    "t": 83.994,
    "loop": "crowd_murmur",
    "until": 91.43,
-   "db": -31
+   "db": -36
   },
   {
    "t": 84.244,
@@ -980,7 +992,7 @@
    "t": 100.726,
    "loop": "crowd_murmur",
    "until": 104.187,
-   "db": -33
+   "db": -38
   },
   {
    "t": 101.226,
@@ -1149,6 +1161,11 @@
    "db": -16
   },
   {
+   "t": 161.533,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
    "t": 161.963,
    "sfx": "chime_soft",
    "db": -18
@@ -1176,7 +1193,7 @@
   },
   {
    "t": 177.393,
-   "sfx": "whoosh_fast_3",
+   "sfx": "whoosh_fast_1",
    "db": -14
   },
   {
@@ -1221,7 +1238,7 @@
   },
   {
    "t": 184.634,
-   "sfx": "swish_whip_2",
+   "sfx": "swish_whip_1",
    "db": -13
   },
   {
@@ -1231,7 +1248,7 @@
   },
   {
    "t": 187.218,
-   "sfx": "swish_whip_1",
+   "sfx": "swish_whip_2",
    "db": -13
   },
   {
@@ -1246,7 +1263,7 @@
   },
   {
    "t": 190.098,
-   "sfx": "swish_whip_2",
+   "sfx": "swish_whip_1",
    "db": -13
   },
   {
@@ -1271,7 +1288,7 @@
   },
   {
    "t": 201.368,
-   "sfx": "whoosh_fast_1",
+   "sfx": "whoosh_fast_2",
    "db": -14
   },
   {
@@ -1311,7 +1328,7 @@
   },
   {
    "t": 211.87,
-   "sfx": "whoosh_fast_1",
+   "sfx": "whoosh_fast_2",
    "db": -14
   },
   {
@@ -1336,7 +1353,7 @@
   },
   {
    "t": 213.113,
-   "sfx": "whoosh_slow_1",
+   "sfx": "whoosh_slow_2",
    "db": -22
   },
   {
@@ -1434,7 +1451,7 @@
    "t": 258.507,
    "loop": "crowd_murmur",
    "until": 262.049,
-   "db": -34
+   "db": -38
   },
   {
    "t": 258.507,
