@@ -1,0 +1,180 @@
+channel medians: {'Unclassified': 25000, 'PoshPainter': 3200514, 'Briefed': 874, 'CasualTactics': 2850.0, 'TerrainTactics': 9722, 'FieldManual': 5900}
+
+## by style  (n, median rel, mean rel, share >=2x)
+texture+sketch                   n=  1 med= 56.65 mean= 56.65 hit2x=100%
+photo_cutout                     n=  9 med= 24.03 mean= 32.37 hit2x=78%
+sketch                           n= 12 med= 10.40 mean= 70.87 hit2x=58%
+swatch                           n=  3 med=  9.80 mean=  8.64 hit2x=100%
+diagram                          n=  2 med=  3.64 mean=  3.64 hit2x=50%
+logo                             n=  1 med=  2.63 mean=  2.63 hit2x=100%
+typographic                      n=  4 med=  1.45 mean=  1.67 hit2x=50%
+circle_icon                      n=  6 med=  1.33 mean= 10.72 hit2x=50%
+abstract                         n= 12 med=  1.28 mean=  2.59 hit2x=33%
+vector                           n= 36 med=  1.15 mean=  4.97 hit2x=44%
+swatch+photo                     n=  1 med=  1.00 mean=  1.00 hit2x=0%
+circle_logo                      n= 46 med=  0.84 mean=  2.42 hit2x=24%
+mixed                            n=  2 med=  0.80 mean=  0.80 hit2x=0%
+texture                          n=  2 med=  0.66 mean=  0.66 hit2x=0%
+photo                            n= 16 med=  0.56 mean=  2.87 hit2x=31%
+circle_photo                     n= 44 med=  0.46 mean=  2.04 hit2x=25%
+topdown_map                      n= 11 med=  0.42 mean=  2.96 hit2x=9%
+cartoon_scene                    n=  4 med=  0.38 mean=  0.61 hit2x=0%
+circle_flag                      n=  1 med=  0.35 mean=  0.35 hit2x=0%
+circle_vector                    n=  4 med=  0.32 mean=  0.48 hit2x=0%
+
+## by red_anchor  (n, median rel, mean rel, share >=2x)
+stamp                            n= 12 med= 23.75 mean= 75.49 hit2x=67%
+odd_one_out                      n=  7 med=  6.84 mean= 10.10 hit2x=86%
+question_box                     n= 10 med=  1.25 mean= 10.50 hit2x=30%
+none                             n=188 med=  0.86 mean=  3.84 hit2x=30%
+
+## by bg  (n, median rel, mean rel, share >=2x)
+dark                             n= 19 med=  1.24 mean=  2.52 hit2x=42%
+light                            n=184 med=  1.00 mean=  9.35 hit2x=35%
+green                            n= 10 med=  0.69 mean=  3.33 hit2x=10%
+green/yellow                     n=  1 med=  0.44 mean=  0.44 hit2x=0%
+blue                             n=  2 med=  0.35 mean=  0.35 hit2x=0%
+tan                              n=  1 med=  0.16 mean=  0.16 hit2x=0%
+
+## by title_pattern  (n, median rel, mean rel, share >=2x)
+other                            n=  1 med=  2.12 mean=  2.12 hit2x=100%
+Every X (other)                  n=  5 med=  1.24 mean=  4.10 hit2x=40%
+How X Actually Works             n= 25 med=  1.13 mean= 37.16 hit2x=36%
+Every X Explained                n=176 med=  1.00 mean=  4.67 hit2x=34%
+How X (other)                    n= 10 med=  0.39 mean=  3.09 hit2x=10%
+
+## by topic_cluster  (n, median rel, mean rel, share >=2x)
+ranks/insignia/badges/medals     n= 26 med=  5.94 mean= 21.29 hit2x=69%
+colour/code system               n= 51 med=  2.48 mean= 18.95 hit2x=53%
+secrecy/legal/govt process       n= 16 med=  1.06 mean=  2.08 hit2x=19%
+agencies/units/orgs              n= 59 med=  0.84 mean=  2.53 hit2x=25%
+weapons/vehicles                 n= 38 med=  0.48 mean=  2.11 hit2x=21%
+other                            n= 27 med=  0.35 mean=  0.77 hit2x=7%
+
+## by us_focus  (n, median rel, mean rel, share >=2x)
+us/universal                     n=186 med=  1.00 mean=  8.96 hit2x=35%
+foreign                          n= 31 med=  0.76 mean=  4.41 hit2x=23%
+
+## by title_text_on_thumb  (n, median rel, mean rel, share >=2x)
+n                                n=191 med=  1.12 mean=  7.92 hit2x=37%
+header                           n=  8 med=  1.06 mean= 31.78 hit2x=25%
+y_banner                         n= 15 med=  0.42 mean=  2.33 hit2x=7%
+y                                n=  3 med=  0.18 mean=  0.26 hit2x=0%
+
+## by tile count  (n, median rel, mean rel, share >=2x)
+21+                              n= 33 med=  1.16 mean=  7.40 hit2x=42%
+13-20                            n= 59 med=  1.13 mean=  5.35 hit2x=37%
+7-12                             n= 85 med=  1.00 mean=  7.11 hit2x=33%
+2-6                              n= 24 med=  0.60 mean= 25.18 hit2x=33%
+1                                n= 16 med=  0.39 mean=  2.15 hit2x=6%
+
+## by style (Unclassified only)  (n, median rel, mean rel, share >=2x)
+swatch                           n=  3 med=  9.80 mean=  8.64 hit2x=100%
+diagram                          n=  2 med=  3.64 mean=  3.64 hit2x=50%
+vector                           n= 26 med=  3.04 mean=  6.10 hit2x=58%
+typographic                      n=  4 med=  1.45 mean=  1.67 hit2x=50%
+abstract                         n= 12 med=  1.28 mean=  2.59 hit2x=33%
+swatch+photo                     n=  1 med=  1.00 mean=  1.00 hit2x=0%
+photo                            n= 14 med=  0.88 mean=  3.23 hit2x=36%
+circle_logo                      n= 46 med=  0.84 mean=  2.42 hit2x=24%
+circle_icon                      n=  3 med=  0.64 mean= 17.59 hit2x=33%
+circle_photo                     n= 44 med=  0.46 mean=  2.04 hit2x=25%
+circle_flag                      n=  1 med=  0.35 mean=  0.35 hit2x=0%
+circle_vector                    n=  4 med=  0.32 mean=  0.48 hit2x=0%
+texture                          n=  1 med=  0.31 mean=  0.31 hit2x=0%
+
+## by topic (Unclassified only)  (n, median rel, mean rel, share >=2x)
+ranks/insignia/badges/medals     n= 12 med=  3.74 mean=  8.15 hit2x=67%
+colour/code system               n= 33 med=  3.32 mean=  5.84 hit2x=58%
+secrecy/legal/govt process       n= 15 med=  1.12 mean=  2.20 hit2x=20%
+agencies/units/orgs              n= 58 med=  0.80 mean=  2.53 hit2x=24%
+other                            n= 16 med=  0.78 mean=  0.99 hit2x=12%
+weapons/vehicles                 n= 27 med=  0.44 mean=  1.72 hit2x=26%
+
+## by US vs foreign (Unclassified only)  (n, median rel, mean rel, share >=2x)
+us/universal                     n=139 med=  1.08 mean=  3.61 hit2x=35%
+foreign                          n= 22 med=  0.68 mean=  1.38 hit2x=18%
+
+## by tile count (Unclassified only)  (n, median rel, mean rel, share >=2x)
+21+                              n= 27 med=  1.16 mean=  5.09 hit2x=41%
+13-20                            n= 47 med=  1.12 mean=  2.83 hit2x=38%
+7-12                             n= 68 med=  0.90 mean=  2.75 hit2x=28%
+2-6                              n= 17 med=  0.56 mean=  4.36 hit2x=29%
+1                                n=  2 med=  0.38 mean=  0.38 hit2x=0%
+
+## by style (CasualTactics only)  (n, median rel, mean rel, share >=2x)
+sketch                           n=  6 med= 92.96 mean=140.89 hit2x=100%
+texture+sketch                   n=  1 med= 56.65 mean= 56.65 hit2x=100%
+topdown_map                      n= 11 med=  0.42 mean=  2.96 hit2x=9%
+cartoon_scene                    n=  4 med=  0.38 mean=  0.61 hit2x=0%
+
+## by style (Briefed only)  (n, median rel, mean rel, share >=2x)
+photo_cutout                     n=  4 med= 52.06 mean= 50.46 hit2x=100%
+logo                             n=  1 med=  2.63 mean=  2.63 hit2x=100%
+texture                          n=  1 med=  1.00 mean=  1.00 hit2x=0%
+vector                           n=  2 med=  0.62 mean=  0.62 hit2x=0%
+sketch                           n=  6 med=  0.32 mean=  0.85 hit2x=17%
+photo                            n=  1 med=  0.18 mean=  0.18 hit2x=0%
+
+## top 25 overall by rel
+ 376.39  1072698 CasualTactics  sketch         stamp         How DEFCON Actually Works
+ 235.56   671333 CasualTactics  sketch         stamp         How Military Berets Actually Work
+ 103.54   295101 CasualTactics  sketch         stamp         How Military Discharges Actually Work
+  92.68    81000 Briefed        photo_cutout   none          Every US Navy Badge Explained
+  82.37   234742 CasualTactics  sketch         question_box  How British Military Ranks Actually Work
+  80.09    70000 Briefed        photo_cutout   stamp         Every Country's Highest Military Award Explained
+  56.65   161454 CasualTactics  texture+sketch stamp         How U.S. Military Camouflage Actually Works
+  52.00  1300000 Unclassified   circle_icon    none          Every DEFCON Level Explained
+  48.81   288000 FieldManual    photo_cutout   none          Every Emergency Vehicle Light Color Explained
+  44.46  1111599 Unclassified   vector         none          Every US Army Rank Explained
+  33.17   195723 FieldManual    photo_cutout   odd_one_out   Every Fire Hydrant Color Explained
+  29.32    83562 CasualTactics  sketch         stamp         How Military Badges Actually Work
+  27.02    77000 CasualTactics  topdown_map    none          How Snipers Really Work
+  24.03    21000 Briefed        photo_cutout   none          Every US Navy Badge Explained (Part 2)
+  22.84   571000 Unclassified   circle_logo    none          Every Federal Law Enforcement Agency Explained
+  18.20   455000 Unclassified   circle_logo    none          Every US Army Division Explained
+  18.18    51805 CasualTactics  sketch         stamp         How German Military Ranks Actually Work
+  15.85   396173 Unclassified   vector         none          Every Bullet Tip Color Explained
+  15.72   393112 Unclassified   vector         none          Every Military Unit Size Explained
+  14.48   362064 Unclassified   abstract       none          Every Way a War Officially Ends
+  14.24   356000 Unclassified   circle_photo   none          Every US Special Operations Force Explained
+  13.80   345000 Unclassified   circle_photo   none          Every US Government Secrecy Level Explained
+  13.67   132933 TerrainTactics vector         question_box  How America's Military Medals Actually Work
+  13.11   327789 Unclassified   vector         none          Every Hospital Wristband Color Explained
+  13.11   327775 Unclassified   photo          none          Every Security Clearance Level Explained
+
+## bottom 15 Unclassified
+   0.07     1700 circle_photo   Every WW1 Front Explained
+   0.08     2000 circle_logo    Every Lobby Group Explained
+   0.08     1900 circle_vector  Every Terror Alert Level Explained
+   0.09     2300 circle_photo   Every Sanctions Type Explained
+   0.10     2500 circle_photo   Every WW2 Front Explained
+   0.12     3100 circle_icon    Every NATO Article Explained
+   0.12     2900 circle_photo   Every Assault Rifle Type Explained
+   0.13     3200 circle_photo   Every Tank Type Explained
+   0.13     3200 circle_photo   Every Military Christmas Tradition Explained
+   0.14     3600 photo          Every Coup Type Explained
+   0.15     3800 circle_logo    Every Federal Task Force Explained
+   0.16     3900 circle_photo   Every Military Bomber Type Explained
+   0.17     4300 typographic    Every US Amendment Explained
+   0.17     4300 circle_logo    Every NSA Branch Explained
+   0.18     4400 typographic    Every Level of Police Force Explained
+
+## Unclassified by era (upload order; 0=newest)
+newest 60 (vector/abstract era)      n=60 med=1.78 hit2x=48%
+older 102 (circle medallion era)     n=101 med=0.64 hit2x=24%
+
+## grid type (all channels)
+same object, colour variants               in: n=28 med=3.12 hit2x=57% | out: n=189 med=0.88 hit2x=30%
+ordered ladder/hierarchy (ranks, levels)   in: n=29 med=4.20 hit2x=69% | out: n=188 med=0.82 hit2x=28%
+colour-variant OR ladder                   in: n=54 med=3.52 hit2x=61% | out: n=163 med=0.64 hit2x=25%
+
+## CasualTactics dated stats (views / likes / comments / like-rate)
+20261031    51805   175   68 0.34%  How German Military Ranks Actually Work
+20261028    83562   307   41 0.37%  How Military Badges Actually Work
+20261026   295101  1714  143 0.58%  How Military Discharges Actually Work
+20261024   234742   834  126 0.36%  How British Military Ranks Actually Work
+20261022   161454   643   99 0.40%  How U.S. Military Camouflage Actually Works
+20261020   671333  1933  266 0.29%  How Military Berets Actually Work
+20261018  1072698  5406  255 0.50%  How DEFCON Actually Works
+20261027     9722    76   16 0.78%  How Navy Ranks Actually Work

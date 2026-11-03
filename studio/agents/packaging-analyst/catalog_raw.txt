@@ -1,0 +1,222 @@
+# idx|id|n_tiles|grid|bg|style|labels|red_anchor|title_text|notes
+0|XBqegQrU2KY|24|4x6|light|vector|y|none|n|bullet profiles, same angle
+1|N7jHGtn747Q|10|2x5|light|vector|y|none|n|hard hats, beige tiles
+2|_A_4vT7KptY|12|2x6|dark|vector|y|none|n|shotgun shells glossy
+3|ywbzOt4csiY|8|2x4|dark|vector|y|odd_one_out|n|bins; tiger-stripe + orange bag break pattern
+4|gn-8Y-V8vEY|6|2x3|dark|vector|y|none|n|emergency beacons
+5|pcfPicsFyuk|~35|lineup|dark|vector|n|odd_one_out|n|size-ordered lineup; red/yellow/green shotgun shells in middle
+6|fB5QyKPSVzc|0|full_bleed|dark|photo|n|none|n|paint lines texture, no objects, no labels
+7|KgHM7rggPek|11|6+5|light|vector|y|none|n|bullet tips; one-shape colour variants
+8|tsED3AjQ9Fw|9|5+4|light|vector|y|none|n|patient monitors
+9|XmzYT4Arkas|4|nested|dark|diagram|numbers|none|n|concentric squares 1-4 + biohazard, red accent
+10|CDjoFyzQpCo|21|3x7|light|photo|y|none|n|navy badges, small tiles
+11|oKOtratENRM|7|4+3|light|vector|y|none|n|firefighter helmets
+12|cUAH-AqPzqw|~26|4 rows|light|vector|y|none|n|coast guard insignia, dense
+13|2Xwjm43SEBM|14|2x7|light|vector|y|none|n|blood tubes colour caps
+14|nn1G7-sXECA|34|4 rows|dark|typographic|code|none|n|10-1..10-34 orange numbers
+15|DCvq6RFsWQI|24|4 rows|dark|typographic|code|none|n|E-1..O-10 codes
+16|WbGxnQZl3cU|22|3 rows|light|vector|y|none|n|hazmat placards (real signs)
+17|0QSWsAJoV3c|8|2x4|light|vector|y|none|n|triage crosses colour
+18|ekAK1TrKpw0|12|2x6|light|vector|y|none|n|road signs by colour
+19|yIPWrJod8j0|14|2 rows|light|abstract|y|none|n|abstract poster icons for concepts
+20|HAbq2Ygt_A0|15|3 rows|light|vector|y|none|n|line icons, yellow, low contrast
+21|orpJeKtIUPs|~24|3 rows|light|photo|y|none|n|army badges photo cutouts
+22|R62t4dUvWTA|20|3 rows|light|abstract|y|none|n|abstract icons for SEAL steps
+23|QlPLtq7c77A|10|2x5|light|vector|y|none|n|wristbands colour; last "Broselow colors" rainbow
+24|Bx8FLAzqf1s|22|3 rows|light|swatch|y|odd_one_out|n|colour swatches + checkmark "All Clear"
+25|YEvlQ_cnpOE|22|3 rows|light|vector|y|none|n|space force insignia
+26|_hJ0vBxIIiw|17|3 rows|light|photo|y|none|n|flags
+27|S8la96LpApQ|10|2x5|light|swatch|y|odd_one_out|n|uniform colours; black&white stripes last
+28|zoBCS2V6MWo|18|3 rows|light|abstract|y|none|n|red/black abstract icons
+29|mFS00wA0XWo|9|5+4|dark|swatch|y|none|n|beret colours swatches
+30|WYFWgtLv1gk|6|2x3|light|abstract|y|none|n|court-martial abstract icons
+31|nnxruXJv_Pk|14|2x7|light|photo|y|odd_one_out|n|medals; gold "R" device tile
+32|PmtvFbVKbnM|17|3 rows|dark|abstract|y|none|n|gold abstract icons on black
+33|ktsg89EuSIM|26|4 rows|light|vector|y|none|n|USMC insignia
+34|G7LQN_0FUWo|10|2x5|light|abstract|y|none|n|abstract bars/charts
+35|pFD398uwzGI|10|2 rows|dark|abstract|y|none|n|roman numerals red/black
+36|9P_MILLcgQY|18|3x6|dark|abstract|y|none|n|navy/orange abstract icons
+37|GyX3uK1M7h0|~30|3 rows|light|photo|y|none|n|battle paintings, tiny tiles, busy
+38|WfCy2lDtT-o|~25|4 rows|light|vector|y|none|n|USAF insignia
+39|dyb9UmbbMao|~36|5 rows|light|vector|y|none|n|navy insignia dense
+40|ZN7iO13gczc|1|full_bleed|green/yellow|vector|n|none|y|"DAYS WITHOUT FIRING" big text; not a grid
+41|_vzCFiQc0B4|21|3x7|dark|abstract|y|none|n|red/black org diagrams
+42|dlxY5-Zk01Y|17|3 rows|dark|abstract|y|none|n|red target icons on black
+43|K41m75_OapU|~30|4 rows|light|vector|y|none|n|army insignia full ladder; top video x44
+44|i-tdkQKBxjM|17|3 rows|dark|abstract|y|none|n|red/white abstract icons
+45|kKxiPY_E_gk|15|3x5|dark|abstract|y|none|n|green/red abstract icons
+46|gndRkBSLUzo|12|7+5|light|vector|y|none|n|discharge papers icons, beige; x10
+47|-S9ftDu7j30|14|2x7|light|photo|y|none|n|war photos
+48|f-MGBSdPu_o|~17|3 rows|light|photo|y|none|n|black project photos
+49|n7Xqdntq6jA|5|3+2|dark|texture|y|none|n|rusty DEFCON 5..1 plates; remake of 1.3M topic got 8K
+50|3pJGGadJy9g|17|3 rows|light|vector|y|none|n|unit size map symbols; x15.7
+51|y1cfJiVnXUg|18|3x6|light|photo|y|none|n|classified docs/photos; SAMPLE/TOP SECRET; x13
+52|O52nmWtdUD8|11|6+5|light|photo|y|none|n|SEAL team patches
+53|XPSwtrfXgjA|17|3 rows|light|photo|y|none|n|carrier photos, all look the same
+54|vN9XV20wHYs|27|3x9|light|typographic|n|none|y|big red "27" over numbers + "Amendments, explained"
+55|8CAdWh7_iy4|11|2 rows|light|swatch+photo|y|none|n|war plan colours + photos mixed
+56|dVkhbBz8bvw|11|6+5|light|photo|y|none|n|people photos (coups)
+57|SDMKRYTkrSE|11|6+5|light|photo|y|none|n|CIA seals all similar
+58|g4pNM3-Z4pg|6|1x6|dark|typographic|y|none|y|"EVERY LEVEL OF POLICE FORCE EXPLAINED" text; numbers 1-6
+59|t5iuS1YENSM|10|2x5|light|photo|y|none|n|chemical weapon photos, mixed
+60|OoyyVGxDULQ|12|3x4|light|circle_photo|y|none|n|round photo medallions, incidents
+61|Ik9EZ8sRQZg|~13|4 cols|light|circle_photo|y|none|n|bunkers round photos
+62|cEK9JXC92gU|11|4+4+3|light|circle_photo|y|none|n|missile photos, acronyms
+63|rmXpRI0LKzQ|18|3x6|light|circle_logo|y|none|n|lobby group logos (Google, AARP)
+64|2sU3xK8X7TM|12|3x4|light|circle_photo|y|none|n|stealth jets
+65|RES0uWsciK0|10|2x5|light|circle_vector|y|none|n|police rank insignia
+66|-Qv68-BacGw|~14|3 rows|light|circle_logo|y|none|n|task force seals
+67|LCY_7t5Zj6o|14|4 cols|light|circle_icon|y|none|n|NATO articles tiny unreadable icons
+68|b9FLGUO7MXg|15|3x5|light|circle_photo|y|none|n|banned weapons
+69|ApJ1WOWo_Lk|16|3x5+|light|circle_logo|y|none|n|carrier strike group patches
+70|xO_S1_ortCs|7|4+3|light|circle_vector|y|none|n|Indian army command shields
+71|nS2a1hoF8So|16|4x4|light|circle_photo|y|none|n|propaganda techniques photos
+72|tQE9cfPt5qE|10|2x5|light|circle_photo|y|none|n|brigade photos
+73|ig0xf_Jcuc8|13|3 rows|light|circle_logo|y|none|n|Russian army badges, all identical
+74|RGKLlHOxcTo|7|4+3|light|circle_vector|y|none|n|green beret flashes colour-coded
+75|UJWD7M_IcGw|15|3x5|light|circle_photo|y|none|n|infantry types photos; x2.68
+76|v3uACEkdDcU|11|4+4+3|light|circle_logo|y|none|n|division patches
+77|0ztbnUuPfSw|9|3x3|light|circle_logo|y|none|n|S.Korean agency seals
+78|odKMMulCm8M|8|2x4|light|circle_logo|y|none|n|German brigade crests
+79|jysdDr8T4rw|20|4x5|light|circle_logo|y|none|n|federal agency seals
+80|ESDXZmADq5E|4|2x2|light|circle_logo|y|none|n|MEF patches
+81|Ha5T75ZW-0s|10|2x5|light|circle_photo|y|none|n|amphibious ship photos look same
+82|dOROI_pCyUQ|32|4x8|light|circle_logo|y|none|n|national guard patches dense
+83|l_ksauUSVGo|7|4+3|light|circle_vector|y|none|n|terror alert colour icons glossy; x0.08
+84|tNoppEgdftA|21|4 rows|light|circle_logo|y|none|n|British brigade patches
+85|2d435xSCcMY|13|4 cols|light|circle_photo|y|none|n|fighter jet roles, photos look same
+86|jIo4Q2iUYEQ|5|3+2|light|circle_logo|y|none|n|airborne patches, big; x2.56
+87|lfX7NK4rrxc|~45|4 rows|light|circle_photo|y|none|n|soldier roles tiny photos, very dense
+88|BwF-K2YjFu0|21|4 rows|light|circle_logo|y|none|n|armored div triangles same shape numbers
+89|O66uOzVJqYY|7|4+3|light|circle_logo|y|none|n|Japanese agencies
+90|hClxBHrpUK0|6|2x3|light|vector|y|none|n|marine division patches, large shapes; x3.8
+91|QDBLSxkfRZ4|~60|6 rows|light|circle_logo|y|none|n|infantry div patches extremely dense
+92|f2uyKouJvkQ|15|3x5|light|circle_photo|y|none|n|WW2 fronts b/w photos
+93|uWdHqOz-lzI|27|3x9|light|circle_logo|y|none|n|secret police logos
+94|9uoXTfNh0uU|20|4x5|light|circle_logo|y|none|n|US army division patches colourful; x18.2
+95|AJZc2hgn6mk|16|4x4|light|circle_photo|y|none|n|artillery photos same-looking
+96|x3G6aODRbNU|6|2x3|light|circle_logo|y|none|n|Israeli agencies
+97|lLvYVMB0Ykg|12|3x4|light|circle_photo|y|none|n|tank photos same-looking
+98|wOlpT3wW4Hc|11|4+4+3|light|circle_logo|y|none|n|combatant command seals
+99|IQfxDmW2Kxs|15|3x5|light|circle_photo|y|none|n|helicopters same-looking
+100|fP_tVeK7EBk|7|4+3|light|circle_logo|y|none|n|NSA seals identical shape
+101|w6d1XMZ-5UQ|11|3 rows|light|circle_photo|y|none|n|WW1 b/w photos
+102|ZJUxf28T00w|4|2x2|light|vector|y|none|n|corps patches big
+103|Fc3nQMG_xQQ|7|4+3|light|circle_photo|y|none|n|bomber photos
+104|QX68qzwy-6Q|12|3x4|light|circle_photo|y|none|n|anti-drone systems photos
+105|B_Dbimzgczk|5|3+2|light|circle_logo|y|none|n|German agency logos
+106|zBX-2npKw2k|~20|4 rows|light|circle_photo|y|none|n|base aerial photos; x2.36
+107|ExnTEQeimr8|15|3x5|light|circle_photo|y|none|n|naval aircraft photos
+108|iGAR8nZQ7YI|10|2x5|light|circle_photo|y|none|n|rifle photos
+109|palTmZNi0-U|~28|4 rows|light|circle_photo|y|none|n|SWAT role photos dense
+110|EQVU0ogSuAI|12|3x4|light|circle_photo|y|none|n|submarines look the same
+111|xSVNHmYvomg|12|3x4|light|circle_photo|y|none|n|sanctions photos abstract topic
+112|fsuxJdwZ5cA|~22|4 rows|light|circle_logo|y|none|n|army command patches
+113|Z58s5MPaQsc|9|3x3|light|circle_logo|y|none|n|USAF command shields identical
+114|nFm0X6eL8eg|12|3 rows|light|circle_logo|y|none|n|Philippine agencies
+115|nCkX72-X6lI|10|2x5|light|circle_photo|y|none|n|air defense photos
+116|JtYD7rAPfDk|~22|4 rows|light|circle_photo|y|none|n|police unit photos
+117|FsEjIAVUOR8|7|4+3|light|circle_logo|y|none|n|numbered fleet patches; x9.44
+118|Antx3WN-hac|15|3x5|light|circle_logo|y|none|n|space intel agencies (views NA)
+119|RdRh-BsYVs0|~11|3 rows|light|circle_photo|y|none|n|christmas traditions photos
+120|glGwHs6FEos|12|3x4|light|circle_photo|y|none|n|emergency services photos
+121|du2DLpDS20U|~16|4x4|light|circle_photo|y|none|n|missile photos
+122|4dUVPynEhBQ|~16|3 rows|light|circle_logo|y|none|n|counter-terror unit patches
+123|QwFp0Lw-i44|9|3x3|light|circle_logo|y|none|n|INTERPOL logo in 9 colours (one shape colour variants); x7.88
+124|oZqTHShOTsE|~17|3 rows|light|circle_logo|y|none|n|alliance logos
+125|1tWc0SFIJ9U|5|3+2|light|circle_flag|y|none|n|five eyes flags
+126|JF9Lbookwx0|18|3x6|light|circle_logo|y|none|n|defense agency seals identical
+127|4QwTo2SM6BI|10|2x5|light|circle_logo|y|none|n|watchlist logos
+128|1qVWWygy8i4|6|3+3|light|circle_photo|y|none|n|prison building photos; x3.52
+129|rNOnEij75ng|~18|3x6|light|circle_photo|y|none|n|aircraft photos; x3.96
+130|RWLLNQ0QUmg|11|3 rows|light|circle_logo|y|none|n|French agency seals
+131|Gm0gJPTkg2s|13|3 rows|light|circle_logo|y|none|n|DHS branch seals
+132|cep-SrbrMKQ|~18|3x6|light|circle_photo|y|none|n|drone photos
+133|J86Q06_mUBU|10|2x5|light|circle_logo|y|none|n|Australian agencies
+134|PX4T09DksEA|~15|3 rows|light|circle_logo|y|odd_one_out|n|watchlists; red no-fly symbol stands out; x6.0
+135|G5aliS9Cdyw|18|3x6|light|circle_logo|y|none|n|more federal LE seals
+136|tz71GxM706Q|8|2x4|light|circle_logo|y|none|n|Ukrainian branches
+137|Sv52d0X_vTg|~17|3x6|light|circle_photo|y|none|n|AFV photos; x4.4
+138|ASv6uv_JykI|8|2x4|light|circle_logo|y|none|n|Chinese agencies
+139|U_C1Bz2Iowk|7|4+3|light|circle_logo|y|none|n|EU institutions identical
+140|Zg6rL_26q20|7|4+3|light|circle_logo|y|none|n|Russian agencies
+141|189hcW8mqBo|6|2x3|light|circle_photo|y|none|n|UN rooms
+142|EchOu8JJYwE|15|3x5|light|circle_logo|y|none|n|cabinet seals
+143|EULNm0ZyON4|8|2x4|light|circle_logo|y|none|n|British agencies; x4.68
+144|OpXOaOe6FYo|~25|5x5|light|circle_logo|y|none|n|federal LE seals dense; x22.84 (top Unclassified)
+145|0sS2bKd2rtk|15|3x5|light|circle_photo|y|none|n|warship photos; x6.6
+146|_CF-LjFDcIY|13|3 rows|light|circle_photo|y|none|n|espionage types photos
+147|TqQaHJrAj7A|3|pyramid|light|diagram|y|none|n|court pyramid diagram, not grid
+148|022AVY9THko|10|2x5|light|circle_logo|y|none|n|Canadian agencies; x2.48
+149|j5LlX0fsrqQ|5|3+2|light|circle_icon|y|none|n|FPCON icons colour-coded, big
+150|i2kNWLrTUDQ|7|4+3|light|circle_photo|y|none|n|jet generations progression; x9.84
+151|P5EXuc7v0AQ|10|2x5|light|circle_photo|y|none|n|NATO forces mix
+152|k8_U6o_Jn1s|10|2x5|light|circle_photo|y|none|n|SOF units (SEALs, Delta); x14.24
+153|S8NttKr993s|8|2x4|light|circle_logo|y|none|n|CIA NSA FBI seals; x8.52
+154|A_7WgObCbuk|7|4+3|light|circle_photo|y|none|n|spy type photos
+155|ZiPZR9kYGbA|9|3x3|light|circle_photo|y|none|n|war tactic photos
+156|nxOu-sVgZyY|7|4+3|light|circle_logo|y|none|n|branch seals
+157|nMGx_Qy-lpM|8|2x4|light|circle_photo|y|none|n|nuke type photos; x8.4
+158|pljYdq1pP_E|7|4+3|light|circle_photo|y|none|n|emergency powers photos
+159|eh8VQB1gUSM|7|4+3|light|circle_logo|y|none|n|FBI division seals
+160|lS4ZDwBhu7I|5|3+2|light|circle_icon|y|none|n|DEFCON 5..1 coloured numbered circles (teal->red); x52 (1.3M); simplest thumb on channel
+161|O25n9z4p7js|8|4+4|light|circle_photo|y|none|n|secrecy levels photos; x13.8
+162|cZSpnb_LUrI|15|3x5|light|photo_cutout|y_caps|none|n|FieldManual buoys
+163|ZtOTAy9uhM0|5|1x5|light|photo_cutout|y_caps|none|n|5 extinguishers big, CLASS A..K
+164|uf9te_WeP84|6|2x3|light|photo_cutout|y_caps|none|n|light bars colour variants; x48.8 (288K)
+165|cJkOqxJEGTM|12|2x6|light|photo_cutout|y_caps|none|n|sirens, small
+166|uikZS1niYW0|10|6+4|light|photo_cutout|y_caps|odd_one_out|n|hydrants colour variants; white/silver pair; x33 (195K)
+167|RR1gk_NxqtU|9|5+4|light|vector|y_caps|none|n|OR-1..OR-9 chevrons, one empty tile
+168|9wa5me_VwGo|10|2x5|dark|vector|y_caps|none|n|OF-1..OF-10 insignia
+169|uHzJQULXgQw|~55|6 rows|light|circle_icon|code|none|n|EAS code icons tiny unreadable; x9.3 (24-min long)
+170|BfU1w0muDTk|8|2x4|light|circle_icon|y_caps|none|n|utility flat colour icons; x0.22
+171|jqIoELJQ1qc|8|2x4|light|circle_icon|y_caps|none|n|INES 0..7 numbered circles green->red; x2.03
+172|un5-_nCTaXo|9|5+4|light|vector|y|none|n|hazmat class diamonds
+173|P-vCK5few6E|18|3x6|light|photo|y_caps|question_box|header|"WHAT EVERY LETTER MEANS" header; red ? "WHY IS F-117 AN F?"
+174|0tQDhjkngP0|18|3x6|light|mixed|y_caps|question_box|header|"EVERY NAVY HULL CODE"; red ? "WHERE IS THIS SHIP?"
+175|3Sg2TKwwkBM|18|3x6|light|mixed|y_caps|question_box|header|"THE U.S. DOOMSDAY PLAN"; ? "WHO STAYS AWAY?"
+176|eil1zhyDkqU|21|3x7|light|vector|y_caps|question_box|header|"WHO OUTRANKS WHOM?"; ? "ONLY ONE AT A TIME?"
+177|QFoW_rESxnY|18|3x6|light|vector|y_caps|question_box|header|"EVERY STEP TO A NUCLEAR LAUNCH"; ? "WHERE'S THE BISCUIT?"
+178|p_hsZOASLyg|18|3x6|light|vector|y_caps|question_box|header|"WHO OUTRANKS WHOM?" navy; ? "WHO OUTRANKS 5 STARS?"
+179|kTSKw7vztds|15|3x5|light|vector|y_caps|question_box|header|"THE MEDAL LADDER" ribbons; ? "GONE IN 61 DAYS?"; x14.5 (132K)
+180|ZHi5GFaIOao|10+1|2x5+big|light|photo_cutout|flags|stamp|n|medals + flags; big red-bordered tile "GIVEN AWAY" stamp
+181|U82kws12DM4|10+1|2x5+big|light|photo_cutout|flags|stamp|n|medals + flags; big tile "NEVER AWARDED" stamp; x80 (70K)
+182|V4Pmq98R_Co|6+1|2x3+big|light|sketch|handwritten|stamp|n|helmets sketch; big tile "PAPER" stamp "made of paper"
+183|-IEAfTn83gE|6+1|2x3+big|light|sketch|handwritten|stamp|n|top gun; big tile red X trophy "no trophy"
+184|-PtgIPOudC8|6+1|2x3+big|light|sketch|handwritten|stamp|n|nuke launch; "2 DAYS" stamp "Reagan's launch codes"
+185|HRwtizE_mb8|~27+1|4x7|light|sketch|handwritten|question_box|n|navy ranks; wide red box ? "Fleet admiral"
+186|hAWR1Ppvm_c|17+1|3x6|light|sketch|handwritten|question_box|n|roman ranks; red box ? laurel "Emperor"
+187|PQ7ZFYUreuI|17+1|3x7+big|light|sketch|handwritten|stamp|n|line of succession; big tile "#1 USED 9 TIMES VICE PRESIDENT"
+188|HYxFcX4CSKE|9|3x3|light|photo|y_caps|none|n|b/w battleship photos look same
+189|AEAlzoklmnU|26|4 rows|light|vector|y_caps|none|n|signal flags
+190|GAY4QQGwSuE|~20|3 rows|light|photo_cutout|y|none|n|navy badges part 2; x24 (21K)
+191|RqaIakGa7s0|12|3x4|light|texture|y_caps|none|n|camo swatches
+192|e7Vy3B5s5Gg|12|3x4|light|logo|y|none|n|spy agency seals in square tiles
+193|_sWnisokq84|~22|3 rows|light|photo_cutout|y|none|n|navy badges; x92 (81K)
+194|qNgK77BgcKU|9|5+4|light|vector|y_caps|none|n|interpol notices as illustrated cards
+195|PiB52tQBx1A|1|full|grey|sketch|n|stamp|handwritten|"LAUNCH CODE 00000000" + key + silo; red stamp "8 ZEROS?"
+196|hW-6adWh00c|12+1|2x6+big|light|sketch|handwritten|stamp|n|German shoulder boards; big tile "a CAPTAIN" + "4 STARS?"
+197|LK0nOuZVGJk|9+1|3x3+big|light|sketch|handwritten|stamp|n|badges; big tile "4th award" "NOBODY"
+198|PJsLhxMglrg|5 steps|staircase|light|sketch|caps|stamp|n|discharge staircase + DD214 "WHICH ONE?"
+199|Vxb-vseOBoM|17+1|4x5|light|sketch|handwritten|question_box|n|British ranks; red box ? "Field Marshal"
+200|q3DiiCvdVS8|15|3x5|light|texture+sketch|caps|stamp|n|camo swatches; FAILED / MELTS stamps on 3 tiles
+201|AoP9mo_pp1g|9+1|3x3+big|light|sketch|caps|stamp|header|"EARNED, NOT ISSUED" header; big tile "NEW" + "RUST EOD 2026"
+202|jmNGp3AyC0E|5+5|2x5|light|sketch|caps|stamp|n|DEFCON 5..1 coloured cards + FPCON row; "NEVER USED" stamp on DEFCON 1
+203|HTV0N_2v2Ps|11+1|3x4|light|sketch|caps|stamp|n|unit sizes map symbols; wide red box "1,300,000+ Army Group"
+204|EyN93SqOyR4|31+1|4x8|light|sketch|handwritten|question_box|n|army ranks; wide red box ? "General of the Armies" (1.97M)
+205|qy686ckG_SY|~9|scene|green|cartoon_scene|n|none|y_banner|"PICK YOUR VEHICLE" yellow banner; old CasualTactics style
+206|kPmCjgeuFKg|1|scene|light|cartoon_scene|n|none|y_banner|"WALL HELD / CASTLE FELL"
+207|WtAS6_A3axg|1|scene|light|cartoon_scene|n|none|y_banner|"ONE MAN / ENTIRE ARMY"
+208|dMAzDwF7FTw|1|scene|blue|cartoon_scene|n|none|y_banner|"HYPERSONIC / INTERCEPT"
+209|FLF6cifsRHU|1|map|green|topdown_map|n|none|y_banner|"THE RING HAS A WEAK POINT"
+210|LJVL-Dj-cfA|1|map|green|topdown_map|n|none|y_banner|"HOLDING THE LINE ALONE"
+211|HVdjjAww_ZQ|1|map|green|topdown_map|n|none|y_banner|"CROSSING THE RIVER"
+212|1hxqmq7idWA|1|map|green|topdown_map|n|none|y_banner|"AIM SIDEWAYS?"
+213|sAgR9xgdmUc|1|map|green|topdown_map|n|none|y_banner|"DESTROY THE DRONE SWARM"
+214|eSbrFHuKdis|1|map|green|topdown_map|n|none|y_banner|"NO ONE EXPECTED"
+215|LYPZel-3IQo|1|map|tan|topdown_map|n|none|y_banner|"ESCALATION"
+216|ZjJo7t72_To|1|map|green|topdown_map|n|none|y_banner|"NOTHING CAN HIDE"
+217|8dCrNJwPCE0|1|map|green|topdown_map|n|none|y_banner|"BEFORE YOU SEE HIM" (77K, outlier of old style)
+218|y6zcJ3HcuyI|1|map|blue|topdown_map|n|none|y_banner|"WHAT GOES WRONG"
+219|wOO_KJzL0wE|1|map|green|topdown_map|n|none|y_banner|"THE DRONE WALL"
+220|cU4TIgi_dyU|32|3 rows|light|vector|handwritten|none|n|PoshPainter army ranks, plain white (3.2M)
