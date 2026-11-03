@@ -21,11 +21,11 @@ Chapters
 0:27 The 1968 experiment
 0:52 Collecting doubts
 1:26 The internet
-1:44 Going viral
-2:16 Kyle
-2:56 The fire
-3:35 The curb
-3:50 The mirror
+1:45 Going viral
+2:18 Kyle
+2:57 The fire
+3:39 The curb
+3:55 The mirror
 
 Is any of this real?
 - In 1968, Robert Rosenthal and Lenore Jacobson told teachers that certain randomly chosen pupils were about to "bloom". By the end of the year, those pupils showed larger average I.Q. gains than their classmates (strongest in the youngest grades). This became known as the Pygmalion effect; later studies found real but usually smaller effects. — Rosenthal, R. & Jacobson, L. (1968). Pygmalion in the Classroom.
