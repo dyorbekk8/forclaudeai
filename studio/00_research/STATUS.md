@@ -1,19 +1,20 @@
 # Status
 
 ## Done
-- Workspace created (`studio/`).
-- Reference PDF archived and rasterised (`reference/page-1..5.png`).
-- Format breakdown v0 from thumbnails/titles/views (`format_breakdown.md`).
+- Workspace `studio/` with one folder per stage and per agent.
+- Corpus: 5 reference channels listed (`data/*.txt`), 119 + 102 thumbnails, 22 word-timed transcripts, 19 metadata files (`collect.sh`, raw data git-ignored).
+- packaging-analyst → `agents/packaging-analyst/report.md` (reviewed; anchor/style multipliers flagged as inflated).
+- script-analyst → `agents/script-analyst/report.md` (reviewed; quotes and WPM verified).
+- `format_breakdown.md` v1.
+- Remotion toolchain verified (1920×1080 h264 render).
 
 ## Blocked
-- **YouTube is not reachable from this session.** The environment's network policy denies
-  `youtube.com`, `www.youtube.com`, `m.youtube.com`, `i.ytimg.com` (and `*.googlevideo.com` for video streams).
-  Without them we cannot download reference videos, captions or thumbnails.
-- vidIQ connector has 0 credits (renews 2026-11-15).
+- **`*.googlevideo.com` is denied** by the session network policy → cannot download video/audio streams.
+  Blocks: visual/edit analysis (task 4) and audio analysis (task 5).
+- 4 corpus videos hit YouTube's bot check (S8la96LpApQ, XmzYT4Arkas, uf9te_WeP84, cZSpnb_LUrI).
+- vidIQ: 0 credits until 2026-11-15.
 
-## Next, once YouTube is allowed
-1. Pull channel video lists + stats for: Unclassified, Field Manual, Terrain & Tactics, Briefed, Casual Tactics, Scrawl Explains, plus similar channels.
-2. Download 8–10 top videos (yt-dlp), extract captions, audio and frames.
-3. Measure: WPM, shot length, transitions, SFX hits, music level, intro length, item rhythm.
-4. Upgrade `format_breakdown.md` to v1 with measured numbers.
-5. Only then: style guide, SFX library, first script.
+## Next
+1. When googlevideo is allowed: download ~10 videos, measure cuts/transitions/motion/typography/SFX/music/VO.
+2. format_breakdown v2 → style guide (05), SFX library (04), edit rules (06).
+3. Fact-check top-5 topics, pick topic #1, write script.
