@@ -10,6 +10,7 @@ import {BulbMacro, Burst, Gauge} from './scenes/Mechanism';
 import {CTA, DeathBars, Hanger, MoneyBars, Patent, Quote, SaveMoney, StatRings, StoryCard} from './scenes/Story';
 import {Boil, CeilingRow, ClassTable, Compare, FrameCode, Heater, IconRow, Race, RangeBar, SkylightAttic} from './scenes/Places';
 import {itemByKey} from './lib';
+import {MacroCallout, Photo, SunBurst, TopicOpen, Versus, Words} from './scenes/Extra';
 
 const XF = 5;
 
@@ -94,6 +95,18 @@ const render = (scene: string, p: any): React.ReactNode => {
       return <DeathBars />;
     case 'Outro':
       return <Outro />;
+    case 'Photo':
+      return <Photo {...p} />;
+    case 'Words':
+      return <Words {...p} />;
+    case 'Versus':
+      return <Versus {...p} />;
+    case 'MacroCallout':
+      return <MacroCallout {...p} />;
+    case 'SunBurst':
+      return <SunBurst />;
+    case 'TopicOpen':
+      return <TopicOpen />;
     default:
       throw new Error(`no scene ${scene}`);
   }
@@ -114,16 +127,19 @@ const Fader: React.FC<{children: React.ReactNode; first: boolean; dur: number; s
   );
 };
 
-export const Main: React.FC<{only?: string}> = ({only}) => (
-  <Paper>
-    {edl.beats
-      .filter((b) => !only || b.id === only)
-      .map((b, i) => (
-        <Sequence key={b.id} from={only ? 0 : b.from} durationInFrames={b.dur + XF} name={`${b.id} ${b.scene}`}>
-          <Fader first={i === 0 || !!only} dur={b.dur + XF} seed={i}>
-            <Paper>{render(b.scene, b.props)}</Paper>
+export const Main: React.FC<{only?: string}> = ({only}) => {
+  const shots = (edl as any).shots as {id: string; beat: string; scene: string; props: any; from: number; dur: number}[];
+  const list = only ? shots.filter((s) => s.beat === only) : shots;
+  const base = list.length ? list[0].from : 0;
+  return (
+    <Paper>
+      {list.map((s, i) => (
+        <Sequence key={s.id} from={s.from - base} durationInFrames={s.dur + XF} name={`${s.id} ${s.scene}`}>
+          <Fader first={i === 0} dur={s.dur + XF} seed={i}>
+            <Paper>{render(s.scene, s.props)}</Paper>
           </Fader>
         </Sequence>
       ))}
-  </Paper>
-);
+    </Paper>
+  );
+};

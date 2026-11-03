@@ -1,246 +1,571 @@
 {
  "fps": 30,
- "total": 13366,
+ "total": 12786,
  "beats": [
   {
-   "id": "c1",
-   "scene": "StoryCard",
-   "props": {
-    "date": "NOV 21, 1980",
-    "place": "LAS VEGAS, NEVADA",
-    "icon": "hotel",
-    "lines": [
-     {
-      "big": "MGM GRAND",
-      "at": 0.12
-     },
-     {
-      "big": "85",
-      "small": "PEOPLE KILLED",
-      "at": 0.6,
-      "color": "#D7262E",
-      "count": {
-       "to": 85
-      }
-     }
-    ]
-   },
-   "dur": 316,
-   "voStart": 4,
-   "vo": "03_voiceover/sprinkler/final/c1.wav",
-   "voDur": 10.114,
+   "id": "h1",
    "from": 0,
-   "cues": [
-    {
-     "file": "alarm_bell_distant",
-     "frame": 0,
-     "gain": -28
-    },
-    {
-     "file": "paper_slide",
-     "frame": 4,
-     "gain": -20
-    },
-    {
-     "file": "tick_1",
-     "frame": 38,
-     "gain": -20
-    },
-    {
-     "file": "sub_hit_1",
-     "frame": 190,
-     "gain": -11
-    }
-   ]
+   "dur": 179,
+   "voStart": 2,
+   "vo": "03_voiceover/sprinkler/final_v2/h1.wav",
+   "voDur": 5.493
   },
   {
-   "id": "c2",
-   "scene": "MoneyBars",
+   "id": "o1",
+   "from": 179,
+   "dur": 179,
+   "voStart": 193,
+   "vo": "03_voiceover/sprinkler/final_v2/o1.wav",
+   "voDur": 5.353
+  },
+  {
+   "id": "o2",
+   "from": 358,
+   "dur": 367,
+   "voStart": 360,
+   "vo": "03_voiceover/sprinkler/final_v2/o2.wav",
+   "voDur": 12.022
+  },
+  {
+   "id": "o3",
+   "from": 725,
+   "dur": 249,
+   "voStart": 727,
+   "vo": "03_voiceover/sprinkler/final_v2/o3.wav",
+   "voDur": 7.853
+  },
+  {
+   "id": "o4",
+   "from": 974,
+   "dur": 423,
+   "voStart": 976,
+   "vo": "03_voiceover/sprinkler/final_v2/o4.wav",
+   "voDur": 13.63
+  },
+  {
+   "id": "r1",
+   "from": 1397,
+   "dur": 292,
+   "voStart": 1411,
+   "vo": "03_voiceover/sprinkler/final_v2/r1.wav",
+   "voDur": 9.131
+  },
+  {
+   "id": "r2",
+   "from": 1689,
+   "dur": 445,
+   "voStart": 1691,
+   "vo": "03_voiceover/sprinkler/final_v2/r2.wav",
+   "voDur": 14.621
+  },
+  {
+   "id": "r3",
+   "from": 2134,
+   "dur": 433,
+   "voStart": 2136,
+   "vo": "03_voiceover/sprinkler/final_v2/r3.wav",
+   "voDur": 13.732
+  },
+  {
+   "id": "y1",
+   "from": 2567,
+   "dur": 171,
+   "voStart": 2581,
+   "vo": "03_voiceover/sprinkler/final_v2/y1.wav",
+   "voDur": 5.099
+  },
+  {
+   "id": "y2",
+   "from": 2738,
+   "dur": 438,
+   "voStart": 2740,
+   "vo": "03_voiceover/sprinkler/final_v2/y2.wav",
+   "voDur": 14.393
+  },
+  {
+   "id": "y3",
+   "from": 3176,
+   "dur": 361,
+   "voStart": 3178,
+   "vo": "03_voiceover/sprinkler/final_v2/y3.wav",
+   "voDur": 11.311
+  },
+  {
+   "id": "g1",
+   "from": 3537,
+   "dur": 249,
+   "voStart": 3551,
+   "vo": "03_voiceover/sprinkler/final_v2/g1.wav",
+   "voDur": 7.684
+  },
+  {
+   "id": "g2",
+   "from": 3786,
+   "dur": 229,
+   "voStart": 3788,
+   "vo": "03_voiceover/sprinkler/final_v2/g2.wav",
+   "voDur": 7.417
+  },
+  {
+   "id": "g3",
+   "from": 4015,
+   "dur": 233,
+   "voStart": 4017,
+   "vo": "03_voiceover/sprinkler/final_v2/g3.wav",
+   "voDur": 7.3
+  },
+  {
+   "id": "b1",
+   "from": 4248,
+   "dur": 168,
+   "voStart": 4262,
+   "vo": "03_voiceover/sprinkler/final_v2/b1.wav",
+   "voDur": 4.988
+  },
+  {
+   "id": "b2",
+   "from": 4416,
+   "dur": 562,
+   "voStart": 4418,
+   "vo": "03_voiceover/sprinkler/final_v2/b2.wav",
+   "voDur": 18.289
+  },
+  {
+   "id": "cta",
+   "from": 4978,
+   "dur": 204,
+   "voStart": 4980,
+   "vo": "03_voiceover/sprinkler/final_v2/cta.wav",
+   "voDur": 6.344
+  },
+  {
+   "id": "p1",
+   "from": 5182,
+   "dur": 222,
+   "voStart": 5196,
+   "vo": "03_voiceover/sprinkler/final_v2/p1.wav",
+   "voDur": 6.798
+  },
+  {
+   "id": "p2",
+   "from": 5404,
+   "dur": 387,
+   "voStart": 5406,
+   "vo": "03_voiceover/sprinkler/final_v2/p2.wav",
+   "voDur": 12.693
+  },
+  {
+   "id": "p3",
+   "from": 5791,
+   "dur": 326,
+   "voStart": 5793,
+   "vo": "03_voiceover/sprinkler/final_v2/p3.wav",
+   "voDur": 10.399
+  },
+  {
+   "id": "k1",
+   "from": 6117,
+   "dur": 94,
+   "voStart": 6131,
+   "vo": "03_voiceover/sprinkler/final_v2/k1.wav",
+   "voDur": 2.534
+  },
+  {
+   "id": "k2",
+   "from": 6211,
+   "dur": 364,
+   "voStart": 6213,
+   "vo": "03_voiceover/sprinkler/final_v2/k2.wav",
+   "voDur": 11.933
+  },
+  {
+   "id": "k3",
+   "from": 6575,
+   "dur": 437,
+   "voStart": 6577,
+   "vo": "03_voiceover/sprinkler/final_v2/k3.wav",
+   "voDur": 14.092
+  },
+  {
+   "id": "t1",
+   "from": 7012,
+   "dur": 198,
+   "voStart": 7026,
+   "vo": "03_voiceover/sprinkler/final_v2/t1.wav",
+   "voDur": 6.013
+  },
+  {
+   "id": "t2",
+   "from": 7210,
+   "dur": 254,
+   "voStart": 7212,
+   "vo": "03_voiceover/sprinkler/final_v2/t2.wav",
+   "voDur": 8.242
+  },
+  {
+   "id": "t3",
+   "from": 7464,
+   "dur": 577,
+   "voStart": 7466,
+   "vo": "03_voiceover/sprinkler/final_v2/t3.wav",
+   "voDur": 18.523
+  },
+  {
+   "id": "f1",
+   "from": 8041,
+   "dur": 310,
+   "voStart": 8055,
+   "vo": "03_voiceover/sprinkler/final_v2/f1.wav",
+   "voDur": 9.74
+  },
+  {
+   "id": "f2",
+   "from": 8351,
+   "dur": 580,
+   "voStart": 8353,
+   "vo": "03_voiceover/sprinkler/final_v2/f2.wav",
+   "voDur": 19.11
+  },
+  {
+   "id": "f3",
+   "from": 8931,
+   "dur": 176,
+   "voStart": 8933,
+   "vo": "03_voiceover/sprinkler/final_v2/f3.wav",
+   "voDur": 5.404
+  },
+  {
+   "id": "n1",
+   "from": 9107,
+   "dur": 158,
+   "voStart": 9109,
+   "vo": "03_voiceover/sprinkler/final_v2/n1.wav",
+   "voDur": 5.054
+  },
+  {
+   "id": "n2",
+   "from": 9265,
+   "dur": 456,
+   "voStart": 9267,
+   "vo": "03_voiceover/sprinkler/final_v2/n2.wav",
+   "voDur": 14.996
+  },
+  {
+   "id": "m1",
+   "from": 9721,
+   "dur": 310,
+   "voStart": 9723,
+   "vo": "03_voiceover/sprinkler/final_v2/m1.wav",
+   "voDur": 10.114
+  },
+  {
+   "id": "m2",
+   "from": 10031,
+   "dur": 323,
+   "voStart": 10033,
+   "vo": "03_voiceover/sprinkler/final_v2/m2.wav",
+   "voDur": 10.552
+  },
+  {
+   "id": "m3",
+   "from": 10354,
+   "dur": 263,
+   "voStart": 10356,
+   "vo": "03_voiceover/sprinkler/final_v2/m3.wav",
+   "voDur": 8.555
+  },
+  {
+   "id": "n3",
+   "from": 10617,
+   "dur": 466,
+   "voStart": 10619,
+   "vo": "03_voiceover/sprinkler/final_v2/n3.wav",
+   "voDur": 15.325
+  },
+  {
+   "id": "n4",
+   "from": 11083,
+   "dur": 180,
+   "voStart": 11085,
+   "vo": "03_voiceover/sprinkler/final_v2/n4.wav",
+   "voDur": 5.776
+  },
+  {
+   "id": "n5",
+   "from": 11263,
+   "dur": 601,
+   "voStart": 11265,
+   "vo": "03_voiceover/sprinkler/final_v2/n5.wav",
+   "voDur": 19.811
+  },
+  {
+   "id": "n6",
+   "from": 11864,
+   "dur": 308,
+   "voStart": 11866,
+   "vo": "03_voiceover/sprinkler/final_v2/n6.wav",
+   "voDur": 9.816
+  },
+  {
+   "id": "e1",
+   "from": 12172,
+   "dur": 366,
+   "voStart": 12174,
+   "vo": "03_voiceover/sprinkler/final_v2/e1.wav",
+   "voDur": 11.989
+  },
+  {
+   "id": "e2",
+   "from": 12538,
+   "dur": 248,
+   "voStart": 12540,
+   "vo": "03_voiceover/sprinkler/final_v2/e2.wav",
+   "voDur": 5.205
+  }
+ ],
+ "shots": [
+  {
+   "id": "h1.0",
+   "beat": "h1",
+   "scene": "TopicOpen",
    "props": {},
-   "dur": 329,
-   "voStart": 320,
-   "vo": "03_voiceover/sprinkler/final/c2.wav",
-   "voDur": 10.552,
-   "from": 316,
+   "from": 0,
+   "dur": 91,
    "cues": [
     {
-     "file": "whoosh_soft_1",
-     "frame": 316,
-     "gain": -18
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -16
     },
     {
-     "file": "tick_2",
-     "frame": 464,
-     "gain": -18
+     "file": "pop_1",
+     "frame": 6,
+     "gain": -22
     },
     {
-     "file": "marker_scribble",
-     "frame": 480,
+     "file": "pop_2",
+     "frame": 8,
+     "gain": -22
+    },
+    {
+     "file": "pop_3",
+     "frame": 10,
+     "gain": -22
+    },
+    {
+     "file": "pop_1",
+     "frame": 12,
+     "gain": -22
+    },
+    {
+     "file": "pop_2",
+     "frame": 14,
+     "gain": -22
+    },
+    {
+     "file": "pop_3",
+     "frame": 16,
+     "gain": -22
+    },
+    {
+     "file": "pop_1",
+     "frame": 18,
      "gain": -22
     }
    ]
   },
   {
-   "id": "c3",
-   "scene": "Quote",
-   "props": {
-    "text": "With sprinklers, it would have been a one- or two-sprinkler fire and we never would have heard about it.",
-    "highlight": "a one- or two-sprinkler fire",
-    "who": "David Demers",
-    "whoSub": "CO-AUTHOR OF THE NFPA REPORT ON THE MGM GRAND FIRE"
-   },
-   "dur": 269,
-   "voStart": 649,
-   "vo": "03_voiceover/sprinkler/final/c3.wav",
-   "voDur": 8.555,
-   "from": 645,
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 647,
-     "gain": -20
-    },
-    {
-     "file": "marker_scribble",
-     "frame": 739,
-     "gain": -20
-    }
-   ]
-  },
-  {
-   "id": "c4",
+   "id": "h1.1",
+   "beat": "h1",
    "scene": "GridIntro",
    "props": {},
-   "dur": 460,
-   "voStart": 918,
-   "vo": "03_voiceover/sprinkler/final/c4.wav",
-   "voDur": 14.666,
-   "from": 914,
+   "from": 91,
+   "dur": 88,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 918,
-     "gain": -20
+     "frame": 95,
+     "gain": -21
     },
     {
      "file": "pop_2",
-     "frame": 922,
-     "gain": -20
+     "frame": 99,
+     "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 926,
-     "gain": -20
+     "frame": 103,
+     "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 930,
-     "gain": -20
+     "frame": 107,
+     "gain": -21
     },
     {
      "file": "pop_2",
-     "frame": 934,
-     "gain": -20
+     "frame": 111,
+     "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 938,
-     "gain": -20
+     "frame": 115,
+     "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 942,
-     "gain": -20
+     "frame": 119,
+     "gain": -21
     },
     {
      "file": "pop_2",
-     "frame": 946,
-     "gain": -20
+     "frame": 123,
+     "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 950,
-     "gain": -20
+     "frame": 127,
+     "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 960,
-     "gain": -17
-    },
-    {
-     "file": "whoosh_soft_2",
-     "frame": 1364,
+     "frame": 137,
      "gain": -18
     }
    ]
   },
   {
-   "id": "o1",
+   "id": "o1.0",
+   "beat": "o1",
    "scene": "Hero",
    "props": {
     "idx": 0
    },
-   "dur": 185,
-   "voStart": 1389,
-   "vo": "03_voiceover/sprinkler/final/o1.wav",
-   "voDur": 5.353,
-   "from": 1374,
-   "cues": []
+   "from": 179,
+   "dur": 179,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 179,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 199,
+     "gain": -20
+    }
+   ]
   },
   {
-   "id": "o2",
+   "id": "o2.0",
+   "beat": "o2",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "orange",
+    "target": "bulb",
+    "labels": [
+     "GLASS",
+     "LIQUID",
+     "ONE BUBBLE"
+    ]
+   },
+   "from": 358,
+   "dur": 176,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 362,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 411,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 459,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "o2.1",
+   "beat": "o2",
    "scene": "BulbMacro",
    "props": {
     "item": "orange",
     "e0": 0,
-    "e1": 0.85,
+    "e1": 0.9,
     "t0": 70,
-    "t1": 130
+    "t1": 133
    },
-   "dur": 373,
-   "voStart": 1563,
-   "vo": "03_voiceover/sprinkler/final/o2.wav",
-   "voDur": 12.022,
-   "from": 1559,
+   "from": 534,
+   "dur": 191,
    "cues": [
     {
      "file": "heat_rise",
-     "frame": 1708,
+     "frame": 591,
      "gain": -19
     }
    ]
   },
   {
-   "id": "o3",
+   "id": "o3.0",
+   "beat": "o3",
    "scene": "Burst",
    "props": {
     "item": "orange"
    },
-   "dur": 260,
-   "voStart": 1936,
-   "vo": "03_voiceover/sprinkler/final/o3.wav",
-   "voDur": 7.853,
-   "from": 1932,
+   "from": 725,
+   "dur": 249,
    "cues": [
     {
      "file": "heat_rise",
-     "frame": 1937,
+     "frame": 727,
      "gain": -15
     },
     {
      "file": "glass_shatter_1",
-     "frame": 2015,
+     "frame": 805,
      "gain": -7
     },
     {
      "file": "water_spray_burst",
-     "frame": 2019,
+     "frame": 809,
      "gain": -16
     }
    ]
   },
   {
-   "id": "o4",
+   "id": "o4.0",
+   "beat": "o4",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "ORDINARY ROOMS",
+     "STAY UNDER 100\u00b0F"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": "office",
+    "size": 120
+   },
+   "from": 974,
+   "dur": 153,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 974,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "o4.1",
+   "beat": "o4",
    "scene": "Gauge",
    "props": {
     "item": "orange",
@@ -249,39 +574,121 @@
     "lo": 50,
     "hi": 175
    },
-   "dur": 429,
-   "voStart": 2196,
-   "vo": "03_voiceover/sprinkler/final/o4.wav",
-   "voDur": 13.63,
-   "from": 2192,
+   "from": 1127,
+   "dur": 89,
    "cues": [
     {
      "file": "whoosh_soft_3",
-     "frame": 2194,
+     "frame": 1127,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 2238,
+     "frame": 1173,
      "gain": -18
     }
    ]
   },
   {
-   "id": "r1",
+   "id": "o4.2",
+   "beat": "o4",
+   "scene": "Versus",
+   "props": {
+    "a": {
+     "icon": "sun",
+     "label": "HOT DAY"
+    },
+    "b": {
+     "icon": "fire",
+     "label": "FIRE"
+    },
+    "sign": "\u2260",
+    "aBad": false,
+    "verdict": "only one of them reaches 135\u00b0F"
+   },
+   "from": 1216,
+   "dur": 86,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 1216,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 1222,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "o4.3",
+   "beat": "o4",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "THE BUBBLE",
+     "ISN'T A FLAW"
+    ],
+    "stamp": "IT'S THE FUSE"
+   },
+   "from": 1302,
+   "dur": 95,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 1359,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "r1.0",
+   "beat": "r1",
    "scene": "Hero",
    "props": {
     "idx": 1
    },
-   "dur": 298,
-   "voStart": 2636,
-   "vo": "03_voiceover/sprinkler/final/r1.wav",
-   "voDur": 9.131,
-   "from": 2621,
-   "cues": []
+   "from": 1397,
+   "dur": 292,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 1397,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1417,
+     "gain": -20
+    }
+   ]
   },
   {
-   "id": "r2",
+   "id": "r2.0",
+   "beat": "r2",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "red",
+    "target": "bulb",
+    "labels": [
+     "NOT ONLY HEAT"
+    ],
+    "crack": true
+   },
+   "from": 1689,
+   "dur": 127,
+   "cues": [
+    {
+     "file": "click_1",
+     "frame": 1727,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "r2.1",
+   "beat": "r2",
    "scene": "StoryCard",
    "props": {
     "date": "OCT 20, 2017",
@@ -291,342 +698,700 @@
     "lines": [
      {
       "big": "HOLIDAY INN",
-      "at": 0.4
+      "at": 0.3
      },
      {
       "big": "UNIFORM",
       "small": "hung on the sprinkler",
-      "at": 0.78
+      "at": 0.68
      }
     ]
    },
-   "dur": 451,
-   "voStart": 2923,
-   "vo": "03_voiceover/sprinkler/final/r2.wav",
-   "voDur": 14.621,
-   "from": 2919,
+   "from": 1816,
+   "dur": 204,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 2923,
+     "frame": 1818,
      "gain": -20
     },
     {
      "file": "tick_2",
-     "frame": 3099,
+     "frame": 1877,
      "gain": -20
     },
     {
      "file": "tick_3",
-     "frame": 3271,
+     "frame": 1955,
      "gain": -20
     }
    ]
   },
   {
-   "id": "r3",
+   "id": "r2.2",
+   "beat": "r2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "HUNG HIS UNIFORM",
+     "ON THE SPRINKLER"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": "hanger",
+    "size": 120
+   },
+   "from": 2020,
+   "dur": 114,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 2020,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "r3.0",
+   "beat": "r3",
    "scene": "Hanger",
    "props": {},
-   "dur": 444,
-   "voStart": 3374,
-   "vo": "03_voiceover/sprinkler/final/r3.wav",
-   "voDur": 13.732,
-   "from": 3370,
+   "from": 2134,
+   "dur": 260,
    "cues": [
     {
      "file": "glass_shatter_2",
-     "frame": 3386,
+     "frame": 2150,
      "gain": -7
     },
     {
      "file": "water_spray_burst",
-     "frame": 3390,
+     "frame": 2154,
      "gain": -16
     },
     {
      "file": "tick_1",
-     "frame": 3503,
+     "frame": 2212,
      "gain": -20
     },
     {
      "file": "tick_2",
-     "frame": 3601,
+     "frame": 2269,
      "gain": -20
     },
     {
      "file": "tick_3",
-     "frame": 3699,
+     "frame": 2326,
      "gain": -18
     }
    ]
   },
   {
-   "id": "y1",
+   "id": "r3.1",
+   "beat": "r3",
+   "scene": "Versus",
+   "props": {
+    "a": {
+     "icon": "fire",
+     "label": "FIRE"
+    },
+    "b": {
+     "icon": "hanger",
+     "label": "COAT HANGER"
+    },
+    "sign": "=",
+    "verdict": "to the glass, they feel the same"
+   },
+   "from": 2394,
+   "dur": 173,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 2394,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 2400,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "y1.0",
+   "beat": "y1",
    "scene": "Hero",
    "props": {
     "idx": 2
    },
-   "dur": 177,
-   "voStart": 3829,
-   "vo": "03_voiceover/sprinkler/final/y1.wav",
-   "voDur": 5.099,
-   "from": 3814,
-   "cues": []
+   "from": 2567,
+   "dur": 171,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 2567,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 2587,
+     "gain": -20
+    }
+   ]
   },
   {
-   "id": "y2",
+   "id": "y2.0",
+   "beat": "y2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "CEILINGS THAT",
+     "GET HOT",
+     "ON THEIR OWN"
+    ],
+    "red": [
+     1
+    ],
+    "icon": "sun"
+   },
+   "from": 2738,
+   "dur": 268,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 2738,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "y2.1",
+   "beat": "y2",
    "scene": "SkylightAttic",
    "props": {
     "item": "yellow"
    },
-   "dur": 444,
-   "voStart": 3995,
-   "vo": "03_voiceover/sprinkler/final/y2.wav",
-   "voDur": 14.393,
-   "from": 3991,
+   "from": 3006,
+   "dur": 170,
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 3991,
-     "gain": -19
-    },
-    {
-     "file": "whoosh_soft_2",
-     "frame": 4177,
-     "gain": -19
+     "frame": 3006,
+     "gain": -20
     },
     {
      "file": "marker_scribble",
-     "frame": 4324,
+     "frame": 3134,
      "gain": -22
     }
    ]
   },
   {
-   "id": "y3",
+   "id": "y3.0",
+   "beat": "y3",
    "scene": "Gauge",
    "props": {
     "item": "yellow",
     "maxCeil": 150,
     "rating": 175,
     "lo": 75,
-    "hi": 225,
-    "markers": [
-     {
-      "t": 135,
-      "color": "#F07A1A",
-      "label": "ORANGE",
-      "crossed": true
-     }
-    ]
+    "hi": 225
    },
-   "dur": 359,
-   "voStart": 4439,
-   "vo": "03_voiceover/sprinkler/final/y3.wav",
-   "voDur": 11.311,
-   "from": 4435,
+   "from": 3176,
+   "dur": 111,
    "cues": [
     {
      "file": "whoosh_soft_3",
-     "frame": 4437,
+     "frame": 3176,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 4481,
-     "gain": -18
-    },
-    {
-     "file": "click_1",
-     "frame": 4495,
+     "frame": 3222,
      "gain": -18
     }
    ]
   },
   {
-   "id": "g1",
+   "id": "y3.1",
+   "beat": "y3",
+   "scene": "SunBurst",
+   "props": {},
+   "from": 3287,
+   "dur": 250,
+   "cues": [
+    {
+     "file": "heat_rise",
+     "frame": 3321,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 3399,
+     "gain": -9
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 3403,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3409,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "g1.0",
+   "beat": "g1",
    "scene": "Hero",
    "props": {
     "idx": 3
    },
-   "dur": 255,
-   "voStart": 4809,
-   "vo": "03_voiceover/sprinkler/final/g1.wav",
-   "voDur": 7.684,
-   "from": 4794,
-   "cues": []
-  },
-  {
-   "id": "g2",
-   "scene": "ClassTable",
-   "props": {},
-   "dur": 235,
-   "voStart": 5053,
-   "vo": "03_voiceover/sprinkler/final/g2.wav",
-   "voDur": 7.417,
-   "from": 5049,
+   "from": 3537,
+   "dur": 52,
    "cues": [
     {
-     "file": "tick_1",
-     "frame": 5055,
-     "gain": -20
-    },
-    {
-     "file": "tick_2",
-     "frame": 5088,
-     "gain": -20
-    },
-    {
-     "file": "tick_3",
-     "frame": 5121,
-     "gain": -20
+     "file": "whoosh_soft_4",
+     "frame": 3537,
+     "gain": -19
     },
     {
      "file": "tick_1",
-     "frame": 5154,
-     "gain": -20
-    },
-    {
-     "file": "tick_2",
-     "frame": 5187,
+     "frame": 3557,
      "gain": -20
     }
    ]
   },
   {
-   "id": "g3",
+   "id": "g1.1",
+   "beat": "g1",
+   "scene": "Compare",
+   "props": {
+    "left": {
+     "liquid": "#F2C61F",
+     "title": "YELLOW 175\u00b0F",
+     "sub": "INTERMEDIATE"
+    },
+    "right": {
+     "liquid": "#2E9E4F",
+     "title": "GREEN 200\u00b0F",
+     "sub": "INTERMEDIATE"
+    },
+    "mid": "+25",
+    "midAt": 0.35
+   },
+   "from": 3589,
+   "dur": 197,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 3589,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 3595,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "g2.0",
+   "beat": "g2",
+   "scene": "ClassTable",
+   "props": {},
+   "from": 3786,
+   "dur": 229,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3792,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 3824,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 3856,
+     "gain": -20
+    },
+    {
+     "file": "tick_1",
+     "frame": 3888,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 3920,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "g3.0",
+   "beat": "g3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "200\u00b0F",
+     "IS LOWER THAN",
+     "YOU THINK"
+    ],
+    "red": [
+     0
+    ],
+    "size": 170
+   },
+   "from": 4015,
+   "dur": 79,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4015,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "g3.1",
+   "beat": "g3",
    "scene": "Boil",
    "props": {},
-   "dur": 239,
-   "voStart": 5288,
-   "vo": "03_voiceover/sprinkler/final/g3.wav",
-   "voDur": 7.3,
-   "from": 5284,
+   "from": 4094,
+   "dur": 154,
    "cues": [
     {
      "file": "heat_rise",
-     "frame": 5324,
+     "frame": 4094,
      "gain": -19
     },
     {
      "file": "glass_shatter_3",
-     "frame": 5402,
+     "frame": 4172,
      "gain": -9
     }
    ]
   },
   {
-   "id": "b1",
+   "id": "b1.0",
+   "beat": "b1",
    "scene": "Hero",
    "props": {
     "idx": 4
    },
-   "dur": 174,
-   "voStart": 5538,
-   "vo": "03_voiceover/sprinkler/final/b1.wav",
-   "voDur": 4.988,
-   "from": 5523,
-   "cues": []
+   "from": 4248,
+   "dur": 55,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4248,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4268,
+     "gain": -20
+    }
+   ]
   },
   {
-   "id": "b2",
+   "id": "b1.1",
+   "beat": "b1",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "200\u00b0F \u2192 286\u00b0F",
+     "A BIG JUMP"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 4303,
+   "dur": 113,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4303,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "b2.0",
+   "beat": "b2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "BUILT FOR",
+     "HOTTER CEILINGS"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 4416,
+   "dur": 98,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4416,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "b2.1",
+   "beat": "b2",
+   "scene": "Gauge",
+   "props": {
+    "item": "blue",
+    "maxCeil": 225,
+    "rating": 286,
+    "lo": 100,
+    "hi": 325
+   },
+   "from": 4514,
+   "dur": 148,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 4514,
+     "gain": -20
+    },
+    {
+     "file": "tick_1",
+     "frame": 4560,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "b2.2",
+   "beat": "b2",
    "scene": "Heater",
    "props": {},
-   "dur": 569,
-   "voStart": 5701,
-   "vo": "03_voiceover/sprinkler/final/b2.wav",
-   "voDur": 18.289,
-   "from": 5697,
+   "from": 4662,
+   "dur": 112,
    "cues": [
     {
      "file": "whoosh_soft_4",
-     "frame": 5697,
+     "frame": 4662,
      "gain": -20
     },
     {
      "file": "pop_2",
-     "frame": 5709,
+     "frame": 4674,
      "gain": -18
     },
     {
      "file": "click_2",
-     "frame": 6050,
+     "frame": 4731,
      "gain": -18
     }
    ]
   },
   {
-   "id": "cta",
+   "id": "b2.3",
+   "beat": "b2",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "red",
+    "target": "bulb",
+    "labels": [
+     "RED \u00b7 155\u00b0F",
+     "WOULD OPEN",
+     "WITH NO FIRE"
+    ]
+   },
+   "from": 4774,
+   "dur": 204,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4778,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 4835,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 4886,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "cta.0",
+   "beat": "cta",
    "scene": "CTA",
    "props": {},
-   "dur": 210,
-   "voStart": 6270,
-   "vo": "03_voiceover/sprinkler/final/cta.wav",
-   "voDur": 6.344,
-   "from": 6266,
+   "from": 4978,
+   "dur": 204,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 6266,
+     "frame": 4978,
      "gain": -18
     },
     {
      "file": "click_1",
-     "frame": 6340,
+     "frame": 5049,
      "gain": -14
     },
     {
      "file": "click_2",
-     "frame": 6382,
+     "frame": 5090,
      "gain": -14
     }
    ]
   },
   {
-   "id": "p1",
+   "id": "p1.0",
+   "beat": "p1",
    "scene": "Hero",
    "props": {
     "note": "also called \"mauve\"",
-    "noteAt": 50,
+    "noteAt": 40,
     "idx": 5
    },
-   "dur": 228,
-   "voStart": 6491,
-   "vo": "03_voiceover/sprinkler/final/p1.wav",
-   "voDur": 6.798,
-   "from": 6476,
+   "from": 5182,
+   "dur": 114,
    "cues": [
     {
+     "file": "whoosh_soft_2",
+     "frame": 5182,
+     "gain": -19
+    },
+    {
      "file": "marker_scribble",
-     "frame": 6538,
+     "frame": 5234,
      "gain": -22
     }
    ]
   },
   {
-   "id": "p2",
-   "scene": "FrameCode",
-   "props": {},
-   "dur": 393,
-   "voStart": 6708,
-   "vo": "03_voiceover/sprinkler/final/p2.wav",
-   "voDur": 12.693,
-   "from": 6704,
+   "id": "p1.1",
+   "beat": "p1",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "PURPLE",
+     "= MAUVE"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 170
+   },
+   "from": 5296,
+   "dur": 108,
    "cues": [
     {
-     "file": "whoosh_soft_2",
-     "frame": 6704,
-     "gain": -20
-    },
+     "file": "whoosh_soft_1",
+     "frame": 5296,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "p2.0",
+   "beat": "p2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "THIS IS WHERE",
+     "IT GETS",
+     "CONFUSING"
+    ],
+    "red": [
+     2
+    ]
+   },
+   "from": 5404,
+   "dur": 81,
+   "cues": [
     {
-     "file": "marker_scribble",
-     "frame": 6881,
+     "file": "whoosh_soft_3",
+     "frame": 5404,
      "gain": -20
     }
    ]
   },
   {
-   "id": "p3",
+   "id": "p2.1",
+   "beat": "p2",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "purple",
+    "target": "frame",
+    "labels": [
+     "NOT ONLY",
+     "THE BULB",
+     "THE FRAME TOO"
+    ]
+   },
+   "from": 5485,
+   "dur": 104,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5489,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 5516,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 5542,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "p2.2",
+   "beat": "p2",
+   "scene": "FrameCode",
+   "props": {},
+   "from": 5589,
+   "dur": 202,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5589,
+     "gain": -20
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 5680,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "p3.0",
+   "beat": "p3",
    "scene": "Compare",
    "props": {
     "left": {
@@ -641,375 +1406,885 @@
      "sub": "EXTRA HIGH CLASS"
     },
     "mid": "\u2260",
-    "midAt": 0.45,
-    "verdict": "SAME COLOR \u00b7 OPPOSITE ENDS",
-    "verdictAt": 0.72
+    "midAt": 0.55
    },
-   "dur": 332,
-   "voStart": 7101,
-   "vo": "03_voiceover/sprinkler/final/p3.wav",
-   "voDur": 10.399,
-   "from": 7097,
+   "from": 5791,
+   "dur": 227,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 7097,
+     "frame": 5791,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 7103,
+     "frame": 5797,
      "gain": -18
     },
     {
      "file": "click_1",
-     "frame": 7246,
+     "frame": 5916,
      "gain": -16
-    },
-    {
-     "file": "stamp_thud_2",
-     "frame": 7336,
-     "gain": -14
     }
    ]
   },
   {
-   "id": "k1",
+   "id": "p3.1",
+   "beat": "p3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "SAME COLOR",
+     "OPPOSITE ENDS"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 6018,
+   "dur": 99,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 6018,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k1.0",
+   "beat": "k1",
    "scene": "Hero",
    "props": {
     "idx": 6
    },
-   "dur": 100,
-   "voStart": 7444,
-   "vo": "03_voiceover/sprinkler/final/k1.wav",
-   "voDur": 2.534,
-   "from": 7429,
-   "cues": []
-  },
-  {
-   "id": "k2",
-   "scene": "RangeBar",
-   "props": {},
-   "dur": 371,
-   "voStart": 7533,
-   "vo": "03_voiceover/sprinkler/final/k2.wav",
-   "voDur": 11.933,
-   "from": 7529,
+   "from": 6117,
+   "dur": 94,
    "cues": [
     {
      "file": "whoosh_soft_3",
-     "frame": 7537,
+     "frame": 6117,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6137,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "k2.0",
+   "beat": "k2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "VERY EXTRA HIGH",
+     "+ ULTRA HIGH"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 6211,
+   "dur": 169,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 6211,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "k2.1",
+   "beat": "k2",
+   "scene": "RangeBar",
+   "props": {},
+   "from": 6380,
+   "dur": 104,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 6388,
      "gain": -20
     },
     {
      "file": "tick_2",
-     "frame": 7573,
+     "frame": 6424,
      "gain": -18
     }
    ]
   },
   {
-   "id": "k3",
+   "id": "k2.2",
+   "beat": "k2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "ONE COMMON RATING",
+     "500\u00b0F"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 6484,
+   "dur": 91,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 6484,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "k3.0",
+   "beat": "k3",
    "scene": "IconRow",
    "props": {},
-   "dur": 443,
-   "voStart": 7904,
-   "vo": "03_voiceover/sprinkler/final/k3.wav",
-   "voDur": 14.092,
-   "from": 7900,
+   "from": 6575,
+   "dur": 179,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 7904,
+     "frame": 6579,
      "gain": -19
     },
     {
      "file": "pop_2",
-     "frame": 7912,
+     "frame": 6587,
      "gain": -19
     },
     {
      "file": "pop_3",
-     "frame": 7920,
+     "frame": 6595,
      "gain": -19
-    },
-    {
-     "file": "stamp_thud_1",
-     "frame": 8192,
-     "gain": -14
     }
    ]
   },
   {
-   "id": "t1",
+   "id": "k3.1",
+   "beat": "k3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "ANYTHING LESS",
+     "WOULD OPEN",
+     "ON ITS OWN"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 6754,
+   "dur": 90,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 6754,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "k3.2",
+   "beat": "k3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "NOT A WARNING",
+     "ABOUT THE SPRINKLER"
+    ],
+    "stamp": "ABOUT THE ROOM",
+    "size": 130
+   },
+   "from": 6844,
+   "dur": 168,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 6945,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "t1.0",
+   "beat": "t1",
    "scene": "Hero",
    "props": {
     "idx": 7
    },
-   "dur": 204,
-   "voStart": 8358,
-   "vo": "03_voiceover/sprinkler/final/t1.wav",
-   "voDur": 6.013,
-   "from": 8343,
-   "cues": []
+   "from": 7012,
+   "dur": 41,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 7012,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 7032,
+     "gain": -20
+    }
+   ]
   },
   {
-   "id": "t2",
+   "id": "t1.1",
+   "beat": "t1",
    "scene": "Compare",
    "props": {
     "left": {
      "liquid": "#D9262B",
-     "title": "STANDARD RESPONSE",
-     "sub": "BULB \u2248 5 mm",
-     "dim": "5 mm"
+     "title": "155\u00b0F",
+     "sub": "RED"
     },
     "right": {
      "liquid": "#D9262B",
      "response": "quick",
-     "title": "QUICK RESPONSE",
-     "sub": "BULB \u2248 3 mm",
-     "dim": "3 mm"
+     "title": "155\u00b0F",
+     "sub": "RED"
     },
-    "mid": "vs",
-    "midAt": 0.2
+    "mid": "=",
+    "midAt": 0.15
    },
-   "dur": 260,
-   "voStart": 8551,
-   "vo": "03_voiceover/sprinkler/final/t2.wav",
-   "voDur": 8.242,
-   "from": 8547,
+   "from": 7053,
+   "dur": 157,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 8547,
+     "frame": 7053,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 8553,
+     "frame": 7059,
      "gain": -18
     }
    ]
   },
   {
-   "id": "t3",
-   "scene": "Race",
-   "props": {},
-   "dur": 588,
-   "voStart": 8811,
-   "vo": "03_voiceover/sprinkler/final/t3.wav",
-   "voDur": 18.523,
-   "from": 8807,
-   "cues": [
-    {
-     "file": "heat_rise",
-     "frame": 8807,
-     "gain": -21
-    },
-    {
-     "file": "glass_shatter_1",
-     "frame": 8983,
-     "gain": -9
-    },
-    {
-     "file": "water_spray_burst",
-     "frame": 8987,
-     "gain": -19
-    },
-    {
-     "file": "glass_shatter_2",
-     "frame": 9148,
-     "gain": -9
-    },
-    {
-     "file": "water_spray_burst",
-     "frame": 9152,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "f1",
-   "scene": "Hero",
+   "id": "t2.0",
+   "beat": "t2",
+   "scene": "MacroCallout",
    "props": {
-    "note": "solder melts \u2192 link falls apart",
-    "noteAt": 60,
-    "idx": 8
+    "item": "red",
+    "target": "bulb",
+    "labels": [
+     "STANDARD",
+     "RESPONSE",
+     "\u2248 5 mm"
+    ]
    },
-   "dur": 316,
-   "voStart": 9410,
-   "vo": "03_voiceover/sprinkler/final/f1.wav",
-   "voDur": 9.74,
-   "from": 9395,
+   "from": 7210,
+   "dur": 129,
    "cues": [
-    {
-     "file": "marker_scribble",
-     "frame": 9467,
-     "gain": -22
-    }
-   ]
-  },
-  {
-   "id": "f2",
-   "scene": "Patent",
-   "props": {},
-   "dur": 586,
-   "voStart": 9715,
-   "vo": "03_voiceover/sprinkler/final/f2.wav",
-   "voDur": 19.11,
-   "from": 9711,
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 9711,
-     "gain": -18
-    },
-    {
-     "file": "marker_scribble",
-     "frame": 9719,
-     "gain": -22
-    },
     {
      "file": "tick_1",
-     "frame": 10074,
+     "frame": 7214,
      "gain": -20
-    }
-   ]
-  },
-  {
-   "id": "f3",
-   "scene": "SaveMoney",
-   "props": {},
-   "dur": 182,
-   "voStart": 10301,
-   "vo": "03_voiceover/sprinkler/final/f3.wav",
-   "voDur": 5.404,
-   "from": 10297,
-   "cues": [
-    {
-     "file": "marker_scribble",
-     "frame": 10370,
-     "gain": -18
-    },
-    {
-     "file": "stamp_thud_1",
-     "frame": 10410,
-     "gain": -9
-    }
-   ]
-  },
-  {
-   "id": "n1",
-   "scene": "GridOne",
-   "props": {},
-   "dur": 170,
-   "voStart": 10488,
-   "vo": "03_voiceover/sprinkler/final/n1.wav",
-   "voDur": 5.054,
-   "from": 10479,
-   "cues": [
-    {
-     "file": "whoosh_hard_1",
-     "frame": 10479,
-     "gain": -16
-    },
-    {
-     "file": "sub_hit_2",
-     "frame": 10487,
-     "gain": -12
-    }
-   ]
-  },
-  {
-   "id": "n2",
-   "scene": "CeilingRow",
-   "props": {
-    "mode": "mythReal"
-   },
-   "dur": 480,
-   "voStart": 10658,
-   "vo": "03_voiceover/sprinkler/final/n2.wav",
-   "voDur": 14.996,
-   "from": 10649,
-   "cues": [
-    {
-     "file": "water_spray_burst",
-     "frame": 10666,
-     "gain": -14
-    },
-    {
-     "file": "stamp_thud_2",
-     "frame": 10685,
-     "gain": -12
-    },
-    {
-     "file": "whoosh_soft_4",
-     "frame": 10851,
-     "gain": -18
-    },
-    {
-     "file": "glass_shatter_3",
-     "frame": 10877,
-     "gain": -8
-    },
-    {
-     "file": "water_spray_burst",
-     "frame": 10880,
-     "gain": -16
-    }
-   ]
-  },
-  {
-   "id": "n3",
-   "scene": "StatRings",
-   "props": {},
-   "dur": 472,
-   "voStart": 11133,
-   "vo": "03_voiceover/sprinkler/final/n3.wav",
-   "voDur": 15.325,
-   "from": 11129,
-   "cues": [
-    {
-     "file": "tick_1",
-     "frame": 11233,
-     "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 11441,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "n4",
-   "scene": "DeathBars",
-   "props": {},
-   "dur": 186,
-   "voStart": 11605,
-   "vo": "03_voiceover/sprinkler/final/n4.wav",
-   "voDur": 5.776,
-   "from": 11601,
-   "cues": [
-    {
-     "file": "whoosh_soft_1",
-     "frame": 11605,
-     "gain": -20
-    },
-    {
-     "file": "whoosh_soft_2",
-     "frame": 11623,
+     "frame": 7249,
      "gain": -20
     },
     {
      "file": "tick_3",
-     "frame": 11637,
+     "frame": 7281,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "t2.1",
+   "beat": "t2",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "thin",
+    "target": "bulb",
+    "labels": [
+     "QUICK",
+     "RESPONSE",
+     "\u2248 3 mm"
+    ]
+   },
+   "from": 7339,
+   "dur": 125,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 7343,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 7377,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 7408,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "t3.0",
+   "beat": "t3",
+   "scene": "Race",
+   "props": {},
+   "from": 7464,
+   "dur": 203,
+   "cues": [
+    {
+     "file": "heat_rise",
+     "frame": 7464,
+     "gain": -21
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 7525,
+     "gain": -9
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 7529,
+     "gain": -19
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 7582,
+     "gain": -9
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 7586,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "t3.1",
+   "beat": "t3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "QUICK RESPONSE",
+     "OFFICES \u00b7 SCHOOLS"
+    ],
+    "red": [
+     0
+    ],
+    "icon": "school",
+    "size": 120
+   },
+   "from": 7667,
+   "dur": 189,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7667,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "t3.2",
+   "beat": "t3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "COLOR = WHEN",
+     "THICKNESS = HOW FAST"
+    ],
+    "red": [
+     1
+    ],
+    "size": 130
+   },
+   "from": 7856,
+   "dur": 185,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 7856,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 7948,
      "gain": -18
     }
    ]
   },
   {
-   "id": "n5",
+   "id": "f1.0",
+   "beat": "f1",
+   "scene": "Hero",
+   "props": {
+    "note": "solder melts \u2192 link falls apart",
+    "noteAt": 45,
+    "idx": 8
+   },
+   "from": 8041,
+   "dur": 165,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 8041,
+     "gain": -19
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 8097,
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "f1.1",
+   "beat": "f1",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "nobulb",
+    "target": "bulb",
+    "labels": [
+     "TWO PLATES",
+     "SOLDER",
+     "MELTS \u2192 OPENS"
+    ]
+   },
+   "from": 8206,
+   "dur": 145,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 8210,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 8250,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 8286,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "f2.0",
+   "beat": "f2",
+   "scene": "Patent",
+   "props": {},
+   "from": 8351,
+   "dur": 214,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 8351,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 8484,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "f2.1",
+   "beat": "f2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "THE FIRST PRACTICAL",
+     "AUTOMATIC SPRINKLER"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 130
+   },
+   "from": 8565,
+   "dur": 280,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8565,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "f2.2",
+   "beat": "f2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "AND TO LOWER HIS",
+     "INSURANCE BILL"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": "piano",
+    "size": 120
+   },
+   "from": 8845,
+   "dur": 86,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8845,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "f3.0",
+   "beat": "f3",
+   "scene": "SaveMoney",
+   "props": {},
+   "from": 8931,
+   "dur": 176,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 9001,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 9040,
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "n1.0",
+   "beat": "n1",
+   "scene": "GridOne",
+   "props": {},
+   "from": 9107,
+   "dur": 158,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 9107,
+     "gain": -16
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 9115,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "n2.0",
+   "beat": "n2",
+   "scene": "CeilingRow",
+   "props": {
+    "mode": "mythReal"
+   },
+   "from": 9265,
+   "dur": 372,
+   "cues": [
+    {
+     "file": "water_spray_burst",
+     "frame": 9282,
+     "gain": -14
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 9301,
+     "gain": -12
+    },
+    {
+     "file": "whoosh_soft_4",
+     "frame": 9421,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 9447,
+     "gain": -8
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 9450,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "n2.1",
+   "beat": "n2",
+   "scene": "Versus",
+   "props": {
+    "a": {
+     "icon": "smoke",
+     "label": "SMOKE"
+    },
+    "b": {
+     "icon": "fire",
+     "label": "HEAT"
+    },
+    "sign": "\u2260",
+    "aBad": true,
+    "verdict": "only heat at the bulb opens it"
+   },
+   "from": 9637,
+   "dur": 84,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 9637,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 9643,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "m1.0",
+   "beat": "m1",
+   "scene": "StoryCard",
+   "props": {
+    "date": "NOV 21, 1980",
+    "place": "LAS VEGAS, NEVADA",
+    "icon": "hotel",
+    "lines": [
+     {
+      "big": "MGM GRAND",
+      "at": 0.05
+     },
+     {
+      "big": "85",
+      "small": "PEOPLE KILLED",
+      "at": 0.3,
+      "color": "#D7262E",
+      "count": {
+       "to": 85
+      }
+     }
+    ]
+   },
+   "from": 9976,
+   "dur": 55,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 9976,
+     "gain": -20
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 9992,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "m2.0",
+   "beat": "m2",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "THE RESORT",
+     "$106 MILLION"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 150
+   },
+   "from": 10031,
+   "dur": 88,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10031,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "m2.1",
+   "beat": "m2",
+   "scene": "MoneyBars",
+   "props": {},
+   "from": 10119,
+   "dur": 235,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10119,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 10225,
+     "gain": -18
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 10241,
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "m3.0",
+   "beat": "m3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "ONE OF THE",
+     "INVESTIGATORS"
+    ],
+    "red": [],
+    "stamp": null,
+    "icon": "hotel",
+    "size": 130
+   },
+   "from": 10354,
+   "dur": 69,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10354,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "m3.1",
+   "beat": "m3",
+   "scene": "Quote",
+   "props": {
+    "text": "With sprinklers, it would have been a one- or two-sprinkler fire and we never would have heard about it.",
+    "highlight": "a one- or two-sprinkler fire",
+    "who": "David Demers",
+    "whoSub": "CO-AUTHOR OF THE NFPA REPORT ON THE MGM GRAND FIRE"
+   },
+   "from": 10423,
+   "dur": 194,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 10425,
+     "gain": -20
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 10491,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "n3.0",
+   "beat": "n3",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "U.S. FIRES",
+     "2015 \u2013 2019",
+     "SPRINKLERS OPERATED"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 130
+   },
+   "from": 10617,
+   "dur": 183,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10617,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "n3.1",
+   "beat": "n3",
+   "scene": "StatRings",
+   "props": {},
+   "from": 10800,
+   "dur": 283,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 10862,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 10987,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n4.0",
+   "beat": "n4",
+   "scene": "DeathBars",
+   "props": {},
+   "from": 11083,
+   "dur": 180,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 11087,
+     "gain": -20
+    },
+    {
+     "file": "whoosh_soft_2",
+     "frame": 11105,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 11119,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n5.0",
+   "beat": "n5",
    "scene": "StoryCard",
    "props": {
     "date": "FEB 20, 2003",
@@ -1019,113 +2294,227 @@
      {
       "big": "100",
       "small": "PEOPLE KILLED",
-      "at": 0.16,
+      "at": 0.05,
       "count": {
        "to": 100
       }
      },
      {
-      "big": "NO SPRINKLERS",
-      "at": 0.4,
-      "color": "#D7262E"
-     },
-     {
-      "big": "SAME YEAR",
-      "small": "required in clubs for 150+",
-      "at": 0.74
+      "big": "THE STATION",
+      "small": "nightclub",
+      "at": 0.45
      }
     ]
    },
-   "dur": 607,
-   "voStart": 11791,
-   "vo": "03_voiceover/sprinkler/final/n5.wav",
-   "voDur": 19.811,
-   "from": 11787,
+   "from": 11310,
+   "dur": 161,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 11791,
+     "frame": 11310,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 11884,
+     "frame": 11318,
      "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 12030,
-     "gain": -18
-    },
-    {
-     "file": "tick_3",
-     "frame": 12236,
+     "frame": 11382,
      "gain": -18
     }
    ]
   },
   {
-   "id": "n6",
+   "id": "n5.1",
+   "beat": "n5",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "NEVER REQUIRED",
+     "TO HAVE SPRINKLERS"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 130
+   },
+   "from": 11471,
+   "dur": 179,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 11471,
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "n5.2",
+   "beat": "n5",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "SAME YEAR:",
+     "REQUIRED IN CLUBS",
+     "FOR 150+ PEOPLE"
+    ],
+    "red": [
+     1
+    ],
+    "stamp": null,
+    "icon": null,
+    "size": 130
+   },
+   "from": 11650,
+   "dur": 214,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 11650,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n6.0",
+   "beat": "n6",
    "scene": "CeilingRow",
    "props": {
     "mode": "deluge"
    },
-   "dur": 332,
-   "voStart": 12403,
-   "vo": "03_voiceover/sprinkler/final/n6.wav",
-   "voDur": 9.816,
-   "from": 12394,
+   "from": 11864,
+   "dur": 217,
    "cues": [
     {
      "file": "water_spray_burst",
-     "frame": 12411,
+     "frame": 11881,
      "gain": -13
     },
     {
      "file": "click_1",
-     "frame": 12560,
+     "frame": 11972,
      "gain": -16
     }
    ]
   },
   {
-   "id": "e1",
+   "id": "n6.1",
+   "beat": "n6",
+   "scene": "Words",
+   "props": {
+    "lines": [
+     "EVERYWHERE ELSE,",
+     "THE MOVIES",
+     "ARE WRONG"
+    ],
+    "red": [
+     2
+    ]
+   },
+   "from": 12081,
+   "dur": 91,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 12127,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
    "scene": "CeilingRow",
    "props": {
     "mode": "real",
     "caption": "A ONE- OR TWO-SPRINKLER FIRE"
    },
-   "dur": 390,
-   "voStart": 12735,
-   "vo": "03_voiceover/sprinkler/final/e1.wav",
-   "voDur": 11.989,
-   "from": 12726,
+   "from": 12172,
+   "dur": 160,
    "cues": [
     {
      "file": "glass_shatter_2",
-     "frame": 12752,
+     "frame": 12198,
      "gain": -9
     },
     {
      "file": "water_spray_burst",
-     "frame": 12755,
+     "frame": 12201,
      "gain": -17
     }
    ]
   },
   {
-   "id": "e2",
+   "id": "e1.1",
+   "beat": "e1",
+   "scene": "MacroCallout",
+   "props": {
+    "item": "red",
+    "target": "bulb",
+    "labels": [
+     "ONE TUBE",
+     "ONE COLOR",
+     "ONE NUMBER"
+    ]
+   },
+   "from": 12332,
+   "dur": 118,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 12336,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 12367,
+     "gain": -20
+    },
+    {
+     "file": "tick_3",
+     "frame": 12397,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "e1.2",
+   "beat": "e1",
+   "scene": "CeilingRow",
+   "props": {
+    "mode": "real",
+    "caption": "AND NOWHERE ELSE"
+   },
+   "from": 12450,
+   "dur": 88,
+   "cues": [
+    {
+     "file": "glass_shatter_2",
+     "frame": 12476,
+     "gain": -9
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 12479,
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
    "scene": "Outro",
    "props": {},
-   "dur": 250,
-   "voStart": 13120,
-   "vo": "03_voiceover/sprinkler/final/e2.wav",
-   "voDur": 5.205,
-   "from": 13116,
+   "from": 12538,
+   "dur": 248,
    "cues": [
     {
      "file": "stamp_thud_1",
-     "frame": 13136,
+     "frame": 12558,
      "gain": -10
     }
    ]

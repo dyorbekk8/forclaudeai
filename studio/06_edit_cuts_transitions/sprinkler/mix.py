@@ -84,7 +84,7 @@ music *= gain[:, None]
 # --- sfx ---------------------------------------------------------------
 sfx = np.zeros((N, 2))
 cache = {}
-for b in edl['beats']:
+for b in edl.get('shots', edl['beats']):
     for c in b['cues']:
         if c['file'] not in cache:
             cache[c['file']] = load(os.path.join(lib, 'library', c['file'] + '.wav'))
