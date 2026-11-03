@@ -1,712 +1,712 @@
 {
- "duration": 332.258,
+ "duration": 335.32,
  "lines": [
   {
    "id": "a01",
    "speaker": "MOM",
    "text": "Did you finish your homework?",
    "start": 0.5,
-   "end": 1.905
+   "end": 1.954
   },
   {
    "id": "a02",
    "speaker": "YOU",
    "text": "Yep.",
-   "start": 2.255,
-   "end": 2.99
+   "start": 2.304,
+   "end": 3.039
   },
   {
    "id": "a03",
    "speaker": "N",
    "text": "Something in your spine goes... pop.",
-   "start": 3.89,
-   "end": 7.013
+   "start": 3.939,
+   "end": 7.062
   },
   {
    "id": "a04",
    "speaker": "N",
    "text": "Your hoodie gets tighter. Your voice drops.",
-   "start": 7.463,
-   "end": 10.492
+   "start": 7.512,
+   "end": 10.54
   },
   {
    "id": "a05",
    "speaker": "N",
    "text": "And there's a hair on your chin that wasn't there a second ago.",
-   "start": 10.792,
-   "end": 14.246
+   "start": 10.84,
+   "end": 14.295
   },
   {
    "id": "a06",
    "speaker": "N",
    "text": "You were fifteen.",
-   "start": 14.796,
-   "end": 15.917
+   "start": 14.845,
+   "end": 15.966
   },
   {
    "id": "a07",
    "speaker": "N",
    "text": "Now, you're sixteen.",
-   "start": 16.417,
-   "end": 18.306
+   "start": 16.466,
+   "end": 18.355
   },
   {
    "id": "b01",
    "speaker": "N",
    "text": "Because in this world, every time you lie, you get one year older.",
-   "start": 19.206,
-   "end": 23.312
+   "start": 19.255,
+   "end": 23.361
   },
   {
    "id": "b02",
    "speaker": "N",
    "text": "Not your mind. Just your body. Instantly.",
-   "start": 23.712,
-   "end": 27.138
+   "start": 23.761,
+   "end": 27.187
   },
   {
    "id": "b03",
    "speaker": "N",
    "text": "And it never goes back.",
-   "start": 27.488,
-   "end": 29.67
+   "start": 27.537,
+   "end": 29.718
   },
   {
    "id": "b04",
    "speaker": "N",
    "text": "That sounds easy to avoid. Until you do the math.",
-   "start": 30.47,
-   "end": 34.113
+   "start": 30.518,
+   "end": 34.162
   },
   {
    "id": "b05",
    "speaker": "N",
    "text": "In one study, researchers asked a thousand American adults how many lies they'd told in the last twenty four hours.",
-   "start": 34.513,
-   "end": 40.886
+   "start": 34.562,
+   "end": 40.935
   },
   {
    "id": "b06",
    "speaker": "N",
    "text": "The average was one point six five a day.",
-   "start": 41.236,
-   "end": 44.506
+   "start": 41.285,
+   "end": 44.554
   },
   {
    "id": "b07",
    "speaker": "N",
    "text": "At that rate, a fifteen year old would be ninety in about six weeks.",
-   "start": 44.906,
-   "end": 49.02
+   "start": 44.954,
+   "end": 49.068
   },
   {
    "id": "b08",
    "speaker": "N",
    "text": "But here's the weird part.",
-   "start": 49.82,
-   "end": 50.987
+   "start": 49.868,
+   "end": 51.035
   },
   {
    "id": "b09",
    "speaker": "N",
    "text": "Six out of ten people said they hadn't told a single lie that day.",
-   "start": 51.287,
-   "end": 54.876
+   "start": 51.335,
+   "end": 54.925
   },
   {
    "id": "b10",
    "speaker": "N",
    "text": "And half of all the lies came from just one person in twenty.",
-   "start": 55.176,
-   "end": 58.702
+   "start": 55.224,
+   "end": 58.75
   },
   {
    "id": "b11",
    "speaker": "N",
    "text": "So the rule is simple. Be one of the six.",
-   "start": 59.302,
-   "end": 61.92
+   "start": 59.35,
+   "end": 61.968
   },
   {
    "id": "c01",
    "speaker": "N",
    "text": "Day one. Your best friend Sam just got a haircut.",
-   "start": 62.92,
-   "end": 66.059
+   "start": 62.968,
+   "end": 66.108
   },
   {
    "id": "c02",
    "speaker": "SAM",
    "text": "Be honest. Is it good?",
-   "start": 66.359,
-   "end": 67.952
+   "start": 66.408,
+   "end": 68.352
   },
   {
    "id": "c03",
    "speaker": "YOU",
    "text": "It looks like... a decision.",
-   "start": 68.452,
-   "end": 71.039
+   "start": 68.852,
+   "end": 71.439
   },
   {
    "id": "c04",
    "speaker": "N",
    "text": "Your teacher asks if you read chapter four. You didn't.",
-   "start": 71.839,
-   "end": 74.934
+   "start": 72.239,
+   "end": 75.333
   },
   {
    "id": "c05",
    "speaker": "N",
    "text": "Detention.",
-   "start": 75.184,
-   "end": 75.919
+   "start": 75.583,
+   "end": 76.318
   },
   {
    "id": "c06",
    "speaker": "N",
    "text": "Your mom made meatloaf. You say you're not that hungry.",
-   "start": 76.519,
-   "end": 79.344
+   "start": 76.918,
+   "end": 79.743
   },
   {
    "id": "c07",
    "speaker": "N",
    "text": "Which is true. Because you saw the meatloaf.",
-   "start": 79.644,
-   "end": 82.604
+   "start": 80.043,
+   "end": 83.003
   },
   {
    "id": "c08",
    "speaker": "N",
    "text": "And then something strange happens. People start trusting you.",
-   "start": 83.404,
-   "end": 86.971
+   "start": 83.803,
+   "end": 87.371
   },
   {
    "id": "c09",
    "speaker": "N",
    "text": "Is this text too clingy? Ask Eli.",
-   "start": 87.321,
-   "end": 89.82
+   "start": 87.721,
+   "end": 90.219
   },
   {
    "id": "c10",
    "speaker": "N",
    "text": "Does this shirt work? Ask Eli.",
-   "start": 90.02,
-   "end": 92.145
+   "start": 90.419,
+   "end": 92.544
   },
   {
    "id": "c11",
    "speaker": "N",
    "text": "By Friday, half the school wants your opinion.",
-   "start": 92.495,
-   "end": 94.865
+   "start": 92.894,
+   "end": 95.264
   },
   {
    "id": "c12",
    "speaker": "N",
    "text": "Because you are the only person in the building who can't lie to them.",
-   "start": 95.115,
-   "end": 98.667
+   "start": 95.514,
+   "end": 99.066
   },
   {
    "id": "d01",
    "speaker": "N",
    "text": "Then the lies start slipping out. Not big ones. Reflex ones.",
-   "start": 99.667,
-   "end": 104.231
+   "start": 100.066,
+   "end": 104.63
   },
   {
    "id": "d02",
    "speaker": "MOM",
    "text": "Did you eat the last cookie?",
-   "start": 104.731,
-   "end": 106.234
+   "start": 105.13,
+   "end": 106.833
   },
   {
    "id": "d03",
    "speaker": "YOU",
    "text": "No.",
-   "start": 106.534,
-   "end": 107.401
+   "start": 107.133,
+   "end": 107.999
   },
   {
    "id": "d04",
    "speaker": "N",
    "text": "Pop. Seventeen.",
-   "start": 108.101,
-   "end": 109.813
+   "start": 108.699,
+   "end": 110.412
   },
   {
    "id": "d05",
    "speaker": "N",
    "text": "Someone bumps you in the hallway. I'm fine.",
-   "start": 110.263,
-   "end": 112.72
+   "start": 110.862,
+   "end": 113.319
   },
   {
    "id": "d06",
    "speaker": "N",
    "text": "Eighteen.",
-   "start": 112.97,
-   "end": 113.651
+   "start": 113.569,
+   "end": 114.249
   },
   {
    "id": "d07",
    "speaker": "N",
    "text": "Your aunt calls. How are you? Good, thanks!",
-   "start": 114.051,
-   "end": 118.079
+   "start": 114.649,
+   "end": 118.677
   },
   {
    "id": "d08",
    "speaker": "N",
    "text": "Nineteen.",
-   "start": 118.329,
-   "end": 119.101
+   "start": 118.927,
+   "end": 119.7
   },
   {
    "id": "d09",
    "speaker": "N",
    "text": "Nineteen years old. In tenth grade.",
-   "start": 119.801,
-   "end": 122.364
+   "start": 120.4,
+   "end": 122.963
   },
   {
    "id": "d10",
    "speaker": "N",
    "text": "You shave every morning. The bus driver asks for your I.D.",
-   "start": 122.714,
-   "end": 126.133
+   "start": 123.313,
+   "end": 126.732
   },
   {
    "id": "d11",
    "speaker": "N",
    "text": "And at breakfast, your mom just keeps staring at you.",
-   "start": 126.433,
-   "end": 129.383
+   "start": 127.032,
+   "end": 129.981
   },
   {
    "id": "d12",
    "speaker": "MOM",
    "text": "Honey... are you okay?",
-   "start": 129.783,
-   "end": 131.064
+   "start": 130.381,
+   "end": 132.486
   },
   {
    "id": "d13",
    "speaker": "N",
    "text": "And that's the trap. You can't say, I'm fine.",
-   "start": 131.864,
-   "end": 135.051
+   "start": 133.286,
+   "end": 136.473
   },
   {
    "id": "d14",
    "speaker": "N",
    "text": "So you say nothing at all.",
-   "start": 135.401,
-   "end": 136.953
+   "start": 136.823,
+   "end": 138.375
   },
   {
    "id": "e01",
    "speaker": "N",
    "text": "On Saturdays, you visit Grandpa Walt.",
-   "start": 138.153,
-   "end": 140.331
+   "start": 139.575,
+   "end": 141.753
   },
   {
    "id": "e02",
    "speaker": "N",
    "text": "He taught you to ride a bike. He taught you to cheat at cards.",
-   "start": 140.631,
-   "end": 144.216
+   "start": 142.053,
+   "end": 145.638
   },
   {
    "id": "e03",
    "speaker": "N",
    "text": "These days, he doesn't always remember your name.",
-   "start": 144.566,
-   "end": 147.218
+   "start": 145.988,
+   "end": 148.64
   },
   {
    "id": "e04",
    "speaker": "N",
    "text": "And every Saturday, he asks the same question.",
-   "start": 147.818,
-   "end": 150.619
+   "start": 149.24,
+   "end": 152.041
   },
   {
    "id": "e05",
    "speaker": "GRANDPA",
    "text": "Is Rosie coming today?",
-   "start": 151.019,
-   "end": 152.572
+   "start": 152.441,
+   "end": 153.993
   },
   {
    "id": "e06",
    "speaker": "N",
    "text": "Grandma Rosie died two years ago.",
-   "start": 153.372,
-   "end": 155.269
+   "start": 154.793,
+   "end": 156.691
   },
   {
    "id": "e07",
    "speaker": "N",
    "text": "The first time, you tell him the truth.",
-   "start": 156.069,
-   "end": 158.163
+   "start": 157.491,
+   "end": 159.584
   },
   {
    "id": "e08",
    "speaker": "N",
    "text": "And you watch him hear it for the very first time.",
-   "start": 158.463,
-   "end": 162.239
+   "start": 159.884,
+   "end": 163.661
   },
   {
    "id": "e09",
    "speaker": "N",
    "text": "He cries like it just happened.",
-   "start": 162.639,
-   "end": 164.789
+   "start": 164.061,
+   "end": 166.211
   },
   {
    "id": "e10",
    "speaker": "N",
    "text": "Because for him, it did.",
-   "start": 165.139,
-   "end": 167.341
+   "start": 166.561,
+   "end": 168.762
   },
   {
    "id": "e11",
    "speaker": "N",
    "text": "For many people with dementia, bad news doesn't stay learned.",
-   "start": 168.341,
-   "end": 171.954
+   "start": 169.762,
+   "end": 173.375
   },
   {
    "id": "e12",
    "speaker": "N",
    "text": "Every time they hear it, the grief can feel brand new.",
-   "start": 172.254,
-   "end": 175.543
+   "start": 173.675,
+   "end": 176.965
   },
   {
    "id": "e13",
    "speaker": "N",
    "text": "So some caregivers choose a gentle answer instead.",
-   "start": 175.893,
-   "end": 178.802
+   "start": 177.315,
+   "end": 180.223
   },
   {
    "id": "e14",
    "speaker": "N",
    "text": "The next Saturday, he asks again.",
-   "start": 179.702,
-   "end": 182.057
+   "start": 181.123,
+   "end": 183.479
   },
   {
    "id": "e15",
    "speaker": "GRANDPA",
    "text": "Is Rosie coming today?",
-   "start": 182.457,
-   "end": 184.015
+   "start": 183.879,
+   "end": 185.437
   },
   {
    "id": "e16",
    "speaker": "YOU",
    "text": "She's on her way, Grandpa.",
-   "start": 185.415,
-   "end": 187.49
+   "start": 186.837,
+   "end": 188.911
   },
   {
    "id": "e17",
    "speaker": "N",
    "text": "Pop. Twenty.",
-   "start": 188.29,
-   "end": 189.67
+   "start": 189.711,
+   "end": 191.092
   },
   {
    "id": "e18",
    "speaker": "N",
    "text": "He smiles all afternoon.",
-   "start": 190.07,
-   "end": 191.886
+   "start": 191.492,
+   "end": 193.308
   },
   {
    "id": "f01",
    "speaker": "N",
    "text": "So you make a choice. Every Saturday. One lie. One year.",
-   "start": 192.886,
-   "end": 197.834
+   "start": 194.308,
+   "end": 199.256
   },
   {
    "id": "f02",
    "speaker": "N",
    "text": "Twenty one. He hums her favorite song.",
-   "start": 198.434,
-   "end": 201.106
+   "start": 199.856,
+   "end": 202.528
   },
   {
    "id": "f03",
    "speaker": "N",
    "text": "Twenty five. He combs his hair for her.",
-   "start": 201.456,
-   "end": 204.075
+   "start": 202.878,
+   "end": 205.497
   },
   {
    "id": "f04",
    "speaker": "N",
    "text": "Thirty. Your knees start to ache on the stairs.",
-   "start": 204.425,
-   "end": 207.327
+   "start": 205.847,
+   "end": 208.749
   },
   {
    "id": "f05",
    "speaker": "N",
    "text": "Thirty six. Your mom finds a gray hair on your hoodie...",
-   "start": 207.677,
-   "end": 211.317
+   "start": 209.099,
+   "end": 212.738
   },
   {
    "id": "f06",
    "speaker": "N",
    "text": "and it's yours.",
-   "start": 211.617,
-   "end": 212.581
+   "start": 213.038,
+   "end": 214.002
   },
   {
    "id": "f07",
    "speaker": "MOM",
    "text": "Eli. What is happening to you?",
-   "start": 213.181,
-   "end": 214.748
+   "start": 214.602,
+   "end": 217.201
   },
   {
    "id": "f08",
    "speaker": "N",
    "text": "You don't answer. Because the truth would sound like a lie.",
-   "start": 215.448,
-   "end": 218.65
+   "start": 217.901,
+   "end": 221.104
   },
   {
    "id": "g01",
    "speaker": "N",
    "text": "Forty one.",
-   "start": 219.85,
-   "end": 220.753
+   "start": 222.304,
+   "end": 223.206
   },
   {
    "id": "g02",
    "speaker": "N",
    "text": "And then, one Saturday, Grandpa doesn't ask about Rosie.",
-   "start": 221.253,
-   "end": 224.76
+   "start": 223.706,
+   "end": 227.213
   },
   {
    "id": "g03",
    "speaker": "N",
    "text": "He looks at your face. Really looks.",
-   "start": 225.06,
-   "end": 227.79
+   "start": 227.513,
+   "end": 230.244
   },
   {
    "id": "g04",
    "speaker": "GRANDPA",
    "text": "You've got her curse.",
-   "start": 228.59,
-   "end": 230.373
+   "start": 231.044,
+   "end": 232.827
   },
   {
    "id": "g05",
    "speaker": "N",
    "text": "Wait. What?",
-   "start": 231.073,
-   "end": 233.311
+   "start": 233.527,
+   "end": 235.764
   },
   {
    "id": "g06",
    "speaker": "GRANDPA",
    "text": "Your grandmother. Every little lie, one more year.",
-   "start": 233.811,
-   "end": 238.808
+   "start": 236.264,
+   "end": 241.261
   },
   {
    "id": "g07",
    "speaker": "GRANDPA",
    "text": "I married her at twenty. She looked forty five.",
-   "start": 239.108,
-   "end": 243.172
+   "start": 241.561,
+   "end": 245.625
   },
   {
    "id": "g08",
    "speaker": "N",
    "text": "She told him he was a great dancer. He wasn't.",
-   "start": 243.972,
-   "end": 247.059
+   "start": 246.425,
+   "end": 249.512
   },
   {
    "id": "g09",
    "speaker": "N",
    "text": "She told your mom the dog went to live on a farm.",
-   "start": 247.359,
-   "end": 249.953
+   "start": 249.812,
+   "end": 252.407
   },
   {
    "id": "g10",
    "speaker": "N",
    "text": "And every night for fifty years, she told him she wasn't tired.",
-   "start": 250.253,
-   "end": 254.305
+   "start": 252.707,
+   "end": 256.759
   },
   {
    "id": "g11",
    "speaker": "N",
    "text": "Every lie she ever told was for somebody else.",
-   "start": 254.805,
-   "end": 258.031
+   "start": 257.259,
+   "end": 260.484
   },
   {
    "id": "g12",
    "speaker": "GRANDPA",
    "text": "She spent her years on us, kiddo. Don't you spend yours on me.",
-   "start": 258.931,
-   "end": 263.422
+   "start": 261.384,
+   "end": 265.875
   },
   {
    "id": "g13",
    "speaker": "N",
    "text": "Then he asks you one last time.",
-   "start": 264.222,
-   "end": 266.005
+   "start": 266.675,
+   "end": 268.458
   },
   {
    "id": "g14",
    "speaker": "GRANDPA",
    "text": "So. Tell me the truth. Is Rosie coming?",
-   "start": 266.405,
-   "end": 270.171
+   "start": 268.858,
+   "end": 272.624
   },
   {
    "id": "g15",
    "speaker": "YOU",
    "text": "No, Grandpa. She's not.",
-   "start": 271.471,
-   "end": 273.771
+   "start": 273.924,
+   "end": 276.224
   },
   {
    "id": "g16",
    "speaker": "N",
    "text": "He nods. He squeezes your hand.",
-   "start": 274.671,
-   "end": 277.208
+   "start": 277.124,
+   "end": 279.661
   },
   {
    "id": "g17",
    "speaker": "GRANDPA",
    "text": "Good. Now go live. I'll be fine.",
-   "start": 277.708,
-   "end": 281.404
+   "start": 280.161,
+   "end": 283.857
   },
   {
    "id": "g18",
    "speaker": "N",
    "text": "It's the kindest lie you've ever heard.",
-   "start": 282.304,
-   "end": 284.331
+   "start": 284.757,
+   "end": 286.784
   },
   {
    "id": "h01",
    "speaker": "N",
    "text": "You're fifteen years old. Your body is forty one.",
-   "start": 285.931,
-   "end": 289.677
+   "start": 288.384,
+   "end": 292.13
   },
   {
    "id": "h02",
    "speaker": "N",
    "text": "You can grow a full beard, but you still can't get a driver's license.",
-   "start": 290.027,
-   "end": 293.729
+   "start": 292.48,
+   "end": 296.183
   },
   {
    "id": "h03",
    "speaker": "N",
    "text": "And you've never had friends who trusted you more.",
-   "start": 294.079,
-   "end": 296.507
+   "start": 296.533,
+   "end": 298.96
   },
   {
    "id": "h04",
    "speaker": "N",
    "text": "You still visit Grandpa every Saturday. You just tell him the truth now.",
-   "start": 297.107,
-   "end": 301.21
+   "start": 299.56,
+   "end": 303.663
   },
   {
    "id": "h05",
    "speaker": "N",
    "text": "And somehow, it still makes him smile.",
-   "start": 301.56,
-   "end": 304.261
+   "start": 304.013,
+   "end": 306.714
   },
   {
    "id": "i01",
    "speaker": "N",
    "text": "Then, at dinner, your little sister knocks a glass off the table.",
-   "start": 305.561,
-   "end": 309.787
+   "start": 308.014,
+   "end": 312.24
   },
   {
    "id": "i02",
    "speaker": "MOM",
    "text": "Nora! Did you do that?",
-   "start": 310.087,
-   "end": 311.391
+   "start": 312.54,
+   "end": 314.453
   },
   {
    "id": "i03",
    "speaker": "NORA",
    "text": "Nope!",
-   "start": 311.691,
-   "end": 312.53
+   "start": 314.753,
+   "end": 315.592
   },
   {
    "id": "i04",
    "speaker": "N",
    "text": "Nothing happens. You breathe out.",
-   "start": 313.23,
-   "end": 315.342
+   "start": 316.292,
+   "end": 318.404
   },
   {
    "id": "i05",
    "speaker": "N",
    "text": "And then you see it.",
-   "start": 315.842,
-   "end": 317.67
+   "start": 318.904,
+   "end": 320.733
   },
   {
    "id": "i06",
    "speaker": "N",
    "text": "One gray hair. On a seven year old.",
-   "start": 318.07,
-   "end": 320.705
+   "start": 321.133,
+   "end": 323.768
   },
   {
    "id": "i07",
    "speaker": "N",
    "text": "So, would you spend a year of your life on a kind lie? Tell us in the comments.",
-   "start": 321.905,
-   "end": 326.645
+   "start": 324.968,
+   "end": 329.708
   },
   {
    "id": "i08",
    "speaker": "N",
    "text": "And subscribe. Because Nora is about to learn the rules.",
-   "start": 327.045,
-   "end": 330.758
+   "start": 330.108,
+   "end": 333.82
   }
  ]
 }
