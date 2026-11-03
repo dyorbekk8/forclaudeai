@@ -192,15 +192,34 @@ sfx("pop_ui_1", A["I5"] + 0.3, -15); sfx("pop_ui_2", A["I5"] + 0.7, -15); sfx("b
 sfx("pop_ui_3", S("i08") - 0.2, -13); sfx("ding_2", S("i08") + 1.2, -12)
 
 # ---------- music ----------
-MUSIC = [("m1_curious", 0.0, -1.0), ("m2_comedy", A["C1"], -2.5), ("m3_tension", A["D1"], -2.0),
-         ("m4_tender", E("e15") - 0.3 - 42.0, -1.5), ("m5_reveal", E("g18") + 0.3 - 56.0, -1.0),
-         ("m6_resolve", A["H1"], -2.0), ("m7_cliffhanger", A["I1"], -1.0)]
+_m4 = E("e15") - 0.3 - 42.0
+_m5 = E("g18") + 0.3 - 56.0
+TOT = TL["duration"]
+# (name, start, gain dB, target length or None, max length or None)
+MUSIC = [("m1_curious", 0.0, -1.0, A["C1"] + 0.3, None), ("m2_comedy", A["C1"], -2.5, A["D1"] - A["C1"] + 0.3, None),
+         ("m3_tension", A["D1"], -2.0, _m4 - A["D1"] + 1.0, None),
+         ("m4_tender", _m4, -1.5, None, None),
+         ("m7_cliffhanger", _m4 + 74.0, -6.0, None, _m5 - _m4 - 74.0 + 1.5),   # ominous bridge into the twist
+         ("m5_reveal", _m5, -1.0, None, None),
+         ("m6_resolve", A["H1"], -2.0, A["I1"] - A["H1"] + 0.5, None), ("m7_cliffhanger", A["I1"], -1.0, TOT - A["I1"] + 0.3, None)]
+import tempfile
+def fitted(p, target):
+    d = sf.info(p).duration
+    r = d / target
+    if abs(r - 1) < 0.005: return p
+    out = os.path.join(tempfile.gettempdir(), f"fit_{os.path.basename(p)}_{target:.2f}.wav")
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", p, "-af", f"atempo={r:.5f}", out], check=True)
+    return out
 mus = np.zeros((N, 2), np.float32)
-for name, t0, db in MUSIC:
+for name, t0, db, target, maxlen in MUSIC:
     p = f"{ROOT}/04_audio/music/{name}.wav"
     if not os.path.exists(p):
         print("MISSING music", name); continue
+    if target: p = fitted(p, target)
     x = load(p)
+    if maxlen:
+        x = x[: int(maxlen * SR)].copy()
+        f = int(min(2.0, maxlen / 3) * SR); x[-f:] *= np.linspace(1, 0, f)[:, None]
     f = int(0.6 * SR)
     x[:f] *= np.linspace(0, 1, f)[:, None] if t0 > 0.1 else 1
     place(mus, x, t0, 10 ** (db / 20))

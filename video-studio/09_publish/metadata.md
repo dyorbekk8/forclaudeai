@@ -23,15 +23,15 @@ Would you spend a year of your life on a kind lie? Tell us in the comments.
 
 Chapters
 0:00 One little lie
-0:16 The rule
-0:25 Doing the math
-0:56 Day one
-1:31 The slip
-2:06 Grandpa Walt
-2:57 One lie, one year
-3:21 Her curse
-4:18 Fifteen and forty-one
-4:37 Nora
+0:17 The rule
+0:27 Doing the math
+0:59 Day one
+1:36 The slip
+2:14 Grandpa Walt
+3:07 One lie, one year
+3:35 Her curse
+4:37 Fifteen and forty-one
+4:56 Nora
 
 Is any of this real? The science in this episode:
 - In a survey of 1,000 U.S. adults, people reported telling 1.65 lies a day on average; about 60% reported telling no lies at all in the previous 24 hours, and about half of all lies came from roughly 5% of people. — Serota, K. B., Levine, T. R., & Boster, F. J. (2010). "The Prevalence of Lying in America: Three Studies of Self-Reported Lies." Human Communication Research, 36(1), 2–25.
