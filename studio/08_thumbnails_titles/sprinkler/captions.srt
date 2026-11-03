@@ -1,519 +1,507 @@
 1
-00:00:00,133 --> 00:00:08,627
-On November 21, 1980, a fire started in a deli inside the MGM Grand in Las Vegas.
+00:00:00,067 --> 00:00:04,779
+Every fire sprinkler has a colored glass bulb, and every color is a different
 
 2
-00:00:08,667 --> 00:00:10,207
-85 people died.
+00:00:04,819 --> 00:00:05,520
+temperature.
 
 3
-00:00:10,667 --> 00:00:13,578
-The resort had cost $106 million.
-
-4
-00:00:13,618 --> 00:00:20,374
-Putting sprinklers in the places that didn't have them would have cost about
-
-5
-00:00:20,414 --> 00:00:21,179
-$192,000.
-
-6
-00:00:21,633 --> 00:00:26,391
-One of the investigators later said that with sprinklers, it would have been a one-
-
-7
-00:00:26,431 --> 00:00:30,148
-or two-sprinkler fire, and nobody would ever have heard about it.
-
-8
-00:00:30,600 --> 00:00:35,789
-Every sprinkler on a ceiling is waiting for one number, and that number is written
-
-9
-00:00:35,829 --> 00:00:36,363
-in color.
-
-10
-00:00:36,403 --> 00:00:39,232
-There are seven colors, from orange to black.
-
-11
-00:00:39,272 --> 00:00:44,206
-And the most important fact about all of them is the one the movies get wrong.
-
-12
-00:00:44,246 --> 00:00:45,226
-That comes last.
-
-13
-00:00:46,300 --> 00:00:46,803
+00:00:06,433 --> 00:00:06,936
 Orange.
 
-14
-00:00:46,843 --> 00:00:51,613
+4
+00:00:06,976 --> 00:00:11,746
 The lowest number in the whole system: 135 degrees Fahrenheit.
 
-15
-00:00:52,100 --> 00:00:57,447
+5
+00:00:12,000 --> 00:00:17,347
 That little glass tube is filled with liquid, with one small bubble left inside on
 
-16
-00:00:57,487 --> 00:00:57,972
+6
+00:00:17,387 --> 00:00:17,872
 purpose.
 
-17
-00:00:58,012 --> 00:01:03,294
+7
+00:00:17,912 --> 00:00:23,194
 As the air around it heats up, the liquid expands and squeezes the bubble smaller
 
-18
-00:01:03,334 --> 00:01:04,082
+8
+00:00:23,234 --> 00:00:23,982
 and smaller.
 
-19
-00:01:04,533 --> 00:01:09,386
+9
+00:00:24,233 --> 00:00:29,086
 When the bubble has nowhere left to go, the pressure shatters the glass, the plug
 
-20
-00:01:09,426 --> 00:01:12,346
+10
+00:00:29,126 --> 00:00:32,046
 above it falls out, and water hits the deflector.
 
-21
-00:01:13,200 --> 00:01:18,349
+11
+00:00:32,533 --> 00:00:37,682
 Orange heads are meant for ceilings that never get hotter than 100 degrees.
 
-22
-00:01:18,389 --> 00:01:23,884
+12
+00:00:37,722 --> 00:00:43,217
 The rating sits far enough above that, that a hot day can't reach it, but a fire
 
-23
-00:01:23,924 --> 00:01:24,161
+13
+00:00:43,257 --> 00:00:43,494
 can.
 
-24
-00:01:24,201 --> 00:01:25,821
+14
+00:00:43,534 --> 00:00:45,155
 The bubble isn't a flaw.
 
-25
-00:01:25,861 --> 00:01:26,790
+15
+00:00:45,195 --> 00:00:46,123
 It's the fuse.
 
-26
-00:01:27,867 --> 00:01:28,156
+16
+00:00:47,033 --> 00:00:47,322
 Red.
 
-27
-00:01:28,196 --> 00:01:29,143
+17
+00:00:47,362 --> 00:00:48,310
 155 degrees.
 
-28
-00:01:29,183 --> 00:01:35,477
+18
+00:00:48,350 --> 00:00:54,644
 The same ordinary class as orange, and the head you're most likely to find in
 
-29
-00:01:35,517 --> 00:01:36,958
+19
+00:00:54,684 --> 00:00:56,124
 offices and homes.
 
-30
-00:01:37,433 --> 00:01:41,648
+20
+00:00:56,367 --> 00:01:00,581
 But heat isn't the only thing that can break the glass.
 
-31
-00:01:41,688 --> 00:01:47,682
+21
+00:01:00,621 --> 00:01:06,616
 On October 20, 2017, a high school cadet staying at a Holiday Inn in Dumfries,
 
-32
-00:01:47,722 --> 00:01:52,014
+22
+00:01:06,656 --> 00:01:10,948
 Virginia, hung his uniform on the sprinkler in his room.
 
-33
-00:01:52,467 --> 00:01:53,534
+23
+00:01:11,200 --> 00:01:12,267
 The bulb broke.
 
-34
-00:01:53,574 --> 00:01:59,588
+24
+00:01:12,307 --> 00:01:18,321
 Water flooded 10 rooms, the kitchen and the dining area, and a lawsuit later asked
 
-35
-00:01:59,628 --> 00:02:01,065
+25
+00:01:18,361 --> 00:01:19,798
 for nearly $700,000.
 
-36
-00:02:01,105 --> 00:02:06,159
+26
+00:01:19,838 --> 00:01:24,892
 The glass can't tell the difference between a fire and a coat hanger.
 
-37
-00:02:07,633 --> 00:02:08,188
+27
+00:01:26,033 --> 00:01:26,588
 Yellow.
 
-38
-00:02:08,228 --> 00:02:12,692
+28
+00:01:26,628 --> 00:01:31,092
 175 degrees, and the start of the intermediate class.
 
-39
-00:02:13,167 --> 00:02:17,501
+29
+00:01:31,333 --> 00:01:35,668
 Intermediate heads are for ceilings that get hot on their own.
 
-40
-00:02:17,541 --> 00:02:23,145
+30
+00:01:35,708 --> 00:01:41,312
 Under a skylight in direct sun, or in an attic below a bare roof, the air at the
 
-41
-00:02:23,185 --> 00:02:27,520
+31
+00:01:41,352 --> 00:01:45,686
 ceiling can climb well past 100 degrees with no fire anywhere.
 
-42
-00:02:27,967 --> 00:02:31,674
+32
+00:01:45,933 --> 00:01:49,641
 Yellow heads are rated for ceilings up to 150 degrees.
 
-43
-00:02:31,714 --> 00:02:36,323
+33
+00:01:49,681 --> 00:01:54,290
 In a room like that, an orange bulb wouldn't be waiting for a fire.
 
-44
-00:02:36,363 --> 00:02:39,238
+34
+00:01:54,330 --> 00:01:57,204
 It would be waiting for a sunny afternoon.
 
-45
-00:02:40,300 --> 00:02:40,695
+35
+00:01:58,367 --> 00:01:58,762
 Green.
 
-46
-00:02:40,735 --> 00:02:41,565
+36
+00:01:58,802 --> 00:01:59,631
 200 degrees.
 
-47
-00:02:41,605 --> 00:02:47,509
+37
+00:01:59,671 --> 00:02:05,576
 The same class as yellow, built for the same kind of space, just with more room to
 
-48
-00:02:47,549 --> 00:02:47,944
+38
+00:02:05,616 --> 00:02:06,011
 spare.
 
-49
-00:02:48,433 --> 00:02:50,846
+39
+00:02:06,267 --> 00:02:08,679
 That's the pattern behind the whole code.
 
-50
-00:02:50,886 --> 00:02:55,810
+40
+00:02:08,719 --> 00:02:13,644
 Each class is built for a hotter ceiling, and its bulbs break comfortably above it.
 
-51
-00:02:56,267 --> 00:02:58,869
+41
+00:02:13,900 --> 00:02:16,502
 And 200 is lower than you might think.
 
-52
-00:02:58,909 --> 00:03:03,527
+42
+00:02:16,542 --> 00:02:21,160
 A green bulb breaks before a pot of water would even start to boil.
 
-53
-00:03:04,600 --> 00:03:04,969
+43
+00:02:22,067 --> 00:02:22,436
 Blue.
 
-54
-00:03:05,009 --> 00:03:05,950
+44
+00:02:22,476 --> 00:02:23,417
 286 degrees.
 
-55
-00:03:05,990 --> 00:03:09,548
+45
+00:02:23,457 --> 00:02:27,015
 This is the high class, and it's a big jump.
 
-56
-00:03:10,033 --> 00:03:15,616
+46
+00:02:27,267 --> 00:02:32,849
 Blue heads are built for ceilings that can sit at up to 225 degrees, like the space
 
-57
-00:03:15,656 --> 00:03:20,899
+47
+00:02:32,889 --> 00:02:38,132
 right around an industrial unit heater, where hot air blows straight up at the
 
-58
-00:03:20,939 --> 00:03:21,983
+48
+00:02:38,172 --> 00:02:39,216
 ceiling all day.
 
-59
-00:03:22,023 --> 00:03:25,776
+49
+00:02:39,256 --> 00:02:43,009
 In a space like that, a red bulb wouldn't be protection.
 
-60
-00:03:25,816 --> 00:03:28,282
+50
+00:02:43,049 --> 00:02:45,516
 It would be a leak waiting to happen.
 
-61
-00:03:29,000 --> 00:03:34,111
+51
+00:02:46,000 --> 00:02:51,111
 If you're finding this useful so far, a like and a subscribe help the channel more
 
-62
-00:03:34,151 --> 00:03:35,304
+52
+00:02:51,151 --> 00:02:52,304
 than anything else.
 
-63
-00:03:36,367 --> 00:03:36,914
+53
+00:02:53,200 --> 00:02:53,747
 Purple.
 
-64
-00:03:36,954 --> 00:03:37,921
+54
+00:02:53,787 --> 00:02:54,755
 360 degrees.
 
-65
-00:03:37,961 --> 00:03:39,684
+55
+00:02:54,795 --> 00:02:56,517
 The extra high class.
 
-66
-00:03:39,724 --> 00:03:43,125
+56
+00:02:56,557 --> 00:02:59,958
 Some manufacturers call this color mauve.
 
-67
-00:03:43,600 --> 00:03:46,294
+57
+00:03:00,200 --> 00:03:02,894
 And this is where the code gets confusing.
 
-68
-00:03:46,334 --> 00:03:49,744
+58
+00:03:02,934 --> 00:03:06,344
 Glass bulbs aren't the only thing that's color coded.
 
-69
-00:03:49,784 --> 00:03:54,561
+59
+00:03:06,384 --> 00:03:11,161
 On many sprinklers the metal frame is painted too, and the frame code is a
 
-70
-00:03:54,601 --> 00:03:56,253
+60
+00:03:11,201 --> 00:03:12,853
 completely different list.
 
-71
-00:03:56,700 --> 00:04:02,365
+61
+00:03:13,100 --> 00:03:18,765
 In that list, a red frame means extra high, the same class as this purple bulb.
 
-72
-00:04:02,405 --> 00:04:04,243
+62
+00:03:18,805 --> 00:03:20,643
 A red bulb means ordinary.
 
-73
-00:04:04,283 --> 00:04:07,059
+63
+00:03:20,683 --> 00:03:23,459
 Same color, opposite ends of the scale.
 
-74
-00:04:08,133 --> 00:04:08,447
+64
+00:03:24,367 --> 00:03:24,680
 Black.
 
-75
-00:04:08,487 --> 00:04:10,627
+65
+00:03:24,720 --> 00:03:26,861
 The only color that isn't one number.
 
-76
-00:04:11,100 --> 00:04:18,563
+66
+00:03:27,100 --> 00:03:34,563
 Black covers two whole classes, very extra high and ultra high, everything from 400
 
-77
-00:04:18,603 --> 00:04:20,191
+67
+00:03:34,603 --> 00:03:36,191
 degrees up to 650.
 
-78
-00:04:20,231 --> 00:04:22,993
+68
+00:03:36,231 --> 00:03:38,993
 One common black rating is 500.
 
-79
-00:04:23,467 --> 00:04:28,711
+69
+00:03:39,233 --> 00:03:44,478
 These go in spaces that run hot all day, near ovens, heaters and industrial
 
-80
-00:04:28,751 --> 00:04:32,446
+70
+00:03:44,518 --> 00:03:48,212
 processes, where anything less would open on its own.
 
-81
-00:04:32,486 --> 00:04:35,405
+71
+00:03:48,252 --> 00:03:51,172
 Black isn't a warning about the sprinkler.
 
-82
-00:04:35,445 --> 00:04:37,519
+72
+00:03:51,212 --> 00:03:53,285
 It's a warning about the room.
 
-83
-00:04:38,600 --> 00:04:39,528
+73
+00:03:54,200 --> 00:03:55,128
 The thin bulb.
 
-84
-00:04:39,568 --> 00:04:44,573
+74
+00:03:55,168 --> 00:04:00,173
 Two red bulbs can have exactly the same rating and still not be the same.
 
-85
-00:04:45,033 --> 00:04:49,327
+75
+00:04:00,400 --> 00:04:04,694
 Standard response heads use a bulb about 5 millimeters thick.
 
-86
-00:04:49,367 --> 00:04:53,235
+76
+00:04:04,734 --> 00:04:08,602
 Quick response heads use one about 3 millimeters thick.
 
-87
-00:04:53,700 --> 00:04:59,151
+77
+00:04:08,867 --> 00:04:14,317
 Less glass and less liquid means it heats up faster, so it breaks sooner, while the
 
-88
-00:04:59,191 --> 00:05:00,474
+78
+00:04:14,357 --> 00:04:15,640
 fire is still small.
 
-89
-00:05:00,514 --> 00:05:05,965
+79
+00:04:15,680 --> 00:04:21,131
 That's why quick response heads go where saving lives is the main job, like offices
 
-90
-00:05:06,005 --> 00:05:06,758
+80
+00:04:21,171 --> 00:04:21,925
 and schools.
 
-91
-00:05:06,798 --> 00:05:09,074
+81
+00:04:21,965 --> 00:04:24,240
 The color tells you when it breaks.
 
-92
-00:05:09,114 --> 00:05:12,183
+82
+00:04:24,280 --> 00:04:27,350
 The thickness tells you how fast it gets there.
 
-93
-00:05:13,667 --> 00:05:14,621
+83
+00:04:28,500 --> 00:04:29,454
 No bulb at all.
 
-94
-00:05:14,661 --> 00:05:19,855
+84
+00:04:29,494 --> 00:04:34,688
 Some sprinklers hold the water back with a metal link instead: two small plates
 
-95
-00:05:19,895 --> 00:05:23,367
+85
+00:04:34,728 --> 00:04:38,200
 joined by solder that melts at the rated temperature.
 
-96
-00:05:23,833 --> 00:05:25,680
+86
+00:04:38,433 --> 00:04:40,280
 This is the older idea.
 
-97
-00:05:25,720 --> 00:05:32,241
+87
+00:04:40,320 --> 00:04:46,841
 On August 11, 1874, a New Haven piano maker named Henry Parmelee patented what's
 
-98
-00:05:32,281 --> 00:05:36,834
+88
+00:04:46,881 --> 00:04:51,434
 considered the first practical automatic sprinkler head.
 
-99
-00:05:36,874 --> 00:05:42,903
+89
+00:04:51,474 --> 00:04:57,503
 He built it to protect his piano factory, and to lower his insurance bill.
 
-100
-00:05:43,367 --> 00:05:46,994
+90
+00:04:57,767 --> 00:05:01,394
 The first automatic sprinkler wasn't built to save lives.
 
-101
-00:05:47,034 --> 00:05:48,731
+91
+00:05:01,434 --> 00:05:03,131
 It was built to save money.
 
-102
-00:05:49,600 --> 00:05:54,052
+92
+00:05:03,633 --> 00:05:08,086
 And finally, the most important number on this list isn't a temperature.
 
-103
-00:05:54,092 --> 00:05:54,614
+93
+00:05:08,126 --> 00:05:08,647
 It's one.
 
-104
-00:05:55,267 --> 00:05:59,434
+94
+00:05:08,900 --> 00:05:13,067
 In movies, one sprinkler goes off and the whole ceiling opens.
 
-105
-00:05:59,474 --> 00:06:01,062
+95
+00:05:13,107 --> 00:05:14,696
 That's not how it works.
 
-106
-00:06:01,102 --> 00:06:06,558
+96
+00:05:14,736 --> 00:05:20,192
 In a normal wet pipe system, every head is on its own, and only the ones that get
 
-107
-00:06:06,598 --> 00:06:07,712
+97
+00:05:20,232 --> 00:05:21,345
 hot enough break.
 
-108
-00:06:07,752 --> 00:06:09,544
+98
+00:05:21,385 --> 00:05:23,177
 Smoke doesn't set them off.
 
-109
-00:06:09,584 --> 00:06:10,223
+99
+00:05:23,217 --> 00:05:23,856
 Heat does.
 
-110
-00:06:11,100 --> 00:06:11,706
+100
+00:05:24,100 --> 00:05:32,594
+On November 21, 1980, a fire started in a deli inside the MGM Grand in Las Vegas.
+
+101
+00:05:32,634 --> 00:05:34,174
+85 people died.
+
+102
+00:05:34,433 --> 00:05:37,344
+The resort had cost $106 million.
+
+103
+00:05:37,384 --> 00:05:44,141
+Putting sprinklers in the places that didn't have them would have cost about
+
+104
+00:05:44,181 --> 00:05:44,945
+$192,000.
+
+105
+00:05:45,200 --> 00:05:49,958
+One of the investigators later said that with sprinklers, it would have been a one-
+
+106
+00:05:49,998 --> 00:05:53,715
+or two-sprinkler fire, and nobody would ever have heard about it.
+
+107
+00:05:53,967 --> 00:05:54,573
 In U.S.
 
-111
-00:06:11,746 --> 00:06:18,907
+108
+00:05:54,613 --> 00:06:01,774
 building fires from 2015 to 2019 where sprinklers operated, just one sprinkler
 
-112
-00:06:18,947 --> 00:06:21,861
+109
+00:06:01,814 --> 00:06:04,728
 operated 77 percent of the time.
 
-113
-00:06:21,901 --> 00:06:26,385
+110
+00:06:04,768 --> 00:06:09,252
 Five or fewer were enough 97 percent of the time.
 
-114
-00:06:26,833 --> 00:06:32,184
+111
+00:06:09,500 --> 00:06:14,851
 And where sprinklers were installed, the death rate per fire was close to 90 percent
 
-115
-00:06:32,224 --> 00:06:32,569
+112
+00:06:14,891 --> 00:06:15,236
 lower.
 
-116
-00:06:33,033 --> 00:06:38,967
+113
+00:06:15,500 --> 00:06:21,434
 On February 20, 2003, 100 people died in The Station nightclub in West Warwick,
 
-117
-00:06:39,007 --> 00:06:39,950
+114
+00:06:21,474 --> 00:06:22,417
 Rhode Island.
 
-118
-00:06:39,990 --> 00:06:45,923
+115
+00:06:22,457 --> 00:06:28,390
 The building was old enough that it had never been required to have sprinklers.
 
-119
-00:06:45,963 --> 00:06:52,199
+116
+00:06:28,430 --> 00:06:34,666
 That same year, Rhode Island required them in every nightclub that holds 150 people
 
-120
-00:06:52,239 --> 00:06:52,804
+117
+00:06:34,706 --> 00:06:35,271
 or more.
 
-121
-00:06:53,433 --> 00:06:54,940
+118
+00:06:35,533 --> 00:06:37,040
 There is one exception.
 
-122
-00:06:54,980 --> 00:07:00,318
+119
+00:06:37,080 --> 00:06:42,418
 In a deluge system, every head is open, and when it fires, they all discharge at
 
-123
-00:07:00,358 --> 00:07:00,654
+120
+00:06:42,458 --> 00:06:42,754
 once.
 
-124
-00:07:00,694 --> 00:07:03,209
+121
+00:06:42,794 --> 00:06:45,309
 Everywhere else, the movies are wrong.
 
-125
-00:07:04,500 --> 00:07:07,806
+122
+00:06:45,800 --> 00:06:49,106
 That's what the investigator in Las Vegas meant.
 
-126
-00:07:07,846 --> 00:07:09,827
+123
+00:06:49,146 --> 00:06:51,127
 A one- or two-sprinkler fire.
 
-127
-00:07:09,867 --> 00:07:15,543
+124
+00:06:51,167 --> 00:06:56,843
 One small glass tube, one color, breaking at one number, right above the fire, and
 
-128
-00:07:15,583 --> 00:07:16,449
+125
+00:06:56,883 --> 00:06:57,749
 nowhere else.
 
-129
-00:07:17,333 --> 00:07:20,285
+126
+00:06:58,000 --> 00:07:00,951
 What color are the sprinklers above you right now?
 
-130
-00:07:20,325 --> 00:07:22,498
+127
+00:07:00,991 --> 00:07:03,165
 Look up, and tell me in the comments.
