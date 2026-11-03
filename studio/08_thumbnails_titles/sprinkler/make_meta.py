@@ -4,7 +4,7 @@ import json, os, re
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 HERE = os.path.dirname(os.path.abspath(__file__))
 edl = json.load(open(os.path.join(ROOT, '07_render', 'src', 'edl.json')))
-lines = {b['id']: b['text'] for b in json.load(open(os.path.join(ROOT, '02_scripts', 'sprinkler', 'vo_lines.json')))}
+lines = {b['id']: b['text'] for b in json.load(open(os.path.join(ROOT, '02_scripts', 'sprinkler', 'vo_lines_v2.json')))}
 facts = json.load(open(os.path.join(ROOT, '02_scripts', 'sprinkler', 'facts.json')))
 FPS = edl['fps']
 
@@ -39,7 +39,7 @@ for b in edl['beats']:
         t += d
 open(os.path.join(HERE, 'captions.srt'), 'w').write('\n'.join(srt))
 
-chap = [('0:00', 'A one- or two-sprinkler fire')]
+chap = [('0:00', 'Every sprinkler color')]
 names = {'o1': 'Orange', 'r1': 'Red', 'y1': 'Yellow', 'g1': 'Green', 'b1': 'Blue', 'p1': 'Purple', 'k1': 'Black',
          't1': 'The thin bulb', 'f1': 'No bulb at all', 'n1': 'The number that matters'}
 for b in edl['beats']:

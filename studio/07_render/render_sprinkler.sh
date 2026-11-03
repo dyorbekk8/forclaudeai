@@ -6,7 +6,7 @@ cd "$(dirname "$0")/.."
 B=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell
 OUT=07_render/out/every_fire_sprinkler_color_explained.mp4
 
-python3 06_edit_cuts_transitions/sprinkler/build_edl.py final
+python3 06_edit_cuts_transitions/sprinkler/build_edl_v2.py final_v2
 python3 -W ignore 06_edit_cuts_transitions/sprinkler/mix.py
 python3 08_thumbnails_titles/sprinkler/make_meta.py
 (cd 07_render && npx remotion render src/index.ts Main out/video_silent.mp4 --browser-executable=$B \
