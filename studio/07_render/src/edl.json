@@ -2095,17 +2095,17 @@
      }
     ]
    },
-   "from": 9976,
-   "dur": 55,
+   "from": 9721,
+   "dur": 310,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9976,
+     "frame": 9721,
      "gain": -20
     },
     {
      "file": "sub_hit_1",
-     "frame": 9992,
+     "frame": 9814,
      "gain": -12
     }
    ]
@@ -2306,22 +2306,22 @@
      }
     ]
    },
-   "from": 11310,
-   "dur": 161,
+   "from": 11263,
+   "dur": 208,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 11310,
+     "frame": 11263,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 11318,
+     "frame": 11273,
      "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 11382,
+     "frame": 11357,
      "gain": -18
     }
    ]
