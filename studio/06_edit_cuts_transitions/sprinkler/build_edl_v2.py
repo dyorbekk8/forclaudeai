@@ -200,7 +200,7 @@ for idx, bid in enumerate(ORDER):
     text = LINES[bid]
     starts = []
     for at, *_ in cuts:
-        if at == 0:
+        if at == 0 or not starts:
             starts.append(t)
         else:
             pos = text.find(at)
@@ -217,6 +217,9 @@ for idx, bid in enumerate(ORDER):
     beats.append(dict(id=bid, **{'from': t}, dur=dur, voStart=vs, vo=os.path.relpath(p, ROOT), voDur=round(vo, 3)))
     t += dur
 
+for a, b in zip(shots, shots[1:]):
+    assert b['from'] == a['from'] + a['dur'], ('timeline gap', a['id'], b['id'])
+assert shots[0]['from'] == 0 and shots[-1]['from'] + shots[-1]['dur'] == t
 short = [(s['id'], s['dur']) for s in shots if s['dur'] < 36]
 lens = sorted(s['dur'] / FPS for s in shots)
 out = dict(fps=FPS, total=t, beats=beats, shots=shots)

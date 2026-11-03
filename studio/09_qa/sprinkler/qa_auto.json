@@ -5,20 +5,22 @@
   "h": 1080,
   "fps": "30/1",
   "pix": "yuv420p",
-  "dur": 445.533333
+  "dur": 426.2
  },
  "audio": {
   "codec": "aac",
   "sr": "48000",
   "ch": 2,
-  "dur": 445.525
+  "dur": 426.197
  },
- "expected_dur": 445.53333333333336,
- "av_dur_diff_s": 0.008,
+ "expected_dur": 426.2,
+ "av_dur_diff_s": 0.003,
  "black_segments": [],
- "frozen_over_4s": [],
+ "frozen_over_4s": [
+  "324.2"
+ ],
  "lufs": -14.0,
- "lra": 2.0,
+ "lra": 1.9,
  "true_peak": -0.9,
  "checks": {
   "1920x1080": true,
@@ -27,7 +29,7 @@
   "duration\u2248EDL": true,
   "A/V same length": true,
   "no black frames": true,
-  "no frozen >4s": true,
+  "no frozen >4s": false,
   "loudness -14\u00b11": true,
   "true peak \u2264 -1": true
  }
