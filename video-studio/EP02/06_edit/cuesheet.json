@@ -1,0 +1,1226 @@
+{
+ "shots": [
+  {
+   "name": "A1 gym taunt",
+   "at": 0,
+   "comp": "A1",
+   "tr": "cut"
+  },
+  {
+   "name": "A2 40 vs 45",
+   "at": 2.173,
+   "comp": "A2",
+   "tr": "zoom"
+  },
+  {
+   "name": "A3 arm heat",
+   "at": 7.3020000000000005,
+   "comp": "A3",
+   "tr": "cut"
+  },
+  {
+   "name": "A4 lift",
+   "at": 11.360000000000001,
+   "comp": "A4",
+   "tr": "cut"
+  },
+  {
+   "name": "A5 what",
+   "at": 14.896,
+   "comp": "A5",
+   "tr": "zoom"
+  },
+  {
+   "name": "B1 title",
+   "at": 16.175,
+   "comp": "B1",
+   "tr": "zoom"
+  },
+  {
+   "name": "B2 a lot",
+   "at": 21.586,
+   "comp": "B2",
+   "tr": "cut"
+  },
+  {
+   "name": "B3 bubbles",
+   "at": 23.869,
+   "comp": "B3",
+   "tr": "whip"
+  },
+  {
+   "name": "B4 1968 class",
+   "at": 27.332,
+   "comp": "B4",
+   "tr": "zoom"
+  },
+  {
+   "name": "B5 bars",
+   "at": 37.905,
+   "comp": "B5",
+   "tr": "whip"
+  },
+  {
+   "name": "B6 pygmalion",
+   "at": 44.275,
+   "comp": "B6",
+   "tr": "cut"
+  },
+  {
+   "name": "B7 flipped",
+   "at": 49.906,
+   "comp": "B7",
+   "tr": "zoom"
+  },
+  {
+   "name": "C1 day one",
+   "at": 52.443999999999996,
+   "comp": "C1",
+   "tr": "slowfade"
+  },
+  {
+   "name": "C2 coach looks",
+   "at": 55.025,
+   "comp": "C2",
+   "tr": "whip"
+  },
+  {
+   "name": "C3 coach CU",
+   "at": 58.433,
+   "comp": "C3",
+   "tr": "cut"
+  },
+  {
+   "name": "C4 rope",
+   "at": 61.254999999999995,
+   "comp": "C4",
+   "tr": "cut"
+  },
+  {
+   "name": "C5 pickle",
+   "at": 64.732,
+   "comp": "C5",
+   "tr": "whipL"
+  },
+  {
+   "name": "C6 jar boom",
+   "at": 67.884,
+   "comp": "C6",
+   "tr": "cut"
+  },
+  {
+   "name": "C7 car",
+   "at": 71.98400000000001,
+   "comp": "C7",
+   "tr": "whip"
+  },
+  {
+   "name": "C8 record",
+   "at": 77.07300000000001,
+   "comp": "C8",
+   "tr": "zoom"
+  },
+  {
+   "name": "C9 doubter list",
+   "at": 80.75500000000001,
+   "comp": "C9",
+   "tr": "whipL"
+  },
+  {
+   "name": "C10 internet",
+   "at": 86.069,
+   "comp": "C10",
+   "tr": "zoom"
+  },
+  {
+   "name": "C11 fridge",
+   "at": 88.88600000000001,
+   "comp": "C11",
+   "tr": "cut"
+  },
+  {
+   "name": "C12 comments",
+   "at": 92.70800000000001,
+   "comp": "C12",
+   "tr": "whip"
+  },
+  {
+   "name": "C13 protein",
+   "at": 96.387,
+   "comp": "C13",
+   "tr": "zoom"
+  },
+  {
+   "name": "C14 elephant",
+   "at": 99.101,
+   "comp": "C14",
+   "tr": "whip"
+  },
+  {
+   "name": "D1 viral",
+   "at": 104.794,
+   "comp": "D1",
+   "tr": "zoom"
+  },
+  {
+   "name": "D2 news",
+   "at": 106.91900000000001,
+   "comp": "D2",
+   "tr": "cut"
+  },
+  {
+   "name": "D3 believers",
+   "at": 111.015,
+   "comp": "D3",
+   "tr": "whip"
+  },
+  {
+   "name": "D4 kid photo",
+   "at": 115.46100000000001,
+   "comp": "D4",
+   "tr": "cut"
+  },
+  {
+   "name": "D5 dad hug",
+   "at": 121.16300000000001,
+   "comp": "D5",
+   "tr": "whipL"
+  },
+  {
+   "name": "D6 backpack",
+   "at": 124.80300000000001,
+   "comp": "D6",
+   "tr": "cut"
+  },
+  {
+   "name": "D7 love weak",
+   "at": 126.99900000000001,
+   "comp": "D7",
+   "tr": "zoom"
+  },
+  {
+   "name": "D8 hiding",
+   "at": 129.582,
+   "comp": "D8",
+   "tr": "cut"
+  },
+  {
+   "name": "D9 hate me",
+   "at": 133.12300000000002,
+   "comp": "D9",
+   "tr": "fade"
+  },
+  {
+   "name": "E1 kyle",
+   "at": 136.20000000000002,
+   "comp": "E1",
+   "tr": "slowfade"
+  },
+  {
+   "name": "E2 morning",
+   "at": 140.258,
+   "comp": "E2",
+   "tr": "whip"
+  },
+  {
+   "name": "E3 say it",
+   "at": 142.912,
+   "comp": "E3",
+   "tr": "cut"
+  },
+  {
+   "name": "E4 lockers",
+   "at": 145.054,
+   "comp": "E4",
+   "tr": "zoom"
+  },
+  {
+   "name": "E5 homework",
+   "at": 149.686,
+   "comp": "E5",
+   "tr": "whipL"
+  },
+  {
+   "name": "E6 weeks",
+   "at": 154.122,
+   "comp": "E6",
+   "tr": "cut"
+  },
+  {
+   "name": "E7a groceries",
+   "at": 157.143,
+   "comp": "E7a",
+   "tr": "whip"
+  },
+  {
+   "name": "E7b swing",
+   "at": 160.843,
+   "comp": "E7b",
+   "tr": "whipL"
+  },
+  {
+   "name": "E8 silence",
+   "at": 164.911,
+   "comp": "E8",
+   "tr": "fade"
+  },
+  {
+   "name": "E9 cant say",
+   "at": 169.121,
+   "comp": "E9",
+   "tr": "cut"
+  },
+  {
+   "name": "E10 worst",
+   "at": 171.19400000000002,
+   "comp": "E10",
+   "tr": "cut"
+  },
+  {
+   "name": "F1 fire",
+   "at": 176.04700000000003,
+   "comp": "F1",
+   "tr": "fade"
+  },
+  {
+   "name": "F2 beam",
+   "at": 179.51500000000001,
+   "comp": "F2",
+   "tr": "cut"
+  },
+  {
+   "name": "F3 street",
+   "at": 184.354,
+   "comp": "F3",
+   "tr": "cut"
+  },
+  {
+   "name": "F4 cheer",
+   "at": 188.103,
+   "comp": "F4",
+   "tr": "cut"
+  },
+  {
+   "name": "F5 push",
+   "at": 189.976,
+   "comp": "F5",
+   "tr": "zoom"
+  },
+  {
+   "name": "F6 meter",
+   "at": 195.046,
+   "comp": "F6",
+   "tr": "cut"
+  },
+  {
+   "name": "F7 kyle in crowd",
+   "at": 198.341,
+   "comp": "F7",
+   "tr": "whip"
+  },
+  {
+   "name": "F8 please",
+   "at": 200.258,
+   "comp": "F8",
+   "tr": "cut"
+  },
+  {
+   "name": "F9 you cant",
+   "at": 202.682,
+   "comp": "F9",
+   "tr": "cut"
+  },
+  {
+   "name": "F10 crying",
+   "at": 204.73600000000002,
+   "comp": "F10",
+   "tr": "cut"
+  },
+  {
+   "name": "F11 words",
+   "at": 208.868,
+   "comp": "F11",
+   "tr": "zoom"
+  },
+  {
+   "name": "F12 lift",
+   "at": 210.769,
+   "comp": "F12",
+   "tr": "cut"
+  },
+  {
+   "name": "G1 curb",
+   "at": 215.36399999999998,
+   "comp": "G1",
+   "tr": "slowfade"
+  },
+  {
+   "name": "G2 didnt mean",
+   "at": 218.487,
+   "comp": "G2",
+   "tr": "cut"
+  },
+  {
+   "name": "G3 nicest",
+   "at": 219.883,
+   "comp": "G3",
+   "tr": "cut"
+  },
+  {
+   "name": "G4 brave",
+   "at": 223.46200000000002,
+   "comp": "G4",
+   "tr": "cut"
+  },
+  {
+   "name": "H1 mirror",
+   "at": 229.95700000000002,
+   "comp": "H1",
+   "tr": "slowfade"
+  },
+  {
+   "name": "H2 eyes",
+   "at": 234.969,
+   "comp": "H2",
+   "tr": "cut"
+  },
+  {
+   "name": "H3 i cant",
+   "at": 237.43800000000002,
+   "comp": "H3",
+   "tr": "zoom"
+  },
+  {
+   "name": "H4 crack",
+   "at": 238.701,
+   "comp": "H4",
+   "tr": "cut"
+  },
+  {
+   "name": "H5 end",
+   "at": 242.991,
+   "comp": "H5",
+   "tr": "fade"
+  }
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "loop": "crowd_murmur",
+   "until": 7.302
+  },
+  {
+   "t": 0.0,
+   "music": "m1_curious"
+  },
+  {
+   "t": 1.993,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 7.402,
+   "sfx": "heartbeat",
+   "db": -12
+  },
+  {
+   "t": 7.702,
+   "sfx": "riser_short",
+   "db": -14
+  },
+  {
+   "t": 10.48,
+   "sfx": "pop_age_1",
+   "db": -6
+  },
+  {
+   "t": 10.51,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 11.86,
+   "sfx": "whoosh_slow_1",
+   "db": -12
+  },
+  {
+   "t": 12.36,
+   "sfx": "thud_impact_2",
+   "db": -12
+  },
+  {
+   "t": 14.716,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 14.946,
+   "sfx": "record_scratch",
+   "db": -14
+  },
+  {
+   "t": 15.995,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 16.475,
+   "sfx": "pop_ui_1",
+   "db": -18
+  },
+  {
+   "t": 16.975,
+   "sfx": "pop_ui_2",
+   "db": -18
+  },
+  {
+   "t": 17.475,
+   "sfx": "pop_ui_3",
+   "db": -18
+  },
+  {
+   "t": 17.975,
+   "sfx": "pop_ui_1",
+   "db": -18
+  },
+  {
+   "t": 18.525,
+   "sfx": "stamp_thud",
+   "db": -12
+  },
+  {
+   "t": 20.525,
+   "sfx": "ding_1",
+   "db": -12
+  },
+  {
+   "t": 21.786,
+   "sfx": "magic_shimmer",
+   "db": -14
+  },
+  {
+   "t": 23.789,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 24.019,
+   "sfx": "pop_ui_1",
+   "db": -14
+  },
+  {
+   "t": 24.339,
+   "sfx": "pop_ui_2",
+   "db": -14
+  },
+  {
+   "t": 24.659,
+   "sfx": "pop_ui_3",
+   "db": -14
+  },
+  {
+   "t": 24.979,
+   "sfx": "pop_ui_1",
+   "db": -14
+  },
+  {
+   "t": 25.299,
+   "sfx": "pop_ui_2",
+   "db": -14
+  },
+  {
+   "t": 25.619,
+   "sfx": "pop_ui_3",
+   "db": -14
+  },
+  {
+   "t": 25.939,
+   "sfx": "pop_ui_1",
+   "db": -14
+  },
+  {
+   "t": 27.152,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 34.379,
+   "sfx": "blip_1",
+   "db": -15
+  },
+  {
+   "t": 34.729,
+   "sfx": "blip_2",
+   "db": -15
+  },
+  {
+   "t": 35.079,
+   "sfx": "blip_3",
+   "db": -15
+  },
+  {
+   "t": 35.429,
+   "sfx": "blip_1",
+   "db": -15
+  },
+  {
+   "t": 35.779,
+   "sfx": "blip_2",
+   "db": -15
+  },
+  {
+   "t": 37.825,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 38.505,
+   "sfx": "counter_roll",
+   "db": -16
+  },
+  {
+   "t": 45.075,
+   "sfx": "pop_ui_1",
+   "db": -14
+  },
+  {
+   "t": 45.675,
+   "sfx": "pop_ui_2",
+   "db": -14
+  },
+  {
+   "t": 49.726,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 50.306,
+   "sfx": "whoosh_fast_2",
+   "db": -12
+  },
+  {
+   "t": 50.906,
+   "sfx": "stamp_thud",
+   "db": -12
+  },
+  {
+   "t": 52.144,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 52.444,
+   "music": "m2_comedy"
+  },
+  {
+   "t": 52.494,
+   "sfx": "school_bell",
+   "db": -22
+  },
+  {
+   "t": 52.544,
+   "sfx": "footsteps_hall",
+   "db": -20
+  },
+  {
+   "t": 54.945,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 55.025,
+   "loop": "crowd_murmur",
+   "until": 64.255
+  },
+  {
+   "t": 59.933,
+   "sfx": "swallow_gulp",
+   "db": -16
+  },
+  {
+   "t": 61.425,
+   "sfx": "pop_age_2",
+   "db": -6
+  },
+  {
+   "t": 61.455,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 61.455,
+   "sfx": "whoosh_fast_1",
+   "db": -12
+  },
+  {
+   "t": 63.155,
+   "sfx": "glass_break",
+   "db": -18
+  },
+  {
+   "t": 63.655,
+   "sfx": "thud_impact_1",
+   "db": -14
+  },
+  {
+   "t": 64.652,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 64.732,
+   "loop": "room_tone_home",
+   "until": 71.984
+  },
+  {
+   "t": 68.254,
+   "sfx": "pop_age_3",
+   "db": -6
+  },
+  {
+   "t": 68.284,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 69.584,
+   "sfx": "glass_break",
+   "db": -8
+  },
+  {
+   "t": 69.584,
+   "sfx": "thud_impact_2",
+   "db": -12
+  },
+  {
+   "t": 71.904,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 72.254,
+   "sfx": "pop_age_1",
+   "db": -6
+  },
+  {
+   "t": 72.284,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 72.984,
+   "sfx": "bus_brake",
+   "db": -22
+  },
+  {
+   "t": 73.984,
+   "sfx": "thud_impact_1",
+   "db": -14
+  },
+  {
+   "t": 76.893,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 77.373,
+   "sfx": "counter_roll",
+   "db": -16
+  },
+  {
+   "t": 78.273,
+   "sfx": "counter_roll",
+   "db": -16
+  },
+  {
+   "t": 80.675,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 81.355,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 82.055,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 82.755,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 83.455,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 84.155,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 84.855,
+   "sfx": "pencil_scribble",
+   "db": -20
+  },
+  {
+   "t": 85.889,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 86.169,
+   "sfx": "glitch",
+   "db": -16
+  },
+  {
+   "t": 89.086,
+   "sfx": "camera_shutter",
+   "db": -16
+  },
+  {
+   "t": 90.086,
+   "sfx": "thud_impact_2",
+   "db": -16
+  },
+  {
+   "t": 92.628,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 92.908,
+   "sfx": "blip_1",
+   "db": -14
+  },
+  {
+   "t": 93.408,
+   "sfx": "blip_2",
+   "db": -14
+  },
+  {
+   "t": 93.908,
+   "sfx": "blip_3",
+   "db": -14
+  },
+  {
+   "t": 94.408,
+   "sfx": "blip_1",
+   "db": -14
+  },
+  {
+   "t": 94.908,
+   "sfx": "blip_2",
+   "db": -14
+  },
+  {
+   "t": 96.207,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 96.557,
+   "sfx": "pop_age_2",
+   "db": -6
+  },
+  {
+   "t": 96.587,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 96.587,
+   "sfx": "magic_shimmer",
+   "db": -14
+  },
+  {
+   "t": 99.021,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 99.471,
+   "sfx": "pop_age_3",
+   "db": -6
+  },
+  {
+   "t": 99.501,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 101.501,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 104.614,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 104.794,
+   "music": "m3_tension"
+  },
+  {
+   "t": 104.894,
+   "sfx": "phone_buzz",
+   "db": -16
+  },
+  {
+   "t": 105.094,
+   "sfx": "counter_roll",
+   "db": -14
+  },
+  {
+   "t": 107.119,
+   "sfx": "ding_2",
+   "db": -14
+  },
+  {
+   "t": 110.935,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 111.015,
+   "loop": "crowd_murmur",
+   "until": 121.163
+  },
+  {
+   "t": 111.515,
+   "sfx": "sparkle",
+   "db": -16
+  },
+  {
+   "t": 117.589,
+   "sfx": "camera_shutter",
+   "db": -14
+  },
+  {
+   "t": 119.417,
+   "sfx": "tv_static_off",
+   "db": -16
+  },
+  {
+   "t": 119.417,
+   "sfx": "thud_impact_1",
+   "db": -16
+  },
+  {
+   "t": 121.083,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 124.553,
+   "sfx": "tv_static_off",
+   "db": -16
+  },
+  {
+   "t": 124.553,
+   "sfx": "thud_impact_2",
+   "db": -16
+  },
+  {
+   "t": 125.303,
+   "sfx": "sigh_air",
+   "db": -14
+  },
+  {
+   "t": 126.399,
+   "sfx": "reverse_swell",
+   "db": -16
+  },
+  {
+   "t": 126.819,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 129.782,
+   "sfx": "phone_buzz",
+   "db": -18
+  },
+  {
+   "t": 135.9,
+   "sfx": "whoosh_slow_2",
+   "db": -22
+  },
+  {
+   "t": 136.2,
+   "loop": "crowd_murmur",
+   "until": 140.258
+  },
+  {
+   "t": 136.2,
+   "music": "m4_tender"
+  },
+  {
+   "t": 136.4,
+   "sfx": "door_close",
+   "db": -22
+  },
+  {
+   "t": 140.178,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 140.358,
+   "sfx": "footsteps_walk",
+   "db": -20
+  },
+  {
+   "t": 144.774,
+   "sfx": "pop_age_1",
+   "db": -6
+  },
+  {
+   "t": 144.804,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 144.874,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 146.654,
+   "sfx": "thud_impact_2",
+   "db": -14
+  },
+  {
+   "t": 149.606,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 150.086,
+   "sfx": "pencil_scribble",
+   "db": -18
+  },
+  {
+   "t": 154.692,
+   "sfx": "pop_age_2",
+   "db": -6
+  },
+  {
+   "t": 154.722,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 157.063,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 157.243,
+   "sfx": "footsteps_walk",
+   "db": -22
+  },
+  {
+   "t": 160.763,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 162.443,
+   "sfx": "bike_bell",
+   "db": -18
+  },
+  {
+   "t": 166.511,
+   "sfx": "heartbeat",
+   "db": -14
+  },
+  {
+   "t": 175.847,
+   "sfx": "phone_ring",
+   "db": -24
+  },
+  {
+   "t": 176.047,
+   "music": "m5_reveal"
+  },
+  {
+   "t": 180.515,
+   "sfx": "thud_impact_1",
+   "db": -6
+  },
+  {
+   "t": 180.565,
+   "sfx": "glass_break",
+   "db": -14
+  },
+  {
+   "t": 184.354,
+   "loop": "crowd_murmur",
+   "until": 200.341
+  },
+  {
+   "t": 189.796,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 189.826,
+   "sfx": "tv_static_off",
+   "db": -16
+  },
+  {
+   "t": 189.826,
+   "sfx": "thud_impact_1",
+   "db": -16
+  },
+  {
+   "t": 190.176,
+   "sfx": "heartbeat",
+   "db": -12
+  },
+  {
+   "t": 195.346,
+   "sfx": "heartbeat",
+   "db": -10
+  },
+  {
+   "t": 196.346,
+   "sfx": "tv_static_off",
+   "db": -16
+  },
+  {
+   "t": 196.346,
+   "sfx": "thud_impact_2",
+   "db": -16
+  },
+  {
+   "t": 197.346,
+   "sfx": "tv_static_off",
+   "db": -16
+  },
+  {
+   "t": 197.346,
+   "sfx": "thud_impact_1",
+   "db": -16
+  },
+  {
+   "t": 198.261,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 202.036,
+   "sfx": "riser",
+   "db": -14
+  },
+  {
+   "t": 204.006,
+   "sfx": "pop_age_3",
+   "db": -6
+  },
+  {
+   "t": 204.036,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 204.036,
+   "sfx": "thud_impact_1",
+   "db": -4
+  },
+  {
+   "t": 207.968,
+   "sfx": "riser_short",
+   "db": -14
+  },
+  {
+   "t": 208.688,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 208.968,
+   "sfx": "thud_impact_2",
+   "db": -8
+  },
+  {
+   "t": 211.169,
+   "sfx": "sparkle",
+   "db": -14
+  },
+  {
+   "t": 215.064,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 215.364,
+   "music": "m6_resolve"
+  },
+  {
+   "t": 220.483,
+   "sfx": "chime_soft",
+   "db": -16
+  },
+  {
+   "t": 229.657,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 229.957,
+   "loop": "room_tone_home",
+   "until": 242.991
+  },
+  {
+   "t": 229.957,
+   "music": "m7_cliffhanger"
+  },
+  {
+   "t": 237.258,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 238.801,
+   "sfx": "glass_break",
+   "db": -8
+  },
+  {
+   "t": 240.301,
+   "sfx": "tv_static_off",
+   "db": -10
+  },
+  {
+   "t": 240.501,
+   "sfx": "glitch",
+   "db": -14
+  },
+  {
+   "t": 243.291,
+   "sfx": "pop_ui_1",
+   "db": -15
+  },
+  {
+   "t": 243.691,
+   "sfx": "pop_ui_2",
+   "db": -15
+  },
+  {
+   "t": 248.288,
+   "sfx": "pop_ui_3",
+   "db": -13
+  },
+  {
+   "t": 249.688,
+   "sfx": "ding_2",
+   "db": -12
+  }
+ ]
+}

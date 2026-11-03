@@ -1,0 +1,469 @@
+{
+ "title": "What If You Got Stronger Every Time Someone Doubted You?",
+ "cast": {
+  "N": {
+   "voice": "am_michael",
+   "speed": 0.95,
+   "el": "Brian"
+  },
+  "THEO": {
+   "voice": "am_puck",
+   "speed": 1.0,
+   "el": "Tate Dalton"
+  },
+  "KYLE": {
+   "voice": "am_fenrir",
+   "speed": 1.0,
+   "el": "Liam - Viral Short-Form Storyteller"
+  },
+  "DAD": {
+   "voice": "bm_george",
+   "speed": 0.95,
+   "el": "Michael Moody"
+  },
+  "COACH": {
+   "voice": "am_onyx",
+   "speed": 1.0,
+   "el": "Bill"
+  },
+  "CROWD": {
+   "voice": "af_sarah",
+   "speed": 1.0,
+   "el": "Sarah - Warm and Grounded"
+  }
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "s": "KYLE",
+   "t": "You can't even lift that.",
+   "p": 0.5
+  },
+  {
+   "id": "a02",
+   "s": "N",
+   "t": "Kyle is right. The bar has forty kilos on it. You weigh forty five.",
+   "p": 0.35
+  },
+  {
+   "id": "a03",
+   "s": "N",
+   "t": "But the second he says it... something in your arms goes hot.",
+   "p": 0.45
+  },
+  {
+   "id": "a04",
+   "s": "N",
+   "t": "And the bar goes up. Like it's made of paper.",
+   "p": 0.6
+  },
+  {
+   "id": "a05",
+   "s": "KYLE",
+   "t": "What?",
+   "p": 0.8
+  },
+  {
+   "id": "b01",
+   "s": "N",
+   "t": "Because in this world, every time someone tells you you can't... you get stronger.",
+   "p": 0.45
+  },
+  {
+   "id": "b02",
+   "s": "N",
+   "t": "Not a little stronger. A lot.",
+   "p": 0.4
+  },
+  {
+   "id": "b03",
+   "s": "N",
+   "t": "And it turns out, people say it all the time.",
+   "p": 0.8
+  },
+  {
+   "id": "b04",
+   "s": "N",
+   "t": "In nineteen sixty eight, researchers told teachers that a few random kids in their class were about to bloom.",
+   "p": 0.3
+  },
+  {
+   "id": "b05",
+   "s": "N",
+   "t": "The kids weren't special. They were picked by chance.",
+   "p": 0.35
+  },
+  {
+   "id": "b06",
+   "s": "N",
+   "t": "A year later, on average, those kids had gained more I.Q. points than their classmates.",
+   "p": 0.35
+  },
+  {
+   "id": "b07",
+   "s": "N",
+   "t": "It's called the Pygmalion effect. What people expect from you can change what you do.",
+   "p": 0.35
+  },
+  {
+   "id": "b08",
+   "s": "N",
+   "t": "Except for you, it's flipped.",
+   "p": 1.0
+  },
+  {
+   "id": "c01",
+   "s": "N",
+   "t": "Day one. You start collecting doubts.",
+   "p": 0.35
+  },
+  {
+   "id": "c02",
+   "s": "N",
+   "t": "Gym class. Coach Briggs looks at your arms.",
+   "p": 0.25
+  },
+  {
+   "id": "c03",
+   "s": "COACH",
+   "t": "Rope climb? You? Not a chance.",
+   "p": 0.4
+  },
+  {
+   "id": "c04",
+   "s": "N",
+   "t": "Four seconds to the top. The rope snaps.",
+   "p": 0.6
+  },
+  {
+   "id": "c05",
+   "s": "N",
+   "t": "Your sister bets you can't open the pickle jar.",
+   "p": 0.25
+  },
+  {
+   "id": "c06",
+   "s": "N",
+   "t": "You open the lid. And the jar. And part of the counter.",
+   "p": 0.6
+  },
+  {
+   "id": "c07",
+   "s": "N",
+   "t": "By Friday, you can lift your dad's car. About fifteen hundred kilos.",
+   "p": 0.3
+  },
+  {
+   "id": "c08",
+   "s": "N",
+   "t": "The world record deadlift is five hundred and one.",
+   "p": 0.6
+  },
+  {
+   "id": "c09",
+   "s": "N",
+   "t": "So you make a list of every doubter in town. And you visit them all.",
+   "p": 1.0
+  },
+  {
+   "id": "c10",
+   "s": "N",
+   "t": "But your best source of doubt is the internet.",
+   "p": 0.3
+  },
+  {
+   "id": "c11",
+   "s": "N",
+   "t": "You post one video. You, lifting the family fridge.",
+   "p": 0.3
+  },
+  {
+   "id": "c12",
+   "s": "N",
+   "t": "Fake. Edited. Wires. No way a kid can do that.",
+   "p": 0.3
+  },
+  {
+   "id": "c13",
+   "s": "N",
+   "t": "Every hater hits like a protein shake.",
+   "p": 0.4
+  },
+  {
+   "id": "c14",
+   "s": "N",
+   "t": "By Sunday, you can lift about six thousand kilos. That's an adult elephant.",
+   "p": 0.8
+  },
+  {
+   "id": "d01",
+   "s": "N",
+   "t": "Then a second video goes viral.",
+   "p": 0.3
+  },
+  {
+   "id": "d02",
+   "s": "N",
+   "t": "Fourteen year old lifts a car. Twelve million views.",
+   "p": 0.4
+  },
+  {
+   "id": "d03",
+   "s": "N",
+   "t": "And everything changes. Because now... people believe in you.",
+   "p": 0.5
+  },
+  {
+   "id": "d04",
+   "s": "N",
+   "t": "A little kid asks for a photo.",
+   "p": 0.2
+  },
+  {
+   "id": "d05",
+   "s": "CROWD",
+   "t": "You can do anything!",
+   "p": 0.3
+  },
+  {
+   "id": "d06",
+   "s": "N",
+   "t": "Your knees buckle.",
+   "p": 0.4
+  },
+  {
+   "id": "d07",
+   "s": "N",
+   "t": "Your dad hugs you.",
+   "p": 0.2
+  },
+  {
+   "id": "d08",
+   "s": "DAD",
+   "t": "I always knew you could.",
+   "p": 0.4
+  },
+  {
+   "id": "d09",
+   "s": "N",
+   "t": "You can't lift your backpack.",
+   "p": 0.6
+  },
+  {
+   "id": "d10",
+   "s": "N",
+   "t": "Love makes you weak. Literally.",
+   "p": 0.5
+  },
+  {
+   "id": "d11",
+   "s": "N",
+   "t": "So you start hiding. From your fans. From your dad.",
+   "p": 0.3
+  },
+  {
+   "id": "d12",
+   "s": "N",
+   "t": "You start wanting people to hate you.",
+   "p": 1.1
+  },
+  {
+   "id": "e01",
+   "s": "N",
+   "t": "There's only one person who never believed in you. Kyle.",
+   "p": 0.4
+  },
+  {
+   "id": "e02",
+   "s": "N",
+   "t": "So every morning, you go and find him.",
+   "p": 0.3
+  },
+  {
+   "id": "e03",
+   "s": "THEO",
+   "t": "Say it.",
+   "p": 0.4
+  },
+  {
+   "id": "e04",
+   "s": "KYLE",
+   "t": "You can't.",
+   "p": 0.4
+  },
+  {
+   "id": "e05",
+   "s": "N",
+   "t": "Plus two hundred kilos. It's the weirdest friendship in school.",
+   "p": 0.6
+  },
+  {
+   "id": "e05b",
+   "s": "N",
+   "t": "You even start doing his homework. Just so he'll keep hating you.",
+   "p": 0.6
+  },
+  {
+   "id": "e06",
+   "s": "N",
+   "t": "But week by week, Kyle starts watching you.",
+   "p": 0.25
+  },
+  {
+   "id": "e07",
+   "s": "N",
+   "t": "He sees you carry Mrs. Patel's groceries up four floors. He sees you fix the swing nobody fixed.",
+   "p": 0.5
+  },
+  {
+   "id": "e08",
+   "s": "N",
+   "t": "And one morning, he opens his mouth... and nothing comes out.",
+   "p": 0.5
+  },
+  {
+   "id": "e09",
+   "s": "KYLE",
+   "t": "I can't say it anymore, man.",
+   "p": 0.6
+  },
+  {
+   "id": "e10",
+   "s": "N",
+   "t": "He believes in you. It's the worst thing he's ever done to you.",
+   "p": 1.2
+  },
+  {
+   "id": "f01",
+   "s": "N",
+   "t": "Then, on a Tuesday, the old gym catches fire.",
+   "p": 0.3
+  },
+  {
+   "id": "f02",
+   "s": "N",
+   "t": "A roof beam comes down across the exit. Your dad is inside.",
+   "p": 0.5
+  },
+  {
+   "id": "f03",
+   "s": "N",
+   "t": "The whole street is watching. And the whole street believes.",
+   "p": 0.3
+  },
+  {
+   "id": "f04",
+   "s": "CROWD",
+   "t": "You can do it, Theo!",
+   "p": 0.3
+  },
+  {
+   "id": "f05",
+   "s": "N",
+   "t": "Every cheer makes you weaker. Your arms shake. The beam won't move.",
+   "p": 0.6
+  },
+  {
+   "id": "f05b",
+   "s": "N",
+   "t": "Two thousand kilos. Eight hundred. Ninety.",
+   "p": 0.6
+  },
+  {
+   "id": "f06",
+   "s": "N",
+   "t": "There's one person left.",
+   "p": 0.4
+  },
+  {
+   "id": "f07",
+   "s": "THEO",
+   "t": "Kyle. Please. Tell me I can't.",
+   "p": 0.8
+  },
+  {
+   "id": "f08",
+   "s": "KYLE",
+   "t": "You can't. You never could. You're nothing!",
+   "p": 0.4
+  },
+  {
+   "id": "f09",
+   "s": "N",
+   "t": "He's crying while he says it. He doesn't mean a single word.",
+   "p": 0.4
+  },
+  {
+   "id": "f10",
+   "s": "N",
+   "t": "But words are words.",
+   "p": 0.5
+  },
+  {
+   "id": "f11",
+   "s": "N",
+   "t": "The beam goes up like paper. And your dad walks out.",
+   "p": 1.3
+  },
+  {
+   "id": "g01",
+   "s": "N",
+   "t": "Later, Kyle sits next to you on the curb.",
+   "p": 0.3
+  },
+  {
+   "id": "g02",
+   "s": "KYLE",
+   "t": "I didn't mean it.",
+   "p": 0.5
+  },
+  {
+   "id": "g03",
+   "s": "THEO",
+   "t": "I know. That's the nicest thing anyone's ever said to me.",
+   "p": 0.7
+  },
+  {
+   "id": "g04",
+   "s": "N",
+   "t": "Sometimes the people who believe in you most are the ones brave enough to say you can't.",
+   "p": 1.3
+  },
+  {
+   "id": "h01",
+   "s": "N",
+   "t": "That night, you look in the mirror. And you realize you've never tried one thing.",
+   "p": 0.4
+  },
+  {
+   "id": "h02",
+   "s": "N",
+   "t": "You've never doubted yourself.",
+   "p": 0.6
+  },
+  {
+   "id": "h03",
+   "s": "THEO",
+   "t": "I can't.",
+   "p": 0.6
+  },
+  {
+   "id": "h04",
+   "s": "N",
+   "t": "The mirror cracks. And every light on the street goes out.",
+   "p": 1.0
+  },
+  {
+   "id": "h05",
+   "s": "N",
+   "t": "So, would you want to be strong only when people doubt you? Tell us in the comments.",
+   "p": 0.4
+  },
+  {
+   "id": "h06",
+   "s": "N",
+   "t": "And subscribe. Because next time, the whole world says Theo can't.",
+   "p": 1.5
+  }
+ ]
+}
