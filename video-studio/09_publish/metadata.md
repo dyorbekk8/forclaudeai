@@ -4,8 +4,8 @@
 What If You Aged 1 Year Every Time You Lied?
 
 ## Thumbnail
-Primary: thumbnail_mirror_A.jpg (cinematic mirror scene, muted palette)
-A/B test: thumbnail_A.jpg (bright split "ONE LIE.")  → YouTube Studio › Test & Compare
+Primary: thumbnail_pro_A.jpg (competitor formula: split morning/night scene, neon age tags, "ONE LIE.")
+A/B test: thumbnail_pro_B.jpg ("1 LIE = +1 YEAR") and thumbnail_mirror_A.jpg → YouTube Studio › Test & Compare
 
 ## Description
 What if every lie you told made you one year older?

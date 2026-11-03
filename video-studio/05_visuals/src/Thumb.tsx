@@ -102,3 +102,86 @@ export const ThumbMirror: React.FC<{ v?: 'A' | 'B' }> = ({ v = 'A' }) => {
     </AbsoluteFill>
   );
 };
+
+/* ---------- v3: competitor formula — split scene, blurred detailed sets, neon tags w/ arrows, big faces ---------- */
+import { Kitchen } from './sets/Sets';
+const NeonTag: React.FC<{ x: number; y: number; text: string; col: string; ax: number; ay: number }> = ({ x, y, text, col, ax, ay }) => {
+  const w = text.length * 56 + 80;
+  return (
+    <g>
+      <path d={`M ${x} ${y + 64} Q ${(x + ax) / 2 + 40} ${(y + ay) / 2} ${ax} ${ay}`} stroke={col} strokeWidth={14} fill="none" strokeLinecap="round" filter="url(#glowS)" />
+      <path d={`M ${x} ${y + 64} Q ${(x + ax) / 2 + 40} ${(y + ay) / 2} ${ax} ${ay}`} stroke="#fff" strokeWidth={5} fill="none" strokeLinecap="round" />
+      <g transform={`translate(${x} ${y})`}>
+        <rect x={-w / 2} y={-64} width={w} height={128} rx={30} fill={col} opacity={0.55} filter="url(#glowL)" />
+        <rect x={-w / 2} y={-64} width={w} height={128} rx={30} fill="#0c0f16" stroke={col} strokeWidth={9} />
+        <text x={0} y={32} textAnchor="middle" fontSize={92} fontWeight={700} fill={col} fontFamily={FONT_HEAD} filter="url(#glowS)">{text}</text>
+        <text x={0} y={32} textAnchor="middle" fontSize={92} fontWeight={700} fill="#fff" fontFamily={FONT_HEAD} opacity={0.9}>{text}</text>
+      </g>
+    </g>
+  );
+};
+
+export const ThumbPro: React.FC<{ v?: 'A' | 'B' }> = ({ v = 'A' }) => {
+  useFonts();
+  const t = 0.3;
+  return (
+    <AbsoluteFill style={{ background: '#000' }}>
+      <svg viewBox="0 0 1920 1080" width={1920} height={1080}>
+        <defs>
+          <filter id="blurBG"><feGaussianBlur stdDeviation="7" /></filter>
+          <filter id="glowS" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" /></filter>
+          <filter id="glowL" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="26" /></filter>
+          <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" floodColor="#000" floodOpacity="0.55" /></filter>
+          <clipPath id="leftC"><path d="M 0 0 L 1010 0 L 900 1080 L 0 1080 Z" /></clipPath>
+          <clipPath id="rightC"><path d="M 1010 0 L 1920 0 L 1920 1080 L 900 1080 Z" /></clipPath>
+          <radialGradient id="warmLight" cx="0.25" cy="0.3" r="0.6"><stop offset="0" stopColor="#ffd49a" stopOpacity="0.55" /><stop offset="1" stopColor="#ffd49a" stopOpacity="0" /></radialGradient>
+          <radialGradient id="coldLight" cx="0.75" cy="0.35" r="0.6"><stop offset="0" stopColor="#7fb8ff" stopOpacity="0.45" /><stop offset="1" stopColor="#7fb8ff" stopOpacity="0" /></radialGradient>
+          <radialGradient id="vig3" cx="0.5" cy="0.5" r="0.72"><stop offset="0.6" stopColor="#000" stopOpacity="0" /><stop offset="1" stopColor="#000" stopOpacity="0.6" /></radialGradient>
+          <linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stopColor="#000" stopOpacity="0" /><stop offset="1" stopColor="#000" stopOpacity="0.75" /></linearGradient>
+        </defs>
+        {/* LEFT: morning kitchen, age 15 */}
+        <g clipPath="url(#leftC)">
+          <g filter="url(#blurBG)" transform="translate(-260 -40) scale(1.12)"><Kitchen t={t} v="morning" jar="full" /></g>
+          <rect x={0} y={0} width={1920} height={1080} fill="url(#warmLight)" />
+          <g filter="url(#shadow)">
+            <Character t={t} seed={1} x={470} y={1720} scale={6.4} hair="eli" age={15} pose={{ ...P.stand, rsh: -6, rel: 4, lsh: -12, lel: 4 }} expr="smug" mouth="smirk" look={[0.9, -0.1]} rim="rgba(255,226,170,1)" tilt={-6} />
+          </g>
+          {/* the lie */}
+          <g transform="translate(215 395) rotate(-6)" filter="url(#shadow)">
+            <rect x={-150} y={-70} width={300} height={120} rx={36} fill="#fff" />
+            <path d="M 60 46 L 110 110 L 20 50 Z" fill="#fff" />
+            <text x={0} y={18} textAnchor="middle" fontSize={64} fontWeight={700} fill="#1a1d26" fontFamily={FONT_HEAD}>"Yep."</text>
+          </g>
+        </g>
+        {/* RIGHT: same kitchen at night, age 41 */}
+        <g clipPath="url(#rightC)">
+          <g filter="url(#blurBG)" transform="translate(-160 -40) scale(1.12)"><Kitchen t={t} v="night" jar="empty" /></g>
+          <rect x={0} y={0} width={1920} height={1080} fill="#0b1630" opacity={0.35} />
+          <rect x={0} y={0} width={1920} height={1080} fill="url(#coldLight)" />
+          <g filter="url(#shadow)">
+            <Character t={t} seed={1} x={1450} y={1700} scale={6.6} hair="eli" age={41} facing={-1} pose={{ ...P.stand, rsh: -6, rel: 4, lsh: -12, lel: 4 }} expr="shock" mouth="open" look={[0.6, -0.2]} rim="rgba(170,210,255,1)" sweat />
+          </g>
+          {/* falling gray hairs */}
+          {[[1180, 330, 20], [1700, 260, -30], [1760, 470, 15], [1150, 520, -10]].map(([x, y, r], i) => (
+            <path key={i} d={`M ${x} ${y} q 14 -24 0 -48 q -14 -24 4 -46`} stroke="#dfe6ee" strokeWidth={5} fill="none" strokeLinecap="round" transform={`rotate(${r} ${x} ${y})`} opacity={0.85} />
+          ))}
+        </g>
+        {/* divider */}
+        <path d="M 1010 0 L 900 1080" stroke="#fff" strokeWidth={16} />
+        <path d="M 1010 0 L 900 1080" stroke="#fff" strokeWidth={40} opacity={0.35} filter="url(#glowS)" />
+        <rect x={0} y={0} width={1920} height={1080} fill="url(#vig3)" />
+        <rect x={0} y={0} width={1920} height={1080} fill="url(#bottomFade)" />
+        {/* neon tags with arrows to faces */}
+        <NeonTag x={560} y={110} text="AGE 15" col="#4dffa6" ax={500} ay={300} />
+        <NeonTag x={1430} y={110} text="AGE 41" col="#ff4d6a" ax={1420} ay={290} />
+        {/* headline */}
+        <g transform="translate(960 968) rotate(-2)">
+          <text x={0} y={36} textAnchor="middle" fontSize={180} fontWeight={700} fontFamily={FONT_HEAD} fill="#000" opacity={0.5} filter="url(#glowL)">{v === 'A' ? 'ONE LIE.' : '1 LIE = +1 YEAR'}</text>
+          <text x={0} y={36} textAnchor="middle" fontSize={v === 'A' ? 180 : 150} fontWeight={700} fontFamily={FONT_HEAD} stroke="#0c0f16" strokeWidth={30} paintOrder="stroke" strokeLinejoin="round" fill="#ffffff">
+            {v === 'A' ? <>ONE <tspan fill="#ffd25a">LIE.</tspan></> : <>1 LIE = <tspan fill="#ffd25a">+1 YEAR</tspan></>}
+          </text>
+        </g>
+      </svg>
+    </AbsoluteFill>
+  );
+};
