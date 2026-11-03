@@ -4,7 +4,7 @@ import json, os, subprocess, sys
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 HERE = os.path.dirname(os.path.abspath(__file__))
 video = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, '07_render', 'out', 'every_fire_sprinkler_color_explained.mp4')
-edl = json.load(open(os.path.join(ROOT, '07_render', 'src', 'edl.json')))
+edl = json.load(open(sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, '07_render', 'src', 'edl.json')))
 rep = {}
 
 def run(args):
@@ -28,10 +28,10 @@ for key, tag in (('lufs', 'I:'), ('lra', 'LRA:'), ('true_peak', 'Peak:')):
     line = [l for l in summ.splitlines() if tag in l][0]
     rep[key] = float(line.split(tag)[1].split()[0])
 
-os.makedirs(os.path.join(HERE, 'frames'), exist_ok=True)
+os.makedirs(os.path.join(sys.argv[3] if len(sys.argv) > 3 else HERE, 'frames'), exist_ok=True)
 for b in edl['beats']:
     t = (b['from'] + b['dur'] * 0.55) / edl['fps']
-    run(['ffmpeg', '-v', 'error', '-y', '-ss', f'{t:.3f}', '-i', video, '-frames:v', '1', '-vf', 'scale=640:-1', os.path.join(HERE, 'frames', f"{b['id']}.jpg")])
+    run(['ffmpeg', '-v', 'error', '-y', '-ss', f'{t:.3f}', '-i', video, '-frames:v', '1', '-vf', 'scale=640:-1', os.path.join(sys.argv[3] if len(sys.argv) > 3 else HERE, 'frames', f"{b['id']}.jpg")])
 
 checks = {
     '1920x1080': rep['video']['w'] == 1920 and rep['video']['h'] == 1080,
@@ -45,7 +45,7 @@ checks = {
     'true peak ≤ -1': rep['true_peak'] <= -0.9,
 }
 rep['checks'] = checks
-json.dump(rep, open(os.path.join(HERE, 'qa_auto.json'), 'w'), indent=1)
+json.dump(rep, open(os.path.join(sys.argv[3] if len(sys.argv) > 3 else HERE, 'qa_auto.json'), 'w'), indent=1)
 for k, ok in checks.items():
     print(('PASS ' if ok else 'FAIL ') + k)
 print(json.dumps({k: rep[k] for k in ('video', 'audio', 'lufs', 'true_peak', 'black_segments', 'frozen_over_4s')}))
