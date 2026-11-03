@@ -17,3 +17,6 @@ build/
 .DS_Store
 .coverage
 htmlcov/
+video-studio/EP03/visuals/node_modules
+video-studio/EP03/09_publish/*.png
+video-studio/EP03/08_qa/stills/*.png

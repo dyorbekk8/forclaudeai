@@ -1,0 +1,523 @@
+{
+ "duration": 424.627,
+ "lines": [
+  {
+   "id": "a01",
+   "speaker": "N",
+   "text": "A basketball hits you in the face.",
+   "start": 0.5,
+   "end": 2.468
+  },
+  {
+   "id": "a02",
+   "speaker": "N",
+   "text": "And then... you see it coming.",
+   "start": 2.788,
+   "end": 4.959
+  },
+  {
+   "id": "a03",
+   "speaker": "N",
+   "text": "You see Jake throw it. You see it fly. You see it hit you. One full second after it already did.",
+   "start": 5.459,
+   "end": 12.011
+  },
+  {
+   "id": "a04",
+   "speaker": "MIA",
+   "text": "Did you just... not see that?",
+   "start": 12.331,
+   "end": 14.605
+  },
+  {
+   "id": "a05",
+   "speaker": "N",
+   "text": "Your nose is bleeding. And your eyes are still catching up.",
+   "start": 14.925,
+   "end": 18.466
+  },
+  {
+   "id": "a06",
+   "speaker": "N",
+   "text": "Because starting today... your life has lag.",
+   "start": 18.866,
+   "end": 22.228
+  },
+  {
+   "id": "a07",
+   "speaker": "N",
+   "text": "And every single day, the lag doubles.",
+   "start": 22.828,
+   "end": 25.257
+  },
+  {
+   "id": "b01",
+   "speaker": "N",
+   "text": "Here's the rule. Everything you see, hear and feel reaches you late. Your body still lives in the present. But your senses are stuck in the past.",
+   "start": 26.457,
+   "end": 35.059
+  },
+  {
+   "id": "b02",
+   "speaker": "N",
+   "text": "Day one: one second. Day two: two. Day three: four. And it never, ever stops.",
+   "start": 35.379,
+   "end": 41.287
+  },
+  {
+   "id": "b03",
+   "speaker": "N",
+   "text": "And the weird part? You were already lagging.",
+   "start": 41.787,
+   "end": 44.539
+  },
+  {
+   "id": "b04",
+   "speaker": "N",
+   "text": "Your brain needs about a tenth of a second to process what your eyes see. So every human alive is living slightly in the past. You just got... a lot worse at it.",
+   "start": 44.859,
+   "end": 55.79
+  },
+  {
+   "id": "c01",
+   "speaker": "N",
+   "text": "Day one. One second doesn't sound like much.",
+   "start": 56.79,
+   "end": 59.84
+  },
+  {
+   "id": "c02",
+   "speaker": "N",
+   "text": "Until you try to high-five someone.",
+   "start": 60.16,
+   "end": 62.198
+  },
+  {
+   "id": "c03",
+   "speaker": "N",
+   "text": "You laugh at jokes a second after everyone else. You answer questions that were already answered.",
+   "start": 62.698,
+   "end": 68.2
+  },
+  {
+   "id": "c04",
+   "speaker": "N",
+   "text": "Mia, your little sister, figures it out in about five minutes.",
+   "start": 68.52,
+   "end": 72.162
+  },
+  {
+   "id": "c05",
+   "speaker": "MIA",
+   "text": "Watch this. Hey! Catch!",
+   "start": 72.482,
+   "end": 74.96
+  },
+  {
+   "id": "c06",
+   "speaker": "N",
+   "text": "You do not catch.",
+   "start": 75.21,
+   "end": 76.382
+  },
+  {
+   "id": "c07",
+   "speaker": "N",
+   "text": "Soup? Messy. Stairs? Dangerous. Video games? Impossible. Your ping is now a thousand milliseconds. In real life.",
+   "start": 77.082,
+   "end": 87.013
+  },
+  {
+   "id": "c08",
+   "speaker": "N",
+   "text": "Fun fact: light from the Moon takes about one point three seconds to reach your eyes. So today, your whole world feels about as far away as the Moon.",
+   "start": 87.333,
+   "end": 96.745
+  },
+  {
+   "id": "d01",
+   "speaker": "N",
+   "text": "Day three. Four seconds.",
+   "start": 97.745,
+   "end": 99.862
+  },
+  {
+   "id": "d02",
+   "speaker": "N",
+   "text": "Conversations fall apart. Someone asks you a question. You hear it four seconds later. By the time you answer, they've already walked away.",
+   "start": 100.262,
+   "end": 108.721
+  },
+  {
+   "id": "d03",
+   "speaker": "N",
+   "text": "Day five. Sixteen seconds.",
+   "start": 109.321,
+   "end": 111.559
+  },
+  {
+   "id": "d04",
+   "speaker": "N",
+   "text": "And that's when you learn the scariest thing about lag.",
+   "start": 112.059,
+   "end": 114.736
+  },
+  {
+   "id": "d05",
+   "speaker": "N",
+   "text": "You step off the curb. The street looks empty.",
+   "start": 115.056,
+   "end": 118.104
+  },
+  {
+   "id": "d06",
+   "speaker": "N",
+   "text": "It was empty. Sixteen seconds ago.",
+   "start": 118.704,
+   "end": 121.851
+  },
+  {
+   "id": "d07",
+   "speaker": "N",
+   "text": "A horn screams. Something yanks your hoodie back. And sixteen seconds later, you finally see it. A truck. And Mia. Holding onto you with both hands.",
+   "start": 122.751,
+   "end": 132.689
+  },
+  {
+   "id": "d08",
+   "speaker": "MIA",
+   "text": "You can't go outside alone anymore. Okay? Promise me.",
+   "start": 133.089,
+   "end": 136.887
+  },
+  {
+   "id": "e01",
+   "speaker": "N",
+   "text": "Day seven. Sixty-four seconds. More than a full minute.",
+   "start": 138.087,
+   "end": 142.18
+  },
+  {
+   "id": "e02",
+   "speaker": "N",
+   "text": "Your parents take you to the hospital. The doctors run every test. Eyes: perfect. Ears: perfect. Brain scan: perfect.",
+   "start": 142.68,
+   "end": 151.153
+  },
+  {
+   "id": "e03",
+   "speaker": "DOC",
+   "text": "Everything works. It just... arrives late. Like a video that's buffering.",
+   "start": 151.473,
+   "end": 157.535
+  },
+  {
+   "id": "e04",
+   "speaker": "N",
+   "text": "Then you look in a mirror. And it's empty.",
+   "start": 158.135,
+   "end": 161.0
+  },
+  {
+   "id": "e05",
+   "speaker": "N",
+   "text": "You stand there. You wait. And a minute later, you walk in. You watch yourself, from one minute ago, walk into the room.",
+   "start": 161.9,
+   "end": 169.666
+  },
+  {
+   "id": "e06",
+   "speaker": "N",
+   "text": "You're not looking at a mirror anymore. You're watching a recording.",
+   "start": 169.986,
+   "end": 174.049
+  },
+  {
+   "id": "f01",
+   "speaker": "N",
+   "text": "Day ten. Five hundred and twelve seconds. About eight and a half minutes.",
+   "start": 175.249,
+   "end": 180.083
+  },
+  {
+   "id": "f02",
+   "speaker": "N",
+   "text": "And here's the strange part. That's almost exactly how long sunlight takes to reach the Earth.",
+   "start": 180.583,
+   "end": 186.263
+  },
+  {
+   "id": "f03",
+   "speaker": "N",
+   "text": "Whenever anyone looks at the Sun, they see it as it was eight minutes ago. Now you see your entire world that way.",
+   "start": 186.583,
+   "end": 193.281
+  },
+  {
+   "id": "f04",
+   "speaker": "N",
+   "text": "Someone posts a video of you. The boy who lives eight minutes in the past. Ten million views in one day.",
+   "start": 193.881,
+   "end": 200.156
+  },
+  {
+   "id": "f05",
+   "speaker": "N",
+   "text": "Scientists want to study you. Strangers want to test you. But you only want one thing. To see the present. Even for one second.",
+   "start": 200.476,
+   "end": 208.978
+  },
+  {
+   "id": "g01",
+   "speaker": "N",
+   "text": "Day fourteen. Two hours and sixteen minutes.",
+   "start": 210.178,
+   "end": 213.39
+  },
+  {
+   "id": "g02",
+   "speaker": "N",
+   "text": "You wake up at seven in the morning. And it's pitch black.",
+   "start": 213.89,
+   "end": 217.164
+  },
+  {
+   "id": "g03",
+   "speaker": "N",
+   "text": "Because your eyes are still living at five a.m.",
+   "start": 217.764,
+   "end": 221.125
+  },
+  {
+   "id": "g04",
+   "speaker": "N",
+   "text": "Your life splits in two. Your body is in one time. Your world is in another.",
+   "start": 221.725,
+   "end": 226.895
+  },
+  {
+   "id": "g05",
+   "speaker": "N",
+   "text": "So you learn to live by memory. Twelve steps to the kitchen. Four to the fridge. Mia puts tape on the floor, so you can feel the way.",
+   "start": 227.215,
+   "end": 235.579
+  },
+  {
+   "id": "g06",
+   "speaker": "MIA",
+   "text": "Left. Left. Stop. Okay, you're at the table. I'll tell Mom you said thanks.",
+   "start": 235.899,
+   "end": 241.698
+  },
+  {
+   "id": "h01",
+   "speaker": "N",
+   "text": "Day eighteen. Thirty-six hours. You're living a day and a half in the past.",
+   "start": 242.898,
+   "end": 247.564
+  },
+  {
+   "id": "h02",
+   "speaker": "N",
+   "text": "And now, you see everything too late to help.",
+   "start": 248.064,
+   "end": 250.822
+  },
+  {
+   "id": "h03",
+   "speaker": "N",
+   "text": "You watch Mia come home from school, crying, sitting alone on the stairs. You run to her. But the stairs are empty.",
+   "start": 251.142,
+   "end": 258.772
+  },
+  {
+   "id": "h04",
+   "speaker": "N",
+   "text": "That happened yesterday. She's already fine. She's already asleep.",
+   "start": 259.672,
+   "end": 264.009
+  },
+  {
+   "id": "h05",
+   "speaker": "N",
+   "text": "You can see everything. You just can't change any of it.",
+   "start": 264.329,
+   "end": 267.647
+  },
+  {
+   "id": "i01",
+   "speaker": "N",
+   "text": "Day twenty-two. Twenty-four days.",
+   "start": 269.047,
+   "end": 271.566
+  },
+  {
+   "id": "i02",
+   "speaker": "N",
+   "text": "Your birthday happens. Cake. Candles. Your whole family singing.",
+   "start": 272.066,
+   "end": 276.946
+  },
+  {
+   "id": "i03",
+   "speaker": "N",
+   "text": "And you won't see any of it for three and a half weeks.",
+   "start": 277.266,
+   "end": 279.96
+  },
+  {
+   "id": "i04",
+   "speaker": "N",
+   "text": "So on a quiet Tuesday, alone in an empty living room, the party finally reaches you. Balloons appear out of nowhere. Your family sings to an empty chair.",
+   "start": 280.66,
+   "end": 290.728
+  },
+  {
+   "id": "i05",
+   "speaker": "N",
+   "text": "So you sit down in it. Three weeks late. And you blow out candles that aren't there anymore.",
+   "start": 291.048,
+   "end": 297.101
+  },
+  {
+   "id": "j01",
+   "speaker": "N",
+   "text": "Day twenty-six. The number on your screen reads thirty-three million seconds. More than a year.",
+   "start": 298.601,
+   "end": 304.772
+  },
+  {
+   "id": "j02",
+   "speaker": "N",
+   "text": "And then something happens. You walk into your room... and Biscuit is on your bed.",
+   "start": 305.372,
+   "end": 310.577
+  },
+  {
+   "id": "j03",
+   "speaker": "N",
+   "text": "Biscuit. Your dog. The one you buried last spring.",
+   "start": 311.477,
+   "end": 315.561
+  },
+  {
+   "id": "j04",
+   "speaker": "N",
+   "text": "He looks up. His tail thumps the blanket. Because to your eyes, it's a year ago. And he's still here.",
+   "start": 316.361,
+   "end": 323.552
+  },
+  {
+   "id": "j05",
+   "speaker": "N",
+   "text": "You sit next to him for hours. You can't touch him. You don't care.",
+   "start": 323.872,
+   "end": 328.645
+  },
+  {
+   "id": "j06",
+   "speaker": "N",
+   "text": "And for the first time, you don't want the lag to stop.",
+   "start": 329.345,
+   "end": 332.429
+  },
+  {
+   "id": "j07",
+   "speaker": "N",
+   "text": "And the next morning... it doesn't move. Day twenty-seven: one year. Day twenty-eight: one year. The doubling has stopped. You're stuck. Exactly one year behind everyone you love.",
+   "start": 333.429,
+   "end": 345.587
+  },
+  {
+   "id": "k01",
+   "speaker": "N",
+   "text": "That night, your mom finds a box of sticky notes under Mia's bed. Hundreds of them.",
+   "start": 346.887,
+   "end": 352.259
+  },
+  {
+   "id": "k02",
+   "speaker": "N",
+   "text": "She's been leaving you messages. Not for you now. For the you who will see this room a year from now.",
+   "start": 352.579,
+   "end": 358.754
+  },
+  {
+   "id": "k03",
+   "speaker": "MIA",
+   "text": "Hi. It's Mia. Today is day one for me. You'll see this in a year. I'm still here.",
+   "start": 359.354,
+   "end": 366.317
+  },
+  {
+   "id": "k04",
+   "speaker": "N",
+   "text": "Every single day, she writes one. Because she figured out the one thing the doctors missed.",
+   "start": 367.217,
+   "end": 372.245
+  },
+  {
+   "id": "k05",
+   "speaker": "N",
+   "text": "Nothing you lose to the lag is ever really lost. Every hug. Every word. Every hand that held yours. It all still reaches you. Just... late.",
+   "start": 372.565,
+   "end": 383.982
+  },
+  {
+   "id": "k06",
+   "speaker": "N",
+   "text": "And one morning, a year later, you feel it. Small fingers. Squeezing your hand. Right on time.",
+   "start": 384.782,
+   "end": 391.925
+  },
+  {
+   "id": "l01",
+   "speaker": "N",
+   "text": "Day four hundred. The number on your screen changes color.",
+   "start": 393.525,
+   "end": 397.078
+  },
+  {
+   "id": "l02",
+   "speaker": "N",
+   "text": "It turns green. And it starts going down.",
+   "start": 397.578,
+   "end": 400.461
+  },
+  {
+   "id": "l03",
+   "speaker": "N",
+   "text": "Thirty million. Ten million. Ten thousand. Ten. Three. Two. One.",
+   "start": 400.861,
+   "end": 407.53
+  },
+  {
+   "id": "l04",
+   "speaker": "N",
+   "text": "Zero.",
+   "start": 408.13,
+   "end": 408.914
+  },
+  {
+   "id": "l05",
+   "speaker": "N",
+   "text": "And then... minus one.",
+   "start": 409.914,
+   "end": 412.301
+  },
+  {
+   "id": "l06",
+   "speaker": "N",
+   "text": "Now you're seeing one second into the future.",
+   "start": 412.901,
+   "end": 415.26
+  },
+  {
+   "id": "l07",
+   "speaker": "N",
+   "text": "But that's another story. Would you take the lag... if it meant one more day with someone you lost? Tell me in the comments.",
+   "start": 416.16,
+   "end": 424.307
+  }
+ ]
+}
