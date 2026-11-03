@@ -1,0 +1,230 @@
+[
+ {
+  "s": "N",
+  "ids": [
+   "a01",
+   "a02",
+   "a03"
+  ],
+  "text": "[tense] A basketball hits you in the face.\nAnd then... you see it coming.\nYou see Jake throw it. You see it fly. You see it hit you. One full second after it already did.",
+  "n": 0
+ },
+ {
+  "s": "MIA",
+  "ids": [
+   "a04"
+  ],
+  "text": "[confused] Did you just... not see that?",
+  "n": 1
+ },
+ {
+  "s": "N",
+  "ids": [
+   "a05",
+   "a06",
+   "a07"
+  ],
+  "text": "Your nose is bleeding. And your eyes are still catching up.\n[slowly] Because starting today... your life has lag.\n[ominous] And every single day, the lag doubles.",
+  "n": 2
+ },
+ {
+  "s": "N",
+  "ids": [
+   "b01",
+   "b02",
+   "b03",
+   "b04"
+  ],
+  "text": "Here's the rule. Everything you see, hear and feel reaches you late. Your body still lives in the present. But your senses are stuck in the past.\nDay one: one second. Day two: two. Day three: four. And it never, ever stops.\n[curious] And the weird part? You were already lagging.\nYour brain needs about a tenth of a second to process what your eyes see. So every human alive is living slightly in the past. You just got... a lot worse at it.",
+  "n": 3
+ },
+ {
+  "s": "N",
+  "ids": [
+   "c01",
+   "c02",
+   "c03",
+   "c04"
+  ],
+  "text": "Day one. One second doesn't sound like much.\n[amused] Until you try to high-five someone.\nYou laugh at jokes a second after everyone else. You answer questions that were already answered.\nMia, your little sister, figures it out in about five minutes.",
+  "n": 4
+ },
+ {
+  "s": "MIA",
+  "ids": [
+   "c05"
+  ],
+  "text": "[mischievously] Watch this. Hey! Catch!",
+  "n": 5
+ },
+ {
+  "s": "N",
+  "ids": [
+   "c06",
+   "c07",
+   "c08"
+  ],
+  "text": "[deadpan] You do not catch.\nSoup? Messy. Stairs? Dangerous. Video games? Impossible. Your ping is now a thousand milliseconds. In real life.\nFun fact: light from the Moon takes about one point three seconds to reach your eyes. So today, your whole world feels about as far away as the Moon.",
+  "n": 6
+ },
+ {
+  "s": "N",
+  "ids": [
+   "d01",
+   "d02",
+   "d03",
+   "d04",
+   "d05",
+   "d06",
+   "d07"
+  ],
+  "text": "Day three. Four seconds.\nConversations fall apart. Someone asks you a question. You hear it four seconds later. By the time you answer, they've already walked away.\nDay five. Sixteen seconds.\n[serious] And that's when you learn the scariest thing about lag.\nYou step off the curb. The street looks empty.\n[whispers] It was empty. Sixteen seconds ago.\n[urgent] A horn screams. Something yanks your hoodie back. And sixteen seconds later, you finally see it. A truck. And Mia. Holding onto you with both hands.",
+  "n": 7
+ },
+ {
+  "s": "MIA",
+  "ids": [
+   "d08"
+  ],
+  "text": "[crying, shaky] You can't go outside alone anymore. Okay? Promise me.",
+  "n": 8
+ },
+ {
+  "s": "N",
+  "ids": [
+   "e01",
+   "e02"
+  ],
+  "text": "Day seven. Sixty-four seconds. More than a full minute.\nYour parents take you to the hospital. The doctors run every test. Eyes: perfect. Ears: perfect. Brain scan: perfect.",
+  "n": 9
+ },
+ {
+  "s": "DOC",
+  "ids": [
+   "e03"
+  ],
+  "text": "[puzzled] Everything works. It just... arrives late. Like a video that's buffering.",
+  "n": 10
+ },
+ {
+  "s": "N",
+  "ids": [
+   "e04",
+   "e05",
+   "e06"
+  ],
+  "text": "Then you look in a mirror. [pause] And it's empty.\nYou stand there. You wait. And a minute later, you walk in. You watch yourself, from one minute ago, walk into the room.\n[quietly] You're not looking at a mirror anymore. You're watching a recording.",
+  "n": 11
+ },
+ {
+  "s": "N",
+  "ids": [
+   "f01",
+   "f02",
+   "f03",
+   "f04",
+   "f05"
+  ],
+  "text": "Day ten. Five hundred and twelve seconds. About eight and a half minutes.\n[intrigued] And here's the strange part. That's almost exactly how long sunlight takes to reach the Earth.\nWhenever anyone looks at the Sun, they see it as it was eight minutes ago. Now you see your entire world that way.\nSomeone posts a video of you. The boy who lives eight minutes in the past. Ten million views in one day.\nScientists want to study you. Strangers want to test you. But you only want one thing. To see the present. [softly] Even for one second.",
+  "n": 12
+ },
+ {
+  "s": "N",
+  "ids": [
+   "g01",
+   "g02",
+   "g03",
+   "g04",
+   "g05"
+  ],
+  "text": "Day fourteen. Two hours and sixteen minutes.\nYou wake up at seven in the morning. And it's pitch black.\nBecause your eyes are still living at five a.m.\nYour life splits in two. Your body is in one time. Your world is in another.\nSo you learn to live by memory. Twelve steps to the kitchen. Four to the fridge. Mia puts tape on the floor, so you can feel the way.",
+  "n": 13
+ },
+ {
+  "s": "MIA",
+  "ids": [
+   "g06"
+  ],
+  "text": "[gently] Left. Left. Stop. Okay, you're at the table. I'll tell Mom you said thanks.",
+  "n": 14
+ },
+ {
+  "s": "N",
+  "ids": [
+   "h01",
+   "h02",
+   "h03",
+   "h04",
+   "h05"
+  ],
+  "text": "Day eighteen. Thirty-six hours. You're living a day and a half in the past.\n[sad] And now, you see everything too late to help.\nYou watch Mia come home from school, crying, sitting alone on the stairs. You run to her. But the stairs are empty.\nThat happened yesterday. She's already fine. She's already asleep.\n[softly] You can see everything. You just can't change any of it.",
+  "n": 15
+ },
+ {
+  "s": "N",
+  "ids": [
+   "i01",
+   "i02",
+   "i03",
+   "i04",
+   "i05"
+  ],
+  "text": "Day twenty-two. Twenty-four days.\nYour birthday happens. Cake. Candles. Your whole family singing.\nAnd you won't see any of it for three and a half weeks.\nSo on a quiet Tuesday, alone in an empty living room, the party finally reaches you. Balloons appear out of nowhere. Your family sings to an empty chair.\n[emotional] So you sit down in it. Three weeks late. And you blow out candles that aren't there anymore.",
+  "n": 16
+ },
+ {
+  "s": "N",
+  "ids": [
+   "j01",
+   "j02",
+   "j03",
+   "j04",
+   "j05",
+   "j06",
+   "j07"
+  ],
+  "text": "Day twenty-six. The number on your screen reads thirty-three million seconds. More than a year.\nAnd then something happens. You walk into your room... and Biscuit is on your bed.\n[emotional] Biscuit. Your dog. The one you buried last spring.\nHe looks up. His tail thumps the blanket. Because to your eyes, it's a year ago. And he's still here.\n[softly] You sit next to him for hours. You can't touch him. You don't care.\nAnd for the first time, you don't want the lag to stop.\nAnd the next morning... it doesn't move. Day twenty-seven: one year. Day twenty-eight: one year. The doubling has stopped. You're stuck. Exactly one year behind everyone you love.",
+  "n": 17
+ },
+ {
+  "s": "N",
+  "ids": [
+   "k01",
+   "k02"
+  ],
+  "text": "That night, your mom finds a box of sticky notes under Mia's bed. Hundreds of them.\nShe's been leaving you messages. Not for you now. For the you who will see this room a year from now.",
+  "n": 18
+ },
+ {
+  "s": "MIA",
+  "ids": [
+   "k03"
+  ],
+  "text": "[softly, warm] Hi. It's Mia. Today is day one for me. You'll see this in a year. I'm still here.",
+  "n": 19
+ },
+ {
+  "s": "N",
+  "ids": [
+   "k04",
+   "k05",
+   "k06"
+  ],
+  "text": "Every single day, she writes one. Because she figured out the one thing the doctors missed.\n[emotional] Nothing you lose to the lag is ever really lost. Every hug. Every word. Every hand that held yours. It all still reaches you. Just... late.\n[very softly] And one morning, a year later, you feel it. Small fingers. Squeezing your hand. Right on time.",
+  "n": 20
+ },
+ {
+  "s": "N",
+  "ids": [
+   "l01",
+   "l02",
+   "l03",
+   "l04",
+   "l05",
+   "l06",
+   "l07"
+  ],
+  "text": "[mysterious] Day four hundred. The number on your screen changes color.\nIt turns green. And it starts going down.\n[building] Thirty million. Ten million. Ten thousand. Ten. Three. Two. One.\n[whispers] Zero.\n[pause] And then... minus one.\nNow you're seeing one second into the future.\nBut that's another story. [warmly] Would you take the lag... if it meant one more day with someone you lost? Tell me in the comments.",
+  "n": 21
+ }
+]
