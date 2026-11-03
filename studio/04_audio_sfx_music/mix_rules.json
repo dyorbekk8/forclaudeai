@@ -1,0 +1,48 @@
+{
+  "regenerate": "cd studio/04_audio_sfx_music/tools && python3 sfx.py && python3 music.py && python3 qa.py",
+  "reference": {
+    "vo_target_lufs": -16.0,
+    "master_target_lufs": -14.0,
+    "master_true_peak_dbtp": -1.0,
+    "sfx_files_peak_dbfs": -3.0,
+    "music_files_lufs": -20.0,
+    "note": "Gains below are applied to the files as delivered. Final master: sum, then normalise to -14 LUFS / -1 dBTP."
+  },
+  "music": {
+    "bed_cold_open.wav": {"gain_db": -9, "note": "0-25 s; its hit lands at 23.3 s - align to the title/first-item cut. Duck under VO by 4 dB more during dense lines."},
+    "bed_main_loop.wav": {"gain_db_under_vo": -14, "gain_db_no_vo": -9, "note": "Loop seamlessly (sample 0 follows last sample). Start it at a bar boundary (2.6667 s grid) on the first item cut."},
+    "bed_outro.wav": {"gain_db": -10, "note": "Crossfade from main loop over 1.5 s at the closing reframe."},
+    "ducking": {"source": "VO", "depth_db": 5, "attack_ms": 80, "release_ms": 450, "hold_ms": 120, "note": "Static gains above already sit ~16 LU under VO; ducking only handles phrase gaps (music swells back up 5 dB in pauses > 0.6 s)."},
+    "eq": "Beds already carry a -4 dB broad dip at 1.4 kHz (Q 0.45) to leave room for the voice. Do not add further low end below 40 Hz."
+  },
+  "sfx_gain_db": {
+    "whoosh_soft_*": -18,
+    "whoosh_hard_*": -13,
+    "tick_*": -20,
+    "pop_*": -17,
+    "click_*": -20,
+    "counter_tick_loop": -25,
+    "heat_rise": -15,
+    "glass_shatter_*": -7,
+    "water_spray_burst": -17,
+    "water_spray_loop": -26,
+    "stamp_thud_*": -9,
+    "sub_hit_*": -9,
+    "riser_2s": -17,
+    "reverse_swell_1s": -16,
+    "paper_slide": -20,
+    "marker_scribble": -22,
+    "alarm_bell_distant": -26
+  },
+  "placement_rules": [
+    "SFX hit on the frame the visual event happens (tile pops on its first visible frame, shatter on the crack frame).",
+    "Never more than one foreground SFX in any 250 ms window; ticks for label lists may run at 12/s only via counter_tick_loop.",
+    "Rotate variants (_1.._4) so no two consecutive identical events use the same file.",
+    "heat_rise ends hard: place its last sample 1-2 frames before glass_shatter; duck music -6 dB for the 1 s around a shatter.",
+    "Glass shatter is the signature moment of this video: keep VO silent for >= 0.4 s around it.",
+    "stamp_thud_* only for the red anchor stamp (once or twice per video), paired with a 2-frame scale punch.",
+    "sub_hit_* max 2 per video (cold-open title + final reveal).",
+    "water_spray_loop under VO only at -26 dB or lower; fade 300 ms in/out.",
+    "alarm_bell_distant only in the cold open/fire-context shots; never under item explanations."
+  ]
+}

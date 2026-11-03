@@ -1,0 +1,323 @@
+[
+  {
+    "id": "T01",
+    "claim": "Ordinary class: 135°F glass bulb is ORANGE, 155°F glass bulb is RED. Max ceiling temperature 100°F.",
+    "value": "135°F orange / 155°F red; class range 135–170°F; max ceiling 100°F",
+    "unit": "°F",
+    "sources": [
+      {"title": "Victaulic spec sheet VICS271 (NFPA-style table)", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS271AJQ410.pdf", "quote": "Ordinary A 135 100 Orange; Ordinary C 155 100 Red"},
+      {"title": "Viking SR bulb chart", "url": "https://www.vikinggroupinc.com/sites/default/files/migrated/SR-bulb_chart_new-branding.pdf", "quote": "135°F orange, 155°F red (via search excerpt)"},
+      {"title": "NFSA – What do Fire Sprinkler Colors Mean?", "url": "https://nfsa.org/2023/04/17/what-do-fire-sprinkler-colors-mean/", "quote": "Different colors indicate different activation temperatures"}
+    ],
+    "confidence": "high",
+    "notes": "135°F = 57°C, 155°F = 68°C. 155°F red is the most common head in offices/homes. Some guides also list red at 165°F (74°C) as an alternate ordinary rating."
+  },
+  {
+    "id": "T02",
+    "claim": "Intermediate class: 175°F bulb is YELLOW, 200°F bulb is GREEN. Max ceiling 150°F.",
+    "value": "175°F yellow / 200°F green; class range 175–225°F; max ceiling 150°F",
+    "unit": "°F",
+    "sources": [
+      {"title": "Victaulic spec sheet VICS271", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS271AJQ410.pdf", "quote": "Intermediate E 175 150 Yellow; Intermediate F 200 150 Green"},
+      {"title": "Viking SR bulb chart", "url": "https://www.vikinggroupinc.com/sites/default/files/migrated/SR-bulb_chart_new-branding.pdf", "quote": "175°F yellow (via search excerpt)"}
+    ],
+    "confidence": "high",
+    "notes": "175°F = 79°C, 200°F = 93°C. Green also appears at 212°F (100°C) in some listings."
+  },
+  {
+    "id": "T03",
+    "claim": "High class: 286°F bulb is BLUE. Max ceiling 225°F. Blue covers the whole High class (250–300°F).",
+    "value": "286°F blue; class 250–300°F; max ceiling 225°F",
+    "unit": "°F",
+    "sources": [
+      {"title": "Victaulic spec sheet VICS271", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS271AJQ410.pdf", "quote": "High J 286 225 Blue"},
+      {"title": "Viking SR bulb chart", "url": "https://www.vikinggroupinc.com/sites/default/files/migrated/SR-bulb_chart_new-branding.pdf", "quote": "286°F blue, max ambient 225°F (via search excerpt)"}
+    ],
+    "confidence": "high",
+    "notes": "286°F = 141°C. CONFLICT: NFSA article mentions blue 'at 250°F (121°C)' – that is the class floor, not the common rating. Use 286°F."
+  },
+  {
+    "id": "T04",
+    "claim": "Extra-high class: 360°F bulb is PURPLE (some manufacturers call it MAUVE). Max ceiling 300°F.",
+    "value": "360°F purple/mauve; class 325–375°F; max ceiling 300°F",
+    "unit": "°F",
+    "sources": [
+      {"title": "Victaulic spec sheet VICS271", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS271AJQ410.pdf", "quote": "Extra High K 360 300 Mauve"},
+      {"title": "NICET study guide (open-exam-prep)", "url": "https://open-exam-prep.com/study-guides/nicet-itwbs/water-based-system-components/sprinkler-types-orifices", "quote": "360°F purple"},
+      {"title": "selvi.org NFPA 13 chart", "url": "https://selvi.org/en/blog/nfpa/sprinkler-thermal-characteristics", "quote": "Extra High: 325–375°F (163–191°C) → Purple bulb"}
+    ],
+    "confidence": "high",
+    "notes": "360°F = 182°C. Say 'purple' on screen; 'mauve' is the same dye in some catalogs."
+  },
+  {
+    "id": "T05",
+    "claim": "Very-extra-high (400–475°F) and ultra-high (500–650°F) classes both use a BLACK bulb.",
+    "value": "black bulb for ≥400°F; common rating 500°F (260°C), max ambient 465°F",
+    "unit": "°F",
+    "sources": [
+      {"title": "selvi.org NFPA 13 chart", "url": "https://selvi.org/en/blog/nfpa/sprinkler-thermal-characteristics", "quote": "Very Extra High: 400–475°F (204–246°C) → Black bulb; Ultra High: 500°F+ (260°C+) → Black bulb"},
+      {"title": "NFSA – What do Fire Sprinkler Colors Mean?", "url": "https://nfsa.org/2023/04/17/what-do-fire-sprinkler-colors-mean/", "quote": "black element ... activates typically over 400°F (204°C)"},
+      {"title": "NICET study guide", "url": "https://open-exam-prep.com/study-guides/nicet-itwbs/water-based-system-components/sprinkler-types-orifices", "quote": "black (400°F-650°F)"}
+    ],
+    "confidence": "high",
+    "notes": "Black is a RANGE, not one number. Safe on-screen label: 'BLACK  400°F+'. If showing 500°F, say 'one common black rating is 500°F'. 500°F max ambient 465°F is from a single vendor chart (medium)."
+  },
+  {
+    "id": "T06",
+    "claim": "NFPA 13 class ranges: ordinary 135–170°F, intermediate 175–225°F, high 250–300°F, extra high 325–375°F, very extra high 400–475°F, ultra high 500–650°F.",
+    "value": "see claim",
+    "unit": "°F",
+    "sources": [
+      {"title": "NICET study guide", "url": "https://open-exam-prep.com/study-guides/nicet-itwbs/water-based-system-components/sprinkler-types-orifices", "quote": "ordinary 135–170°F, intermediate 175–225°F, high 250–300°F, extra high 325–375°F, very extra high 400–475°F, ultra high 500–650°F"},
+      {"title": "callout.app – NFPA 13 2022 §8.4.1", "url": "https://www.callout.app/codes/nfpa-13-8-4-1", "quote": "temperature classification table (via search excerpt)"}
+    ],
+    "confidence": "high",
+    "notes": "Table number changes by edition (6.2.5.1 / 7.2.4.1 / 8.4.1) – never cite a table number on screen."
+  },
+  {
+    "id": "T07",
+    "claim": "Frame-arm colour code is a SEPARATE system from bulb colour: uncoloured/black = ordinary, white = intermediate, blue = high, red = extra high, green = very extra high, orange = ultra high.",
+    "value": "frame: ordinary uncoloured/black, intermediate white, high blue, extra-high red, very-extra-high green, ultra-high orange",
+    "unit": "",
+    "sources": [
+      {"title": "callout.app – NFPA 13 2022 §8.4.1", "url": "https://www.callout.app/codes/nfpa-13-8-4-1", "quote": "uncolored or black for Ordinary, white for Intermediate, blue for High, red for Extra High, green for Very Extra High, and orange for Ultra High"},
+      {"title": "Fire inspector study guide", "url": "https://open-exam-prep.com/study-guides/fire-inspector/c3/c3-s2", "quote": "uncolored/black frame arms for Ordinary..., white for Intermediate..., and blue for High"}
+    ],
+    "confidence": "medium",
+    "notes": "Two secondary sources agree on ordinary/intermediate/high; only one covers red/green/orange. Great 'twist' material: a red FRAME means extra-high (~360°F) while a red BULB means ordinary (155°F) – same word, opposite ends. Keep as medium; phrase carefully."
+  },
+  {
+    "id": "M01",
+    "claim": "Bulb mechanism: the liquid expands as it heats and compresses a deliberate air/vapour bubble; when the bubble can no longer compress, pressure shatters the glass and releases the seal/plug so water flows.",
+    "value": "liquid expands → bubble disappears → glass shatters → water seat released",
+    "unit": "",
+    "sources": [
+      {"title": "Victaulic literature (GFS series, via search)", "url": "https://assets.victaulic.com/assets/uploads/literature/GFS-240.pdf", "quote": "the fluid in the bulb expands, compressing the air bubble within the bulb. Once the bubble can no longer compress, the fluid expansion causes breakage of the glass bulb, resulting in release of the water seat assembly"},
+      {"title": "JOB Thermo Bulb flyer / press kit", "url": "https://www.job-group.com/wp-content/uploads/2024/10/JOB-Pressemappe-2026-EN.pdf", "quote": "A liquid in the glass bulbs expands as temperature rises, breaking the bulbs into small fragments at a set release temperature"}
+    ],
+    "confidence": "high",
+    "notes": "Visual: bubble shrinks to zero, then shatter. The bubble is intentional."
+  },
+  {
+    "id": "M02",
+    "claim": "Bulb fill liquid is glycerin-based in many standard bulbs; some quick-response bulbs use an alcohol-based solution. The colour is a dye in that liquid.",
+    "value": "glycerin-based (e.g. 5 mm SR) or alcohol-based (e.g. 3 mm QR)",
+    "unit": "",
+    "sources": [
+      {"title": "Victaulic V2738 datasheet (QRFS)", "url": "https://www.qrfs.com/content/attachments/Datasheet_Victaulic_V2738.pdf", "quote": "glass with alcohol based solution, 3mm"},
+      {"title": "Product listing (search excerpt)", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS381PCQ410.pdf", "quote": "glass with glycerin based solution, 5mm"}
+    ],
+    "confidence": "medium",
+    "notes": "Fill varies by manufacturer – say 'a glycerin- or alcohol-based liquid'. 'Colour = dye' is inferred from colour-coded liquid wording (NFPA: 'liquid in bulb-type sprinklers shall be color coded'); no source literally says 'dye' – say 'the liquid is coloured'."
+  },
+  {
+    "id": "M03",
+    "claim": "Standard-response heads use ~5 mm bulbs (RTI ≥ 80 (m·s)^½); quick-response heads use ~3 mm bulbs (RTI ≤ 50 (m·s)^½). Thinner bulb = less glass and liquid to heat = faster activation. QR is aimed at life safety in light-hazard spaces (offices, schools); SR mainly at property protection.",
+    "value": "SR 5 mm / RTI ≥80; QR 3 mm / RTI ≤50",
+    "unit": "mm, (m·s)^½",
+    "sources": [
+      {"title": "QRFS blog – standard vs quick response", "url": "https://blog.qrfs.com/1-fire-sprinklers-standard-response-vs-quick-response/", "quote": "Quick response sprinklers have a slightly different mission than standard response sprinklers"},
+      {"title": "NICET study guide (sprinkler types)", "url": "https://open-exam-prep.com/study-guides/nicet-water-based/sprinkler-selection-spacing/sprinkler-types-characteristics", "quote": "Standard response sprinklers typically utilize 5 mm diameter glass bulbs... Quick response sprinklers utilize low-mass 3 mm diameter glass bulbs"},
+      {"title": "Naffco conventional sprinkler", "url": "https://www.naffco.com/conventional-sprinkler", "quote": "Standard SD1025 (bulb 5mm), Quick Response SD1026 (bulb 3mm)"}
+    ],
+    "confidence": "high",
+    "notes": "Same colour, two thicknesses: a thin red bulb and a thick red bulb are both 155°F but react at different speeds."
+  },
+  {
+    "id": "M04",
+    "claim": "Fusible-link sprinklers came before glass bulbs: a soft solder/alloy link melts at the rated temperature and releases the cap. Their rating is shown by frame/link colour, not liquid.",
+    "value": "solder link melts",
+    "unit": "",
+    "sources": [
+      {"title": "QRFS #455 – fusible link vs glass bulb", "url": "https://blog.qrfs.com/455-fusible-link-sprinkler-head-vs-glass-bulb-sprinkler-the-differences/", "quote": "Fusible-link sprinkler heads are triggered by a soft metal alloy that melts at the rated temperature"},
+      {"title": "Parmelee sprinkler (search excerpt)", "url": "https://www.inspectpoint.com/resources/articles/frederick-grinnell-forefather-of-fire-protection", "quote": "Parmelee's sprinkler featured a downward-facing perforated shell with a cap secured to the base using solder"}
+    ],
+    "confidence": "high",
+    "notes": "The rating is also STAMPED on the deflector – the stamp, not the colour, is authoritative (Viking)."
+  },
+  {
+    "id": "M05",
+    "claim": "The temperature rating is stamped on the deflector; colour can fade, the stamp is the authoritative identifier.",
+    "value": "stamp on deflector",
+    "unit": "",
+    "sources": [
+      {"title": "Viking datasheet (search excerpt)", "url": "https://vikinggroupinc.com/databook/sprinklers/060404.pdf", "quote": "the sprinkler temperature rating is stamped on the deflector"},
+      {"title": "Manufacturer chart note (search excerpt)", "url": "https://www.nyc.gov/assets/buildings/pdf/101-92-ev8.pdf", "quote": "The temperature rating is still stamped on the sprinkler deflector even if the colour is lost"}
+    ],
+    "confidence": "medium",
+    "notes": "Good closing reframe: 'the colour is the quick read; the final word is stamped in metal'."
+  },
+  {
+    "id": "U01",
+    "claim": "Placement: ordinary/intermediate heads are used throughout most buildings; intermediate heads go under skylights in direct sun, in unvented attics/concealed spaces under uninsulated roofs, and near heat sources; heads within the high-temperature zone of a unit heater need high-temperature ratings.",
+    "value": "skylights/attics → intermediate; close to unit heaters → high",
+    "unit": "",
+    "sources": [
+      {"title": "Newport Beach NFPA 13D checklist", "url": "https://www.newportbeachca.gov/home/showpublisheddocument?id=20756", "quote": "sprinklers under glass or plastic skylights exposed to direct sunlight need intermediate ratings (175–225°F)"},
+      {"title": "Washington County OR NFPA 13D checklist", "url": "https://washingtoncountyor.gov/lut/building-services/documents/nfpa-13-d-sprinkler-system-checklist/download", "quote": "Intermediate temperature sprinklers ... in skylights exposed to direct sun, in unvented concealed spaces under uninsulated roofs or in unvented attics, and near heat sources"},
+      {"title": "MeyerFire – high temp at heaters", "url": "https://meyerfire.com/daily/high-temp-sprinklers-at-heaters-in-greenhouse", "quote": "heads within about 7 feet of a heater should be high-temperature (reviewer note)"}
+    ],
+    "confidence": "medium",
+    "notes": "Skylight/attic = high (2 code checklists). 'Within ~7 ft of a heater' is forum-level – do not state the distance. Rule of thumb on screen: rating sits ~50°F above the hottest normal ceiling temperature (from max-ceiling column: 100→135/155, 150→175/200, 225→286, 300→360)."
+  },
+  {
+    "id": "U02",
+    "claim": "Specific uses for blue/purple/black (boiler rooms, ovens, kilns) – NOT found in a citable source.",
+    "value": "unverified",
+    "unit": "",
+    "sources": [],
+    "confidence": "low",
+    "notes": "NFSA only says black is 'used where temperatures can reach extremely high levels'. Script should say 'spaces that run hot all day — near heaters, ovens, industrial processes' generically, not name a specific room per colour."
+  },
+  {
+    "id": "S01",
+    "claim": "Only heat, not smoke, activates a standard sprinkler; in wet-pipe systems only the heads exposed to enough heat open. The all-at-once image comes from movies. Deluge systems are the exception: all open heads discharge together.",
+    "value": "heat-only, individual activation",
+    "unit": "",
+    "sources": [
+      {"title": "Massachusetts DFS side-by-side demo script", "url": "https://www.mass.gov/doc/script-for-side-by-side-sprinkler-demonstration-trailer/download", "quote": "Many people believe that smoke activates sprinklers... Only heat, not smoke can activate a sprinkler."},
+      {"title": "Greater Manchester FRS – myths and facts", "url": "https://manchesterfire.gov.uk/staying-safe/what-we-do/think-sprinkler/sprinklers-myths-and-facts/", "quote": "Only the sprinkler head(s) directly affected by the fire is triggered."},
+      {"title": "NFSA – benefits of fire sprinklers", "url": "https://nfsa.org/benefits-fire-sprinklers/", "quote": "the hero, in order to set off a diversion, will activate a building's sprinkler system and cause all the heads to activate"},
+      {"title": "QRFS – Hollywood myths", "url": "https://blog.qrfs.com/?p=3447", "quote": "in a deluge system, once one head is activated, they will all go off"}
+    ],
+    "confidence": "high",
+    "notes": "Core myth-bust for mid-video."
+  },
+  {
+    "id": "S02",
+    "claim": "NFPA (2015–2019 US data): in structure fires where sprinklers operated, only ONE sprinkler operated in 77%; five or fewer in 97%. Sprinklers operated in 92% of fires large enough to activate them.",
+    "value": "77% one head; 97% ≤5 heads; 92% operated",
+    "unit": "%",
+    "sources": [
+      {"title": "NFPA Journal Spring 2022 (U.S. Experience with Sprinklers summary)", "url": "https://nxtbook.com/nxtbooks/nfpa/journal_2022spring/index.php?startid=70", "quote": "only one operated in 77 percent of the structure fires where sprinklers operated, and five or fewer operated in 97 percent"},
+      {"title": "NFPA fact sheet July 2017 (2010–2014)", "url": "https://www.mtnbrook.org/sites/default/files/fileattachments/fire_department/page/1581/3_u_s_experience_with_sprinklers.pdf", "quote": "one sprinkler head operating in four out of five (79%) fires in which sprinklers operated... 97%"}
+    ],
+    "confidence": "high",
+    "notes": "Say '77 percent' and cite period 2015–2019. The '90% of fires one head' line used by NFSA/local news is an older industry claim – do NOT use it."
+  },
+  {
+    "id": "S03",
+    "claim": "NFPA (2015–2019): civilian death rate per reported fire was 89% lower in properties with sprinklers (all structures); 88% lower in homes.",
+    "value": "89% (all structures), 88% (homes)",
+    "unit": "%",
+    "sources": [
+      {"title": "NFPA Journal Spring 2022", "url": "https://nxtbook.com/nxtbooks/nfpa/journal_2022spring/index.php?startid=70", "quote": "civilian death and injury rates per reported home fire were 88% and 28% lower ... 89% for all properties"},
+      {"title": "Maine legislative testimony citing NFPA 2017–2021", "url": "https://legislature.maine.gov/testimony/resources/HED20250306Cooper133855916741969253.pdf", "quote": "civilian deaths in homes with sprinklers were 89% lower than in homes without sprinklers"}
+    ],
+    "confidence": "high",
+    "notes": "Safe phrasing: 'close to 90 percent lower death rate'."
+  },
+  {
+    "id": "H01",
+    "claim": "Henry S. Parmelee, a New Haven piano maker (Mathushek piano works), patented an automatic sprinkler head on Aug 11, 1874 (US patent 154,076), installed to protect his piano factory and cut insurance costs.",
+    "value": "1874-08-11, patent 154,076",
+    "unit": "",
+    "sources": [
+      {"title": "Today in Connecticut History – Aug 11", "url": "https://todayincthistory.com/2018/08/11/august-11-new-haven-piano-maker-patents-automatic-fire-sprinkler/", "quote": "A patent for the automatic sprinkler head was issued on Aug. 11, 1874 ... patent number was 154,076"},
+      {"title": "Today in CT History 2023 – piano maker's play to cut insurance rates", "url": "https://todayincthistory.com/2023/08/11/august-11-a-piano-makers-play-to-cut-insurance-rates-nets-him-millions/", "quote": "owner of the New Haven-based Mathusek Piano Works ... exorbitantly high insurance rates"},
+      {"title": "VdS – 150 years sprinkler", "url": "https://vds.de/en/certification/inspection-service/information-innovation/information-news/150-year-sprinkler", "quote": "150 years of the sprinkler (1874–2024)"}
+    ],
+    "confidence": "high",
+    "notes": "CONFLICT on 'first': Philip W. Pratt (Abington MA) patented an automatic system in 1872; say 'the first practical automatic sprinkler head'. Spelling varies Parmelee/Parmalee; piano firm spelled Mathushek/Mathusek."
+  },
+  {
+    "id": "H02",
+    "claim": "Frederick Grinnell manufactured and improved Parmelee's design and patented his own sprinkler (1881 or 1882 – sources conflict).",
+    "value": "1881/1882",
+    "unit": "",
+    "sources": [
+      {"title": "Inspect Point – Frederick Grinnell", "url": "https://www.inspectpoint.com/resources/articles/frederick-grinnell-forefather-of-fire-protection", "quote": "Grinnell already knew Henry S. Parmalee..."},
+      {"title": "canutesoft history of fire sprinklers", "url": "https://canutesoft.com/information-and-resources/history-of-fire-sprinkler-systems", "quote": "Grinnell sprinkler (year varies)"}
+    ],
+    "confidence": "medium",
+    "notes": "Avoid stating the year; say 'within a few years'."
+  },
+  {
+    "id": "H03",
+    "claim": "Date/inventor of the first glass-bulb sprinkler is DISPUTED (1890 glass-disc vs ~1920s glass-bulb from Grinnell; a 1929 Grinnell pamphlet describes the bulb cycle). JOB GmbH (Ahrensburg, Germany), today's largest bulb maker, was founded only in 1971 by Eduard Job and makes 100M+ bulbs a year.",
+    "value": "bulb origin uncertain; JOB founded 1971; >100 million bulbs/yr",
+    "unit": "",
+    "sources": [
+      {"title": "QRFS #455", "url": "https://blog.qrfs.com/455-fusible-link-sprinkler-head-vs-glass-bulb-sprinkler-the-differences/", "quote": "first glass-bulb sprinkler appeared in 1920 from Grinnell's company"},
+      {"title": "US5967238A patent (cites 1929 Grinnell pamphlet)", "url": "https://patents.google.com/patent/US5967238", "quote": "Grinnell pamphlet dated 1929 that describes the bulb's operating cycle"},
+      {"title": "JOB press kit 2026", "url": "https://www.job-group.com/wp-content/uploads/2024/10/JOB-Pressemappe-2026-EN.pdf", "quote": "founded in 1971 by Eduard Job ... more than 100 million Thermo Bulbs each year"}
+    ],
+    "confidence": "low",
+    "notes": "Do NOT give a glass-bulb invention year. Day-Impex: nothing found. JOB 1971 + 100M/yr is single-source (company) = medium."
+  },
+  {
+    "id": "X01",
+    "claim": "MGM Grand fire, Las Vegas, Nov 21, 1980: 85 killed (some sources 84/87). Casino, restaurant (incl. the deli where it started) and most of the 26-storey hotel had no sprinklers. Full sprinklering would have cost ~ $192,000 on a $106 million resort. NFPA report co-author David Demers: 'With sprinklers, it would have been a one- or two-sprinkler fire and we never would have heard about it.' Nevada mandated sprinklers in buildings over 55 ft about five months later.",
+    "value": "1980-11-21; 85 dead; $192,000 vs $106M",
+    "unit": "",
+    "sources": [
+      {"title": "Las Vegas Sun 2008 – MGM fire changed safety", "url": "https://m.lasvegassun.com/news/2008/jan/25/mgm-fire-changed-safety/", "quote": "the hotel refused to pay for the $192,000 system"},
+      {"title": "QRFS #271 – MGM Grand fire", "url": "https://blog.qrfs.com/271-the-deadliest-fires-in-u-s-history-the-mgm-grand-fire-in-las-vegas/", "quote": "would have added about $192,000 to the cost of the $106 million resort"},
+      {"title": "Firehouse – Lessons from the Past: MGM Grand", "url": "https://www.firehouse.com/article/10465399/lessons-from-the-past-mgm-grand-fire", "quote": "With sprinklers, it would have been a one- or two-sprinkler fire, and we would never have heard about it."},
+      {"title": "Las Vegas Sun 1980-11-23 – MGM nixed improved sprinkler system", "url": "https://lasvegassun.com/news/1980/nov/23/mgm-nixed-improved-sprinkler-system-73/", "quote": "owners chose instead to meet minimum requirements"}
+    ],
+    "confidence": "high",
+    "notes": "Death toll: say '85 people' (most common, NFPA figure) – conflict 84/85/87 noted. Best cold-open candidate."
+  },
+  {
+    "id": "X02",
+    "claim": "The Station nightclub fire, West Warwick RI, Feb 20, 2003: 100 killed after pyrotechnics ignited foam; the 1946 wooden building was grandfathered and had no sprinklers. RI's Comprehensive Fire Safety Act (signed July 2003) required sprinklers in nightclubs holding 150+ people (stricter than NFPA's 300).",
+    "value": "2003-02-20; 100 dead; no sprinklers",
+    "unit": "",
+    "sources": [
+      {"title": "ICC – Remembering the Station Nightclub Fire", "url": "https://www.iccsafe.org/building-safety-journal/bsj-dives/remembering-the-station-nightclub-fire/", "quote": "Built in 1946, the wooden Station nightclub was grandfathered into an exception for laws requiring ceiling fire sprinklers"},
+      {"title": "Security Sales – RI governor signs fire legislation", "url": "https://www.securitysales.com/news/rhode-island-governor-signs-off-on-fire-legislation/47503/", "quote": "require sprinklers in nightclubs that serve alcohol and accommodate at least 150 people"},
+      {"title": "Fire Engineering – Station nightclub lessons", "url": "https://www.fireengineering.com/firefighting/station-nightclub-fire-revisiting-lessons-full/", "quote": "a sprinkler system would have most likely spared many lives"}
+    ],
+    "confidence": "high",
+    "notes": "Attendance 'more than 460' vs capacity 404 – conflict; don't state attendance."
+  },
+  {
+    "id": "X03",
+    "claim": "Holiday Inn, Dumfries, Virginia, Oct 20, 2017: a JROTC high-school senior (Landstown HS) hung his uniform on the in-room sprinkler to attach ribbons/medals; it activated and flooded 10 rooms plus the kitchen and dining area. A suit (reported June 2019) sought about $690,000–$700,000.",
+    "value": "2017-10-20; 10 rooms; ~$690K",
+    "unit": "",
+    "sources": [
+      {"title": "Insurance Journal (AP) 2019-06-26", "url": "https://amp.insurancejournal.com/news/east/2019/06/26/530515.htm", "quote": "High School Student Sued for Activating Virginia Hotel Room Sprinkler"},
+      {"title": "Business Insurance 2019-06-25", "url": "https://www.businessinsurance.com/article/20190625/NEWS06/912329232/Junior-cadet-may-be-on-the-hook-for-$700K-hotel-sprinkler-damage-Virginia-Beac", "quote": "Junior cadet may be on the hook for $700K hotel sprinkler damage"},
+      {"title": "View from the Wing", "url": "https://viewfromthewing.com/?p=112761", "quote": "Causes $690,000 Damage ... damaged 10 guest rooms and the hotel's dining and kitchen areas"}
+    ],
+    "confidence": "high",
+    "notes": "Say 'nearly $700,000' (press-reported claim, not a court finding). Who sued varies (insurer vs hotel) – say 'a lawsuit sought'. Strong 'heat isn't the only trigger — breakage is' story."
+  },
+  {
+    "id": "X04",
+    "claim": "Thayer Hotel, West Point NY, June 2004: a bride hung her wedding dress from a sprinkler head; water damaged rooms/ballroom; she was later sued (~$77K–$88K).",
+    "value": "2004; ~$77K–$88K",
+    "unit": "",
+    "sources": [
+      {"title": "Building code forum repost", "url": "https://www.thebuildingcodeforum.com/forum/threads/how-stupid-are-people.34050/page-2", "quote": "June 2004 ... Thayer Hotel ... $87,637.51"},
+      {"title": "Snopes – Wedding dress hung from hotel sprinkler (source list cites Daily News 'Bride Blamed for 2004 Hotel Flood Is Sued for $77G')", "url": "https://www.snopes.com/fact-check/in-cold-flood/", "quote": "Bride Blamed for 2004 Hotel Flood Is Sued for $77G"}
+    ],
+    "confidence": "low",
+    "notes": "Amount conflicts, primary source not reached. Use only as 'a bride, 2004' if at all; prefer X03."
+  },
+  {
+    "id": "X05",
+    "claim": "Single-head saves are routine: e.g. Madison WI (March 2026) a fire in a 110-unit apartment building was completely extinguished by one automatic sprinkler; McKinney TX and Burton SC report similar single-head kitchen-fire saves.",
+    "value": "one head, 110 units",
+    "unit": "",
+    "sources": [
+      {"title": "City of Madison – Cooking fire extinguished by automatic sprinkler", "url": "https://www.cityofmadison.com/node/110466", "quote": "A fire in a 110-unit apartment building was completely extinguished by one automatic sprinkler"},
+      {"title": "CBS Texas – McKinney sprinkler keeps kitchen fire from spreading", "url": "https://www.cbsnews.com/texas/news/mckinney-sprinkler-apartment-fire-spreading", "quote": "a single sprinkler head kept the damage to a minimum"}
+    ],
+    "confidence": "medium",
+    "notes": "Madison date (March 2026) from search summary only; verify before naming the month. Generic phrasing is safe: 'fire departments report it every week'."
+  },
+  {
+    "id": "E01",
+    "claim": "Outside the US the same colour family is used with metric ratings (57°C orange, 68°C red, 79°C yellow, 93°C green, 141°C blue, 182°C purple/mauve). EN 12845-specific colour list NOT verified.",
+    "value": "metric equivalents only",
+    "unit": "°C",
+    "sources": [
+      {"title": "Victaulic / Viking NFPA-style charts (°C columns)", "url": "https://cdn11.bigcommerce.com/s-h7xitcpvze/content/products/specifications/VICS271AJQ410.pdf", "quote": "57°C/68°C orange/red, 79°C/93°C yellow/green, 141°C blue"}
+    ],
+    "confidence": "low",
+    "notes": "Stay US/NFPA. Do not claim European colours differ or match."
+  }
+]

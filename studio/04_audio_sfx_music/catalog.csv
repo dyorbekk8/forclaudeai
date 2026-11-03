@@ -1,0 +1,34 @@
+file,duration_s,channels,peak_dbfs,true_peak_dbtp,lufs,dc,first_sample,last_sample,loop_seam(jump/p99diff),description,intended_use
+library/alarm_bell_distant.wav,2.200,2,-3.00,-2.95,-10.0,0.000000,0.00000,0.00000,,"Fire-alarm bell 18 strikes/s, band-limited, reverberant","fire context, cold open"
+library/click_1.wav,0.060,1,-3.00,-2.99,-30.9,0.000000,0.00000,0.00000,,Double mechanical click,"UI toggle, switch, card flip"
+library/click_2.wav,0.060,1,-3.00,-2.43,-27.6,0.000000,0.00000,0.00000,,Double mechanical click,"UI toggle, switch, card flip"
+library/counter_tick_loop.wav,2.000,1,-3.00,-2.66,-25.7,0.000002,0.00000,0.00000,0.00000/0.10635,"12 ticks/s, 2 s, loopable",thermometer number rising
+library/glass_shatter_1.wav,0.750,1,-3.00,-2.92,-27.2,0.000000,0.00000,0.00000,,Crack transient + inharmonic bar-mode tinkles + short bright tail,glass bulb bursting
+library/glass_shatter_2.wav,0.750,1,-3.00,-2.99,-26.9,0.000000,0.00000,0.00000,,Crack transient + inharmonic bar-mode tinkles + short bright tail,glass bulb bursting
+library/glass_shatter_3.wav,0.750,1,-3.00,-1.02,-19.9,0.000000,0.00000,0.00000,,Crack transient + inharmonic bar-mode tinkles + short bright tail,glass bulb bursting
+library/heat_rise.wav,2.600,1,-3.00,-2.95,-18.1,0.000000,0.00000,0.00000,,"2.6 s rising detuned tone + shimmer + noise, ends hard",build before a bulb bursts
+library/marker_scribble.wav,0.500,1,-3.00,-2.99,-15.2,0.000000,0.00000,0.00000,,4 marker strokes 0.5 s,hand-drawn underline / circle
+library/paper_slide.wav,0.320,1,-3.00,-2.63,-17.7,0.000000,0.00000,0.00000,,Friction noise 0.32 s,card / document slides in
+library/pop_1.wav,0.120,1,-3.00,-2.99,-21.9,0.000000,0.00000,0.00000,,Soft pitched pop with downward glide,tile / icon appear
+library/pop_2.wav,0.120,1,-3.00,-2.99,-22.0,0.000000,0.00000,0.00000,,Soft pitched pop with downward glide,tile / icon appear
+library/pop_3.wav,0.120,1,-3.00,-2.99,-21.4,0.000000,0.00000,0.00000,,Soft pitched pop with downward glide,tile / icon appear
+library/reverse_swell_1s.wav,1.000,2,-3.00,-2.98,-15.7,0.000000,0.00000,0.00000,,"Reversed reverb swell, stereo","pre-hit suck-in, scene start"
+library/riser_2s.wav,2.000,2,-3.30,-3.26,-18.8,0.000000,0.00000,0.00000,,"Noise + tonal sweep crescendo, stereo",lead-in to reveal / last item
+library/stamp_thud_1.wav,0.450,1,-3.00,-2.99,-21.9,0.000000,0.00000,0.00000,,"Low thump + body + paper slap, saturated",red stamp reveal
+library/stamp_thud_2.wav,0.450,1,-3.00,-2.99,-21.7,0.000000,0.00000,0.00000,,"Low thump + body + paper slap, saturated",red stamp reveal
+library/sub_hit_1.wav,1.600,1,-3.00,-2.99,-18.8,0.000000,0.00000,0.00000,,Pitch-dropping sub with saturation + click + room,"cold-open title, big reveal"
+library/sub_hit_2.wav,1.900,1,-3.00,-2.99,-23.1,0.000000,0.00000,0.00000,,Pitch-dropping sub with saturation + click + room,"cold-open title, big reveal"
+library/tick_1.wav,0.045,1,-3.00,-2.16,-27.8,0.000000,0.00000,0.00000,,Crisp sine+noise tick 45 ms,"label appear, counter steps, checkmarks"
+library/tick_2.wav,0.045,1,-3.13,-2.76,-27.6,0.000000,0.00000,0.00000,,Crisp sine+noise tick 45 ms,"label appear, counter steps, checkmarks"
+library/tick_3.wav,0.045,1,-3.18,-2.90,-28.7,0.000000,0.00000,0.00000,,Crisp sine+noise tick 45 ms,"label appear, counter steps, checkmarks"
+library/water_spray_burst.wav,1.600,1,-3.00,-2.59,-15.2,0.000000,0.00000,0.00000,,"Hiss onset + flutter + droplets, 1.6 s, fades",sprinkler opening
+library/water_spray_loop.wav,3.000,1,-3.00,-2.84,-15.0,0.000000,0.07234,0.11751,0.04517/0.31229,3 s seamless spray loop,sustained spray under VO
+library/whoosh_hard_1.wav,0.900,2,-3.00,-2.92,-17.6,0.000000,0.00000,0.00000,,Wide sweep + tonal body + low thump at peak,"section transition, grid -> item"
+library/whoosh_hard_2.wav,1.050,2,-3.00,-2.92,-16.9,0.000000,0.00000,0.00000,,Wide sweep + tonal body + low thump at peak,"section transition, grid -> item"
+library/whoosh_soft_1.wav,0.420,2,-3.00,-2.99,-16.8,0.000000,0.00000,0.00000,,"Band-passed noise sweep up, panned L->R",tile zoom / camera move / label slide
+library/whoosh_soft_2.wav,0.500,2,-3.00,-2.88,-15.2,0.000000,0.00000,0.00000,,"Band-passed noise sweep up, panned L->R",tile zoom / camera move / label slide
+library/whoosh_soft_3.wav,0.360,2,-3.00,-2.99,-16.5,0.000000,0.00000,0.00000,,"Band-passed noise sweep up, panned L->R",tile zoom / camera move / label slide
+library/whoosh_soft_4.wav,0.580,2,-3.00,-2.98,-17.0,0.000000,0.00000,0.00000,,"Band-passed noise sweep up, panned L->R",tile zoom / camera move / label slide
+music/bed_cold_open.wav,25.000,2,-1.42,-1.41,-20.0,0.000030,0.00000,0.00000,,Dark D drone + Eb tension + accelerating ticks + riser -> hit at 23.3 s,cold open (first 25 s)
+music/bed_main_loop.wav,170.667,2,-6.16,-6.15,-20.0,0.000001,0.02155,0.02460,0.00836/0.01004,"Dm-Bb-Gm-Asus, 90 BPM, pads+sub pulse+muted plucks+air; 64 bars seamless loop","music under VO, body of video"
+music/bed_outro.wav,20.000,2,-8.39,-8.39,-20.0,0.000000,0.00000,0.00000,,"Gm-Bb-Dm(add9) resolving, plucks thinning, fade",last 20 s / end screen

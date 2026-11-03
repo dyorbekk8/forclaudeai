@@ -1,0 +1,37 @@
+Research log — fact-checker, video #1 "Every Fire Sprinkler Color Explained"
+
+Method: WebSearch only (server-side). WebFetch is blocked by the session network policy for:
+  www.vikinggroupinc.com, assets.victaulic.com, open-exam-prep.com (ENOTFOUND = not in allowed domains).
+  Not attempted after 3 failures: nfpa.org, en.wikipedia.org (known blocked).
+All quotes are from search-result excerpts of the cited pages, not full-text reads. Primary NFPA 13 text was NOT read.
+
+Verified colour → temperature (glass bulb, NFPA 13 practice):
+  ORANGE 135°F (57°C)  ordinary      max ceiling 100°F
+  RED    155°F (68°C)  ordinary      max ceiling 100°F
+  YELLOW 175°F (79°C)  intermediate  max ceiling 150°F
+  GREEN  200°F (93°C)  intermediate  max ceiling 150°F
+  BLUE   286°F (141°C) high          max ceiling 225°F
+  PURPLE 360°F (182°C) extra high    max ceiling 300°F  ("mauve" in some catalogs)
+  BLACK  400–650°F     very extra high + ultra high (e.g. 500°F / 260°C)
+
+Conflicts flagged:
+  - Blue: NFSA mentions 250°F (class floor) vs 286°F (common rating).
+  - Purple vs mauve naming.
+  - Black is a range, not 500°F only.
+  - Frame colours (red frame = extra high) — only one source for red/green/orange frames.
+  - Glass-bulb invention date (1890 disc vs 1920 bulb vs 1929 pamphlet) — unresolved.
+  - Parmelee "first": Pratt 1872 patent exists.
+  - MGM death toll 84/85/87.
+  - Dumfries suit amount $690K vs $700K; plaintiff insurer vs hotel.
+  - Thayer bride amount $77K vs $87.6K.
+  - "90% of fires one head" (industry) vs NFPA 77% (2015–2019) / 79% (2010–2014). Use NFPA.
+
+Cold-open candidates (ranked):
+  1. MGM Grand, 21 Nov 1980 — 85 dead; sprinklers left out to save ~$192,000 on a $106M resort; NFPA: "a one- or two-sprinkler fire".
+  2. Parmelee, 11 Aug 1874 — the first practical automatic sprinkler head was patented by a piano maker to protect pianos / cut insurance, not to save people.
+  3. Dumfries Holiday Inn, 20 Oct 2017 — a cadet's uniform on one head flooded 10 rooms + kitchen; ~$700K suit. (Fits "only one head opens" myth-bust; lower stakes.)
+
+Thumbnail red-stamp ideas (fact-backed):
+  - On a lone head among a grid: "ONLY ONE" (77% of fires: one head).
+  - On the black bulb: "400°F+".
+  - On a hanger-on-sprinkler tile: "$700,000".

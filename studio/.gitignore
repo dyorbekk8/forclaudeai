@@ -5,3 +5,7 @@
 00_research/data/collect_errors.log
 00_research/media/
 agents/packaging-analyst/thumbs_extra/
+03_voiceover/models/
+04_audio_sfx_music/music/*.wav
+03_voiceover/sprinkler/scratch/*.wav
+03_voiceover/sprinkler/final/*.wav
