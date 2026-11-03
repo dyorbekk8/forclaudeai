@@ -1,0 +1,274 @@
+{
+ "title": "How Body Armor Levels Actually Work",
+ "sources": {
+  "NIJ_0123": "https://nij.ojp.gov/topics/equipment-and-technology/specification-nij-ballistic-protection-levels-and-associated-test-threats-nij-standard-012300",
+  "ADE_levels": "https://www.ade.pt/test-standards-specifications/",
+  "CJTTEC_0101_06": "https://cjttec.org/files/65f352f383774",
+  "TFB_new_levels": "https://cdn-fastly.thefirearmblog.com/blog/2023/12/05/nij-releases-new-classifications-for-body-armor/",
+  "MIRA_0101_07": "https://www.mirasafety.com/blogs/news/nij-standard-0101-07-a-significant-update-in-ballistic-resistance-testing-and-what-it-means-for-your-body-armor",
+  "TFB_misconceptions": "https://www.thefirearmblog.com/blog/2017/09/14/choosing-right-armor-information-common-misconceptions/",
+  "EOD_levels": "https://www.eod-gear.com/nij-levels-of-body-armor-explained-what-the-ratings-mean-and-what-they-don-t/",
+  "WIKI_second_chance": "https://en.wikipedia.org/wiki/Second_Chance_(body_armor)",
+  "SANDBOXX_davis": "https://www.sandboxx.us/news/modern-body-armor-was-created-by-an-irate-pizza-guy/",
+  "TEIJIN_0101_04": "https://pdf.nauticexpo.com/pdf/teijin/teijin-aramid-international-ballistic-standards-poster/30430-44259.html"
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "text": "This is every level of American body armor, from a vest that stops a pistol to a plate that stops an armor-piercing rifle round.",
+   "src": [
+    "NIJ_0123"
+   ]
+  },
+  {
+   "id": "a02",
+   "text": "And one of the most popular levels you can buy does not officially exist.",
+   "src": [
+    "TFB_misconceptions",
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s1a",
+   "text": "Step one. Level Two A.",
+   "src": []
+  },
+  {
+   "id": "s1b",
+   "text": "The thinnest armor on the list. A soft, flexible vest, made from layers of woven fiber.",
+   "src": [
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s1c",
+   "text": "It was tested against a nine millimeter bullet traveling at 1,225 feet per second.",
+   "src": [
+    "CJTTEC_0101_06"
+   ]
+  },
+  {
+   "id": "s1d",
+   "text": "And in the newest standard, it is gone. Level Two A was dropped completely.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s2a",
+   "text": "Step two. Level Two.",
+   "src": []
+  },
+  {
+   "id": "s2b",
+   "text": "Thicker, still soft, and rated for nine millimeter and .357 Magnum rounds.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s2c",
+   "text": "Soft armor like this owes a lot to one man. In 1972, a pizza shop owner named Richard Davis knelt at a police range in Walled Lake, Michigan, and shot himself in the chest.",
+   "src": [
+    "SANDBOXX_davis",
+    "WIKI_second_chance"
+   ]
+  },
+  {
+   "id": "s2d",
+   "text": "He was wearing his own vest. He stood up, and kept shooting at the targets.",
+   "src": [
+    "SANDBOXX_davis"
+   ]
+  },
+  {
+   "id": "s2e",
+   "text": "He went on to repeat that demonstration more than 190 times.",
+   "src": [
+    "SANDBOXX_davis",
+    "WIKI_second_chance"
+   ]
+  },
+  {
+   "id": "s2f",
+   "text": "In the new system, Level Two is called H G one. H G, for handgun.",
+   "src": [
+    "TFB_new_levels",
+    "MIRA_0101_07"
+   ]
+  },
+  {
+   "id": "s3a",
+   "text": "Step three. Level Three A.",
+   "src": []
+  },
+  {
+   "id": "s3b",
+   "text": "The strongest soft armor there is. It adds the .44 Magnum, one of the most powerful handgun rounds made.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s3c",
+   "text": "It is still something you can wear under a shirt. It is now called H G two.",
+   "src": [
+    "TFB_new_levels",
+    "MIRA_0101_07"
+   ]
+  },
+  {
+   "id": "s3d",
+   "text": "And no soft vest on this list will stop a rifle.",
+   "src": [
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s4a",
+   "text": "Step four is not a level at all. It is the rule that decides every level.",
+   "src": []
+  },
+  {
+   "id": "s4b",
+   "text": "Stopping the bullet is not enough. Behind the armor, testers place a block of clay.",
+   "src": [
+    "TEIJIN_0101_04"
+   ]
+  },
+  {
+   "id": "s4c",
+   "text": "When the bullet hits, the armor bends, and pushes a dent into that clay.",
+   "src": [
+    "TEIJIN_0101_04"
+   ]
+  },
+  {
+   "id": "s4d",
+   "text": "If the dent is deeper than 44 millimeters, about an inch and three quarters, the armor fails, even if the bullet never got through.",
+   "src": [
+    "TEIJIN_0101_04"
+   ]
+  },
+  {
+   "id": "s5a",
+   "text": "Step five. Level Three.",
+   "src": []
+  },
+  {
+   "id": "s5b",
+   "text": "This is where soft armor ends. Level Three is a rigid plate, made of ceramic, steel or polyethylene.",
+   "src": [
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s5c",
+   "text": "Its test round is the 7.62 NATO rifle bullet, at 2,780 feet per second. More than twice as fast as the Level Two A test.",
+   "src": [
+    "ADE_levels",
+    "CJTTEC_0101_06"
+   ]
+  },
+  {
+   "id": "s5d",
+   "text": "The plate has to stop six of them.",
+   "src": [
+    "ADE_levels"
+   ]
+  },
+  {
+   "id": "s5e",
+   "text": "Its new name is R F one. R F, for rifle.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s6a",
+   "text": "Step six. Level Three plus.",
+   "src": []
+  },
+  {
+   "id": "s6b",
+   "text": "You will find it on armor websites everywhere. It is the level people argue about most.",
+   "src": [
+    "TFB_misconceptions"
+   ]
+  },
+  {
+   "id": "s6c",
+   "text": "And it was never an official level. There is no Level Three plus in the government standard.",
+   "src": [
+    "TFB_misconceptions",
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s6d",
+   "text": "Makers invented it to say their plates stop more than Level Three, usually the green-tipped 5.56 round. But what plus means changes from one company to the next.",
+   "src": [
+    "TFB_misconceptions",
+    "EOD_levels"
+   ]
+  },
+  {
+   "id": "s7a",
+   "text": "Step seven. R F two.",
+   "src": []
+  },
+  {
+   "id": "s7b",
+   "text": "So the newest standard did something about it. It created a brand new level between Three and Four.",
+   "src": [
+    "TFB_new_levels",
+    "MIRA_0101_07"
+   ]
+  },
+  {
+   "id": "s7c",
+   "text": "R F two must stop everything R F one does, plus the green-tipped 5.56 round. The gap that marketing filled now has a real name.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s8a",
+   "text": "Step eight. Level Four.",
+   "src": []
+  },
+  {
+   "id": "s8b",
+   "text": "The top of the ladder. Its test round is the .30-06 armor-piercing bullet, with a hardened steel core.",
+   "src": [
+    "EOD_levels",
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "s8c",
+   "text": "It is now called R F three.",
+   "src": [
+    "TFB_new_levels"
+   ]
+  },
+  {
+   "id": "e1",
+   "text": "So here is the whole ladder. Two A is gone. Two is H G one. Three A is H G two. Three is R F one. Three plus became R F two. And Four is R F three.",
+   "src": [
+    "TFB_new_levels",
+    "MIRA_0101_07"
+   ]
+  },
+  {
+   "id": "e2",
+   "text": "The level that does not exist was so popular that the government finally had to make it real.",
+   "src": []
+  },
+  {
+   "id": "e3",
+   "text": "Which level would you trust with your life? Tell me in the comments.",
+   "src": []
+  }
+ ]
+}

@@ -1,0 +1,2087 @@
+{
+ "fps": 30,
+ "total": 6718,
+ "beats": [
+  {
+   "id": "a01",
+   "from": 0,
+   "dur": 270,
+   "voStart": 15,
+   "vo": "03_voiceover/armor/final/a01.wav",
+   "voDur": 8.374
+  },
+  {
+   "id": "a02",
+   "from": 270,
+   "dur": 150,
+   "voStart": 272,
+   "vo": "03_voiceover/armor/final/a02.wav",
+   "voDur": 4.56
+  },
+  {
+   "id": "s1a",
+   "from": 420,
+   "dur": 69,
+   "voStart": 435,
+   "vo": "03_voiceover/armor/final/s1a.wav",
+   "voDur": 1.663
+  },
+  {
+   "id": "s1b",
+   "from": 489,
+   "dur": 189,
+   "voStart": 491,
+   "vo": "03_voiceover/armor/final/s1b.wav",
+   "voDur": 6.115
+  },
+  {
+   "id": "s1c",
+   "from": 678,
+   "dur": 191,
+   "voStart": 680,
+   "vo": "03_voiceover/armor/final/s1c.wav",
+   "voDur": 6.181
+  },
+  {
+   "id": "s1d",
+   "from": 869,
+   "dur": 154,
+   "voStart": 871,
+   "vo": "03_voiceover/armor/final/s1d.wav",
+   "voDur": 4.694
+  },
+  {
+   "id": "s2a",
+   "from": 1023,
+   "dur": 65,
+   "voStart": 1038,
+   "vo": "03_voiceover/armor/final/s2a.wav",
+   "voDur": 1.556
+  },
+  {
+   "id": "s2b",
+   "from": 1088,
+   "dur": 177,
+   "voStart": 1090,
+   "vo": "03_voiceover/armor/final/s2b.wav",
+   "voDur": 5.71
+  },
+  {
+   "id": "s2c",
+   "from": 1265,
+   "dur": 407,
+   "voStart": 1267,
+   "vo": "03_voiceover/armor/final/s2c.wav",
+   "voDur": 13.35
+  },
+  {
+   "id": "s2d",
+   "from": 1672,
+   "dur": 137,
+   "voStart": 1674,
+   "vo": "03_voiceover/armor/final/s2d.wav",
+   "voDur": 4.352
+  },
+  {
+   "id": "s2e",
+   "from": 1809,
+   "dur": 152,
+   "voStart": 1811,
+   "vo": "03_voiceover/armor/final/s2e.wav",
+   "voDur": 4.864
+  },
+  {
+   "id": "s2f",
+   "from": 1961,
+   "dur": 160,
+   "voStart": 1963,
+   "vo": "03_voiceover/armor/final/s2f.wav",
+   "voDur": 4.9
+  },
+  {
+   "id": "s3a",
+   "from": 2121,
+   "dur": 73,
+   "voStart": 2136,
+   "vo": "03_voiceover/armor/final/s3a.wav",
+   "voDur": 1.821
+  },
+  {
+   "id": "s3b",
+   "from": 2194,
+   "dur": 228,
+   "voStart": 2196,
+   "vo": "03_voiceover/armor/final/s3b.wav",
+   "voDur": 7.404
+  },
+  {
+   "id": "s3c",
+   "from": 2422,
+   "dur": 149,
+   "voStart": 2424,
+   "vo": "03_voiceover/armor/final/s3c.wav",
+   "voDur": 4.782
+  },
+  {
+   "id": "s3d",
+   "from": 2571,
+   "dur": 107,
+   "voStart": 2573,
+   "vo": "03_voiceover/armor/final/s3d.wav",
+   "voDur": 3.121
+  },
+  {
+   "id": "s4a",
+   "from": 2678,
+   "dur": 164,
+   "voStart": 2693,
+   "vo": "03_voiceover/armor/final/s4a.wav",
+   "voDur": 4.833
+  },
+  {
+   "id": "s4b",
+   "from": 2842,
+   "dur": 166,
+   "voStart": 2844,
+   "vo": "03_voiceover/armor/final/s4b.wav",
+   "voDur": 5.319
+  },
+  {
+   "id": "s4c",
+   "from": 3008,
+   "dur": 130,
+   "voStart": 3010,
+   "vo": "03_voiceover/armor/final/s4c.wav",
+   "voDur": 4.144
+  },
+  {
+   "id": "s4d",
+   "from": 3138,
+   "dur": 286,
+   "voStart": 3140,
+   "vo": "03_voiceover/armor/final/s4d.wav",
+   "voDur": 9.116
+  },
+  {
+   "id": "s5a",
+   "from": 3424,
+   "dur": 69,
+   "voStart": 3439,
+   "vo": "03_voiceover/armor/final/s5a.wav",
+   "voDur": 1.692
+  },
+  {
+   "id": "s5b",
+   "from": 3493,
+   "dur": 229,
+   "voStart": 3495,
+   "vo": "03_voiceover/armor/final/s5b.wav",
+   "voDur": 7.425
+  },
+  {
+   "id": "s5c",
+   "from": 3722,
+   "dur": 320,
+   "voStart": 3724,
+   "vo": "03_voiceover/armor/final/s5c.wav",
+   "voDur": 10.453
+  },
+  {
+   "id": "s5d",
+   "from": 4042,
+   "dur": 70,
+   "voStart": 4044,
+   "vo": "03_voiceover/armor/final/s5d.wav",
+   "voDur": 2.13
+  },
+  {
+   "id": "s5e",
+   "from": 4112,
+   "dur": 116,
+   "voStart": 4114,
+   "vo": "03_voiceover/armor/final/s5e.wav",
+   "voDur": 3.439
+  },
+  {
+   "id": "s6a",
+   "from": 4228,
+   "dur": 79,
+   "voStart": 4243,
+   "vo": "03_voiceover/armor/final/s6a.wav",
+   "voDur": 2.011
+  },
+  {
+   "id": "s6b",
+   "from": 4307,
+   "dur": 172,
+   "voStart": 4309,
+   "vo": "03_voiceover/armor/final/s6b.wav",
+   "voDur": 5.549
+  },
+  {
+   "id": "s6c",
+   "from": 4479,
+   "dur": 167,
+   "voStart": 4481,
+   "vo": "03_voiceover/armor/final/s6c.wav",
+   "voDur": 5.372
+  },
+  {
+   "id": "s6d",
+   "from": 4646,
+   "dur": 358,
+   "voStart": 4648,
+   "vo": "03_voiceover/armor/final/s6d.wav",
+   "voDur": 11.495
+  },
+  {
+   "id": "s7a",
+   "from": 5004,
+   "dur": 76,
+   "voStart": 5019,
+   "vo": "03_voiceover/armor/final/s7a.wav",
+   "voDur": 1.905
+  },
+  {
+   "id": "s7b",
+   "from": 5080,
+   "dur": 189,
+   "voStart": 5082,
+   "vo": "03_voiceover/armor/final/s7b.wav",
+   "voDur": 6.086
+  },
+  {
+   "id": "s7c",
+   "from": 5269,
+   "dur": 331,
+   "voStart": 5271,
+   "vo": "03_voiceover/armor/final/s7c.wav",
+   "voDur": 10.589
+  },
+  {
+   "id": "s8a",
+   "from": 5600,
+   "dur": 67,
+   "voStart": 5615,
+   "vo": "03_voiceover/armor/final/s8a.wav",
+   "voDur": 1.614
+  },
+  {
+   "id": "s8b",
+   "from": 5667,
+   "dur": 217,
+   "voStart": 5669,
+   "vo": "03_voiceover/armor/final/s8b.wav",
+   "voDur": 7.024
+  },
+  {
+   "id": "s8c",
+   "from": 5884,
+   "dur": 71,
+   "voStart": 5886,
+   "vo": "03_voiceover/armor/final/s8c.wav",
+   "voDur": 2.176
+  },
+  {
+   "id": "e1",
+   "from": 5955,
+   "dur": 381,
+   "voStart": 5970,
+   "vo": "03_voiceover/armor/final/e1.wav",
+   "voDur": 12.082
+  },
+  {
+   "id": "e2",
+   "from": 6336,
+   "dur": 183,
+   "voStart": 6338,
+   "vo": "03_voiceover/armor/final/e2.wav",
+   "voDur": 5.888
+  },
+  {
+   "id": "e3",
+   "from": 6519,
+   "dur": 199,
+   "voStart": 6521,
+   "vo": "03_voiceover/armor/final/e3.wav",
+   "voDur": 3.544
+  }
+ ],
+ "shots": [
+  {
+   "id": "a01.0",
+   "beat": "a01",
+   "scene": "Ladder",
+   "props": {
+    "focus": -1,
+    "ev": []
+   },
+   "step": -1,
+   "from": 0,
+   "dur": 96,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "a01.1",
+   "beat": "a01",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "FROM A VEST THAT"
+     },
+     {
+      "t": "STOPS A PISTOL",
+      "red": true
+     },
+     {
+      "t": "TO A PLATE THAT"
+     },
+     {
+      "t": "STOPS AN ARMOR-PIERCING ROUND",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     39,
+     68,
+     100
+    ]
+   },
+   "step": -1,
+   "from": 96,
+   "dur": 174,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 101,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 135,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 164,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 196,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "a02.0",
+   "beat": "a02",
+   "scene": "NotExist",
+   "props": {
+    "showStamp": true,
+    "ev": [
+     2,
+     90
+    ]
+   },
+   "step": -1,
+   "from": 270,
+   "dur": 150,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 272,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 360,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s1a.0",
+   "beat": "s1a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 0,
+    "from": -1,
+    "ev": []
+   },
+   "step": 0,
+   "from": 420,
+   "dur": 69,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 420,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 442,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1b.0",
+   "beat": "s1b",
+   "scene": "ArmorCard",
+   "props": {
+    "kind": "vest",
+    "shade": 0,
+    "title": "LEVEL IIA",
+    "kicker": "SOFT ARMOR \u00b7 STEP 1",
+    "facts": [
+     "THE THINNEST",
+     "SOFT & FLEXIBLE",
+     "WOVEN FIBER LAYERS"
+    ],
+    "ev": [
+     10,
+     74,
+     160
+    ]
+   },
+   "step": 0,
+   "from": 489,
+   "dur": 189,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 499,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 563,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 649,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s1c.0",
+   "beat": "s1c",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "vest",
+    "shade": 0,
+    "bullet": "9mm",
+    "fps": 1225,
+    "result": "stop",
+    "ev": [
+     159
+    ]
+   },
+   "step": 0,
+   "from": 678,
+   "dur": 191,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 823,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 837,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 837,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 841,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1d.0",
+   "beat": "s1d",
+   "scene": "Rename",
+   "props": {
+    "old": "IIA",
+    "neu": "",
+    "sub": "DROPPED FROM THE NEWEST STANDARD",
+    "gone": true,
+    "ev": [
+     55,
+     107
+    ]
+   },
+   "step": 0,
+   "from": 869,
+   "dur": 154,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 924,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s2a.0",
+   "beat": "s2a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 1,
+    "from": 0,
+    "ev": []
+   },
+   "step": 1,
+   "from": 1023,
+   "dur": 65,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 1023,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 1045,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s2b.0",
+   "beat": "s2b",
+   "scene": "ArmorCard",
+   "props": {
+    "kind": "vest",
+    "shade": 1,
+    "title": "LEVEL II",
+    "kicker": "SOFT ARMOR \u00b7 STEP 2",
+    "facts": [
+     "THICKER",
+     "STILL SOFT",
+     "9MM + .357 MAGNUM"
+    ],
+    "ev": [
+     2,
+     20,
+     71
+    ]
+   },
+   "step": 1,
+   "from": 1088,
+   "dur": 105,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1090,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1108,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 1159,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2b.1",
+   "beat": "s2b",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "vest",
+    "shade": 1,
+    "bullet": "357",
+    "result": "stop",
+    "ev": [
+     41
+    ]
+   },
+   "step": 1,
+   "from": 1193,
+   "dur": 72,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 1234,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 1234,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 1238,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2c.0",
+   "beat": "s2c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "SOFT ARMOR"
+     },
+     {
+      "t": "OWES A LOT TO ONE MAN",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     83
+    ]
+   },
+   "step": 1,
+   "from": 1265,
+   "dur": 99,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1267,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1348,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2c.1",
+   "beat": "s2c",
+   "scene": "Davis",
+   "props": {
+    "phase": 0,
+    "ev": [
+     243,
+     31
+    ]
+   },
+   "step": 1,
+   "from": 1364,
+   "dur": 308,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 1364,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 1607,
+     "gain": -10
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 1607,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s2d.0",
+   "beat": "s2d",
+   "scene": "Davis",
+   "props": {
+    "phase": 1,
+    "ev": [
+     52
+    ]
+   },
+   "step": 1,
+   "from": 1672,
+   "dur": 137,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1676,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 1724,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 1732,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 1740,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2e.0",
+   "beat": "s2e",
+   "scene": "Davis",
+   "props": {
+    "phase": 2,
+    "ev": []
+   },
+   "step": 1,
+   "from": 1809,
+   "dur": 152,
+   "cues": [
+    {
+     "file": "counter_tick_loop",
+     "frame": 1813,
+     "gain": -24
+    }
+   ]
+  },
+  {
+   "id": "s2f.0",
+   "beat": "s2f",
+   "scene": "Rename",
+   "props": {
+    "old": "II",
+    "neu": "HG1",
+    "sub": "HG = HANDGUN",
+    "ev": [
+     88,
+     123
+    ]
+   },
+   "step": 1,
+   "from": 1961,
+   "dur": 160,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 2049,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 2084,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3a.0",
+   "beat": "s3a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 2,
+    "from": 1,
+    "ev": []
+   },
+   "step": 2,
+   "from": 2121,
+   "dur": 73,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 2121,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2143,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3b.0",
+   "beat": "s3b",
+   "scene": "ArmorCard",
+   "props": {
+    "kind": "vest",
+    "shade": 2,
+    "title": "LEVEL IIIA",
+    "kicker": "SOFT ARMOR \u00b7 STEP 3",
+    "facts": [
+     "THE STRONGEST SOFT ARMOR",
+     "ADDS THE .44 MAGNUM"
+    ],
+    "ev": [
+     10,
+     96
+    ]
+   },
+   "step": 2,
+   "from": 2194,
+   "dur": 129,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2204,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2290,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s3b.1",
+   "beat": "s3b",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "vest",
+    "shade": 2,
+    "bullet": "44",
+    "result": "stop",
+    "caption": "one of the most powerful handgun rounds",
+    "ev": [
+     55
+    ]
+   },
+   "step": 2,
+   "from": 2323,
+   "dur": 99,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 2378,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 2378,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 2382,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s3c.0",
+   "beat": "s3c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "STILL FITS"
+     },
+     {
+      "t": "UNDER A SHIRT",
+      "red": true
+     }
+    ],
+    "side": null,
+    "ev": [
+     13,
+     68
+    ]
+   },
+   "step": 2,
+   "from": 2422,
+   "dur": 91,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2435,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2490,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s3c.1",
+   "beat": "s3c",
+   "scene": "Rename",
+   "props": {
+    "old": "IIIA",
+    "neu": "HG2",
+    "sub": "HG = HANDGUN",
+    "ev": [
+     37
+    ]
+   },
+   "step": 2,
+   "from": 2513,
+   "dur": 58,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 2550,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3d.0",
+   "beat": "s3d",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "vest",
+    "shade": 2,
+    "bullet": "762",
+    "result": "pass",
+    "caption": "no soft vest stops a rifle",
+    "ev": [
+     84
+    ]
+   },
+   "step": 2,
+   "from": 2571,
+   "dur": 107,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 2641,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 2655,
+     "gain": -12
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2659,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s4a.0",
+   "beat": "s4a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 3,
+    "from": 2,
+    "ev": []
+   },
+   "step": 3,
+   "from": 2678,
+   "dur": 76,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 2678,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2700,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s4a.1",
+   "beat": "s4a",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "NOT A LEVEL."
+     },
+     {
+      "t": "THE RULE BEHIND EVERY LEVEL",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     60
+    ]
+   },
+   "step": 3,
+   "from": 2754,
+   "dur": 88,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2759,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2814,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s4b.0",
+   "beat": "s4b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "STOPPING THE BULLET"
+     },
+     {
+      "t": "IS NOT ENOUGH",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     46
+    ]
+   },
+   "step": 3,
+   "from": 2842,
+   "dur": 64,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2844,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2888,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s4b.1",
+   "beat": "s4b",
+   "scene": "Clay",
+   "props": {
+    "mode": "intro",
+    "ev": [
+     71,
+     88
+    ]
+   },
+   "step": 3,
+   "from": 2906,
+   "dur": 102,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 2977,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s4c.0",
+   "beat": "s4c",
+   "scene": "Clay",
+   "props": {
+    "mode": "hit",
+    "ev": [
+     40
+    ]
+   },
+   "step": 3,
+   "from": 3008,
+   "dur": 130,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 3048,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 3048,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s4d.0",
+   "beat": "s4d",
+   "scene": "Clay",
+   "props": {
+    "mode": "fail",
+    "ev": [
+     32,
+     203
+    ]
+   },
+   "step": 3,
+   "from": 3138,
+   "dur": 286,
+   "cues": [
+    {
+     "file": "glass_shatter_2",
+     "frame": 3170,
+     "gain": -14
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3180,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s5a.0",
+   "beat": "s5a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 4,
+    "from": 3,
+    "ev": []
+   },
+   "step": 4,
+   "from": 3424,
+   "dur": 69,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 3424,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3446,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5b.0",
+   "beat": "s5b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THIS IS WHERE"
+     },
+     {
+      "t": "SOFT ARMOR ENDS",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     33
+    ]
+   },
+   "step": 4,
+   "from": 3493,
+   "dur": 66,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3495,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3526,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s5b.1",
+   "beat": "s5b",
+   "scene": "ArmorCard",
+   "props": {
+    "kind": "plate",
+    "material": "ceramic",
+    "title": "LEVEL III",
+    "kicker": "HARD PLATE \u00b7 STEP 5",
+    "facts": [
+     "A RIGID PLATE"
+    ],
+    "ev": [
+     43
+    ]
+   },
+   "step": 4,
+   "from": 3559,
+   "dur": 67,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3602,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s5b.2",
+   "beat": "s5b",
+   "scene": "Materials",
+   "props": {
+    "ev": [
+     23,
+     43,
+     63
+    ]
+   },
+   "step": 4,
+   "from": 3626,
+   "dur": 96,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 3649,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 3669,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 3689,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5c.0",
+   "beat": "s5c",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "plate",
+    "material": "ceramic",
+    "bullet": "762",
+    "fps": 2780,
+    "result": "stop",
+    "ev": [
+     181
+    ]
+   },
+   "step": 4,
+   "from": 3722,
+   "dur": 211,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 3889,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 3903,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 3903,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3907,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s5c.1",
+   "beat": "s5c",
+   "scene": "SpeedBars",
+   "props": {
+    "rows": [
+     {
+      "bullet": "9mm",
+      "fps": 1225
+     },
+     {
+      "bullet": "762",
+      "fps": 2780
+     }
+    ],
+    "verdict": "more than twice as fast",
+    "ev": [
+     5,
+     26,
+     82
+    ]
+   },
+   "step": 4,
+   "from": 3933,
+   "dur": 109,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 3938,
+     "gain": -18
+    },
+    {
+     "file": "whoosh_soft_3",
+     "frame": 3959,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5d.0",
+   "beat": "s5d",
+   "scene": "SixShots",
+   "props": {
+    "ev": []
+   },
+   "step": 4,
+   "from": 4042,
+   "dur": 70,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 4045,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 4054,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 4063,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 4071,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 4080,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 4089,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5e.0",
+   "beat": "s5e",
+   "scene": "Rename",
+   "props": {
+    "old": "III",
+    "neu": "RF1",
+    "sub": "RF = RIFLE",
+    "ev": [
+     41,
+     81
+    ]
+   },
+   "step": 4,
+   "from": 4112,
+   "dur": 116,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 4153,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 4193,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s6a.0",
+   "beat": "s6a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 5,
+    "from": 4,
+    "ev": []
+   },
+   "step": 5,
+   "from": 4228,
+   "dur": 79,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 4228,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4250,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s6b.0",
+   "beat": "s6b",
+   "scene": "NotExist",
+   "props": {
+    "ev": [
+     2
+    ]
+   },
+   "step": 5,
+   "from": 4307,
+   "dur": 87,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 4309,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s6b.1",
+   "beat": "s6b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE LEVEL PEOPLE"
+     },
+     {
+      "t": "ARGUE ABOUT MOST",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     49
+    ]
+   },
+   "step": 5,
+   "from": 4394,
+   "dur": 85,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4399,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4443,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6c.0",
+   "beat": "s6c",
+   "scene": "NotExist",
+   "props": {
+    "showStamp": true,
+    "ev": [
+     2,
+     21
+    ]
+   },
+   "step": 5,
+   "from": 4479,
+   "dur": 60,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 4481,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4500,
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s6c.1",
+   "beat": "s6c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "NO LEVEL III+"
+     },
+     {
+      "t": "IN THE GOVERNMENT STANDARD",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     68
+    ]
+   },
+   "step": 5,
+   "from": 4539,
+   "dur": 107,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4544,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4607,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6d.0",
+   "beat": "s6d",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "WHAT \"PLUS\" USUALLY MEANS",
+    "lines": [
+     {
+      "t": "STOPS MORE THAN LEVEL III"
+     }
+    ],
+    "ev": [
+     2
+    ]
+   },
+   "step": 5,
+   "from": 4646,
+   "dur": 133,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4648,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6d.1",
+   "beat": "s6d",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "plate",
+    "material": "pe",
+    "bullet": "556",
+    "result": "stop",
+    "ev": [
+     84
+    ]
+   },
+   "step": 5,
+   "from": 4779,
+   "dur": 93,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 4863,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 4863,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4867,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s6d.2",
+   "beat": "s6d",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "\"PLUS\" MEANS"
+     },
+     {
+      "t": "WHATEVER THE MAKER SAYS",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     80
+    ]
+   },
+   "step": 5,
+   "from": 4872,
+   "dur": 132,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4877,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4952,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s7a.0",
+   "beat": "s7a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 6,
+    "from": 5,
+    "ev": []
+   },
+   "step": 6,
+   "from": 5004,
+   "dur": 76,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 5004,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5026,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s7b.0",
+   "beat": "s7b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE NEWEST STANDARD"
+     },
+     {
+      "t": "DID SOMETHING ABOUT IT",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     52
+    ]
+   },
+   "step": 6,
+   "from": 5080,
+   "dur": 84,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5082,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5132,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s7b.1",
+   "beat": "s7b",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "NEW",
+    "lines": [
+     {
+      "t": "A BRAND NEW LEVEL"
+     },
+     {
+      "t": "BETWEEN III AND IV",
+      "red": true
+     }
+    ],
+    "ev": [
+     29,
+     58
+    ]
+   },
+   "step": 6,
+   "from": 5164,
+   "dur": 105,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5193,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5222,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s7c.0",
+   "beat": "s7c",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "plate",
+    "material": "pe",
+    "bullet": "556",
+    "result": "stop",
+    "caption": "RF2 = RF1 + 5.56 green tip",
+    "ev": [
+     126
+    ]
+   },
+   "step": 6,
+   "from": 5269,
+   "dur": 200,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5381,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 5395,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 5395,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 5399,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7c.1",
+   "beat": "s7c",
+   "scene": "Rename",
+   "props": {
+    "old": "III+",
+    "neu": "RF2",
+    "sub": "THE MARKETING GAP GOT A REAL NAME",
+    "ev": [
+     74,
+     97
+    ]
+   },
+   "step": 6,
+   "from": 5469,
+   "dur": 131,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 5543,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 5566,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s8a.0",
+   "beat": "s8a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 7,
+    "from": 6,
+    "ev": []
+   },
+   "step": 7,
+   "from": 5600,
+   "dur": 67,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 5600,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5622,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s8b.0",
+   "beat": "s8b",
+   "scene": "ArmorCard",
+   "props": {
+    "kind": "plate",
+    "material": "ceramic",
+    "title": "LEVEL IV",
+    "kicker": "HARD PLATE \u00b7 TOP OF THE LADDER",
+    "facts": [
+     ".30-06 ARMOR-PIERCING",
+     "HARDENED STEEL CORE"
+    ],
+    "ev": [
+     87,
+     175
+    ]
+   },
+   "step": 7,
+   "from": 5667,
+   "dur": 157,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5754,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5842,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s8b.1",
+   "beat": "s8b",
+   "scene": "BulletTest",
+   "props": {
+    "armor": "plate",
+    "material": "ceramic",
+    "bullet": "3006",
+    "result": "stop",
+    "caption": "hardened steel core",
+    "ev": [
+     46
+    ]
+   },
+   "step": 7,
+   "from": 5824,
+   "dur": 60,
+   "cues": [
+    {
+     "file": "glass_shatter_1",
+     "frame": 5870,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 5870,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 5874,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s8c.0",
+   "beat": "s8c",
+   "scene": "Rename",
+   "props": {
+    "old": "IV",
+    "neu": "RF3",
+    "sub": "RF = RIFLE",
+    "ev": [
+     42
+    ]
+   },
+   "step": 7,
+   "from": 5884,
+   "dur": 71,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 5926,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
+   "scene": "Ladder",
+   "props": {
+    "focus": -1,
+    "outro": true,
+    "ev": []
+   },
+   "step": -1,
+   "from": 5955,
+   "dur": 79,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 5955,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "e1.1",
+   "beat": "e1",
+   "scene": "RenameTable",
+   "props": {
+    "ev": [
+     5,
+     41,
+     81,
+     132,
+     177,
+     244
+    ]
+   },
+   "step": -1,
+   "from": 6034,
+   "dur": 302,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6039,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6075,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6115,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 6166,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6211,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6278,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE LEVEL THAT"
+     },
+     {
+      "t": "DOES NOT EXIST",
+      "red": true
+     },
+     {
+      "t": "WAS SO POPULAR"
+     },
+     {
+      "t": "IT BECAME REAL",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     30,
+     67,
+     154
+    ]
+   },
+   "step": -1,
+   "from": 6336,
+   "dur": 183,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6338,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6366,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6403,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 6490,
+     "gain": -19
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 6490,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e3.0",
+   "beat": "e3",
+   "scene": "Outro",
+   "props": {
+    "ev": []
+   },
+   "step": -1,
+   "from": 6519,
+   "dur": 199,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 6525,
+     "gain": -18
+    }
+   ]
+  }
+ ]
+}

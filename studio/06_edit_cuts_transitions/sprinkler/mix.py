@@ -6,7 +6,11 @@ from scipy.signal import resample_poly
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 SR = 48000
-edl = json.load(open(os.path.join(ROOT, '07_render', 'src', 'edl.json')))
+import sys
+EDL = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, '07_render', 'src', 'edl.json')
+OUTDIR = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, '07_render', 'out')
+LOFI = len(sys.argv) > 3 and sys.argv[3] == 'lofi'
+edl = json.load(open(EDL))
 FPS = edl['fps']
 N = int((edl['total'] + 10) / FPS * SR)
 db = lambda g: 10 ** (g / 20)
@@ -36,7 +40,7 @@ lib = os.path.join(ROOT, '04_audio_sfx_music')
 music = np.zeros((N, 2))
 start = {b['id']: b['from'] / FPS for b in edl['beats']}
 end_t = edl['total'] / FPS
-o1, e1 = start['o1'], start['e1']
+o1, e1 = (start.get('o1', 0), start.get('e1', end_t))
 cold = load(os.path.join(lib, 'music', 'bed_cold_open.wav'))
 main = load(os.path.join(lib, 'music', 'bed_main_loop.wav'))
 outro = load(os.path.join(lib, 'music', 'bed_outro.wav'))
@@ -54,17 +58,23 @@ def fade(x, fi, fo):
     if b: x[-b:] *= np.linspace(1, 0, b)[:, None]
     return x
 
+if LOFI:
+    lofi = load(os.path.join(lib, 'music', 'lofi_loop.wav'))
+    place(music, fade(loop_to(lofi, int((end_t + 1) * SR)), 0.3, 3.0)[: int(end_t * SR)], 0, db(-8))
 # pre-roll under first cold-open lines (main bed, quiet) until the cold-open bed takes over
-if cold_start > 0:
+if LOFI:
+    pass
+elif cold_start > 0:
     pre = loop_to(main, int((cold_start + 1.5) * SR))
     place(music, fade(pre, 0.8, 1.5), 0, db(-12))
     place(music, fade(cold, 1.5, 0.0)[: int((HIT + 0.8) * SR)], cold_start, db(-9))
 else:
     place(music, fade(cold[int(-cold_start * SR):], 0.5, 0)[: int((o1 + 0.8) * SR)], 0, db(-9))
 # main bed from the first item until the closing reframe
-body = loop_to(main, int((e1 - o1 + 1.5) * SR))
-place(music, fade(body, 0.4, 1.5), o1, db(-9))
-place(music, fade(outro[: int((end_t - e1) * SR)], 1.5, 2.5), e1, db(-10))
+if not LOFI:
+    body = loop_to(main, int((e1 - o1 + 1.5) * SR))
+    place(music, fade(body, 0.4, 1.5), o1, db(-9))
+    place(music, fade(outro[: int((end_t - e1) * SR)], 1.5, 2.5), e1, db(-10))
 
 # ducking: music sits 5 dB lower while VO is present (attack 80 ms, release 450 ms)
 env = np.abs(vo[:, 0])
@@ -92,10 +102,10 @@ for b in edl.get('shots', edl['beats']):
 
 # VO is -18 LUFS per clip; sfx/music gains in mix_rules assume VO at -16 -> lift VO 2 dB
 mixd = vo * db(2) + music + sfx
-tmp = os.path.join(ROOT, '07_render', 'out', 'mix_pre.wav')
+tmp = os.path.join(OUTDIR, 'mix_pre.wav')
 os.makedirs(os.path.dirname(tmp), exist_ok=True)
 sf.write(tmp, mixd.astype(np.float32), SR, subtype='FLOAT')
-sf.write(os.path.join(ROOT, '07_render', 'out', 'stem_vo.wav'), (vo * db(2)).astype(np.float32), SR, subtype='FLOAT')
+sf.write(os.path.join(OUTDIR, 'stem_vo.wav'), (vo * db(2)).astype(np.float32), SR, subtype='FLOAT')
 
 # two-pass loudnorm to -14 LUFS / -1 dBTP
 p1 = subprocess.run(['ffmpeg', '-hide_banner', '-i', tmp, '-af', 'loudnorm=I=-14:TP=-1:LRA=11:print_format=json', '-f', 'null', '-'],
@@ -103,7 +113,7 @@ p1 = subprocess.run(['ffmpeg', '-hide_banner', '-i', tmp, '-af', 'loudnorm=I=-14
 m = json.loads(p1[p1.rindex('{'):])
 af = (f"loudnorm=I=-14:TP=-1:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}:"
       f"measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true")
-out = os.path.join(ROOT, '07_render', 'out', 'mix.wav')
+out = os.path.join(OUTDIR, 'mix.wav')
 subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', tmp, '-af', af + ',aresample=48000', '-c:a', 'pcm_s24le', out], check=True)
 os.remove(tmp)
 print('input', m['input_i'], 'LUFS', m['input_tp'], 'dBTP ->', out)
