@@ -99,9 +99,19 @@ const render = (scene: string, p: any): React.ReactNode => {
   }
 };
 
-const Fader: React.FC<{children: React.ReactNode; first: boolean}> = ({children, first}) => {
+/** Cross-fade in + slow camera drift so no shot ever sits still. */
+const Fader: React.FC<{children: React.ReactNode; first: boolean; dur: number; seed: number}> = ({children, first, dur, seed}) => {
   const f = useCurrentFrame();
-  return <AbsoluteFill style={{opacity: first ? 1 : prog(f, 0, XF)}}>{children}</AbsoluteFill>;
+  const t = Math.min(1, f / Math.max(1, dur));
+  const dir = seed % 2 === 0 ? 1 : -1;
+  const s = 1 + 0.035 * t;
+  const x = dir * 14 * t;
+  const y = -8 * t;
+  return (
+    <AbsoluteFill style={{opacity: first ? 1 : prog(f, 0, XF), transform: `translate(${x}px, ${y}px) scale(${s})`, transformOrigin: '50% 50%'}}>
+      {children}
+    </AbsoluteFill>
+  );
 };
 
 export const Main: React.FC<{only?: string}> = ({only}) => (
@@ -110,7 +120,7 @@ export const Main: React.FC<{only?: string}> = ({only}) => (
       .filter((b) => !only || b.id === only)
       .map((b, i) => (
         <Sequence key={b.id} from={only ? 0 : b.from} durationInFrames={b.dur + XF} name={`${b.id} ${b.scene}`}>
-          <Fader first={i === 0 || !!only}>
+          <Fader first={i === 0 || !!only} dur={b.dur + XF} seed={i}>
             <Paper>{render(b.scene, b.props)}</Paper>
           </Fader>
         </Sequence>
