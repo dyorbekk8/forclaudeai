@@ -1,5 +1,5 @@
 {
- "duration": 332.097,
+ "duration": 332.258,
  "lines": [
   {
    "id": "a01",
@@ -671,42 +671,42 @@
    "speaker": "NORA",
    "text": "Nope!",
    "start": 311.691,
-   "end": 312.37
+   "end": 312.53
   },
   {
    "id": "i04",
    "speaker": "N",
    "text": "Nothing happens. You breathe out.",
-   "start": 313.07,
-   "end": 315.181
+   "start": 313.23,
+   "end": 315.342
   },
   {
    "id": "i05",
    "speaker": "N",
    "text": "And then you see it.",
-   "start": 315.681,
-   "end": 317.51
+   "start": 315.842,
+   "end": 317.67
   },
   {
    "id": "i06",
    "speaker": "N",
    "text": "One gray hair. On a seven year old.",
-   "start": 317.91,
-   "end": 320.545
+   "start": 318.07,
+   "end": 320.705
   },
   {
    "id": "i07",
    "speaker": "N",
    "text": "So, would you spend a year of your life on a kind lie? Tell us in the comments.",
-   "start": 321.745,
-   "end": 326.485
+   "start": 321.905,
+   "end": 326.645
   },
   {
    "id": "i08",
    "speaker": "N",
    "text": "And subscribe. Because Nora is about to learn the rules.",
-   "start": 326.885,
-   "end": 330.597
+   "start": 327.045,
+   "end": 330.758
   }
  ]
 }
