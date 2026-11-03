@@ -1,0 +1,107 @@
+# Every Hard Hat Color Explained
+# channel=Unclassified views=7344 duration_s=498 src=N7jHGtn747Q.en-orig.json3
+# chapters: 00:00 Black | 01:17 White | 03:04 Yellow | 03:55 Orange | 04:43 Blue | 05:43 Green | 06:13 Red | 06:41 Brown | 07:03 Gray | 07:25 Pink
+
+[00:01] Black.
+[00:02] The original color and the hottest.
+[00:05] The first hard hat sold for industrial work was black.
+[00:08] In 1919, Edward Bullard, back from serving in France in the First World War, designed it based on the steel helmet he'd worn as a soldier.
+[00:17] His family's company in San Francisco made it from steamed canvas and glue with a leather brim and a coat of black paint and called it the hard boiled hat.
+[00:27] In the early 1930s, at Hoover Dam, the men known as high scalers dangled on ropes to clear loose rock off the canyon walls.
+[00:35] Being hit by falling objects was the most common cause of death on the project, so the scalers made their own protection by coating cloth hats with coal tar.
+[00:45] According to the Bureau of Reclamation, several men were hit by falling rocks hard enough to break their jaws without fracturing their skulls.
+[00:53] The contractors then bought factory-made hard hats for every man on the job.
+[00:58] Black still carries rank in Britain, where it marks site supervisors.
+[01:02] It's also the worst color for heat.
+[01:05] In a Forest Service test of six colors in full sun, the black hat averaged about 9° F hotter inside than the outside air, and at one point, 23° hotter.
+[01:18] White.
+[01:18] The boss.
+[01:20] On many American job sites, a white hard hat marks managers, engineers, foremen, and supervisors.
+[01:26] The people others need to find quickly.
+[01:28] Bosses also set the rules.
+[01:31] At the Golden Gate Bridge, begun in 1933, chief engineer Joseph Strauss required workers to wear hard hats at all times, making it one of the first sites where they were mandatory.
+[01:42] He also had a safety net hung under the work, extending 10 ft out on each side.
+[01:47] Over the course of construction, the net caught 19 men who called themselves the halfway to hell club.
+[01:53] It didn't save everyone.
+[01:55] In February 1937, a falling platform tore through the net and 10 men died, bringing the project's total to 11.
+[02:03] Even with all of that, no American law says what color the boss wears.
+[02:08] OSHA, the federal workplace safety agency, requires hard hats to meet a standard called ANSI Z89.1.
+[02:16] That standard tests how well a hat protects against impacts and electricity.
+[02:20] Neither OSHA nor the standard assigns colors to jobs.
+[02:24] So, every color code on this list is a convention, and it can change from one company to the next.
+[02:29] Britain is the exception.
+[02:31] From January 2017, the industry group Build UK introduced a national color scheme.
+[02:37] White for managers and qualified workers, black for supervisors, orange for the crew who guide crane loads, and blue for everyone else, including visitors.
+[02:47] Highways England adopted it on its own construction and maintenance sites, and it remains the closest thing to a national hard hat color code.
+[02:54] White also happens to be the coolest color.
+[02:57] In the Forest Service test, the white hat averaged just 1.3° above the outside air.
+[03:05] Yellow, the general worker.
+[03:07] On many sites, yellow marks general laborers and the operators of earth-moving equipment like excavators and bulldozers.
+[03:15] It's bright and easy to spot, and it stays relatively cool.
+[03:19] In the Forest Service test, yellow averaged 3.2° above the air, second only to white.
+[03:26] That test was done for wildland firefighters, who may pick a hard hat color by personal preference, by what the rest of their crew wears, or by their role in the command structure used to run a fire.
+[03:37] Color also tells you something about a hat's age.
+[03:40] A shell that has faded or turned chalky has been weakened by sunlight, and that's a reason to replace it, whatever color it started out.
+[03:49] If you're finding this useful, a like and a subscribe help the channel more than you'd think.
+[03:55] Orange.
+[03:56] Visibility first.
+[03:57] In the United States, orange is often worn by road crews and flaggers, the workers who direct traffic around a work zone.
+[04:05] Some sites also use it for new workers.
+[04:08] The safety standard itself has an optional high visibility rating for hats that meet set requirements for color and brightness.
+[04:15] In the forest service test, orange averaged 4.2° above the air, still among the cooler colors.
+[04:22] In Britain's scheme, orange belongs to slingers and signalers.
+[04:26] A slinger attaches loads to a crane.
+[04:29] A signaller guides the crane operator with hand signals or a radio, often because the operator can't see the load.
+[04:36] On a site where tons of steel are moving overhead, everyone needs to know at a glance who is giving the signals.
+[04:44] Blue.
+[04:45] Technical trades.
+[04:46] On many American sites, blue marks electricians, carpenters, and other skilled technical workers.
+[04:52] For anyone working near electricity though, the color matters less than the label printed inside.
+[04:58] ANSI Z89.1 sorts hats two ways.
+[05:02] Type 1 hats are tested for blows to the top of the head.
+[05:06] Type 2 hats are also tested for blows to the sides.
+[05:09] Then comes the electrical class.
+[05:12] A class E hard hat is tested at 20,000 V.
+[05:15] A class G hat is tested at 2,200 V.
+[05:19] And a class C hat has no electrical protection at all.
+[05:23] Vented hard hats, the ones with holes for airflow, are class C.
+[05:28] In Britain, blue means almost the opposite of specialist.
+[05:31] It's for everyone on site without another assigned color, including visitors.
+[05:36] And in the heat test, blue was one of the warmer colors, averaging 6.7° above the air.
+[05:43] Green.
+[05:44] Two meanings that sound like opposites.
+[05:47] On some sites, green marks safety inspectors, the people checking everyone else's work.
+[05:52] On others, it marks new or probationary workers, people still green on the job.
+[05:58] Before Britain's 2017 scheme, its older and looser color system used green for both.
+[06:04] The new British scheme dropped green as a job color.
+[06:07] Instead, extra roles like first aider or fire marshal are shown with a sticker on the hat.
+[06:14] Red.
+[06:15] Emergency.
+[06:16] On many industrial sites, red marks firefighters and emergency responders.
+[06:21] In Britain's scheme, a fire marshal, the worker responsible for getting everyone out during an evacuation, is marked with a sticker rather than a red hat.
+[06:30] Red is also hot.
+[06:32] In the forest service test, red was the second warmest color after black, averaging 6.9° above the outside air.
+[06:41] Brown.
+[06:42] Heat work.
+[06:43] On many sites, brown marks welders and others who work with high heat.
+[06:48] For a welder, the hard hat is often only part of the protection.
+[06:52] Some welding shields are made to attach directly to a hard hat, so the same shell protects against falling objects while the shield protects the face and eyes.
+[07:02] Gray.
+[07:03] Visitors.
+[07:05] On many American sites, gray hard hats are handed to visitors so workers can spot people who don't know the site's hazards and keep them clear of danger.
+[07:14] In Britain, visitors wear blue instead.
+[07:17] And on Britain's rail network, Network Rail's rules allow only two colors on its sites, white and blue.
+[07:25] Pink.
+[07:26] The color with no job.
+[07:28] On some sites, a pink hard hat is the loaner given to anyone who forgot their own as a mild punishment meant to make sure it doesn't happen again.
+[07:36] On others, pink marks women workers, and some in the industry say it has since become a color of pride rather than shame.
+[07:44] Pink is a fitting place to end because it shows how the whole system really works.
+[07:49] In the United States, no law or standard ties a color to a job.
+[07:53] A white hat on one site can mean a different role on the next.
+[07:57] Only the site's own chart, posted at the gate or explained at orientation, says what each color means there.
+[08:04] Thanks for watching.
+[08:06] What color hard hat did you wear?
+[08:07] And what did it mean on your site?
+[08:10] Let me know in the comments.
+[08:11] If you enjoyed this video, check out the one on screen now.
+[08:14] And please remember to like and subscribe.

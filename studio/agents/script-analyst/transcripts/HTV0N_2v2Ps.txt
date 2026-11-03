@@ -1,0 +1,84 @@
+# How Military Units Actually Work
+# channel=CasualTactics views=NA duration_s=516 src=HTV0N_2v2Ps.en-orig.json3
+
+[00:00] Every soldier in the US Army lives inside a box, inside a bigger box, inside a bigger one, about a dozen boxes deep.
+[00:08] The smallest box holds just four people, and the biggest one the United States ever filled held more than 1.3 million.
+[00:15] Four is small enough that one sergeant can steer the whole group in a firefight by voice and by hand.
+[00:22] Every box has its own name, its own commander, and its own little mark on the map, and you start in the smallest one.
+[00:28] The smallest unit with its own leader is the fire team, which is four soldiers.
+[00:33] A team leader, an automatic rifleman, a grenadier, and a rifleman.
+[00:37] The idea came from the Marines in 1944 when they split their 12-man squad into teams.
+[00:43] Instead of shouting at 11 men, the squad leader now had three team leaders to talk to.
+[00:48] A tank crew works the same way with four people in an Abrams, a commander, a gunner, a loader, and a driver.
+[00:55] The newest Abrams prototype, shown in 2026, replaces the loader with a machine, so even the smallest rung is shrinking.
+[01:03] Two fire teams and a staff sergeant make a squad, nine soldiers in all.
+[01:08] That number was literally put to a vote when a committee at the Army's 1946 infantry conference cut the squad from 12 men to nine, and the vote was 15 to 12.
+[01:19] The Marines went the other way, and their squad is 13 with three fire teams instead of two.
+[01:25] The Army's newest vehicle for its light infantry has exactly nine seats, one for every member of the squad.
+[01:31] Even the name is a shape, since squad comes from the Italian for square, the formation soldiers used to stand in.
+[01:38] Three rifle squads and a weapon squad make a platoon, which can be anywhere from 16 to 44 soldiers.
+[01:45] The weapon squad carries the heavy stuff with two machine gun teams and two teams with Javelin anti-tank missiles.
+[01:51] In a Stryker Brigade, that full platoon rides in just four armored vehicles with eight wheels each.
+[01:58] This is the first rung led by an officer, a lieutenant with a single bar, who is often the least experienced person in the room.
+[02:05] Right next to him is a platoon sergeant who has usually been in the army for a decade or more.
+[02:10] And platoon is borrowed from the French peloton, which means little ball.
+[02:15] Three or four platoons make a company, up to about 200 soldiers under a captain and a first sergeant.
+[02:21] Companies are named with letters, so you're in Alpha Company.
+[02:25] And in the 19th century, cavalry regiments lettered theirs A through M and simply skipped J.
+[02:31] In the artillery, the same unit is called a battery.
+[02:34] And in the cavalry, it's a troop.
+[02:36] In British cavalry and armor though, a troop is the size of a platoon, one rung lower.
+[02:41] The company is also where soldiers carry a small flag of their own, the guidon, with the company letter on it.
+[02:47] And company, in the original Latin, means the people you share bread with.
+[02:52] Four to six companies make a battalion, 300 to 1,000 soldiers under a lieutenant colonel.
+[02:58] In the cavalry, the same rung is called a squadron, just to keep things confusing.
+[03:03] A battalion is the first rung big enough to need its own staff, and those staff sections are simply numbered, from S1 for personnel to S6 for communications.
+[03:13] The numbers came from the French staff system, which General Pershing copied for the American army in World War I.
+[03:19] At a division, where a general is in charge, the same sections switch from S to G.
+[03:24] So, the operations officer goes from S3 to G3.
+[03:28] That artillery battery from one rung down has an even older story, because a group of cannons was already called a battery back in the 1500s.
+[03:36] Benjamin Franklin later borrowed that word for his electrical experiments, which is probably why the thing in your phone is named after a group of cannons.
+[03:44] Above the battalion, on paper, comes the regiment.
+[03:47] And in the US Army, it mostly doesn't exist.
+[03:50] Since 1957, most army regiments have been a family tree rather than a fighting unit.
+[03:55] Battalions wear the regiment's crest and carry its history, but there's usually no regimental headquarters at all, which is a little awkward for a word that comes from the Latin for rule.
+[04:06] The exceptions are real though, like the 75th Ranger Regiment and the 2nd and 3rd Cavalry Regiments.
+[04:11] The Army's special operations helicopter unit, the Nightstalkers, started out in 1981 as a task force and only became a regiment in 1990.
+[04:21] Before we keep climbing, tell me in the comments where you're watching from and subscribe and hit the bell so you don't miss the next one.
+[04:27] Above the battalion, for real this time, is the brigade, a colonel's command of anywhere from two to 5,000 soldiers.
+[04:35] It comes in three main types, infantry, striker, and armored, and the Army has about 30 of them on active duty with another 27 in the National Guard.
+[04:44] In the mid-2000s, the Army rebuilt itself around brigades, so a brigade can deploy and fight without waiting for the rest of its division.
+[04:52] And since late 2025, the Army has been turning its infantry brigades into lighter, mobile brigades that ride those nine-seat squad vehicles.
+[05:01] Brigade traces back to an Italian word for fight, which is also where English got the word brigand.
+[05:07] Three or four brigades make a division, 10 to 16,000 soldiers under a two-star major general.
+[05:13] Divisions are the names people actually know, like the 82nd Airborne, the 101st, and the 1st Infantry Division, the oldest one, organized in 1917.
+[05:23] The 1st Infantry is called the Big Red One because of the number on its shoulder patch.
+[05:28] Shoulder patches themselves started with a division, too, in 1918, and the first one was a wildcat.
+[05:34] The Army has about a dozen active divisions now, and the newest, the 11th Airborne in Alaska, only came back in 2022.
+[05:42] And the Army's habit of building in threes took hold in 1939 when General Marshall switched its divisions from square ones of four regiments to triangular ones of three.
+[05:53] Two to five divisions make a corps, commanded by a three-star lieutenant general.
+[05:57] The Army has only four of them now.
+[06:00] 1st Corps, 3rd Armored Corps, 5th Corps, and 18th Airborne Corps.
+[06:05] The word is pronounced core.
+[06:07] The plural is spelled the same but said cores and it comes from the same Latin word for body that gave English corpse.
+[06:14] You can also tell what rung you're looking at from how its number is written.
+[06:18] Divisions get ordinary numbers like the first infantry division.
+[06:22] Corps get Roman numerals like 18th Airborne Corps and armies get spelled out like third Army.
+[06:29] Two or more corps make a field army which can run into the hundreds of thousands.
+[06:34] The most famous one is George Patton's third Army which crossed France and Germany in 1944 and 1945.
+[06:41] By Patton's own count, it spent 281 days in combat and took 956,000 enemy soldiers prisoner.
+[06:49] Over the course of that campaign, six corps and 39 divisions passed through it.
+[06:54] Third Army still exists but these days it runs the Army side of operations in the Middle East from an air base in South Carolina.
+[07:02] Above that sits the Army Group and the US has fielded this rung only in World War II.
+[07:07] Omar Bradley's 12th Army Group had four armies, 12 corps and 48 divisions.
+[07:13] That was more than 1.3 million people, the largest American force ever to take the field.
+[07:18] Drop the modern ladder into a force that size and the four soldiers you started with would be one tiny box buried under nine bigger ones.
+[07:27] The entire active US Army now is about 454,000 soldiers, roughly a third of that one Army Group.
+[07:34] Above the Army Group, the ladder simply runs out and the whole planet is split into military commands.
+[07:40] There are 11 combatant commands and each one is run by a four-star general or admiral who answers to the Secretary of Defense.
+[07:48] But real wars rarely use the ladder as it's drawn so the Army builds task forces, temporary units put together for one mission.
+[07:56] They're often named after their commander and the most famous is Task Force Smith.
+[08:01] In July 1950, about 500 American soldiers, two rifle companies plus one artillery battery, were sent to slow down the North Korean invasion near Osan.
+[08:11] They ran into roughly 5,000 North Korean troops and 34 tanks.
+[08:16] Their bazookas couldn't stop the tanks and after about 6 hours they had to pull back.
+[08:21] Decades later, no more Task Force Smiths became the Army's shorthand for never being caught unready again.

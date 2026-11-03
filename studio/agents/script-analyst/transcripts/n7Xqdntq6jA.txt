@@ -1,0 +1,47 @@
+# Every DEFCON Level Explained
+# channel=Unclassified views=7786 duration_s=206 src=n7Xqdntq6jA.en-orig.json3
+# chapters: 00:00 DEFCON 5 | 00:52 DEFCON 4 | 01:26 DEFCON 3 | 02:05 DEFCON 2 | 02:47 DEFCON 1
+
+[00:01] DEFCON 5 The lowest state of alert.
+[00:05] Normal peacetime readiness.
+[00:07] Forces conduct routine training, maintenance, and rotation.
+[00:12] Units operate on standard schedules, and personnel take normal leave.
+[00:17] This is the default condition of the United States military and the state it has occupied for the overwhelming majority of its existence.
+[00:25] The numbering is counterintuitive to most people.
+[00:29] DEFCON 5 is the safe end of the scale.
+[00:31] The number counts down toward war, not up.
+[00:35] The system was established in 1959 by the Joint Chiefs of Staff to give every branch a single shared vocabulary for readiness.
+[00:44] Because until then, the Army, Navy, and Air Force each used their own incompatible terms.
+[00:52] DEFCON 4 Increased intelligence watch and strengthened security measures.
+[00:56] Surveillance and reconnaissance activity expands, communication security is tightened, and message traffic is more heavily encrypted.
+[01:03] Forces remain on normal schedules, so from the outside almost nothing appears to change.
+[01:08] Large portions of the American military operated at DEFCON 4 as a standing posture throughout the Cold War, particularly units assigned to Europe and the Korean Peninsula.
+[01:18] It is less a response to a specific event than a description of operating near a hostile border indefinitely.
+[01:27] DEFCON 3 An increase in force readiness above normal.
+[01:31] The Air Force moves to 15-minute launch readiness.
+[01:33] Additional aircraft are placed on alert.
+[01:35] Leave is curtailed, and personnel are recalled to their units.
+[01:39] This is the first level at which an outside observer would notice the change.
+[01:44] The United States went to DEFCON 3 in October 1973 during the Yom Kippur War after the Soviet Union signaled it was prepared to send troops into the conflict directly.
+[01:55] It went to DEFCON 3 again on September 11th, 2001 for the first time in nearly 30 years.
+[02:05] DEFCON 2, the step immediately below nuclear war.
+[02:08] Forces are prepared to deploy and engage within 6 hours.
+[02:12] Bombers are armed and dispersed to civilian and alternate airfields, so a single strike cannot destroy them on the ground.
+[02:19] Submarines move to launch positions.
+[02:21] Missile crews remain at their stations.
+[02:23] The United States has publicly acknowledged reaching DEFCON 2 once.
+[02:28] During the Cuban Missile Crisis in October 1962, Strategic Air Command went to DEFCON 2 while the rest of the military held at DEFCON 3.
+[02:37] The order was transmitted in the clear, unencrypted, so that Soviet listeners would hear it.
+[02:42] The alert level was itself the message.
+[02:47] DEFCON 1, maximum readiness.
+[02:50] Nuclear war is imminent or already underway.
+[02:53] Forces are deployed for combat and nuclear weapons are released for use.
+[02:57] There is no level above this one.
+[02:59] The United States has never gone to DEFCON 1.
+[03:02] Every other level on this scale is a warning about something that has not happened yet.
+[03:07] DEFCON 1 is not a warning.
+[03:09] It is a description of the present.
+[03:13] Thanks for watching.
+[03:15] Should the public be told when the level changes?
+[03:17] Drop it in the comments.
+[03:19] Also, please remember to like and subscribe if you enjoyed this video.

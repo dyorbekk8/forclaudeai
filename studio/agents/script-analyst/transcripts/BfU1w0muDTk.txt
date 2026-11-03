@@ -1,0 +1,92 @@
+# Every Utility Marking Color Explained
+# channel=Field Manual views=1303 duration_s=328 src=BfU1w0muDTk.en-orig.json3
+# chapters: 00:00 Red – Electric | 00:37 Yellow – Gas & Oil | 01:19 Orange – Communication | 02:00 Blue – Drinking Water | 02:34 Purple – Reclaimed Water | 03:09 Green – Sewer | 03:49 Pink – Survey | 04:25 White – Proposed Excavation
+
+[00:00] Red.
+[00:00] Red marks electric power.
+[00:02] Power lines, cables, conduit, and lighting cables.
+[00:06] All of it buried.
+[00:08] The underground lines that feed American neighborhoods often carry thousands of volts, enough to electrify the machine that hits them.
+[00:15] Beside the paint, locators often write letters.
+[00:18] H/V means high voltage.
+[00:20] L/V means low voltage.
+[00:23] S/L means a street light.
+[00:25] The paint is not the cable.
+[00:27] It marks the strip of ground where the cable should be.
+[00:30] A broken gas line hisses and smells.
+[00:33] A broken power cable makes no sound at all.
+[00:37] Yellow.
+[00:38] Yellow marks anything that burns or flows under pressure.
+[00:41] Natural gas, oil, steam, petroleum, and other gaseous materials.
+[00:46] Beside the yellow paint, locators often add the pressure.
+[00:50] HP for high, MP for medium, LP for low.
+[00:54] On June 16th, 1976, a loader widening Venice Boulevard in Los Angeles struck an 8-in pipeline carrying gasoline at 600 lb per square inch.
+[01:04] Fuel sprayed over cars and storefronts.
+[01:07] About 90 seconds later, it ignited.
+[01:10] Seven buildings were destroyed and seven people died.
+[01:13] At the time, there was no number to call before digging.
+[01:16] Afterwards, there was.
+[01:19] Orange.
+[01:20] Orange marks communication.
+[01:22] Telephone, cable TV, fiber optic internet, alarm, and signal lines.
+[01:28] It is now the most crowded color under the street and the most damaged.
+[01:32] In 2025, telecom lines made up 51% of all reported utility damage in the United States.
+[01:39] But orange is also on the other side of the shovel.
+[01:42] On February 6th, 2019, a crew digging to install fiber optic cable in San Francisco struck a natural gas line.
+[01:49] 10 seconds later, it ignited.
+[01:52] Flames reached 50 ft and the fire burned for more than 2 hours.
+[01:56] The crew was laying orange, it hit yellow.
+[02:00] Blue.
+[02:01] Blue marks potable water, the water that comes out of the tap, treated and safe to drink.
+[02:07] The United States has about 2.2 million miles of underground drinking water pipe, and much of it was laid generations ago.
+[02:15] The American Society of Civil Engineers estimates that a water main breaks somewhere in the country roughly every 2 minutes.
+[02:21] Together, leaks and breaks lose at least 6 billion gallons of treated water every day.
+[02:27] Blue is not the only water in the ground.
+[02:30] It is the only water in the ground anyone should drink.
+[02:34] Purple.
+[02:35] Purple marks reclaimed water, irrigation, and slurry lines.
+[02:39] Reclaimed water is waste water that has been treated and sent back out.
+[02:43] Not to kitchens, but to golf courses, parks, highway medians, and cooling towers.
+[02:48] Because it looks exactly like drinking water, it gets its own color twice.
+[02:53] Purple paint on the street and purple pipe Many states and utilities require reclaimed water pipe to be purple, so that no plumber connects it to a kitchen tap by mistake.
+[03:03] Blue is the water that comes into a city.
+[03:05] Purple is the water that comes back.
+[03:09] Green.
+[03:10] Green marks sewers and drain lines.
+[03:12] Everything that leaves a building through the floor, and the storm drains that carry rain off the street.
+[03:18] Sewers are hard to find.
+[03:19] Many are clay, concrete, or plastic with no metal for a locator's signal to follow.
+[03:25] That creates one of the strangest hazards underground, called a cross bore.
+[03:29] A crew drilling sideways to lay a new gas line passes straight through a sewer pipe without knowing it.
+[03:34] Years later, the drain backs up.
+[03:36] A plumber feeds a cutting cable into the sewer and slices the gas line inside it.
+[03:41] In Minneapolis in 2010, a house burned to the ground this way.
+[03:45] Sometimes, the danger in a green line is yellow.
+[03:49] Pink.
+[03:50] Pink marks temporary survey markings.
+[03:53] It belongs to surveyors, not utilities.
+[03:56] Property lines, road center lines, reference points for a project that has not been built yet.
+[04:01] Pink means someone is measuring.
+[04:03] Newer versions of the code give pink a second meaning.
+[04:06] It can mark an unknown facility, a line the locator has detected but cannot identify.
+[04:11] No owner, no record, no name.
+[04:14] Cities are layered with abandoned and forgotten pipes, some older than the maps.
+[04:19] Every other color says what is down there.
+[04:21] Pink can mean nobody knows.
+[04:25] White.
+[04:26] White marks proposed excavation.
+[04:28] It is the only color on the street not painted by a utility.
+[04:32] The person planning to dig paints it first, outlining exactly where the hole, trench, or bore will go.
+[04:38] Then they call 811, the free national call before you dig number, in service since May 1st, 2007.
+[04:45] Every utility with lines nearby sends a locator to paint the answer.
+[04:49] Red, yellow, orange, blue, purple, green.
+[04:53] The rule is simple.
+[04:54] Within 18 inches of either side of a mark, dig by hand.
+[04:58] Still, in 2025, more than 220,000 buried lines were reported damaged in the United States, roughly one every two and a half minutes.
+[05:08] The single largest cause, year after year, is someone who never called.
+[05:12] Every other color on the street is an answer.
+[05:15] White is the question.
+[05:18] Thanks for watching.
+[05:19] Which color have you seen painted on your street?
+[05:22] Tell us in the comments.
+[05:23] If you want more videos like this, like and subscribe.

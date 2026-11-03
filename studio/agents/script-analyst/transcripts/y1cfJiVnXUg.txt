@@ -1,0 +1,101 @@
+# Every Security Clearance Level Explained
+# channel=Unclassified views=327775 duration_s=494 src=y1cfJiVnXUg.en-orig.json3
+# chapters: 00:00 Unclassified | 00:21 Controlled Unclassified Information | 01:00 Confidential | 01:31 Secret | 02:08 Top Secret | 02:44 Interim Clearance | 03:16 Sensitive Compartmented Information | 03:53 Special Access Program | 04:30 Acknowledged SAP | 04:58 Unacknowledged SAP | 05:28 Waived SAP | 05:55 Q Clearance | 06:30 L Clearance | 06:57 Yankee White | 07:32 Need to Know
+
+[00:01] Unclassified.
+[00:02] Information that requires no protection and can be released to the public.
+[00:06] Most government documents fall into this category.
+[00:09] Being unclassified does not mean the information is unimportant.
+[00:13] It means disclosure would cause no identifiable damage to national security.
+[00:17] No clearance is required to access it.
+[00:22] Controlled unclassified information.
+[00:25] Information that is not classified but still restricted from public release.
+[00:30] It includes law enforcement records, export controlled technical data, critical infrastructure details, and personal information about federal employees.
+[00:41] Before 2010, agencies used dozens of inconsistent labels for this material.
+[00:48] An executive order replaced all of them with a single category.
+[00:52] No security clearance is required, but access is limited to those with a legitimate need.
+[01:01] Confidential.
+[01:02] The lowest level of classified information.
+[01:05] Unauthorized disclosure could reasonably be expected to cause damage to national security.
+[01:10] It covers material such as troop strength figures, basic equipment specifications, and routine diplomatic reporting.
+[01:17] The confidential clearance requires a national agency check with credit and law enforcement inquiries.
+[01:22] It is reinvestigated every 15 years.
+[01:25] In practice, very little material is classified at this level today.
+[01:32] Secret.
+[01:33] Unauthorized disclosure could reasonably be expected to cause serious damage to national security.
+[01:38] This is the most commonly held clearance in the federal government.
+[01:41] It covers military plans, weapon system performance data, intelligence collection methods, and diplomatic communications.
+[01:48] The background investigation examines the last 10 years of an applicant's life, including employment, residences, finances, foreign contacts, and criminal history.
+[01:59] Reinvestigation occurs every 10 years.
+[02:01] Roughly 2.8 million people in the United States hold a secret clearance or higher.
+[02:09] Top Secret Unauthorized disclosure could reasonably be expected to cause exceptionally grave damage to national security.
+[02:17] This covers nuclear weapons design information, the identities of intelligence sources, cryptographic systems, and war plans.
+[02:24] The investigation is significantly more demanding.
+[02:27] It includes interviews with references, neighbors, co-workers, and former spouses.
+[02:32] Foreign travel and foreign financial interests are examined in detail.
+[02:36] Reinvestigation occurs every 5 years.
+[02:38] Approximately 1.2 million people hold a Top Secret clearance.
+[02:44] Interim Clearance A temporary authorization granted while a full background investigation is still in progress.
+[02:52] It allows a new employee to begin working with classified material before the process is complete, which can take a year or longer.
+[03:00] Interim clearances are granted only when the preliminary checks return no derogatory information.
+[03:05] They can be withdrawn at any moment without explanation and without appeal.
+[03:10] If the final investigation raises a concern, access ends immediately.
+[03:16] Sensitive Compartmented Information Not a clearance level, but a control system layered on top of Top Secret.
+[03:23] SCI covers intelligence sources and collection methods.
+[03:27] Holding a Top Secret clearance does not grant access to SCI.
+[03:31] Each compartment must be granted separately, and access is limited to those with a specific operational need.
+[03:36] Compartments have code words.
+[03:38] A person cleared for one compartment has no access to and no knowledge of the others.
+[03:43] SCI material can only be read inside a Sensitive Compartmented Information Facility, a shielded room designed to prevent electronic eavesdropping.
+[03:53] Special Access Program.
+[03:56] The most restrictive protection framework in the United States government.
+[04:00] ASAP applies enhanced controls beyond normal classification.
+[04:04] A limited access list, dedicated security officers, and separate facilities.
+[04:10] The existence of the program itself may be classified.
+[04:14] Access requires a formal nomination and approval by the program's own authority.
+[04:19] There is no general list of special access programs.
+[04:22] Even people with top secret clearances have no way to learn which programs exist.
+[04:30] Acknowledged SAP.
+[04:33] A special access program whose existence is publicly confirmed even though its contents remain classified.
+[04:39] The name of the program, its budget line, and its general purpose may appear in unclassified documents.
+[04:46] Congress is briefed through normal committee channels.
+[04:49] The B-2 stealth bomber program operated as an acknowledged SAP once its existence was made public.
+[04:58] Unacknowledged SAP.
+[05:00] A special access program whose existence is itself classified.
+[05:04] It does not appear in any unclassified budget document.
+[05:08] Officials will not confirm that it exists.
+[05:11] Briefings are restricted to a small number of members of Congress rather than full committees.
+[05:16] The F-117 stealth fighter operated as an unacknowledged program for over a decade before it was publicly revealed in 1988.
+[05:29] Waived SAP.
+[05:31] The most restricted category in the American classification system.
+[05:34] Congressional notification is waived entirely except for eight individuals.
+[05:39] The chairs and ranking members of the four defense committees.
+[05:42] No staff are briefed.
+[05:43] No written records are provided.
+[05:45] The program operates with almost no legislative oversight.
+[05:48] There is no public accounting of how many waved programs exist or how much they cost.
+[05:56] Q clearance, a Department of Energy clearance, not a Department of Defense one, it grants access to restricted data, a category created by the Atomic Energy Act covering nuclear weapons design, production, and stockpile information.
+[06:10] Restricted data is unique because it is classified at birth.
+[06:14] A private citizen who independently develops a nuclear weapons concept has generated classified information by law whether or not the government was involved.
+[06:23] A Q clearance is equivalent to top secret and requires the same level of investigation.
+[06:30] L clearance, the Department of Energy's lower tier clearance, roughly equivalent to secret.
+[06:37] It grants access to formerly restricted data and to national security information at the secret level.
+[06:43] It does not permit access to nuclear weapons design details.
+[06:47] Contractors working at Department of Energy sites who need site access but not weapons information typically hold an L clearance rather than a Q.
+[06:57] Yankee White, an administrative background investigation required for military and civilian personnel who work in direct proximity to the president and vice president.
+[07:07] It is the most exhaustive personnel screening the United States conducts.
+[07:12] Applicants must be United States citizens with no foreign relatives whose safety could be used as leverage.
+[07:18] The investigation examines the applicant's entire life rather than a fixed window of years.
+[07:23] It applies to Air Force One crew, White House medical staff, and the military aides who carry the nuclear football.
+[07:32] Need to know, the principle that governs every level above.
+[07:35] A clearance establishes that a person is eligible to see classified information.
+[07:40] It does not entitle them to see any of it.
+[07:42] Access requires a specific demonstrable reason tied to an assigned duty.
+[07:47] A top secret clearance holder has no right to read a top secret document unless their job requires it.
+[07:52] Curiosity is not a qualification.
+[07:54] Rank is not a qualification.
+[07:56] Without need to know, every clearance in the system grants access to nothing.
+[08:03] Thanks for watching.
+[08:04] Which clearance level surprised you the most?
+[08:06] Drop it in the comments.
+[08:08] Also, please remember to like and subscribe if you enjoyed this video.

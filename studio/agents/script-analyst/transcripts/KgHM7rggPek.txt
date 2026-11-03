@@ -1,0 +1,136 @@
+# Every Bullet Tip Color Explained
+# channel=Unclassified views=396173 duration_s=833 src=KgHM7rggPek.en-orig.json3
+# chapters: 00:00 Unpainted | 01:14 Black | 02:37 Green | 04:01 Red | 05:25 Orange | 06:50 Brown | 07:50 Violet | 08:54 Silver | 10:02 Light Blue | 11:07 Yellow | 12:20 White
+
+[00:01] Unpainted.
+[00:02] Ball ammunition, the standard bullet and the most common round in any military.
+[00:07] In the American system, the absence of color is the code.
+[00:11] The Army's ammunition data sheets describe the ordinary ball cartridge as identified by the lack of any tip color.
+[00:18] The name ball goes back to the round lead balls fired from muskets, and it stuck long after bullets became long and pointed.
+[00:25] The .30-06 M2 ball, the 7.62 mm M80, the 5.56 mm M193, and the .50 caliber M33 all have plain copper tips.
+[00:38] And most match ammunition for snipers and competition is unpainted, too.
+[00:43] But a bare tip is no longer a guarantee.
+[00:45] The M855A1, the Army's standard 5.56 round since 2010, has no paint at all.
+[00:53] Instead, its tip is bare steel, a dull gray point sticking out of the front of the bullet.
+[00:59] And the M102, a long-range .50 caliber sniper round, has no tip color, but an olive green coating over the entire bullet.
+[01:07] Unpainted usually means ordinary, but the only certain answer is printed on the box.
+[01:14] Black.
+[01:15] Armor-piercing.
+[01:17] Under the paint, the bullet carries a hard core, hardened steel in older rounds and tungsten in newer ones, meant for vehicles, shelters, and other hard targets.
+[01:27] The .30-06 M2, the 7.62 mm M61, the 5.56 mm M995, and the .50 caliber M2 armor-piercing rounds all have black tips.
+[01:41] The color carries across borders, too.
+[01:43] Russia's newer armor-piercing round for Kalashnikov rifles, adopted in 2002, also has a black tip.
+[01:50] In the United States, black also leads to the law.
+[01:54] In January 1982, NBC aired a special called Cop Killer Bullets about a handgun round originally designed for police to shoot through car doors and windshields.
+[02:05] The controversy led to the Law Enforcement Officers Protection Act, signed by President Reagan in August 1986, which restricted armor-piercing handgun ammunition.
+[02:15] Its definition has nothing to do with paint.
+[02:18] Under federal law, a bullet counts as armor-piercing if it can be used in a handgun and its core is made entirely of certain metals, such as steel, iron, brass, tungsten alloys, or depleted uranium.
+[02:31] So, the color on the tip is a label for soldiers.
+[02:34] It is not what the law looks at.
+[02:38] Green, the M855, the Army's standard 5.56 mm round for almost 30 years, and the most famous painted tip in America.
+[02:49] It's the American version of a Belgian design, chosen in 1980 as NATO's second standard rifle cartridge.
+[02:55] Its 62-grain bullet has a small steel tip inside the front of the jacket over a lead core, partly to meet a NATO requirement that it pierce one side of an American steel helmet at long range.
+[03:07] The heavier bullet needed faster rifling, so it arrived with the M16A2, and the green paint let soldiers tell it apart from the older M193, which looks almost identical.
+[03:18] In 2015, the ATF proposed ending the exemption that let the M855 be sold to civilians as a sporting round because it could now be fired from handgun versions of the AR-15.
+[03:29] More than 80,000 public comments came in, most of them critical, and in March 2015, the agency set the plan aside.
+[03:37] Elsewhere, green means something else entirely.
+[03:40] On the .50 caliber Mark 211, a green tip with a gray ring marks a multi-purpose round.
+[03:46] In the 1960s, a green tip on the 7.62 round, two bullets stacked in one cartridge.
+[03:55] And on Soviet and Russian ammunition, a green tip means tracer.
+[04:01] Red, tracer.
+[04:03] A tracer bullet carries a pyrotechnic charge in its base, lit by the burning powder, so the shooter can watch the bullet fly and correct the aim.
+[04:12] Britain introduced the first tracer in 1915, and the United States followed with a .30-06 tracer in 1917.
+[04:20] The earliest American tracers were marked with blackened cartridge cases before red tips took over.
+[04:25] In the American and NATO system, the trace itself is red, too, because the burning mixture is based on strontium, while Russian and Chinese tracers burn green.
+[04:36] Machine gun belts usually carry one tracer for every four ordinary rounds, and squad and platoon leaders load them to mark targets for everyone else.
+[04:45] The .30-06 M1, the .50 caliber M1, and the 5.56 mm M196 tracers all have red tips.
+[04:53] And so does the M856A1, the tracer that pairs with the Army's current rifle round.
+[04:59] The drawback is summed up in a military saying, "Tracers work both ways."
+[05:04] Because the glowing line also points straight back at the gun.
+[05:08] They also start fires.
+[05:10] In July 2018, during fire restrictions that banned tracers, tracer rounds fired at a shooting range near Basalt, Colorado, started the Lake Christine fire, which burned more than 12,000 acres and three homes.
+[05:25] Orange, also tracer, but a different kind.
+[05:29] In the American system, orange marks a tracer that differs from the standard red one, either in when it lights up or in which ball round it is built to match.
+[05:38] The .50 caliber M10, an aircraft round, stayed dim or invisible for its first 225 yards, then burned bright for about 1,600 more.
+[05:49] So, the trace was harder to follow back to the gun.
+[05:52] The .30-06 M25 had to reach full brightness within 75 yards and keep burning past 900.
+[05:59] And the 7.62 mm M62 that followed it kept the orange tip.
+[06:05] Matching is the other reason.
+[06:07] A tracer only works if it flies like the bullets around it.
+[06:10] The red-tipped M196 traces to about 500 yards and matches the old M193 ball.
+[06:17] The orange-tipped M856 traces to about 875 yards and matches the green-tipped M855.
+[06:25] But, it needs the faster rifling of the M16A2.
+[06:29] In the older M16A1, it was only to be used in emergencies and in warm weather.
+[06:35] The two tip colors told soldiers which tracer belonged with which rifle.
+[06:39] Germany uses orange for its 5.56 tracer, too.
+[06:44] If you're finding this useful, a like and a subscribe help the channel more than you'd think.
+[06:50] Brown.
+[06:51] The rarest color on the list, used by essentially one cartridge, the .50 caliber M17 tracer.
+[06:59] It was designed to replace the older red-tipped M1 tracer, has been made since 1950, and burns bright for about 2,450 yards, much farther than the round it replaced.
+[07:11] Before 1952, its tip was painted maroon, and the shade then changed to brown, which can look close to red in poor light.
+[07:19] It was also used as a substitute for the armor-piercing incendiary tracer, though it can't match that round against hard targets.
+[07:26] The M17 can be fired from the Barrett M82 and M107 sniper rifles, as well as the M2 machine gun.
+[07:34] Brown shows how crowded the .50 caliber family had become.
+[07:38] In a single .50 caliber belt, a red tip, an orange tip, and a brown tip could all mean tracer.
+[07:44] Each with a different burn, a different brightness, and a different job.
+[07:50] Violet, dim tracer.
+[07:52] The 7.62 mm M276 with a violet or purple tip is a tracer designed to be seen only through night vision goggles.
+[08:01] Ordinary tracers are so bright that they bloom in night vision devices, washing out the image for the person wearing them, and they give away the gunner's position.
+[08:11] The dim tracer is invisible to the naked eye, but clearly visible through the goggles.
+[08:16] So, a machine gunner can still see where the rounds are going at night without lighting up the battlefield.
+[08:21] Lake City Army Ammunition Plant in Missouri, the Army's main small arms ammunition plant, received a production contract for more than 7 million of them.
+[08:30] The same idea reached the .50 caliber as the Mark 257, an armor-piercing incendiary dim tracer with a purple tip.
+[08:38] An experimental 5.56 dim tracer used a crimson tip instead.
+[08:43] Violet also turns up on cartridges with no bullet at all.
+[08:46] On the standard 5.56 blank, the M200, the crimped tip is sealed with violet lacquer.
+[08:54] Silver, armor-piercing incendiary.
+[08:57] A silver tip, called aluminum in the official descriptions, marks a bullet with a hard core like the black tipped armor-piercing round, plus an incendiary mixture in the nose that bursts into flame on impact and ignites whatever it hits.
+[09:12] The .50 caliber M8 was designed to replace two older rounds at once, the black tipped armor-piercing round and the light blue incendiary, and its penetration is almost equal to the armor-piercing version.
+[09:25] The .30-06 version, the M14, also has an aluminum colored tip.
+[09:30] Add a tracer and the code combines.
+[09:32] The .50 caliber M20, an armor-piercing incendiary tracer, has a red tip with a silver ring behind it and according to its description using it makes separate tracer rounds unnecessary in a machine gun belt.
+[09:46] The .50 caliber also has rounds that skip paint entirely.
+[09:50] It's sabotaged light armor penetrators fire a thin tungsten dart inside a plastic sleeve.
+[09:56] The sleeve is the code.
+[09:57] Amber for the standard version, red for the tracer.
+[10:02] Light blue.
+[10:04] Incendiary.
+[10:05] A light blue tip marks a bullet whose main job is to start fires with an incendiary mixture in the nose and a hollow steel body instead of a solid hard core.
+[10:15] The .50 caliber M1 incendiary has a light blue tip and it can also be identified by a second groove rolled into the bullet's jacket.
+[10:24] Incendiary rounds grew out of air combat.
+[10:27] In the First World War, ordinary bullets only punched small holes in the hydrogen filled gas bags of German zeppelins and it took bullets that could set the hydrogen alight to bring them down.
+[10:38] Fuel was the next target.
+[10:40] The .50 caliber M23 made only for aircraft machine guns has a medium blue tip with a light blue ring.
+[10:47] Flies faster than the M1 and carries more incendiary mixture and it was described as more effective against aviation kerosene.
+[10:55] Light blue is rarer today partly because the silver tipped armor piercing incendiary was designed to replace it doing its job and the armor piercing job at the same time.
+[11:07] Yellow.
+[11:08] Spotter.
+[11:09] The .50 caliber M48A1 has a yellow tip with a red ring behind it and it was built to show where a much bigger weapon would hit.
+[11:18] It was fired from the M8C spotting rifle, a .50 caliber gun mounted on the M40, a 106 mm recoilless rifle used against tanks.
+[11:28] The gunner fired the spotting rifle first.
+[11:31] It's bullet left a trace and on impact made a flash and a puff of smoke showing whether the main gun was on target.
+[11:39] Then, the gunner fired the main round.
+[11:41] That system is the likely source of a lasting myth.
+[11:45] Many American troops came to believe it is illegal to shoot enemy soldiers with a .50 caliber weapon.
+[11:51] In 1988, Major Hayes Parks, writing in the Marine Corps Gazette, explained that no treaty says so.
+[11:58] He traced the belief to old doctrine that discouraged firing the spotting rifle at people.
+[12:03] The reason was tactical, not legal.
+[12:06] It would reveal the recoilless rifle and its crew before the main gun was ready to fire.
+[12:11] Over time, an instruction about one spotting rifle turned into a rule that never existed about every .50 caliber.
+[12:20] White.
+[12:21] Frangible.
+[12:23] A white tip, as on the 5.56 mm Mark 255, marks a bullet made from a copper and polymer composite that breaks apart on hard surfaces, cutting down ricochets in training and close quarters.
+[12:36] The idea goes back to the Second World War.
+[12:39] The .30 caliber M22 frangible bullet, made of bakelite and powdered lead, was marked with a green tip and a white ring, and it shattered against armor, leaving a mark to score a hit.
+[12:51] Gunnery students fired frangible bullets at the Bell P-63 Pinball, a fighter rebuilt as a manned target with armor plating and cockpit glass more than an inch thick.
+[13:02] Sensors under its skin registered each hit and flashed a red light in the propeller hub, which is how it got its nickname.
+[13:09] White is also where the system runs out.
+[13:12] Outside the military, tip colors follow no shared code.
+[13:16] Nosler colors its polymer-tipped hunting bullets by caliber.
+[13:19] Orange for .22 caliber, red for 7 mm, green for .30 caliber.
+[13:24] Hornady's red polymer tips have nothing to do with tracers, and the green that means a steel tip in America means a tracer in Russia.
+[13:33] A tip color only means something inside the system that painted it, which is why the final word is always on the box.
+[13:41] Thanks for watching.
+[13:42] Which bullet tip color surprised you the most?
+[13:45] Let me know in the comments.
+[13:46] If you enjoyed this video, check out the one on screen now, and please remember to like and subscribe.

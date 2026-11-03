@@ -1,0 +1,108 @@
+# Every Hospital Wristband Color Explained
+# channel=Unclassified views=327789 duration_s=624 src=QlPLtq7c77A.en-orig.json3
+# chapters: 00:00 White | 00:58 Red | 02:02 Yellow | 03:05 Purple | 04:06 Pink | 05:09 Green | 06:11 Blue | 07:15 Orange | 08:12 Teal | 09:10 Broselow Colors
+
+[00:01] White.
+[00:01] The one band every hospital patient wears and the only one with no warning attached.
+[00:07] It carries the patient's name, date of birth, and a record number, usually with a barcode.
+[00:13] Hospitals accredited in the United States are required to check at least two identifiers before giving a medication, drawing blood, or performing a procedure.
+[00:22] And this band is where staff find them.
+[00:24] Nurses scan it before giving drugs and the scanner checks the drug against the patient's orders.
+[00:30] It sounds too basic to matter, but patient misidentification is one of the most persistent sources of harm in hospitals.
+[00:37] The wrong blood, the wrong medication, the wrong procedure given to someone with a similar name.
+[00:43] Everything else in this video is layered on top of this band.
+[00:47] When a hospital adds colored alert bands, the rules recommend they go on the same arm and that any band removed for a procedure is replaced on the other arm before it comes off.
+[00:58] Red.
+[00:59] Allergy.
+[01:00] And the only color American hospitals mostly agreed on before anyone asked them to.
+[01:05] When Pennsylvania surveyed its hospitals in 2005, nearly four in five that used an allergy band already used red.
+[01:13] Red is also where the first conflict shows up.
+[01:16] The same survey found that almost every hospital with a blood bank identification band, the band that links a patient to the blood being prepared for them, also made that band red.
+[01:26] Two red bands, two completely different meanings.
+[01:30] Sometimes on the same patient.
+[01:32] An allergy band is meant as a prompt rather than a record.
+[01:35] It tells staff to check the chart and ask the patient, not what the allergy is.
+[01:40] England and Wales took this idea further than the United States ever has.
+[01:45] National guidance there since 2007 has called for white identification bands everywhere with red as the only alternative, reserved for a known risk such as an allergy or a of blood.
+[01:57] Two colors in total with the same meaning in every hospital in the country.
+[02:03] Yellow, fall risk, under the recommended standard and the color at the center of the incident that started all of this.
+[02:10] In 2005, a Pennsylvania patient went into cardiac arrest and clinicians almost failed to resuscitate her because she was wearing a yellow band.
+[02:20] At that hospital, yellow meant do not resuscitate.
+[02:24] The nurse who had put it on also worked at a hospital nearby where yellow meant restricted extremity, do not draw blood from this arm.
+[02:32] Another clinician caught the mistake and the patient was resuscitated.
+[02:36] Yellow now stands for falls, which in American hospitals number somewhere between 700,000 and a million every year and it is often matched with yellow non-slip socks.
+[02:48] Yellow also brought an unexpected problem from outside the building.
+[02:52] Around the same time, millions of people were wearing yellow charity bracelets.
+[02:57] Hospitals now routinely remove personal wristbands on admission or cover them with tape so no one mistakes one for the other.
+[03:06] Purple, do not resuscitate under the recommended standard and the most argued over band on this list.
+[03:13] Purple was chosen partly because it carried little baggage.
+[03:16] Although in the 2005 Pennsylvania survey, the most common use for purple had been restricted extremity, the meaning it no longer has.
+[03:25] A DNR band tells staff not to start CPR if the patient's heart stops.
+[03:30] It does not mean do not treat and misreading it that way is a known danger.
+[03:35] The Joint Commission, which accredits most American hospitals, has warned about DNR bands branding patients by their end-of-life choices and broadcasting those choices to visitors who were never told.
+[03:47] Some hospitals refuse to use them at all.
+[03:49] The error runs in both directions.
+[03:52] Pennsylvania has also received a report of a patient resuscitated against their wishes because the DNR band the physician ordered was never put on.
+[04:00] The band only works when it is right and when everyone reads it the same way.
+[04:07] Pink.
+[04:08] Restricted extremity.
+[04:09] Do not take blood, start an IV, or use a blood pressure cuff on this arm.
+[04:14] The reasons are specific.
+[04:16] After lymph nodes are removed during breast cancer surgery, repeated needle sticks and pressure on that arm can raise the risk of lymphedema, a chronic swelling.
+[04:26] A patient on dialysis may have a fistula, a surgically joined artery and vein in the arm that is their lifeline for treatment and can be damaged by a tight cuff or a needle in the wrong place.
+[04:38] Pink is part of the extended standard adopted by some states rather than the core three.
+[04:43] It also produced one of the starkest conflicts in the Pennsylvania survey.
+[04:47] One facility used a pink band to show a patient's blood type.
+[04:51] Another used pink to mark patients who must not receive blood products at all.
+[04:56] The same color meant give this blood and do not give any blood a few miles apart.
+[05:02] If you're finding this useful so far, a like and a subscribe help the channel more than anything else.
+[05:09] Green.
+[05:10] Latex allergy.
+[05:12] In the states that adopted the extended standard, such as California, Colorado, and Arizona, latex allergy became a serious issue in the 1990s as glove use surged across healthcare.
+[05:24] And a patient with a severe reaction can go into anaphylaxis from contact with ordinary gloves, catheters, or other equipment.
+[05:32] The green band warns every person who approaches that the room needs to be latex-free.
+[05:37] Green is also a good example of how unsettled this remains.
+[05:41] In the 2005 Pennsylvania survey, green was the most common color for fall risk, which the standard now assigns to yellow.
+[05:49] In a 2023 survey of hospitals across 21 states, some still used green for patients at risk of wandering off, and at least one used it for combative patients.
+[06:00] So, a green band can mean the equipment is dangerous to this patient, or that this patient may walk out, or that this patient may be violent, depending on the building.
+[06:11] Blue, the color the standard deliberately abandoned.
+[06:15] In 2005, blue was the most common DNR color in Pennsylvania, used by more than half the facilities that had a DNR band at all.
+[06:24] The same survey found blue meaning a list of other things elsewhere.
+[06:28] Fall risk, pacemaker, elopement risk, latex or tape allergy, blood thinners, diabetes, a name similar to another patient's, do not draw blood from this arm, and simply outpatient.
+[06:42] The deeper problem was that blue already had a fixed meaning in every hospital, code blue, the call to resuscitate.
+[06:50] A blue band meaning do not resuscitate put the opposite instruction on the same color, which is why the standard moved DNR to purple.
+[06:58] It still catches people out.
+[07:00] One Wisconsin patient arrived from another facility wearing a blue band, and a nurse read it as DNR.
+[07:06] It was that hospital's ordinary identification band.
+[07:10] Some hospitals now use blue for patients who have received radioactive isotopes.
+[07:16] Orange, the color with no settled meaning at all, and a good illustration of how many things hospitals want to communicate on a wrist.
+[07:24] In a 2023 survey of member hospitals, orange appeared as a band reading no blood for patients who refuse transfusions, often for religious reasons such as those held by Jehovah's Witnesses.
+[07:36] It appeared as a band marking which side of the body surgery is to be done on.
+[07:41] It appeared as a marker for a foreign object intentionally left inside the body.
+[07:46] And it appeared as a flag for a patient's advance directive or life-sustaining treatment orders.
+[07:52] Four very different messages, from warnings about blood to directions for a surgeon, sharing one color.
+[07:59] None of them is part of the recommended standard, which is limited on purpose.
+[08:03] The more colors a hospital adds, the more likely a nurse working across two hospitals carries the wrong meaning from one building into the other.
+[08:13] Teal.
+[08:14] One of the most specific bands in use, tied to a single drug.
+[08:18] Some hospitals put a teal band on patients who have received a long-acting local anesthetic given during surgery to control pain without opioids.
+[08:27] The drug keeps working for days, and giving certain other local anesthetics during that window can build up to toxic levels.
+[08:34] So, the band warns anyone treating the patient afterward that something is still in their system.
+[08:39] It is a narrow example of a broader trend.
+[08:42] As treatments become more specialized, the wrist has turned into a place to store information that might otherwise be missed at a shift change, in a transfer, or in an emergency.
+[08:52] The same 2023 survey found hospitals using a cranberry band for internal packing left in place, and a band reading no allergies, which staff are told not to trust without checking the chart.
+[09:04] Every one of these solves a real problem.
+[09:07] Everyone also adds a color someone else can misread.
+[09:12] Broselow colors, a whole rainbow that sits outside every scheme in this video.
+[09:18] In emergency departments and pediatric units, children are measured against the color-coded tape that sorts them into weight zones by length, because there is often no time to weigh a child in an emergency.
+[09:30] Each zone, from gray through pink, red, purple, yellow, white, blue, orange, and green, has its own drug doses and equipment sizes.
+[09:39] And some hospitals put a band in the child's zone color on their wrist.
+[09:44] That means a small child can wear a purple or a yellow band that has nothing to do with do not resuscitate or fall risk.
+[09:51] Pennsylvania's safety authority flagged exactly that conflict in 2005.
+[09:56] It is also why the most important recommendation to come out of all of this is not about color at all.
+[10:02] In that survey, fewer than half of hospitals printed words on their alert bands.
+[10:07] Every standard since says to print the words because color alone was never enough.
+[10:14] Thanks for watching.
+[10:15] Have you ever been given one of these?
+[10:17] Drop it in the comments.
+[10:19] Also, please remember to like and subscribe if you haven't done it already.

@@ -1,0 +1,90 @@
+# Every Fire Hydrant Color Explained
+# channel=Field Manual views=195723 duration_s=342 src=uikZS1niYW0.en-orig.json3
+# chapters: 00:00 Yellow – Public Hydrant | 00:35 Red – Private Hydrant | 01:14 White/Silver – Local Colours | 01:56 Violet – Non-Potable Water | 02:39 Black – Out of Service | 03:13 Red Top – Class C | 03:47 Orange Top – Class B | 04:20 Green Top – Class A | 04:56 Light Blue Top – Class AA
+
+[00:00] Yellow.
+[00:01] A chrome yellow barrel marks a public hydrant fed by the city's water main.
+[00:05] It is the default color in NFPA 291, the American recommended practice for testing and marking fire hydrants.
+[00:12] The rule is short.
+[00:14] Every barrel should be chrome yellow except where a city has already adopted another color.
+[00:19] The colors on top should be reflective so a crew can find them at night.
+[00:23] The barrel tells firefighters who owns the water.
+[00:26] The top tells them how much of it there is.
+[00:28] And none of this is law.
+[00:30] No federal rule sets the color of a single hydrant in America.
+[00:35] Red.
+[00:36] A red barrel usually marks a private hydrant.
+[00:39] It sits on a private water system owned by a factory, a hospital campus, an airport, or a shopping center rather than the city.
+[00:47] NFPA 291 says private hydrants on public streets should be painted red or another color that sets them apart from public ones.
+[00:55] A red barrel is not the same as a red top.
+[00:58] The barrel says who owns the hydrant.
+[01:01] A red top is a flow rating and the lowest one.
+[01:04] Many towns still paint every hydrant red out of tradition.
+[01:07] But by the standard, the color most people picture on a fire hydrant means one thing, not the city's.
+[01:14] White and silver.
+[01:16] White and chrome silver are local colors.
+[01:19] Some American cities adopted them instead along with lime yellow and kept them.
+[01:24] NFPA 291 allows this.
+[01:26] Chrome yellow is only the default where no other color is already in use.
+[01:31] That is why hydrants can change color at the city limits.
+[01:34] One city goes further.
+[01:36] In San Francisco, a hydrant at 20th and Church Street was one of the few still working after the 1906 earthquake.
+[01:43] Firefighters used it to save the Mission District.
+[01:45] Every year on April 18th, it is painted gold.
+[01:49] In 2012, someone brought silver spray paint by mistake.
+[01:52] It was gold again the same morning.
+[01:56] Violet.
+[01:57] A violet or light purple barrel marks a hydrant on a non-potable system.
+[02:02] The water inside is reclaimed, treated wastewater piped separately to irrigate parks, golf courses, and farmland.
+[02:09] It can fight a fire.
+[02:11] It is not meant to be drunk.
+[02:13] Purple pipes, purple valve boxes, and purple hydrants all carry the same warning.
+[02:18] While a yellow hydrant shares its water with every kitchen tap in town, a purple one never should.
+[02:24] The color was chosen in the 1980s by the Irvine Ranch Water District in California because every common color was already taken.
+[02:31] Blue meant drinking water.
+[02:33] Green meant sewer.
+[02:35] Red meant fire.
+[02:36] Purple was left.
+[02:39] Black.
+[02:40] A black hydrant is a warning to firefighters.
+[02:43] Do not count on this one.
+[02:45] Hydrant makers and many cities use black for hydrants that are permanently out of service or that were never connected to enough water to fight a fire.
+[02:53] Some systems bag or tag a hydrant that is only broken for a while.
+[02:57] In Texas, a 2013 state bill analysis noted that some utilities paint hydrants black instead of providing fire flow and that this drives up insurance rates for the homes and businesses around them.
+[03:09] It looks like a hydrant.
+[03:11] It is not one.
+[03:13] Red top.
+[03:14] Now, the tops.
+[03:16] The bonnet and caps show how much water a hydrant can deliver measured with 20 lb per square inch of pressure still left in the main.
+[03:24] That pressure is the floor because mains are kept above it so dirty water is not drawn back into the system.
+[03:30] A red top is class C, less than 500 gallons per minute.
+[03:34] It is the weakest rating on the scale.
+[03:37] A standard fire engine carries a pump rated at 750 gallons per minute or more.
+[03:42] A red-topped hydrant cannot feed even one at full power.
+[03:47] Orange top.
+[03:48] An orange top is class B, 500 to 999 gallons per minute.
+[03:54] It can keep one fire engine working, but never two at full power.
+[03:58] Most public water systems in America are rated class A or class B.
+[04:02] So, orange is one of the most common tops a firefighter will see.
+[04:06] On a larger fire, an orange top tells the crew to plan ahead.
+[04:10] Lay a longer hose to a stronger hydrant or draw water from more than one.
+[04:14] The color does not just describe the hydrant, it decides where the trucks park.
+[04:20] Green top.
+[04:21] A green top is class A, 1,000 to 1,499 gallons per minute.
+[04:28] 1,000 gallons per minute at 20 lb of pressure is the average many public systems aim for.
+[04:33] At that rate, a 15,000 gallon backyard pool would fill in about 15 minutes.
+[04:39] But a rating is only as good as the last test.
+[04:42] Flow is measured by opening hydrants and reading the pressure, and a test done wrong puts the wrong color on top.
+[04:48] One guide for Tennessee cities warns that a single common mistake can change the color of up to half the hydrants in a system.
+[04:56] Light blue top.
+[04:58] A light blue top is class AA, the highest rating.
+[05:02] 1,500 gallons per minute or more.
+[05:04] It is the hydrant firefighters want next to the biggest buildings in town.
+[05:08] NFPA 291 suggests stenciling the exact capacity on top of high volume hydrants, so crews know precisely how much they can draw.
+[05:17] At 1,500 gallons per minute, that backyard pool fills in 10 minutes.
+[05:22] One light blue hydrant can feed two standard fire engines at full power.
+[05:26] The palest color on the street marks the strongest hydrant on it.
+[05:31] Thanks for watching.
+[05:33] What color are the fire hydrants on your street?
+[05:35] Tell us in the comments.
+[05:37] And if you learned something, a like and a subscribe help the channel.

@@ -1,0 +1,98 @@
+# Every Way a War Officially Ends
+# channel=Unclassified views=362064 duration_s=563 src=i-tdkQKBxjM.en-orig.json3
+# chapters: 00:00 Ceasefire | 00:30 Truce | 01:02 Armistice | 01:35 Capitulation | 02:07 Conditional Surrender | 02:41 Unconditional Surrender | 03:13 Peace Treaty | 03:48 Peace Accord | 04:25 Unilateral Declaration | 04:56 Security Council Resolution | 05:34 Arbitration | 06:09 Regime Change | 06:48 Withdrawal | 07:18 Debellatio | 07:54 Dissolution of the Belligerent | 08:38 Simple Cessation
+
+[00:01] Ceasefire, a suspension of fighting usually limited in time and geography or in both.
+[00:08] It is the weakest of all the mechanisms and the most commonly used.
+[00:11] A ceasefire can exist to evacuate the wounded, recover the dead, allow aid through a corridor, or simply to let negotiators talk.
+[00:20] It changes nothing about the legal state of war between the parties.
+[00:23] It suspends the shooting and nothing else, and either side can resume by giving notice or by giving none.
+[00:30] Truce, broader than a ceasefire and usually longer, covering an entire front rather than a sector.
+[00:38] Historically, it did not require political authority, which meant commanders in the field could agree to one on their own.
+[00:45] The Christmas truce of 1914 was arranged directly between soldiers in opposing trenches with no sanction from either government.
+[00:53] Senior commanders on both sides moved quickly to prevent it from happening again because a truce agreed by the people doing the fighting is difficult to reverse from above.
+[01:02] Armistice, a formal agreement between governments to stop fighting entirely.
+[01:07] It is not the end of a war.
+[01:09] The legal state of war continues, and the armistice is expected to be followed by a treaty that actually terminates it.
+[01:15] Sometimes that treaty never arrives.
+[01:19] The Korean armistice was signed in July 1953 by the United Nations command, North Korea, and China.
+[01:25] South Korea refused to sign it.
+[01:28] No peace treaty has been concluded since.
+[01:30] The Korean War has now continued in law for more than 70 years.
+[01:35] Capitulation, the surrender of a specific force or a defended position agreed between military commanders rather than governments.
+[01:45] It ends the fighting for those troops in that place and has no effect on the war itself.
+[01:51] The terms cover the disposition of weapons, the treatment of the surrendering force, and their status as prisoners.
+[01:58] It is a battlefield instrument.
+[02:00] An army can capitulate repeatedly across a campaign while the state it serves remains fully at war.
+[02:07] Conditional surrender.
+[02:09] The defeated party surrenders on negotiated terms and receives guarantees in exchange for ending resistance.
+[02:15] The terms commonly cover the survival of the government, the treatment of the armed forces, and the fate of the head of state.
+[02:23] The surrender that ended the war with Japan in 1945 was publicly called unconditional, but the allies allowed the emperor to remain on the throne, which was the one condition Japan had insisted on and the reason the surrender was accepted at all.
+[02:41] Unconditional surrender.
+[02:42] The defeated party surrenders with no terms and no guarantees, placing itself entirely at the discretion of the victor.
+[02:50] It was adopted as formal Allied policy at Casablanca in January 1943 and applied to Germany in May 1945.
+[02:59] Its purpose was to prevent any later claim that the defeated nation had been tricked into laying down arms, which had followed the First World War and fed the politics of the next one.
+[03:08] Its cost is that it removes any incentive to stop fighting early.
+[03:13] Peace treaty.
+[03:15] The traditional legal instrument that terminates a state of war between sovereign states.
+[03:20] It settles what the fighting was over, borders, reparations, the return of prisoners, recognition of governments, and the disposition of occupied territory.
+[03:29] It is signed by governments and ratified through their own constitutional processes, which means a treaty can be signed and still fail.
+[03:37] The First World War stopped in November 1918, but the state of war did not legally end until the Treaty of Versailles entered into force in January 1920.
+[03:48] Peace accord.
+[03:50] The modern form, usually mediated by an outside party and frequently involving groups that are not states at all.
+[03:57] A traditional treaty has no mechanism for a government to make binding peace with an insurgency, which is what most contemporary conflicts require.
+[04:06] The Dayton Agreement ended the war in Bosnia in 1995.
+[04:10] The Good Friday Agreement ended the conflict in Northern Ireland in 1998.
+[04:15] The Colombian government's accord with the FARC was rejected by referendum in 2016, renegotiated, and then approved through the legislature instead.
+[04:25] Unilateral declaration.
+[04:27] One party simply declares the war over.
+[04:29] It is used when a negotiated instrument is impossible, most often because the other side no longer exists in a form capable of signing anything, or because a third power is blocking agreement.
+[04:40] The United States formally ended its state of war with Germany in October 1951 by an act of Congress signed by the president.
+[04:48] There was no German signature on it.
+[04:50] The Soviet Union had blocked a comprehensive settlement, and there was no unified German state to sign.
+[04:56] Security Council resolution.
+[04:59] The United Nations Security Council can order a halt to hostilities under Chapter 7 of the charter, and that order carries binding legal force on all member states.
+[05:09] It is the only mechanism on this list that can be imposed on parties who have not agreed to it.
+[05:14] Resolution 598 demanded an end to the Iran-Iraq War in 1987, and was accepted by Iran a year later.
+[05:23] Resolution 687 set the terms concluding the Gulf War in 1991.
+[05:28] Imposed by the council, rather than negotiated between the combatants.
+[05:34] Arbitration.
+[05:35] The parties submit the dispute to a neutral tribunal and agree in advance to accept whatever it decides.
+[05:42] It is the rarest mechanism on this list because a state losing a war has little reason to hand the outcome to strangers, and a state winning one has less.
+[05:53] It is used more often for the questions left over afterward than for the fighting itself.
+[05:59] The border between Eritrea and Ethiopia was fixed this way in 2002 by a commission whose ruling both governments had committed to accept before it was issued.
+[06:09] Regime change.
+[06:11] The war ends because the government that was fighting it no longer exists.
+[06:16] The successor government, holding power precisely because the war was lost or unpopular, concludes it on whatever terms are available.
+[06:24] The Bolsheviks took power in Russia in November 1917 and signed away enormous territory at Brest-Litovsk 4 months later to exit the First World War.
+[06:34] France's Third Republic collapsed in June 1940, and the government formed in its place signed an armistice within days.
+[06:41] In both cases, the military situation had not resolved.
+[06:44] The political will to continue had been replaced.
+[06:48] Withdrawal.
+[06:50] One side leaves, and the war ends for them alone, with no instrument signed and nothing settled.
+[06:57] It is common, and it is rarely clean, because the fighting usually continues among everyone who remains.
+[07:03] The Soviet Union completed its withdrawal from Afghanistan in February 1989, and the Afghan Civil War continued without it.
+[07:11] The United States withdrew from Vietnam in 1973 under an agreement, and the war between the Vietnamese parties ran for another 2 years.
+[07:20] Debellatio.
+[07:22] The most complete outcome available.
+[07:24] The defeated state is not merely beaten, but ceases to function as a state at all.
+[07:29] Its government, its institutions, and its capacity to act in international law are gone, leaving no authority in existence that could sign anything.
+[07:38] Sovereign power passes to the occupying force by default rather than by agreement.
+[07:42] Whether Germany in 1945 met the standard was argued by international lawyers for decades because the allies assumed supreme authority while explicitly denying that they had annexed the country.
+[07:55] Dissolution of the belligerent.
+[07:57] The equivalent outcome when one side was never a state to begin with.
+[08:02] An armed group has no government to sign a treaty and no sovereignty to surrender.
+[08:07] So, the war ends when the group itself stops existing, either destroyed militarily or dissolved by its own decision.
+[08:15] Sri Lanka's war against the Tamil Tigers ended in May 2009 with the group's destruction and no instrument of any kind.
+[08:23] The Provisional IRA ended its campaign in 2005 by announcement, then decommissioned its weapons under independent verification.
+[08:32] Neither ending has a counterpart signature, because by the end there was no counterpart.
+[08:38] Simple cessation.
+[08:40] The parties stop fighting and both proceed as though the war is over without signing anything at all.
+[08:46] There is no document, no ceremony, and no date that is clearly correct.
+[08:51] The war ends because continuing it has stopped serving anyone, and at some point historians assign it an ending afterward.
+[08:59] Every mechanism above this one is an exception.
+[09:02] Across recorded history, most wars have ended this way, and the formal instruments exist mainly for the wars whose outcome someone needed to be able to point to.
+[09:13] Thanks for watching.
+[09:14] What's the worst peace treaty ever signed in your opinion?
+[09:16] Drop it in the comments.
+[09:18] Also, please remember to like and subscribe if you enjoyed this video.

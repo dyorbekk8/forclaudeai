@@ -1,0 +1,87 @@
+# Every Emergency Room Triage Color Explained
+# channel=Unclassified views=166513 duration_s=520 src=0QSWsAJoV3c.en-orig.json3
+# chapters: 00:00 Red | 01:05 Orange | 02:13 Yellow | 03:15 Green | 04:17 Blue | 05:17 White | 06:14 Gray | 07:21 Black
+
+[00:01] Red.
+[00:01] The most urgent color in almost every triage system in the world and the oldest idea behind all of them.
+[00:08] Triage comes from the French word "trier", to sort, and is usually traced to Dominique Jean Larrey, Napoleon's chief surgeon, who treated wounded soldiers in order of how badly they were hurt rather than by rank.
+[00:21] Today, red means immediate in Britain's Manchester system, in Australia, in South Africa, in British and NATO military triage, and on the disaster tags used by American paramedics.
+[00:34] In the START method used at mass casualty scenes across the United States, a patient goes red for signs such as breathing faster than 30 times a minute, a nail bed that takes more than 2 seconds to turn pink again after being pressed, or being unable to follow a simple command.
+[00:50] There is one major exception.
+[00:53] In Canada, red is only the second level, emergent, with a target of being seen by a physician within 15 minutes.
+[01:00] The top of the Canadian scale is a different color entirely.
+[01:05] Orange.
+[01:06] The color only some systems have.
+[01:09] Britain's Manchester system, the Australasian Triage Scale, and South Africa's scale all put orange second with the same target.
+[01:17] Treatment within 10 minutes.
+[01:20] Italy added orange in 2019 when it redesigned its national triage codes.
+[01:25] Canada's scale doesn't use orange at all and neither do any of the disaster tags.
+[01:30] Orange is where conditions that are about to become emergencies go.
+[01:34] Australia's official list for it includes chest pain that is likely to be cardiac, an acute stroke, and sepsis in a patient whose vital signs are becoming unstable.
+[01:45] It also includes something that surprises people.
+[01:48] Very severe pain from any cause is enough on its own to make a patient orange because the Australian guidelines say humane care requires relieving it within 10 minutes."
+[02:00] The Manchester system, built in the mid-1990s by emergency doctors and nurses in Manchester, around roughly 50 flowcharts for different complaints, treats severe pain the same way.
+[02:13] Yellow, urgent but stable.
+[02:16] In Britain's Manchester system, yellow means a target of 60 minutes.
+[02:20] In Canada, it is level three, urgent, with a target of 30.
+[02:25] South Africa allows up to an hour.
+[02:28] On disaster tags and in military triage, yellow means delayed.
+[02:32] A patient who can't walk, but whose breathing, circulation, and mental status all pass the START checks, such as someone with a broken leg who is otherwise stable.
+[02:42] Yellow is also the color some systems have dropped.
+[02:45] The Australasian Triage Scale skips it entirely, going from orange straight to green, and Italy removed it in 2019.
+[02:53] In the United States, the most widely used emergency department system doesn't officially use colors at all.
+[02:59] The Emergency Severity Index sorts patients into five numbered levels, and its middle level is defined not by how sick someone is, but by what they will need.
+[03:08] Two or more resources, such as lab tests, an X-ray, or IV fluids.
+[03:15] Green, lower priority, and on a disaster scene, the walking wounded.
+[03:21] In Britain's Manchester system, green is standard priority with a target of two hours.
+[03:27] In Canada, it is level four, less urgent, with a target of one hour.
+[03:32] South Africa allows up to four hours.
+[03:34] Australia uses green for its third category, with a target of 30 minutes.
+[03:39] So, the same color can mean half an hour in Sydney and four hours in Cape Town.
+[03:44] At mass casualty scenes, green is the first color handed out.
+[03:48] The opening step of START is a single instruction called out to everyone present.
+[03:53] If you can walk, go to a designated area.
+[03:57] Everyone who gets up and walks there is tagged green, which can sort a large share of the patients in seconds and leaves rescuers free for the people who stayed on the ground.
+[04:06] Green patients are reassessed later because some injuries look minor at first.
+[04:11] If you're getting something out of this, a like and a subscribe go a long way for the channel.
+[04:18] Blue, the color with the most contradictory meanings in emergency medicine.
+[04:23] In Canada, blue is level one resuscitation, the most urgent patient in the building to be seen by a physician immediately.
+[04:32] In Britain's Manchester system, blue is the least urgent category with a target of 4 hours.
+[04:38] In Australia, blue is category four with a target of 1 hour.
+[04:43] Italy uses a light blue for its middle code.
+[04:46] In South Africa, blue means the patient is dead.
+[04:50] And in British and NATO triage, blue marks the expectant, casualties who are alive but not expected to survive with the resources available.
+[05:00] A nurse trained in Toronto and a nurse trained in Manchester would read blue as opposite ends of the scale.
+[05:06] This is why the Australasian College for Emergency Medicine says colors should only ever be used alongside the category numbers, never instead of them.
+[05:17] White, the least urgent color in the Canadian and Australian systems and the place for patients who may not need an emergency department at all.
+[05:26] Both scales put white at level five with a target of 2 hours.
+[05:30] Australia's official examples for this category include coming in only for a prescription, a medical certificate, a vaccination, or to review test results.
+[05:41] Canada expects that target to be met for at least 80% of these patients against 98% for its most urgent level.
+[05:48] The American Emergency Severity Index reaches the same group a different way.
+[05:53] Its fifth level is for patients expected to need no resources at all beyond an exam.
+[05:59] Australia's recommended colors are also newer than they look.
+[06:02] The college only added them to its guidelines in 2016, years after the scale came into use, because emergency departments had already started assigning colors on their own computer systems.
+[06:15] Gray, a color that exists to separate two very different kinds of patient.
+[06:20] It belongs to SALT, the mass casualty triage method proposed as a national guideline in the United States in 2008.
+[06:28] SALT stands for sort, assess, life-saving interventions, and treatment or transport, and it lets rescuers perform quick life-saving steps during triage itself, such as controlling major bleeding or opening an airway.
+[06:44] Gray means expectant, a patient who is still alive but unlikely to survive given the care available at that moment.
+[06:52] Older systems, including START, put these patients in black, the same color as the dead.
+[06:59] SALT split them so that rescuers come back to them as soon as resources allow.
+[07:04] SALT is currently the only triage method that meets the Model Uniform Core Criteria, a national standard for mass casualty triage endorsed by groups including the American College of Emergency Physicians, the American College of Surgeons, and the CDC.
+[07:22] Black, dead, or in some systems beyond saving.
+[07:27] Black is the final color on the triage tags carried by paramedics and stocked by hospitals for mass casualty events.
+[07:35] In START, a patient who is not breathing even after the airway has been repositioned is tagged black, and rescuers move on.
+[07:44] Children get one more chance.
+[07:46] Jumpstart, the pediatric version created in 1995 by Dr.
+[07:50] Lou Romig, a Miami emergency physician who had seen the effects of Hurricane Andrew on children, adds a step.
+[07:58] A child who is not breathing but still has a pulse gets five rescue breaths.
+[08:03] If the child starts breathing again, the tag is red.
+[08:07] Only if not does it become black.
+[08:10] The difference exists because children's hearts often stop as a result of breathing failure.
+[08:15] So, restoring breathing can be enough.
+[08:18] And South Africa's emergency departments mark the dead in blue rather than black.
+[08:23] So, even the color of death is not universal.
+[08:27] Thanks for watching.
+[08:29] Should every country use the same triage colors?
+[08:32] Let me know what you think in the comments.
+[08:34] Also, please remember to like and subscribe if you enjoyed this video.

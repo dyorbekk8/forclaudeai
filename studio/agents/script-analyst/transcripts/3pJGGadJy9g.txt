@@ -1,0 +1,92 @@
+# Every Military Unit Size Explained
+# channel=Unclassified views=393112 duration_s=485 src=3pJGGadJy9g.en-orig.json3
+# chapters: 00:00 Crew | 00:30 Fireteam | 00:56 Squad | 01:18 Section | 01:43 Platoon | 02:08 Company | 02:37 Detachment | 03:09 Battalion | 03:38 Regiment | 04:10 Brigade | 04:40 Division | 05:16 Corps | 05:44 Field Army | 06:11 Army Group | 06:39 Theater | 07:12 Task Force
+
+[00:01] Crew, the smallest functional unit in any military, defined by the equipment it operates rather than by a fixed head count.
+[00:08] A tank crew is four soldiers, commander, gunner, loader, and driver.
+[00:13] An artillery gun crew runs from four to nine.
+[00:16] A helicopter crew may be two.
+[00:18] The crew has no tactical independence and cannot hold ground.
+[00:22] It exists to keep one machine operating.
+[00:25] And it is dissolved the moment that machine is out of action.
+[00:31] Fire team, the smallest organized unit in the United States Army and Marine Corps.
+[00:36] Four soldiers led by a corporal or sergeant.
+[00:39] It typically consists of a team leader, a rifleman, a grenadier, and an automatic rifleman.
+[00:45] The fire team exists because four people is roughly the maximum one person can control by voice and hand signal under fire.
+[00:52] Everything larger is built from this block.
+[00:57] Squad, two or three fire teams totaling eight to 13 soldiers led by a staff sergeant.
+[01:02] The squad is the smallest unit that can maneuver independently in combat.
+[01:06] One team lays down suppressing fire while the other advances.
+[01:09] This is the basic tactical building block of infantry warfare.
+[01:13] Most of what happens in ground combat happens at this level.
+[01:18] Section, an organizational level used differently across armies.
+[01:23] In the British and Commonwealth systems, a section is roughly equivalent to an American squad at eight to 10 soldiers.
+[01:31] In the United States Army, a section usually refers to two squads or a small group of vehicles or crew-served weapons.
+[01:38] It sits between the squad and the platoon.
+[01:43] Platoon, three or four squads totaling 16 to 50 soldiers commanded by a lieutenant with a sergeant first class as second in command.
+[01:54] This is the first level commanded by a commissioned officer, and for most officers, it is their first command.
+[02:00] A platoon can hold ground, conduct patrols, and execute a mission independently for a limited time.
+[02:09] Company.
+[02:10] Three to five platoons, totaling 60 to 250 soldiers, commanded by a captain with a first sergeant as senior enlisted advisor.
+[02:19] It is called a battery in the artillery and a troop in the cavalry.
+[02:23] The company is the smallest unit with its own headquarters element and administrative structure.
+[02:29] Soldiers identify with their company more than any other unit.
+[02:32] It is small enough that the commander knows every name.
+[02:37] Detachment.
+[02:39] Not a fixed size, but a piece of a larger unit sent to operate separately.
+[02:44] A detachment can be four soldiers or 400, depending on what the parent unit assigns and what the mission requires.
+[02:52] It retains its administrative link to the parent unit while operating under someone else's command.
+[02:58] Signal, medical, and intelligence elements are frequently attached to combat units this way.
+[03:04] The term describes a relationship, not a number.
+[03:10] Battalion.
+[03:11] Four to six companies, totaling 300 to 1,000 soldiers, commanded by a lieutenant colonel.
+[03:18] A battalion has its own staff, its own supply and medical support, and can sustain itself in the field for extended periods.
+[03:26] It is the smallest unit capable of independent operations without external support.
+[03:32] In most armies, the battalion is the fundamental unit of maneuver warfare.
+[03:38] Regiment.
+[03:39] Two or more battalions, totaling 1,000 to 3,000 soldiers, commanded by a colonel.
+[03:45] Its role varies significantly by country.
+[03:48] In the United States Army, most regiments today are ceremonial lineage designations, rather than operating units.
+[03:56] Preserved to maintain unit history.
+[03:59] In the Marine Corps and in the British Army, regiments remain active, operational, and administrative formations with their own traditions and recruiting areas.
+[04:11] Brigade.
+[04:11] Three to six battalions, totaling 3,000 to 5,000 soldiers, commanded by a colonel or brigadier general.
+[04:19] The modern American Brigade Combat Team includes its own infantry, armor, artillery, engineers, reconnaissance, and logistics.
+[04:28] It was designed to deploy and fight without needing a parent division.
+[04:31] Since the 2000s reorganization, the brigade has replaced the division as the primary deployable unit of the United States Army.
+[04:41] Division.
+[04:43] Three or four brigades, totaling 10,000 to 20,000 soldiers, commanded by a major general.
+[04:49] A division combines infantry, armor, artillery, aviation, and logistics into a formation capable of sustained combat operations across a wide front.
+[04:59] For most of the 20th century, the division was the standard unit of large-scale warfare.
+[05:05] Divisions carry the most recognizable names in military history.
+[05:10] The 101st Airborne, the 1st Infantry, the 82nd Airborne.
+[05:17] Corps.
+[05:18] Two to five divisions, totaling 20,000 to 45,000 soldiers, commanded by a lieutenant general.
+[05:24] A corps is the largest formation that still concerns itself with tactics, rather than pure strategy.
+[05:31] It coordinates the movement of multiple divisions across a theater, allocates artillery and air support, and manages the flow of supply.
+[05:39] Corps are typically identified by Roman numerals.
+[05:45] Field Army.
+[05:46] Two or more core, totaling 80,000 to 200,000 soldiers commanded by a general.
+[05:52] A field army operates at the strategic level, directing an entire campaign within a theater of war.
+[05:58] The Third Army under Patton in 1944 and 1945 is the most widely known example.
+[06:05] Field armies are rarely activated outside of large-scale conventional war.
+[06:11] Army Group, two or more field armies, totaling 400,000 to over a million soldiers.
+[06:19] This is the largest ground formation ever fielded.
+[06:23] Army groups existed on the Eastern and Western Fronts during the Second World War and have not been activated by the United States since.
+[06:30] Command at this level is not tactical in any sense.
+[06:33] It is the direction of entire national war efforts across continents.
+[06:39] Theater, the highest organizational level defining a geographic region in which all military operations are conducted under unified command.
+[06:49] It encompasses land, sea, air, space, and cyber forces operating within its boundaries.
+[06:57] The Pacific Theater and the European Theater during the Second World War are the clearest examples.
+[07:02] In the modern United States military, theaters are managed by combatant commands, each responsible for a defined portion of the world.
+[07:12] Task Force, a temporary formation assembled for a specific mission and dissolved when that mission ends.
+[07:19] A task force can be built at any level, from a handful of soldiers to a multinational command of tens of thousands.
+[07:27] It draws units from different branches and often different countries, placing them under a single commander who may not normally have authority over any of them.
+[07:36] Task Force 121 hunted senior Iraqi leadership.
+[07:40] Task Force 373 conducted targeted operations in Afghanistan.
+[07:45] Every structure described above exists on paper.
+[07:48] The task force is what armies actually build when a real mission arrives.
+[07:54] Thanks for watching.
+[07:56] Which unit did you serve in?
+[07:57] Drop it in the comments.
+[07:59] Also, please remember to like and subscribe if you enjoyed this video.

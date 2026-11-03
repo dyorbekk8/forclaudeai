@@ -1,0 +1,99 @@
+# Every Utility Marking Color Explained
+# channel=Unclassified views=7910 duration_s=530 src=fB5QyKPSVzc.en-orig.json3
+# chapters: 00:00 Yellow | 01:14 Orange | 02:22 White | 03:47 Red | 04:56 Blue | 05:40 Green | 06:57 Purple | 07:46 Pink
+
+[00:01] Yellow, the color that can explode.
+[00:04] Yellow marks natural gas, oil, steam, and petroleum.
+[00:08] Anything flammable running under your feet.
+[00:10] On June 16th, 1976, a road crew was widening Venice Boulevard in Los Angeles.
+[00:16] A worker driving a small loader struck an 8-in pipeline carrying gasoline.
+[00:22] The fuel was under 600 lb per square inch of pressure, and it sprayed across the street, drenching parked cars and storefronts.
+[00:30] About 90 seconds later, it ignited.
+[00:32] Fireballs rose hundreds of feet into the air, and every building on that side of the block burned.
+[00:38] Seven people died.
+[00:40] The National Transportation Safety Board found that the operator didn't know exactly where the pipeline was or how deep it ran.
+[00:47] The oil company had told the state the pipeline existed, but not its precise location.
+[00:53] There was also no single number to call before digging.
+[00:56] The board recommended a system that would require diggers to give notice 48 hours ahead, so utilities could mark their lines first.
+[01:04] 3 months after the explosion, Southern California's dig alert system was set up, and the disaster helped push the colored marking system into wide use.
+[01:14] Orange, internet, phone and cable lines, and the color that gets hit the most.
+[01:20] In recent reports from the Common Ground Alliance, the industry group that tracks these accidents, telecom lines made up nearly half of all reported damages.
+[01:29] On September 21st, 2026, one of those cuts reached the sky.
+[01:35] That morning, the main communication circuit at a Philadelphia air traffic control facility failed.
+[01:41] When the system switched to its backup, the backup line was dead, too, because a construction crew in New Jersey had accidentally cut through it.
+[01:49] The FAA stopped arrivals at all three major New York area airports, plus Philadelphia and Boston, on the same day that world leaders were flying in for the United Nations General Assembly.
+[02:01] The flight tracking site FlightAware counted about 7,000 flights delayed or canceled, and more than half of all flights at Newark were canceled.
+[02:09] The problems took about 8 hours to fix.
+[02:12] New Jersey Transit said its crew had been digging about 10 ft from the utility markings, and it was still working out who had made those markings.
+[02:22] White, the digger's own color.
+[02:25] If you're planning to dig, whether it's a fence post or a road project, white is how you show everyone else where.
+[02:32] In many areas, before calling, the person digging outlines the planned area in white paint, white flags, chalk, or even flour.
+[02:41] Then, they call 811, the national call before you dig number.
+[02:46] The Federal Communications Commission assigned it in 2005, and it launched nationwide in May 2007.
+[02:53] Before that, the country's 71 regional call centers each had their own phone number.
+[02:58] The service is free, and many states require a call at least two working days before digging.
+[03:04] The utilities then come out and mark their lines in the colors on this list.
+[03:09] Those marks are approximate.
+[03:11] In many states, anyone digging within 18 in on either side of a mark has to dig by hand.
+[03:17] Skipping the call is still the biggest single cause of damage.
+[03:21] In 2024, failure to call 811 was behind about one in four of nearly 197,000 reported damages.
+[03:30] In August 2026, the Common Ground Alliance estimated about 669,000 damages to buried utilities in 2025, roughly one every 47 seconds, at a cost of about $83 billion a year.
+[03:47] Red, electricity, and you don't have to touch it to be killed by it.
+[03:52] Red marks electric power lines, cables, conduit, and street lighting cables.
+[03:57] On June 16th, 1995, a municipal water crew in New Jersey was hunting for a leak in front of a house.
+[04:04] They planned to dig only with shovels, so they didn't call for the lines to be marked.
+[04:09] Later that day, they brought in a backhoe to lift out part of the sidewalk and kept digging with it.
+[04:15] A 28-year-old worker stood near the trench holding a 6-ft metal key used to turn a water valve on and off.
+[04:22] About a foot of water had collected in the trench.
+[04:25] The backhoe struck a 4,100-V power cable buried 4 ft down.
+[04:31] The current ran into the standing water, through a copper water pipe, up the metal key, and into him.
+[04:37] He died that afternoon.
+[04:39] The backhoe operator wasn't hurt.
+[04:42] State investigators recommended calling for markings before any digging near buried lines, even when the plan is to dig by hand.
+[04:50] If you're finding this useful, a like and a subscribe help the channel more than you'd think.
+[04:56] Blue.
+[04:57] Hitting a blue line can flood a street or leave a neighborhood under a boil water notice.
+[05:03] Blue is also one of the few colors that carries over to other countries' systems, including Australia's.
+[05:09] But even a perfectly marked yard has a blind spot.
+[05:12] The utility marks only the lines it owns, usually up to the meter.
+[05:16] Anything after that belongs to the property owner and won't be marked by an 811 call.
+[05:21] That includes lines to a detached garage, a pool, a gas grill, an underground sprinkler system, or an invisible dog fence.
+[05:30] Michigan's one call center tells homeowners to hire a private locator for those, for a fee.
+[05:36] Sprinkler lines can sit only a few inches deep.
+[05:40] Green.
+[05:41] Sewers and storm drains.
+[05:43] And the color behind one of the strangest hazards underground, called a cross bore.
+[05:49] Utilities often install new gas lines by boring sideways under lawns instead of digging trenches.
+[05:55] Sometimes, the drill goes straight through a sewer line without anyone noticing.
+[06:00] The gas line can sit inside the sewer pipe for years.
+[06:04] Then, the sewer clogs, and a plumber feeds a motorized cutter down the line.
+[06:09] In 2017, a homeowner near Seattle watched plumbers run a camera down his clogged sewer.
+[06:15] About 40 ft in, they found a yellow gas pipe running right through it.
+[06:20] The plumbers had just cleared the clog with a motorized auger, and one of them told him they had nearly blown up his house.
+[06:27] The local utility, Puget Sound Energy, said it had found 138 gas lines bored through sewers after installing or replacing 17,000 gas lines the year before.
+[06:39] In 2010 in Minneapolis, a plumber's auger did cut into a cross bore gas line.
+[06:44] He was burned on his face, neck, and hands, and the house burned to the ground.
+[06:50] Part of the problem is that the sewer line running to a house often isn't part of the marking process.
+[06:56] Purple, reclaimed water.
+[06:59] The treated wastewater used to water parks, golf courses, and fields.
+[07:03] If you see purple pipes or purple sprinkler heads, that water isn't meant for drinking.
+[07:09] Purple also covers irrigation and slurry lines.
+[07:12] The color comes from the Irvine Ranch Water District in Southern California, which has delivered recycled water since 1967.
+[07:20] In the early 1980s, its engineers needed a color that couldn't be mistaken for drinking water pipes.
+[07:25] According to the district, the engineer who picked it was color blind.
+[07:29] He pointed to purple on the chart because, even though he saw it as gray, it stood out from everything else.
+[07:35] The color spread to other agencies and became the standard for recycled water.
+[07:40] The district now runs 572 miles of purple pipe.
+[07:45] Pink, temporary survey markings, and the color for what nobody can identify.
+[07:51] If you see pink paint or pink flags, a surveyor has usually been measuring property lines or staking out a construction project.
+[07:59] Pink is also used when a locator finds a buried line but can't tell what it is or who owns it.
+[08:06] That's a fitting place to end because outside the United States, these colors don't hold.
+[08:11] Most of Canada uses the same system, but in Britain, green marks telecom lines, not sewers.
+[08:18] In Australia, orange means electricity, white means communications, red means fire service lines, and cream means sewage.
+[08:27] A red line on an American street means power.
+[08:30] In Australia, it would mean water for firefighters.
+[08:33] The paint only means something next to the code of the country that sprayed it.
+[08:38] Thanks for watching.
+[08:39] Which marking color have you seen on your street?
+[08:42] Let me know in the comments.
+[08:43] If you enjoyed this video, check out the one on screen now, and please remember to like and subscribe.
