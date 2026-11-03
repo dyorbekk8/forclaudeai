@@ -1,0 +1,6 @@
+# Re-creatable with 00_research/collect.sh
+00_research/data/meta/
+00_research/data/thumbs/
+00_research/data/subs/
+00_research/data/collect_errors.log
+00_research/media/
