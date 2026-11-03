@@ -6,7 +6,7 @@ What If You Got Stronger Every Time Someone Doubted You?
 Backups: "Every Doubt Made Me Stronger" · "What If 'You Can't' Made You Stronger?"
 
 ## Thumbnail
-Primary: thumbnail_A.jpg ("DOUBT ME.") · A/B: thumbnail_B.jpg ("TOO STRONG?")
+Primary: thumbnail_v3_A.jpg ("DOUBT ME." — burst, sticker outlines, 3D text) · A/B: thumbnail_v3_B.jpg ("TOO STRONG?")
 
 ## Description
 What if every time someone told you "you can't"... you got stronger?

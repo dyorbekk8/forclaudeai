@@ -72,7 +72,7 @@ export type CharProps = {
   hair?: Hair; age?: number; // Eli ages 15..41+
   height?: number; // body scale multiplier (kids < 1)
   rim?: string; // rim-light colour
-  shadowLen?: number;
+  shadowLen?: number; armsBehind?: boolean; armLen?: number;
   glasses?: boolean; cane?: boolean; tears?: number; sweat?: boolean; blush?: boolean;
   cardigan?: boolean; dress?: boolean; bob?: number; // vertical bob px
   headScale?: number;
@@ -88,7 +88,7 @@ export const Character: React.FC<CharProps> = (p) => {
     x = 0, y = 0, scale = 1, facing = 1, pose = P.stand, expr = 'neutral', mouth = 'none', talking = false, t,
     seed = 0, look = [0.25, 0], tilt = 0, outfit = C.hoodie, outfitShade, pants = C.pants, shoe = '#f4f4f4',
     hair = 'none', age = 15, height = 1, rim = 'rgba(255,214,150,0.55)', glasses, cane, tears = 0, sweat, blush,
-    cardigan, dress, bob = 0, headScale = 1, opacity = 1, shadowLen = 1,
+    cardigan, dress, bob = 0, headScale = 1, opacity = 1, shadowLen = 1, armsBehind = false, armLen = 1,
   } = p;
 
   const shade = outfitShade ?? shadeOf(outfit);
@@ -103,7 +103,7 @@ export const Character: React.FC<CharProps> = (p) => {
   const lean = (pose.lean ?? 0) + hunch;
 
   // skeleton
-  const thigh = 40, shin = 40, upper = 31, fore = 29;
+  const thigh = 40, shin = 40, upper = 31 * armLen, fore = 29 * armLen;
   const hipY = -80 + sitK * 34 + bob;
   const hipX = 0;
   const shY = hipY - 58 - breathe * 0.3;
@@ -130,7 +130,7 @@ export const Character: React.FC<CharProps> = (p) => {
   const blinking = ph > 0.955;
 
   const R = 31 * headScale;
-  const armLow = re[1] > headY + R * 1.05 && rh[1] > headY + R * 1.05;
+  const armLow = armsBehind || (re[1] > headY + R * 1.05 && rh[1] > headY + R * 1.05);
   const torso = `M ${shX - 22} ${shY + 2} Q ${shX - 25} ${shY - 6} ${shX - 10} ${shY - 8} L ${shX + 10} ${shY - 8} Q ${shX + 25} ${shY - 6} ${shX + 22} ${shY + 2}
     L ${hipX + 21} ${hipY + 4} Q ${hipX + 21} ${hipY + 10} ${hipX + 14} ${hipY + 10} L ${hipX - 14} ${hipY + 10} Q ${hipX - 21} ${hipY + 10} ${hipX - 21} ${hipY + 4} Z`;
   const skirt = `M ${hipX - 20} ${hipY - 6} L ${hipX + 20} ${hipY - 6} L ${hipX + 30 + sitK * 18} ${hipY + 34 - sitK * 20} L ${hipX - 30} ${hipY + 34 - sitK * 20} Z`;

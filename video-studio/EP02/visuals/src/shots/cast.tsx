@@ -7,7 +7,7 @@ export const COL = { theo: '#e5483d', kyle: '#3d7a4f', coach: '#7a8494', dad: '#
 type CP = { t: number; x: number; y?: number; scale?: number; facing?: 1 | -1; pose?: Pose; expr?: any; mouth?: any; talking?: boolean; look?: [number, number]; tilt?: number; tears?: number; sweat?: boolean; rim?: string; bob?: number; height?: number; blush?: boolean };
 const base = (p: CP) => ({ t: p.t, x: p.x, y: p.y ?? 830, scale: p.scale ?? 2.4, facing: p.facing, pose: p.pose ?? P.stand, expr: p.expr ?? 'neutral', mouth: p.mouth ?? 'none', talking: p.talking, look: p.look, tilt: p.tilt, tears: p.tears, sweat: p.sweat, rim: p.rim, bob: p.bob, blush: p.blush });
 
-export const Theo: React.FC<CP> = (p) => <Character {...base(p)} seed={1} hair="eli" age={15} outfit={COL.theo} pants="#2b3350" height={p.height ?? 0.97} />;
+export const Theo: React.FC<CP & { armsBehind?: boolean; armLen?: number }> = (p) => <Character {...base(p)} armsBehind={p.armsBehind} armLen={p.armLen} seed={1} hair="eli" age={15} outfit={COL.theo} pants="#2b3350" height={p.height ?? 0.97} />;
 export const Kyle: React.FC<CP> = (p) => <Character {...base(p)} seed={7} hair="sam" outfit={COL.kyle} pants="#22252e" height={p.height ?? 1.12} />;
 export const Coach: React.FC<CP> = (p) => <Character {...base(p)} seed={5} hair="none" outfit={COL.coach} pants="#4a5160" height={p.height ?? 1.1} />;
 export const Dad: React.FC<CP> = (p) => <Character {...base(p)} seed={9} hair="none" outfit={COL.dad} pants="#3a3f4c" glasses height={p.height ?? 1.08} />;
