@@ -16,9 +16,7 @@
  "expected_dur": 426.2,
  "av_dur_diff_s": 0.003,
  "black_segments": [],
- "frozen_over_4s": [
-  "324.2"
- ],
+ "frozen_over_4s": [],
  "lufs": -14.0,
  "lra": 1.9,
  "true_peak": -0.9,
@@ -29,7 +27,7 @@
   "duration\u2248EDL": true,
   "A/V same length": true,
   "no black frames": true,
-  "no frozen >4s": false,
+  "no frozen >4s": true,
   "loudness -14\u00b11": true,
   "true peak \u2264 -1": true
  }
