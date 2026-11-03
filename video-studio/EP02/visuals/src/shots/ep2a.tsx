@@ -10,6 +10,12 @@ import { Person } from './dataviz';
 import { Phone, Kid, Heart } from './common';
 import { Theo, Kyle, Coach, Sis, Dad, Whistle, COL } from './cast';
 
+/* slow camera push so data shots never sit still */
+const Push: React.FC<{ t: number; d: number; k?: number; cx?: number; cy?: number; children: React.ReactNode }> = ({ t, d, k = 0.08, cx = 960, cy = 560, children }) => {
+  const z = 1 + k * Math.min(1, t / Math.max(d, 0.1));
+  const dx = Math.sin(t * 0.9) * 6, dy = Math.cos(t * 0.7) * 4;
+  return <g transform={`translate(${cx + dx} ${cy + dy}) scale(${z}) translate(${-cx} ${-cy})`}>{children}</g>;
+};
 const Sh: React.FC<{ tone?: any; children: React.ReactNode }> = ({ tone, children }) => (<><Stage>{children}</Stage><Grade tone={tone} /></>);
 
 /* neon tag with arrow (thumbnail language inside the video) */
@@ -185,13 +191,15 @@ export const B4: ShotFC = ({ o, d }) => {
     <Sh>
       <DataBG t={t + o} />
       <Tag t={t} text="1968" icon="◷" />
+      <Push t={t} d={d}>
       <BigText t={t} t0={0.3} x={960} y={190} text="A CLASS. 20 KIDS." size={70} color="#fff" stroke={C.navy} />
       {[...Array(20)].map((_, i) => {
         const on = chosen.includes(i) && t > pick + chosen.indexOf(i) * 0.35;
-        return <Person key={i} x={390 + (i % 10) * 125} y={520 + Math.floor(i / 10) * 220} s={1.6 * pop(t, 0.3 + i * 0.03, 0.4)} col={on ? C.gold : '#5f7ab8'} glow={on ? 1 : 0} />;
+        return <Person key={i} x={390 + (i % 10) * 125} y={520 + Math.floor(i / 10) * 220 + Math.sin(t * 3 + i * 1.7) * 5} s={1.6 * pop(t, 0.3 + i * 0.03, 0.4)} col={on ? C.gold : '#5f7ab8'} glow={on ? 1 : 0} />;
       })}
       {t > pick && <Badge t={t} t0={pick + 0.2} x={960} y={930} text={'"These kids are about to bloom."'} size={40} color={C.gold} />}
       {t > s('b05') + 1.2 && <Badge t={t} t0={s('b05') + 1.2} x={960} y={1010} text="picked at random" size={34} icon="⚄" />}
+      </Push>
       <text x={60} y={1050} fontSize={22} fill="#8fa3c8" fontFamily={FONT_BODY} fontWeight={800}>{SRC}</text>
     </Sh>
   );
@@ -203,6 +211,7 @@ export const B5: ShotFC = ({ o, d }) => {
   return (
     <Sh>
       <DataBG t={t + o} />
+      <Push t={t} d={d} k={0.1} cy={700}>
       <BigText t={t} t0={0.2} x={960} y={170} text="ONE YEAR LATER" size={70} color="#fff" stroke={C.navy} />
       <text x={960} y={250} textAnchor="middle" fontSize={34} fill={C.gray} fontFamily={FONT_HEAD}>average I.Q. gain</text>
       <rect x={600} y={850 - 420 * g1} width={260} height={420 * g1} rx={16} fill={C.gold} />
@@ -210,6 +219,8 @@ export const B5: ShotFC = ({ o, d }) => {
       <text x={730} y={910} textAnchor="middle" fontSize={40} fontWeight={700} fill={C.gold} fontFamily={FONT_HEAD}>"bloomers"</text>
       <text x={1190} y={910} textAnchor="middle" fontSize={40} fontWeight={700} fill="#9fb3e0" fontFamily={FONT_HEAD}>everyone else</text>
       <line x1={520} y1={852} x2={1400} y2={852} stroke="#8fa3c8" strokeWidth={4} />
+      {t > 2.2 && <g transform={`translate(730 ${400 - Math.abs(Math.sin(t * 4)) * 14}) scale(${pop(t, 2.2, 0.4)})`}><text x={0} y={0} textAnchor="middle" fontSize={64} fill={C.gold} fontFamily={FONT_HEAD} fontWeight={700}>▲</text></g>}
+      </Push>
       <text x={60} y={1050} fontSize={22} fill="#8fa3c8" fontFamily={FONT_BODY} fontWeight={800}>{SRC} · bars illustrative</text>
     </Sh>
   );
@@ -220,15 +231,18 @@ export const B6: ShotFC = ({ o, d }) => {
   return (
     <Sh>
       <DataBG t={t + o} />
+      <Push t={t} d={d} k={0.12} cy={580}>
       <BigText t={t} t0={0.2} x={960} y={220} text="THE PYGMALION EFFECT" size={84} color={C.gold} stroke={C.navy} />
       {[['EXPECTATION', 560, C.cyan], ['PERFORMANCE', 1360, C.mint]].map(([txt, x, col], i) => (
-        <g key={i} transform={`translate(${x} 580) scale(${pop(t, 0.8 + i * 0.6, 0.45)})`}>
+        <g key={i} transform={`translate(${x} 580) scale(${pop(t, 0.8 + i * 0.6, 0.45) * (1 + (t > 2 ? 0.04 * Math.sin(t * 5 + i * Math.PI) : 0))})`}>
           <rect x={-250} y={-70} width={500} height={140} rx={30} fill="rgba(255,255,255,0.06)" stroke={col as string} strokeWidth={5} />
           <text x={0} y={18} textAnchor="middle" fontSize={50} fontWeight={700} fill="#fff" fontFamily={FONT_HEAD}>{txt}</text>
         </g>
       ))}
       <path d={`M 830 580 L ${830 + 230 * tw(t, 1.2, 1.8, 0, 1)} 580`} stroke="#fff" strokeWidth={10} strokeLinecap="round" />
       <path d="M 1050 555 L 1085 580 L 1050 605" stroke="#fff" strokeWidth={10} fill="none" strokeLinecap="round" opacity={tw(t, 1.7, 1.9, 0, 1)} />
+      {t > 2 && <circle cx={830 + ((t * 260) % 230)} cy={580} r={12} fill={C.gold} filter="url(#glowF)" />}
+      </Push>
       <text x={60} y={1050} fontSize={22} fill="#8fa3c8" fontFamily={FONT_BODY} fontWeight={800}>{SRC}</text>
     </Sh>
   );
