@@ -1,0 +1,1937 @@
+{
+ "shots": [
+  {
+   "name": "A1 bonk",
+   "key": "A1",
+   "at": 0,
+   "comp": "A1",
+   "tr": "cut"
+  },
+  {
+   "name": "A2 now you see it",
+   "key": "A2",
+   "at": 2.6879999999999997,
+   "comp": "A2",
+   "tr": "glitch"
+  },
+  {
+   "name": "A3 split reality",
+   "key": "A3",
+   "at": 5.359,
+   "comp": "A3",
+   "tr": "zoom"
+  },
+  {
+   "name": "A4 mia",
+   "key": "A4",
+   "at": 12.231,
+   "comp": "A4",
+   "tr": "whip"
+  },
+  {
+   "name": "A5 catching up",
+   "key": "A5",
+   "at": 14.825000000000001,
+   "comp": "A5",
+   "tr": "cut"
+  },
+  {
+   "name": "A6 lag title",
+   "key": "A6",
+   "at": 18.766,
+   "comp": "A6",
+   "tr": "glitch"
+  },
+  {
+   "name": "A7 doubles",
+   "key": "A7",
+   "at": 22.727999999999998,
+   "comp": "A7",
+   "tr": "zoom"
+  },
+  {
+   "name": "B1 rule",
+   "key": "B1",
+   "at": 26.307000000000002,
+   "comp": "B1",
+   "tr": "glitch"
+  },
+  {
+   "name": "B2 ladder",
+   "key": "B2",
+   "at": 35.278999999999996,
+   "comp": "B2",
+   "tr": "whip"
+  },
+  {
+   "name": "B3 already",
+   "key": "B3",
+   "at": 41.687,
+   "comp": "B3",
+   "tr": "zoom"
+  },
+  {
+   "name": "B4a eye brain",
+   "key": "B4a",
+   "at": 44.759,
+   "comp": "B4a",
+   "tr": "whip"
+  },
+  {
+   "name": "B4b everyone",
+   "key": "B4b",
+   "at": 50.3245,
+   "comp": "B4b",
+   "tr": "zoom"
+  },
+  {
+   "name": "C1 day1",
+   "key": "C1",
+   "at": 56.589999999999996,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "C2 high five",
+   "key": "C2",
+   "at": 58.4675,
+   "comp": "C2",
+   "tr": "whip"
+  },
+  {
+   "name": "C3 jokes",
+   "key": "C3",
+   "at": 62.598,
+   "comp": "C3",
+   "tr": "whipL"
+  },
+  {
+   "name": "C4 mia figures",
+   "key": "C4",
+   "at": 68.42,
+   "comp": "C4",
+   "tr": "zoom"
+  },
+  {
+   "name": "C5 catch",
+   "key": "C5",
+   "at": 72.382,
+   "comp": "C5",
+   "tr": "cut"
+  },
+  {
+   "name": "C6 no catch",
+   "key": "C6",
+   "at": 75.11,
+   "comp": "C6",
+   "tr": "cut"
+  },
+  {
+   "name": "C7a soup",
+   "key": "C7a",
+   "at": 76.982,
+   "comp": "C7a",
+   "tr": "whip"
+  },
+  {
+   "name": "C7b stairs",
+   "key": "C7b",
+   "at": 78.86958,
+   "comp": "C7b",
+   "tr": "whipL"
+  },
+  {
+   "name": "C7c games",
+   "key": "C7c",
+   "at": 80.65716,
+   "comp": "C7c",
+   "tr": "glitch"
+  },
+  {
+   "name": "C8 moon",
+   "key": "C8",
+   "at": 87.233,
+   "comp": "C8",
+   "tr": "zoom"
+  },
+  {
+   "name": "D1 day3",
+   "key": "D1",
+   "at": 97.545,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "D2 conversation",
+   "key": "D2",
+   "at": 100.162,
+   "comp": "D2",
+   "tr": "whip"
+  },
+  {
+   "name": "D3 day5",
+   "key": "D3",
+   "at": 109.121,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "D4 curb",
+   "key": "D4",
+   "at": 111.959,
+   "comp": "D4",
+   "tr": "slowfade"
+  },
+  {
+   "name": "D5 empty",
+   "key": "D5",
+   "at": 114.956,
+   "comp": "D5",
+   "tr": "cut"
+  },
+  {
+   "name": "D6 split truck",
+   "key": "D6",
+   "at": 118.604,
+   "comp": "D6",
+   "tr": "glitch"
+  },
+  {
+   "name": "D7a honk",
+   "key": "D7a",
+   "at": 122.70100000000001,
+   "comp": "D7a",
+   "tr": "cut"
+  },
+  {
+   "name": "D7b late view",
+   "key": "D7b",
+   "at": 127.72,
+   "comp": "D7b",
+   "tr": "glitch"
+  },
+  {
+   "name": "D8 mia promise",
+   "key": "D8",
+   "at": 132.989,
+   "comp": "D8",
+   "tr": "fade"
+  },
+  {
+   "name": "E1 day7",
+   "key": "E1",
+   "at": 137.887,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "E2 hospital",
+   "key": "E2",
+   "at": 142.58,
+   "comp": "E2",
+   "tr": "whip"
+  },
+  {
+   "name": "E3 buffering",
+   "key": "E3",
+   "at": 151.37300000000002,
+   "comp": "E3",
+   "tr": "zoom"
+  },
+  {
+   "name": "E4 mirror empty",
+   "key": "E4",
+   "at": 158.035,
+   "comp": "E4",
+   "tr": "whipL"
+  },
+  {
+   "name": "E5 walk in",
+   "key": "E5",
+   "at": 161.8,
+   "comp": "E5",
+   "tr": "cut"
+  },
+  {
+   "name": "E6 recording",
+   "key": "E6",
+   "at": 169.886,
+   "comp": "E6",
+   "tr": "zoom"
+  },
+  {
+   "name": "F1 day10",
+   "key": "F1",
+   "at": 175.049,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "F2 sunlight",
+   "key": "F2",
+   "at": 180.483,
+   "comp": "F2",
+   "tr": "zoom"
+  },
+  {
+   "name": "F3 sun 8 min",
+   "key": "F3",
+   "at": 186.483,
+   "comp": "F3",
+   "tr": "whip"
+  },
+  {
+   "name": "F4 viral",
+   "key": "F4",
+   "at": 193.781,
+   "comp": "F4",
+   "tr": "zoom"
+  },
+  {
+   "name": "F5a scientists",
+   "key": "F5a",
+   "at": 200.376,
+   "comp": "F5a",
+   "tr": "whip"
+  },
+  {
+   "name": "F5b one second",
+   "key": "F5b",
+   "at": 205.15210000000002,
+   "comp": "F5b",
+   "tr": "slowfade"
+  },
+  {
+   "name": "G1 day14",
+   "key": "G1",
+   "at": 209.978,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "G2 dark 7am",
+   "key": "G2",
+   "at": 213.79,
+   "comp": "G2",
+   "tr": "cut"
+  },
+  {
+   "name": "G3 split clocks",
+   "key": "G3",
+   "at": 217.66400000000002,
+   "comp": "G3",
+   "tr": "glitch"
+  },
+  {
+   "name": "G4 two times",
+   "key": "G4",
+   "at": 221.625,
+   "comp": "G4",
+   "tr": "zoom"
+  },
+  {
+   "name": "G5 steps",
+   "key": "G5",
+   "at": 227.115,
+   "comp": "G5",
+   "tr": "whip"
+  },
+  {
+   "name": "G6 mia guides",
+   "key": "G6",
+   "at": 235.799,
+   "comp": "G6",
+   "tr": "cut"
+  },
+  {
+   "name": "H1 day18",
+   "key": "H1",
+   "at": 242.698,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "H2 too late",
+   "key": "H2",
+   "at": 247.964,
+   "comp": "H2",
+   "tr": "fade"
+  },
+  {
+   "name": "H3 stairs",
+   "key": "H3",
+   "at": 251.042,
+   "comp": "H3",
+   "tr": "cut"
+  },
+  {
+   "name": "H4 asleep",
+   "key": "H4",
+   "at": 259.572,
+   "comp": "H4",
+   "tr": "fade"
+  },
+  {
+   "name": "H5 ghosts",
+   "key": "H5",
+   "at": 264.229,
+   "comp": "H5",
+   "tr": "slowfade"
+  },
+  {
+   "name": "I1 day22",
+   "key": "I1",
+   "at": 268.84700000000004,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "I2 party",
+   "key": "I2",
+   "at": 271.96599999999995,
+   "comp": "I2",
+   "tr": "whip"
+  },
+  {
+   "name": "I3 calendar",
+   "key": "I3",
+   "at": 277.166,
+   "comp": "I3",
+   "tr": "zoom"
+  },
+  {
+   "name": "I4 tuesday",
+   "key": "I4",
+   "at": 280.56,
+   "comp": "I4",
+   "tr": "slowfade"
+  },
+  {
+   "name": "I5 candles",
+   "key": "I5",
+   "at": 290.948,
+   "comp": "I5",
+   "tr": "fade"
+  },
+  {
+   "name": "J1 day26",
+   "key": "J1",
+   "at": 298.401,
+   "comp": "DayShot",
+   "tr": "glitch"
+  },
+  {
+   "name": "J2 room",
+   "key": "J2",
+   "at": 305.272,
+   "comp": "J2",
+   "tr": "slowfade"
+  },
+  {
+   "name": "J3 memory",
+   "key": "J3",
+   "at": 311.37699999999995,
+   "comp": "J3",
+   "tr": "fade"
+  },
+  {
+   "name": "J4 tail",
+   "key": "J4",
+   "at": 316.26099999999997,
+   "comp": "J4",
+   "tr": "fade"
+  },
+  {
+   "name": "J5 hours",
+   "key": "J5",
+   "at": 323.772,
+   "comp": "J5",
+   "tr": "cut"
+  },
+  {
+   "name": "J6 dont stop",
+   "key": "J6",
+   "at": 329.245,
+   "comp": "J6",
+   "tr": "fade"
+  },
+  {
+   "name": "J7 stuck",
+   "key": "J7",
+   "at": 333.32899999999995,
+   "comp": "J7",
+   "tr": "glitch"
+  },
+  {
+   "name": "K1 box",
+   "key": "K1",
+   "at": 346.787,
+   "comp": "K1",
+   "tr": "slowfade"
+  },
+  {
+   "name": "K2 wall",
+   "key": "K2",
+   "at": 352.479,
+   "comp": "K2",
+   "tr": "zoom"
+  },
+  {
+   "name": "K3 note",
+   "key": "K3",
+   "at": 359.25399999999996,
+   "comp": "K3",
+   "tr": "fade"
+  },
+  {
+   "name": "K4 writing",
+   "key": "K4",
+   "at": 367.11699999999996,
+   "comp": "K4",
+   "tr": "fade"
+  },
+  {
+   "name": "K5 all reaches",
+   "key": "K5",
+   "at": 372.465,
+   "comp": "K5",
+   "tr": "slowfade"
+  },
+  {
+   "name": "K6 hands",
+   "key": "K6",
+   "at": 384.68199999999996,
+   "comp": "K6",
+   "tr": "fade"
+  },
+  {
+   "name": "L1 green",
+   "key": "L1",
+   "at": 393.42499999999995,
+   "comp": "L1",
+   "tr": "glitch"
+  },
+  {
+   "name": "L3 countdown",
+   "key": "L3",
+   "at": 400.76099999999997,
+   "comp": "L3",
+   "tr": "cut"
+  },
+  {
+   "name": "L4 zero",
+   "key": "L4",
+   "at": 408.08,
+   "comp": "L4",
+   "tr": "cut"
+  },
+  {
+   "name": "L5 minus one",
+   "key": "L5",
+   "at": 409.81399999999996,
+   "comp": "L5",
+   "tr": "cut"
+  },
+  {
+   "name": "L6 future catch",
+   "key": "L6",
+   "at": 412.801,
+   "comp": "L6",
+   "tr": "glitch"
+  },
+  {
+   "name": "L7 end",
+   "key": "L7",
+   "at": 416.06,
+   "comp": "L7",
+   "tr": "slowfade"
+  }
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "loop": "crowd_murmur",
+   "until": 18.766
+  },
+  {
+   "t": 0.0,
+   "music": "m1_curious"
+  },
+  {
+   "t": 0.55,
+   "sfx": "thud_impact_1",
+   "db": -4
+  },
+  {
+   "t": 0.6,
+   "sfx": "boing_comic",
+   "db": -12
+  },
+  {
+   "t": 2.288,
+   "sfx": "reverse_swell",
+   "db": -14
+  },
+  {
+   "t": 2.668,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 3.188,
+   "sfx": "swish_whip_1",
+   "db": -14
+  },
+  {
+   "t": 5.179,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 5.559,
+   "sfx": "heartbeat",
+   "db": -14
+  },
+  {
+   "t": 7.752,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 8.752,
+   "sfx": "thud_impact_2",
+   "db": -16
+  },
+  {
+   "t": 12.151,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 15.225,
+   "sfx": "sigh_air",
+   "db": -18
+  },
+  {
+   "t": 17.166,
+   "sfx": "riser",
+   "db": -16
+  },
+  {
+   "t": 18.746,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 20.883,
+   "sfx": "stamp_thud",
+   "db": -8
+  },
+  {
+   "t": 22.548,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 23.128,
+   "sfx": "pop_ui_1",
+   "db": -14.0
+  },
+  {
+   "t": 23.348,
+   "sfx": "pop_ui_2",
+   "db": -13.4
+  },
+  {
+   "t": 23.568,
+   "sfx": "pop_ui_3",
+   "db": -12.8
+  },
+  {
+   "t": 23.788,
+   "sfx": "pop_ui_1",
+   "db": -12.2
+  },
+  {
+   "t": 24.008,
+   "sfx": "pop_ui_2",
+   "db": -11.6
+  },
+  {
+   "t": 24.228,
+   "sfx": "pop_ui_3",
+   "db": -11.0
+  },
+  {
+   "t": 24.448,
+   "sfx": "pop_ui_1",
+   "db": -10.4
+  },
+  {
+   "t": 26.287,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 26.407,
+   "sfx": "footsteps_walk",
+   "db": -22
+  },
+  {
+   "t": 31.188,
+   "sfx": "pop_ui_1",
+   "db": -14
+  },
+  {
+   "t": 32.908,
+   "sfx": "pop_ui_2",
+   "db": -14
+  },
+  {
+   "t": 35.199,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 35.479,
+   "sfx": "tick_1",
+   "db": -12
+  },
+  {
+   "t": 36.979,
+   "sfx": "tick_2",
+   "db": -12
+  },
+  {
+   "t": 38.279,
+   "sfx": "tick_3",
+   "db": -12
+  },
+  {
+   "t": 38.779,
+   "sfx": "riser_short",
+   "db": -14
+  },
+  {
+   "t": 40.033,
+   "sfx": "thud_impact_1",
+   "db": -12
+  },
+  {
+   "t": 41.507,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 42.287,
+   "sfx": "chime_soft",
+   "db": -16
+  },
+  {
+   "t": 44.679,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 45.559,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 47.159,
+   "sfx": "ding_1",
+   "db": -14
+  },
+  {
+   "t": 50.145,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 50.724,
+   "sfx": "blip_1",
+   "db": -18
+  },
+  {
+   "t": 50.974,
+   "sfx": "blip_2",
+   "db": -18
+  },
+  {
+   "t": 51.224,
+   "sfx": "blip_3",
+   "db": -18
+  },
+  {
+   "t": 51.474,
+   "sfx": "blip_1",
+   "db": -18
+  },
+  {
+   "t": 54.71,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 56.57,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 56.59,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 56.59,
+   "music": "m2_comedy"
+  },
+  {
+   "t": 56.74,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 56.89,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 58.388,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 58.468,
+   "loop": "crowd_murmur",
+   "until": 68.42
+  },
+  {
+   "t": 59.568,
+   "sfx": "swish_whip_2",
+   "db": -10
+  },
+  {
+   "t": 62.518,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 68.24,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 68.42,
+   "loop": "room_tone_home",
+   "until": 76.982
+  },
+  {
+   "t": 68.62,
+   "sfx": "clock_tick",
+   "db": -24
+  },
+  {
+   "t": 69.62,
+   "sfx": "ding_2",
+   "db": -12
+  },
+  {
+   "t": 74.292,
+   "sfx": "swish_whip_1",
+   "db": -12
+  },
+  {
+   "t": 75.13,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 75.91,
+   "sfx": "boing_comic",
+   "db": -16
+  },
+  {
+   "t": 76.902,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 77.082,
+   "sfx": "pop_ui_3",
+   "db": -12
+  },
+  {
+   "t": 77.882,
+   "sfx": "glass_break",
+   "db": -20
+  },
+  {
+   "t": 78.79,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 78.97,
+   "sfx": "pop_ui_1",
+   "db": -12
+  },
+  {
+   "t": 79.52,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 79.82,
+   "sfx": "thud_impact_2",
+   "db": -12
+  },
+  {
+   "t": 80.637,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 80.757,
+   "sfx": "pop_ui_2",
+   "db": -12
+  },
+  {
+   "t": 81.157,
+   "sfx": "record_scratch",
+   "db": -14
+  },
+  {
+   "t": 87.053,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 88.233,
+   "sfx": "sparkle",
+   "db": -16
+  },
+  {
+   "t": 89.533,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 97.525,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 97.545,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 97.545,
+   "music": "m3_tension"
+  },
+  {
+   "t": 97.695,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 97.845,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 100.082,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 100.162,
+   "loop": "crowd_murmur",
+   "until": 109.121
+  },
+  {
+   "t": 100.462,
+   "sfx": "pop_ui_1",
+   "db": -16
+  },
+  {
+   "t": 100.472,
+   "sfx": "pop_ui_1",
+   "db": -16
+  },
+  {
+   "t": 100.482,
+   "sfx": "pop_ui_1",
+   "db": -16
+  },
+  {
+   "t": 109.101,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 109.121,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 109.271,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 109.421,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 111.659,
+   "sfx": "whoosh_slow_2",
+   "db": -22
+  },
+  {
+   "t": 112.259,
+   "sfx": "heartbeat",
+   "db": -12
+  },
+  {
+   "t": 114.956,
+   "loop": "room_tone_care",
+   "until": 122.701
+  },
+  {
+   "t": 118.584,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 120.501,
+   "sfx": "riser",
+   "db": -16
+  },
+  {
+   "t": 122.701,
+   "synth": true
+  },
+  {
+   "t": 123.201,
+   "sfx": "whoosh_fast_1",
+   "db": -8
+  },
+  {
+   "t": 123.501,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 127.22,
+   "sfx": "reverse_swell",
+   "db": -16
+  },
+  {
+   "t": 127.7,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 133.289,
+   "sfx": "sigh_air",
+   "db": -16
+  },
+  {
+   "t": 137.867,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 137.887,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 137.887,
+   "music": "m7_cliffhanger"
+  },
+  {
+   "t": 138.037,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 138.187,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 142.5,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 142.58,
+   "synth": true
+  },
+  {
+   "t": 147.34,
+   "sfx": "ding_1",
+   "db": -16
+  },
+  {
+   "t": 148.611,
+   "sfx": "ding_1",
+   "db": -16
+  },
+  {
+   "t": 149.967,
+   "sfx": "ding_1",
+   "db": -16
+  },
+  {
+   "t": 151.193,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 151.573,
+   "sfx": "clock_tick",
+   "db": -22
+  },
+  {
+   "t": 157.735,
+   "sfx": "reverse_swell",
+   "db": -18
+  },
+  {
+   "t": 157.955,
+   "sfx": "swish_whip_1",
+   "db": -13
+  },
+  {
+   "t": 159.997,
+   "sfx": "thud_impact_2",
+   "db": -8
+  },
+  {
+   "t": 164.906,
+   "sfx": "footsteps_walk",
+   "db": -18
+  },
+  {
+   "t": 169.706,
+   "sfx": "whoosh_fast_1",
+   "db": -14
+  },
+  {
+   "t": 170.086,
+   "sfx": "blip_1",
+   "db": -14
+  },
+  {
+   "t": 170.686,
+   "sfx": "camera_shutter",
+   "db": -18
+  },
+  {
+   "t": 175.029,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 175.049,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 175.049,
+   "music": "m5_reveal"
+  },
+  {
+   "t": 175.199,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 175.349,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 180.303,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 180.683,
+   "sfx": "riser",
+   "db": -18
+  },
+  {
+   "t": 181.083,
+   "sfx": "sparkle",
+   "db": -16
+  },
+  {
+   "t": 186.403,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 187.283,
+   "sfx": "chime_soft",
+   "db": -18
+  },
+  {
+   "t": 193.601,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 194.381,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 194.781,
+   "sfx": "pop_ui_1",
+   "db": -18
+  },
+  {
+   "t": 194.981,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 195.381,
+   "sfx": "pop_ui_2",
+   "db": -18
+  },
+  {
+   "t": 195.581,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 195.981,
+   "sfx": "pop_ui_3",
+   "db": -18
+  },
+  {
+   "t": 196.181,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 196.581,
+   "sfx": "pop_ui_1",
+   "db": -18
+  },
+  {
+   "t": 196.781,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 197.181,
+   "sfx": "pop_ui_2",
+   "db": -18
+  },
+  {
+   "t": 197.381,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 197.981,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 198.581,
+   "sfx": "phone_buzz",
+   "db": -24
+  },
+  {
+   "t": 200.296,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 200.376,
+   "loop": "crowd_murmur",
+   "until": 205.152
+  },
+  {
+   "t": 200.576,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 201.126,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 201.676,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 202.226,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 202.776,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 203.326,
+   "sfx": "camera_shutter",
+   "db": -20
+  },
+  {
+   "t": 204.852,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 209.958,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 209.978,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 210.128,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 210.278,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 213.89,
+   "synth": true
+  },
+  {
+   "t": 217.644,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 217.764,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 221.445,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 222.329,
+   "music": "m4_tender"
+  },
+  {
+   "t": 227.035,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 227.115,
+   "loop": "room_tone_home",
+   "until": 242.698
+  },
+  {
+   "t": 227.315,
+   "sfx": "footsteps_walk",
+   "db": -22
+  },
+  {
+   "t": 227.415,
+   "sfx": "tick_1",
+   "db": -16
+  },
+  {
+   "t": 227.798,
+   "sfx": "tick_2",
+   "db": -16
+  },
+  {
+   "t": 228.182,
+   "sfx": "tick_3",
+   "db": -16
+  },
+  {
+   "t": 228.565,
+   "sfx": "tick_1",
+   "db": -16
+  },
+  {
+   "t": 228.948,
+   "sfx": "tick_2",
+   "db": -16
+  },
+  {
+   "t": 229.332,
+   "sfx": "tick_3",
+   "db": -16
+  },
+  {
+   "t": 229.715,
+   "sfx": "tick_1",
+   "db": -16
+  },
+  {
+   "t": 230.098,
+   "sfx": "tick_2",
+   "db": -16
+  },
+  {
+   "t": 230.482,
+   "sfx": "tick_3",
+   "db": -16
+  },
+  {
+   "t": 230.865,
+   "sfx": "tick_1",
+   "db": -16
+  },
+  {
+   "t": 231.249,
+   "sfx": "tick_2",
+   "db": -16
+  },
+  {
+   "t": 231.632,
+   "sfx": "tick_3",
+   "db": -16
+  },
+  {
+   "t": 242.678,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 242.698,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 242.848,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 242.998,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 248.364,
+   "sfx": "heartbeat",
+   "db": -16
+  },
+  {
+   "t": 255.238,
+   "sfx": "footsteps_hall",
+   "db": -16
+  },
+  {
+   "t": 256.764,
+   "sfx": "reverse_swell",
+   "db": -18
+  },
+  {
+   "t": 260.172,
+   "sfx": "chime_soft",
+   "db": -18
+  },
+  {
+   "t": 263.929,
+   "sfx": "whoosh_slow_2",
+   "db": -22
+  },
+  {
+   "t": 268.827,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 268.847,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 268.997,
+   "sfx": "thud_impact_2",
+   "db": -10
+  },
+  {
+   "t": 269.147,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 271.886,
+   "sfx": "swish_whip_2",
+   "db": -13
+  },
+  {
+   "t": 271.966,
+   "loop": "crowd_murmur",
+   "until": 277.166
+  },
+  {
+   "t": 272.266,
+   "sfx": "magic_shimmer",
+   "db": -16
+  },
+  {
+   "t": 276.986,
+   "sfx": "whoosh_fast_3",
+   "db": -14
+  },
+  {
+   "t": 277.366,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 277.479,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 277.592,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 277.705,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 277.819,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 277.932,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 278.045,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 278.158,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 278.271,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 278.384,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 278.497,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 278.61,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 278.724,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 278.837,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 278.95,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 279.063,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 279.176,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 279.289,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 279.402,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 279.516,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 279.629,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 279.742,
+   "sfx": "tick_1",
+   "db": -18
+  },
+  {
+   "t": 279.855,
+   "sfx": "tick_2",
+   "db": -18
+  },
+  {
+   "t": 279.968,
+   "sfx": "tick_3",
+   "db": -18
+  },
+  {
+   "t": 280.26,
+   "sfx": "whoosh_slow_2",
+   "db": -22
+  },
+  {
+   "t": 280.56,
+   "loop": "room_tone_home",
+   "until": 298.401
+  },
+  {
+   "t": 285.091,
+   "sfx": "sparkle",
+   "db": -14
+  },
+  {
+   "t": 285.594,
+   "sfx": "magic_shimmer",
+   "db": -16
+  },
+  {
+   "t": 295.185,
+   "sfx": "sigh_air",
+   "db": -10
+  },
+  {
+   "t": 298.381,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 298.401,
+   "sfx": "tv_static_off",
+   "db": -18
+  },
+  {
+   "t": 298.401,
+   "music": "m5_reveal"
+  },
+  {
+   "t": 298.551,
+   "sfx": "thud_impact_1",
+   "db": -10
+  },
+  {
+   "t": 298.701,
+   "sfx": "counter_roll",
+   "db": -18
+  },
+  {
+   "t": 304.972,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 305.272,
+   "loop": "room_tone_home",
+   "until": 333.329
+  },
+  {
+   "t": 305.472,
+   "sfx": "door_open",
+   "db": -18
+  },
+  {
+   "t": 308.915,
+   "sfx": "sparkle",
+   "db": -12
+  },
+  {
+   "t": 309.176,
+   "sfx": "chime_soft",
+   "db": -16
+  },
+  {
+   "t": 311.577,
+   "sfx": "paper_rustle",
+   "db": -20
+  },
+  {
+   "t": 316.761,
+   "sfx": "magic_shimmer",
+   "db": -18
+  },
+  {
+   "t": 324.072,
+   "sfx": "clock_tick",
+   "db": -22
+  },
+  {
+   "t": 333.309,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 334.929,
+   "music": "m7_cliffhanger"
+  },
+  {
+   "t": 340.724,
+   "sfx": "stamp_thud",
+   "db": -8
+  },
+  {
+   "t": 346.487,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 350.01,
+   "sfx": "paper_rustle",
+   "db": -12
+  },
+  {
+   "t": 352.299,
+   "sfx": "whoosh_fast_2",
+   "db": -14
+  },
+  {
+   "t": 352.779,
+   "sfx": "pop_ui_1",
+   "db": -20
+  },
+  {
+   "t": 353.179,
+   "sfx": "pop_ui_2",
+   "db": -20
+  },
+  {
+   "t": 353.579,
+   "sfx": "pop_ui_3",
+   "db": -20
+  },
+  {
+   "t": 353.979,
+   "sfx": "pop_ui_1",
+   "db": -20
+  },
+  {
+   "t": 354.379,
+   "sfx": "pop_ui_2",
+   "db": -20
+  },
+  {
+   "t": 354.779,
+   "sfx": "pop_ui_3",
+   "db": -20
+  },
+  {
+   "t": 355.179,
+   "sfx": "pop_ui_1",
+   "db": -20
+  },
+  {
+   "t": 355.579,
+   "sfx": "pop_ui_2",
+   "db": -20
+  },
+  {
+   "t": 355.979,
+   "sfx": "pop_ui_3",
+   "db": -20
+  },
+  {
+   "t": 356.379,
+   "sfx": "pop_ui_1",
+   "db": -20
+  },
+  {
+   "t": 359.054,
+   "music": "m4_tender"
+  },
+  {
+   "t": 359.554,
+   "sfx": "pencil_scribble",
+   "db": -18
+  },
+  {
+   "t": 367.517,
+   "sfx": "pencil_scribble",
+   "db": -18
+  },
+  {
+   "t": 372.165,
+   "sfx": "whoosh_slow_1",
+   "db": -22
+  },
+  {
+   "t": 375.762,
+   "sfx": "chime_soft",
+   "db": -18
+  },
+  {
+   "t": 377.703,
+   "sfx": "chime_soft",
+   "db": -18
+  },
+  {
+   "t": 379.415,
+   "sfx": "chime_soft",
+   "db": -18
+  },
+  {
+   "t": 384.782,
+   "music": "m6_resolve"
+  },
+  {
+   "t": 388.711,
+   "sfx": "heartbeat",
+   "db": -14
+  },
+  {
+   "t": 389.211,
+   "sfx": "sparkle",
+   "db": -14
+  },
+  {
+   "t": 393.405,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 393.425,
+   "sfx": "tv_static_off",
+   "db": -14
+  },
+  {
+   "t": 393.425,
+   "music": "m3_tension"
+  },
+  {
+   "t": 396.012,
+   "sfx": "ding_2",
+   "db": -12
+  },
+  {
+   "t": 400.861,
+   "sfx": "counter_roll",
+   "db": -14
+  },
+  {
+   "t": 405.33,
+   "sfx": "tick_1",
+   "db": -12
+  },
+  {
+   "t": 405.73,
+   "sfx": "tick_2",
+   "db": -12
+  },
+  {
+   "t": 406.13,
+   "sfx": "tick_3",
+   "db": -12
+  },
+  {
+   "t": 406.53,
+   "sfx": "tick_1",
+   "db": -12
+  },
+  {
+   "t": 406.93,
+   "sfx": "tick_2",
+   "db": -12
+  },
+  {
+   "t": 407.33,
+   "sfx": "tick_3",
+   "db": -12
+  },
+  {
+   "t": 408.13,
+   "sfx": "thud_impact_1",
+   "db": -6
+  },
+  {
+   "t": 409.414,
+   "sfx": "reverse_swell",
+   "db": -14
+  },
+  {
+   "t": 409.914,
+   "music": "m7_cliffhanger"
+  },
+  {
+   "t": 411.227,
+   "sfx": "glitch",
+   "db": -10
+  },
+  {
+   "t": 412.781,
+   "sfx": "glitch",
+   "db": -15
+  },
+  {
+   "t": 413.301,
+   "sfx": "boing_comic",
+   "db": -14
+  },
+  {
+   "t": 413.401,
+   "sfx": "magic_shimmer",
+   "db": -16
+  },
+  {
+   "t": 415.76,
+   "sfx": "whoosh_slow_2",
+   "db": -22
+  },
+  {
+   "t": 416.66,
+   "sfx": "chime_soft",
+   "db": -16
+  }
+ ]
+}
