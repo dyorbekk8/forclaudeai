@@ -4,7 +4,7 @@ import numpy as np, soundfile as sf
 SR = 48000
 HERE = os.path.dirname(os.path.abspath(__file__))
 x = np.frombuffer(subprocess.run(["ffmpeg", "-v", "error", "-i", sys.argv[1], "-ac", "1", "-ar", str(SR), "-f", "f32le", "-"], capture_output=True, check=True).stdout, np.float32)
-ids = json.load(open(sys.argv[2])); cuts = [0.0] + [float(v) for v in sys.argv[3].split(",")] + [len(x) / SR]
+ids = json.load(open(sys.argv[2])); cuts = [0.0] + [float(v) for v in sys.argv[3].split(",") if v] + [len(x) / SR]
 assert len(cuts) == len(ids) + 1
 for n, lid in enumerate(ids):
     seg = x[int(cuts[n] * SR): int(cuts[n + 1] * SR)].copy()
