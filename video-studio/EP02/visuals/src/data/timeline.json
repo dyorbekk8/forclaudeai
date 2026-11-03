@@ -1,509 +1,509 @@
 {
- "duration": 254.235,
+ "duration": 259.98,
  "lines": [
   {
    "id": "a01",
    "speaker": "KYLE",
    "text": "You can't even lift that.",
    "start": 0.5,
-   "end": 1.773
+   "end": 1.813
   },
   {
    "id": "a02",
    "speaker": "N",
    "text": "Kyle is right. The bar has forty kilos on it. You weigh forty five.",
-   "start": 2.273,
-   "end": 7.052
+   "start": 2.313,
+   "end": 7.0
   },
   {
    "id": "a03",
    "speaker": "N",
    "text": "But the second he says it... something in your arms goes hot.",
-   "start": 7.402,
-   "end": 11.01
+   "start": 7.35,
+   "end": 11.401
   },
   {
    "id": "a04",
    "speaker": "N",
    "text": "And the bar goes up. Like it's made of paper.",
-   "start": 11.46,
-   "end": 14.396
+   "start": 11.851,
+   "end": 14.736
   },
   {
    "id": "a05",
    "speaker": "KYLE",
    "text": "What?",
-   "start": 14.996,
-   "end": 15.525
+   "start": 15.336,
+   "end": 15.827
   },
   {
    "id": "b01",
    "speaker": "N",
    "text": "Because in this world, every time someone tells you you can't... you get stronger.",
-   "start": 16.325,
-   "end": 21.236
+   "start": 16.627,
+   "end": 21.317
   },
   {
    "id": "b02",
    "speaker": "N",
    "text": "Not a little stronger. A lot.",
-   "start": 21.686,
-   "end": 23.569
+   "start": 21.767,
+   "end": 23.849
   },
   {
    "id": "b03",
    "speaker": "N",
    "text": "And it turns out, people say it all the time.",
-   "start": 23.969,
-   "end": 26.732
+   "start": 24.249,
+   "end": 26.688
   },
   {
    "id": "b04",
    "speaker": "N",
    "text": "In nineteen sixty eight, researchers told teachers that a few random kids in their class were about to bloom.",
-   "start": 27.532,
-   "end": 34.479
+   "start": 27.488,
+   "end": 34.182
   },
   {
    "id": "b05",
    "speaker": "N",
    "text": "The kids weren't special. They were picked by chance.",
-   "start": 34.779,
-   "end": 37.655
+   "start": 34.482,
+   "end": 37.427
   },
   {
    "id": "b06",
    "speaker": "N",
    "text": "A year later, on average, those kids had gained more I.Q. points than their classmates.",
-   "start": 38.005,
-   "end": 44.025
+   "start": 37.777,
+   "end": 43.957
   },
   {
    "id": "b07",
    "speaker": "N",
    "text": "It's called the Pygmalion effect. What people expect from you can change what you do.",
-   "start": 44.375,
-   "end": 49.656
+   "start": 44.307,
+   "end": 49.378
   },
   {
    "id": "b08",
    "speaker": "N",
    "text": "Except for you, it's flipped.",
-   "start": 50.006,
-   "end": 51.544
+   "start": 49.728,
+   "end": 51.218
   },
   {
    "id": "c01",
    "speaker": "N",
    "text": "Day one. You start collecting doubts.",
-   "start": 52.544,
-   "end": 54.775
+   "start": 52.218,
+   "end": 54.792
   },
   {
    "id": "c02",
    "speaker": "N",
    "text": "Gym class. Coach Briggs looks at your arms.",
-   "start": 55.125,
-   "end": 58.283
+   "start": 55.142,
+   "end": 58.19
   },
   {
    "id": "c03",
    "speaker": "COACH",
    "text": "Rope climb? You? Not a chance.",
-   "start": 58.533,
-   "end": 60.955
+   "start": 58.44,
+   "end": 61.581
   },
   {
    "id": "c04",
    "speaker": "N",
    "text": "Four seconds to the top. The rope snaps.",
-   "start": 61.355,
-   "end": 64.232
+   "start": 61.981,
+   "end": 64.79
   },
   {
    "id": "c05",
    "speaker": "N",
    "text": "Your sister bets you can't open the pickle jar.",
-   "start": 64.832,
-   "end": 67.734
+   "start": 65.39,
+   "end": 68.233
   },
   {
    "id": "c06",
    "speaker": "N",
    "text": "You open the lid. And the jar. And part of the counter.",
-   "start": 67.984,
-   "end": 71.484
+   "start": 68.483,
+   "end": 72.236
   },
   {
    "id": "c07",
    "speaker": "N",
    "text": "By Friday, you can lift your dad's car. About fifteen hundred kilos.",
-   "start": 72.084,
-   "end": 76.873
+   "start": 72.836,
+   "end": 77.224
   },
   {
    "id": "c08",
    "speaker": "N",
    "text": "The world record deadlift is five hundred and one.",
-   "start": 77.173,
-   "end": 80.255
+   "start": 77.524,
+   "end": 80.41
   },
   {
    "id": "c09",
    "speaker": "N",
    "text": "So you make a list of every doubter in town. And you visit them all.",
-   "start": 80.855,
-   "end": 85.169
+   "start": 81.01,
+   "end": 85.257
   },
   {
    "id": "c10",
    "speaker": "N",
    "text": "But your best source of doubt is the internet.",
-   "start": 86.169,
-   "end": 88.686
+   "start": 86.257,
+   "end": 88.631
   },
   {
    "id": "c11",
    "speaker": "N",
    "text": "You post one video. You, lifting the family fridge.",
-   "start": 88.986,
-   "end": 92.508
+   "start": 88.931,
+   "end": 92.24
   },
   {
    "id": "c12",
    "speaker": "N",
    "text": "Fake. Edited. Wires. No way a kid can do that.",
-   "start": 92.808,
-   "end": 96.187
+   "start": 92.54,
+   "end": 96.816
   },
   {
    "id": "c13",
    "speaker": "N",
    "text": "Every hater hits like a protein shake.",
-   "start": 96.487,
-   "end": 98.801
+   "start": 97.116,
+   "end": 99.306
   },
   {
    "id": "c14",
    "speaker": "N",
    "text": "By Sunday, you can lift about six thousand kilos. That's an adult elephant.",
-   "start": 99.201,
-   "end": 104.194
+   "start": 99.706,
+   "end": 104.26
   },
   {
    "id": "d01",
    "speaker": "N",
    "text": "Then a second video goes viral.",
-   "start": 104.994,
-   "end": 106.719
+   "start": 105.06,
+   "end": 106.931
   },
   {
    "id": "d02",
    "speaker": "N",
    "text": "Fourteen year old lifts a car. Twelve million views.",
-   "start": 107.019,
-   "end": 110.715
+   "start": 107.231,
+   "end": 110.768
   },
   {
    "id": "d03",
    "speaker": "N",
    "text": "And everything changes. Because now... people believe in you.",
-   "start": 111.115,
-   "end": 115.061
+   "start": 111.168,
+   "end": 115.719
   },
   {
    "id": "d04",
    "speaker": "N",
    "text": "A little kid asks for a photo.",
-   "start": 115.561,
-   "end": 117.589
+   "start": 116.219,
+   "end": 118.017
   },
   {
    "id": "d05",
    "speaker": "CROWD",
    "text": "You can do anything!",
-   "start": 117.789,
-   "end": 119.367
+   "start": 118.217,
+   "end": 119.795
   },
   {
    "id": "d06",
    "speaker": "N",
    "text": "Your knees buckle.",
-   "start": 119.667,
-   "end": 120.863
+   "start": 120.095,
+   "end": 121.3
   },
   {
    "id": "d07",
    "speaker": "N",
    "text": "Your dad hugs you.",
-   "start": 121.263,
-   "end": 122.524
+   "start": 121.7,
+   "end": 122.948
   },
   {
    "id": "d08",
    "speaker": "DAD",
    "text": "I always knew you could.",
-   "start": 122.724,
-   "end": 124.503
+   "start": 123.148,
+   "end": 124.808
   },
   {
    "id": "d09",
    "speaker": "N",
    "text": "You can't lift your backpack.",
-   "start": 124.903,
-   "end": 126.499
+   "start": 125.208,
+   "end": 126.784
   },
   {
    "id": "d10",
    "speaker": "N",
    "text": "Love makes you weak. Literally.",
-   "start": 127.099,
-   "end": 129.182
+   "start": 127.384,
+   "end": 129.892
   },
   {
    "id": "d11",
    "speaker": "N",
    "text": "So you start hiding. From your fans. From your dad.",
-   "start": 129.682,
-   "end": 132.923
+   "start": 130.392,
+   "end": 134.535
   },
   {
    "id": "d12",
    "speaker": "N",
    "text": "You start wanting people to hate you.",
-   "start": 133.223,
-   "end": 135.3
+   "start": 134.835,
+   "end": 136.933
   },
   {
    "id": "e01",
    "speaker": "N",
    "text": "There's only one person who never believed in you. Kyle.",
-   "start": 136.4,
-   "end": 139.958
+   "start": 138.033,
+   "end": 141.849
   },
   {
    "id": "e02",
    "speaker": "N",
    "text": "So every morning, you go and find him.",
-   "start": 140.358,
-   "end": 142.712
+   "start": 142.249,
+   "end": 144.454
   },
   {
    "id": "e03",
    "speaker": "THEO",
    "text": "Say it.",
-   "start": 143.012,
-   "end": 143.674
+   "start": 144.754,
+   "end": 145.391
   },
   {
    "id": "e04",
    "speaker": "KYLE",
    "text": "You can't.",
-   "start": 144.074,
-   "end": 144.754
+   "start": 145.791,
+   "end": 146.482
   },
   {
    "id": "e05",
    "speaker": "N",
    "text": "Plus two hundred kilos. It's the weirdest friendship in school.",
-   "start": 145.154,
-   "end": 149.186
+   "start": 146.882,
+   "end": 150.69
   },
   {
    "id": "e05b",
    "speaker": "N",
    "text": "You even start doing his homework. Just so he'll keep hating you.",
-   "start": 149.786,
-   "end": 153.622
+   "start": 151.29,
+   "end": 154.934
   },
   {
    "id": "e06",
    "speaker": "N",
    "text": "But week by week, Kyle starts watching you.",
-   "start": 154.222,
-   "end": 156.993
+   "start": 155.534,
+   "end": 158.06
   },
   {
    "id": "e07",
    "speaker": "N",
    "text": "He sees you carry Mrs. Patel's groceries up four floors. He sees you fix the swing nobody fixed.",
-   "start": 157.243,
-   "end": 164.511
+   "start": 158.31,
+   "end": 165.067
   },
   {
    "id": "e08",
    "speaker": "N",
    "text": "And one morning, he opens his mouth... and nothing comes out.",
-   "start": 165.011,
-   "end": 168.721
+   "start": 165.567,
+   "end": 169.702
   },
   {
    "id": "e09",
    "speaker": "KYLE",
    "text": "I can't say it anymore, man.",
-   "start": 169.221,
-   "end": 170.694
+   "start": 170.202,
+   "end": 171.785
   },
   {
    "id": "e10",
    "speaker": "N",
    "text": "He believes in you. It's the worst thing he's ever done to you.",
-   "start": 171.294,
-   "end": 175.047
+   "start": 172.385,
+   "end": 176.328
   },
   {
    "id": "f01",
    "speaker": "N",
    "text": "Then, on a Tuesday, the old gym catches fire.",
-   "start": 176.247,
-   "end": 179.315
+   "start": 177.528,
+   "end": 180.27
   },
   {
    "id": "f02",
    "speaker": "N",
    "text": "A roof beam comes down across the exit. Your dad is inside.",
-   "start": 179.615,
-   "end": 183.954
+   "start": 180.57,
+   "end": 184.592
   },
   {
    "id": "f03",
    "speaker": "N",
    "text": "The whole street is watching. And the whole street believes.",
-   "start": 184.454,
-   "end": 187.903
+   "start": 185.092,
+   "end": 188.438
   },
   {
    "id": "f04",
    "speaker": "CROWD",
    "text": "You can do it, Theo!",
-   "start": 188.203,
-   "end": 189.776
+   "start": 188.738,
+   "end": 190.311
   },
   {
    "id": "f05",
    "speaker": "N",
    "text": "Every cheer makes you weaker. Your arms shake. The beam won't move.",
-   "start": 190.076,
-   "end": 194.546
+   "start": 190.611,
+   "end": 195.48
   },
   {
    "id": "f05b",
    "speaker": "N",
    "text": "Two thousand kilos. Eight hundred. Ninety.",
-   "start": 195.146,
-   "end": 197.841
+   "start": 196.08,
+   "end": 199.846
   },
   {
    "id": "f06",
    "speaker": "N",
    "text": "There's one person left.",
-   "start": 198.441,
-   "end": 199.958
+   "start": 200.446,
+   "end": 201.948
   },
   {
    "id": "f07",
    "speaker": "THEO",
    "text": "Kyle. Please. Tell me I can't.",
-   "start": 200.358,
-   "end": 201.932
+   "start": 202.348,
+   "end": 205.269
   },
   {
    "id": "f08",
    "speaker": "KYLE",
    "text": "You can't. You never could. You're nothing!",
-   "start": 202.732,
-   "end": 204.436
+   "start": 206.069,
+   "end": 208.834
   },
   {
    "id": "f09",
    "speaker": "N",
    "text": "He's crying while he says it. He doesn't mean a single word.",
-   "start": 204.836,
-   "end": 208.568
+   "start": 209.234,
+   "end": 213.097
   },
   {
    "id": "f10",
    "speaker": "N",
    "text": "But words are words.",
-   "start": 208.968,
-   "end": 210.369
+   "start": 213.497,
+   "end": 214.846
   },
   {
    "id": "f11",
    "speaker": "N",
    "text": "The beam goes up like paper. And your dad walks out.",
-   "start": 210.869,
-   "end": 214.364
+   "start": 215.346,
+   "end": 218.581
   },
   {
    "id": "g01",
    "speaker": "N",
    "text": "Later, Kyle sits next to you on the curb.",
-   "start": 215.664,
-   "end": 218.287
+   "start": 219.881,
+   "end": 222.534
   },
   {
    "id": "g02",
    "speaker": "KYLE",
    "text": "I didn't mean it.",
-   "start": 218.587,
-   "end": 219.483
+   "start": 222.834,
+   "end": 223.864
   },
   {
    "id": "g03",
    "speaker": "THEO",
    "text": "I know. That's the nicest thing anyone's ever said to me.",
-   "start": 219.983,
-   "end": 222.862
+   "start": 224.364,
+   "end": 228.053
   },
   {
    "id": "g04",
    "speaker": "N",
    "text": "Sometimes the people who believe in you most are the ones brave enough to say you can't.",
-   "start": 223.562,
-   "end": 228.857
+   "start": 228.753,
+   "end": 234.137
   },
   {
    "id": "h01",
    "speaker": "N",
    "text": "That night, you look in the mirror. And you realize you've never tried one thing.",
-   "start": 230.157,
-   "end": 234.669
+   "start": 235.437,
+   "end": 240.268
   },
   {
    "id": "h02",
    "speaker": "N",
    "text": "You've never doubted yourself.",
-   "start": 235.069,
-   "end": 236.938
+   "start": 240.668,
+   "end": 242.49
   },
   {
    "id": "h03",
    "speaker": "THEO",
    "text": "I can't.",
-   "start": 237.538,
-   "end": 238.201
+   "start": 243.09,
+   "end": 243.879
   },
   {
    "id": "h04",
    "speaker": "N",
    "text": "The mirror cracks. And every light on the street goes out.",
-   "start": 238.801,
-   "end": 242.191
+   "start": 244.479,
+   "end": 248.124
   },
   {
    "id": "h05",
    "speaker": "N",
    "text": "So, would you want to be strong only when people doubt you? Tell us in the comments.",
-   "start": 243.191,
-   "end": 248.088
+   "start": 249.124,
+   "end": 253.933
   },
   {
    "id": "h06",
    "speaker": "N",
    "text": "And subscribe. Because next time, the whole world says Theo can't.",
-   "start": 248.488,
-   "end": 252.735
+   "start": 254.333,
+   "end": 258.48
   }
  ]
 }
