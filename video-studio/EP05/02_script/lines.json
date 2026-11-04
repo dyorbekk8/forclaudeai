@@ -1,0 +1,309 @@
+{
+ "title": "What If Every Blink Teleported You 10x Farther?",
+ "cast": {
+  "N": {
+   "voice": "am_michael",
+   "speed": 0.95
+  },
+  "MOM": {
+   "voice": "af_heart",
+   "speed": 1.0
+  }
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "s": "N",
+   "t": "You wake up. You open your eyes. You blink.",
+   "el": "You wake up. You open your eyes. You blink.",
+   "p": 0.4
+  },
+  {
+   "id": "a02",
+   "s": "N",
+   "t": "And you're one meter closer to the door.",
+   "el": "And you're one meter closer to the door.",
+   "p": 0.6
+  },
+  {
+   "id": "a03",
+   "s": "N",
+   "t": "Weird. You blink again. Ten meters. You're standing in the kitchen.",
+   "el": "[curious] Weird. You blink again. Ten meters. You're standing in the kitchen.",
+   "p": 0.4
+  },
+  {
+   "id": "a04",
+   "s": "MOM",
+   "t": "Leo?! How did you... Don't forget your...",
+   "el": "[surprised] Leo?! How did you... Don't forget your...",
+   "p": 0.2
+  },
+  {
+   "id": "a05",
+   "s": "N",
+   "t": "Blink. And you never hear the end of that sentence.",
+   "el": "[tense] Blink. And you never hear the end of that sentence.",
+   "p": 1.1
+  },
+  {
+   "id": "b01",
+   "s": "N",
+   "t": "Here's the rule. Every time you blink, you teleport forward, in whatever direction you're looking. And every blink sends you ten times farther than the last one.",
+   "el": "Here's the rule. Every time you blink, you teleport forward, in whatever direction you're looking. And every blink sends you ten times farther than the last one.",
+   "p": 0.5
+  },
+  {
+   "id": "b02",
+   "s": "N",
+   "t": "One meter. Ten. A hundred. A thousand.",
+   "el": "One meter. Ten. A hundred. A thousand.",
+   "p": 0.5
+  },
+  {
+   "id": "b03",
+   "s": "N",
+   "t": "The average person blinks about fifteen times a minute. Which means...",
+   "el": "The average person blinks about fifteen times a minute. Which means...",
+   "p": 0.3
+  },
+  {
+   "id": "b04",
+   "s": "N",
+   "t": "In less than two minutes, you'll be outside the observable universe.",
+   "el": "[ominous] In less than two minutes, you'll be outside the observable universe.",
+   "p": 1.0
+  },
+  {
+   "id": "b05",
+   "s": "N",
+   "t": "There are only two small mercies. You can't teleport into anything solid. And if you keep your eyes closed for ten full seconds, the count resets back to one meter.",
+   "el": "There are only two small mercies. You can't teleport into anything solid. And if you keep your eyes closed for ten full seconds, the count resets back to one meter.",
+   "p": 0.5
+  },
+  {
+   "id": "b06",
+   "s": "N",
+   "t": "But right now... you don't know any of that.",
+   "el": "[urgent] But right now... you don't know any of that.",
+   "p": 1.0
+  },
+  {
+   "id": "c01",
+   "s": "N",
+   "t": "Blink three. A hundred meters. You land in the middle of the street. A car horn screams past your face.",
+   "el": "Blink three. A hundred meters. You land in the middle of the street. A car horn screams past your face.",
+   "p": 0.5
+  },
+  {
+   "id": "c02",
+   "s": "N",
+   "t": "Blink four. One kilometer. You're on the roof of your school. Your science teacher is drinking coffee. She drops it.",
+   "el": "[panicked] Blink four. One kilometer. You're on the roof of your school. Your science teacher is drinking coffee. She drops it.",
+   "p": 0.5
+  },
+  {
+   "id": "c03",
+   "s": "N",
+   "t": "Your eyes are burning. You try not to blink. Five seconds. Ten. Fifteen. Tears run down your face.",
+   "el": "Your eyes are burning. You try not to blink. Five seconds. Ten. Fifteen. Tears run down your face.",
+   "p": 0.6
+  },
+  {
+   "id": "c04",
+   "s": "N",
+   "t": "And then... you look up at the sky. And you blink.",
+   "el": "[defeated] And then... you look up at the sky. And you blink.",
+   "p": 1.0
+  },
+  {
+   "id": "d01",
+   "s": "N",
+   "t": "Ten kilometers. You're at the height of a passenger jet. A kid in a window seat stares at you. You stare back.",
+   "el": "Ten kilometers. You're at the height of a passenger jet. A kid in a window seat stares at you. You stare back.",
+   "p": 0.6
+  },
+  {
+   "id": "d02",
+   "s": "N",
+   "t": "Somehow, the teleport drags a bubble of air along with you. Don't ask how. Just breathe.",
+   "el": "[breathless] Somehow, the teleport drags a bubble of air along with you. Don't ask how. Just breathe.",
+   "p": 0.6
+  },
+  {
+   "id": "d03",
+   "s": "N",
+   "t": "Blink six. A hundred kilometers. The Karman line. Officially... you are in space.",
+   "el": "Blink six. A hundred kilometers. The Karman line. Officially... you are in space.",
+   "p": 0.6
+  },
+  {
+   "id": "d04",
+   "s": "N",
+   "t": "Below you, the whole sky is black. And the curve of the Earth glows blue, like the edge of a marble.",
+   "el": "Below you, the whole sky is black. And the curve of the Earth glows blue, like the edge of a marble.",
+   "p": 0.8
+  },
+  {
+   "id": "d05",
+   "s": "N",
+   "t": "Blink seven. A thousand kilometers. You pass the International Space Station. Somebody inside drops a sandwich.",
+   "el": "Blink seven. A thousand kilometers. You pass the International Space Station. Somebody inside drops a sandwich.",
+   "p": 0.6
+  },
+  {
+   "id": "d06",
+   "s": "N",
+   "t": "Blink eight. Ten thousand kilometers. For the first time, you can see the entire planet. Every person you have ever met is down there.",
+   "el": "Blink eight. Ten thousand kilometers. For the first time, you can see the entire planet. Every person you have ever met is down there.",
+   "p": 1.0
+  },
+  {
+   "id": "e01",
+   "s": "N",
+   "t": "Blink nine. Blink ten. A million kilometers. The Moon whips past you. It's already behind you.",
+   "el": "[building] Blink nine. Blink ten. A million kilometers. The Moon whips past you. It's already behind you.",
+   "p": 0.5
+  },
+  {
+   "id": "e02",
+   "s": "N",
+   "t": "Blink eleven. Ten million. Blink twelve. A hundred million kilometers. The Sun is shrinking behind you.",
+   "el": "Blink eleven. Ten million. Blink twelve. A hundred million kilometers. The Sun is shrinking behind you.",
+   "p": 0.5
+  },
+  {
+   "id": "e03",
+   "s": "N",
+   "t": "Blink thirteen. A billion kilometers. Saturn. Its rings are so wide, they'd stretch most of the way from Earth to the Moon.",
+   "el": "Blink thirteen. A billion kilometers. Saturn. Its rings are so wide, they'd stretch most of the way from Earth to the Moon.",
+   "p": 0.6
+  },
+  {
+   "id": "e04",
+   "s": "N",
+   "t": "Blink fifteen. A hundred billion kilometers. A little probe called Voyager has been flying away from Earth for almost fifty years. You just passed it. In a blink.",
+   "el": "Blink fifteen. A hundred billion kilometers. A little probe called Voyager has been flying away from Earth for almost fifty years. You just passed it. In a blink.",
+   "p": 0.7
+  },
+  {
+   "id": "e05",
+   "s": "N",
+   "t": "You turn around. Earth is a single pale blue pixel. And then it's gone.",
+   "el": "[quietly] You turn around. Earth is a single pale blue pixel. And then it's gone.",
+   "p": 1.2
+  },
+  {
+   "id": "f01",
+   "s": "N",
+   "t": "Blink seventeen. One light year. Light itself needs a whole year to get here. You needed one quarter of a second.",
+   "el": "Blink seventeen. One light year. Light itself needs a whole year to get here. You needed one quarter of a second.",
+   "p": 0.6
+  },
+  {
+   "id": "f02",
+   "s": "N",
+   "t": "Blink eighteen. Ten light years. You fly straight past Proxima Centauri, the closest star to the Sun.",
+   "el": "Blink eighteen. Ten light years. You fly straight past Proxima Centauri, the closest star to the Sun.",
+   "p": 0.6
+  },
+  {
+   "id": "f03",
+   "s": "N",
+   "t": "Blink twenty two. A hundred thousand light years. You are outside the Milky Way. All two hundred billion of its stars... fit in your view.",
+   "el": "Blink twenty two. A hundred thousand light years. You are outside the Milky Way. All two hundred billion of its stars... fit in your view.",
+   "p": 0.7
+  },
+  {
+   "id": "f04",
+   "s": "N",
+   "t": "Blink twenty four. Ten million light years. Andromeda is behind you. A trillion stars.",
+   "el": "Blink twenty four. Ten million light years. Andromeda is behind you. A trillion stars.",
+   "p": 0.6
+  },
+  {
+   "id": "f05",
+   "s": "N",
+   "t": "Blink twenty six. A billion light years. Galaxies stretch out in long glowing threads. Like a spider web made of light.",
+   "el": "Blink twenty six. A billion light years. Galaxies stretch out in long glowing threads. Like a spider web made of light.",
+   "p": 0.7
+  },
+  {
+   "id": "f06",
+   "s": "N",
+   "t": "Blink twenty seven. Ten billion light years. Almost everything that exists... is behind you.",
+   "el": "[awed] Blink twenty seven. Ten billion light years. Almost everything that exists... is behind you.",
+   "p": 1.2
+  },
+  {
+   "id": "g01",
+   "s": "N",
+   "t": "Your eyes are burning again. You know what happens if you blink.",
+   "el": "[whispers] Your eyes are burning again. You know what happens if you blink.",
+   "p": 0.6
+  },
+  {
+   "id": "g02",
+   "s": "N",
+   "t": "The observable universe is about forty six billion light years in every direction. Your next blink is a hundred billion.",
+   "el": "The observable universe is about forty six billion light years in every direction. Your next blink is a hundred billion.",
+   "p": 0.6
+  },
+  {
+   "id": "g03",
+   "s": "N",
+   "t": "Ten seconds. Twenty. Thirty. Your whole body shakes.",
+   "el": "[very tense] Ten seconds. Twenty. Thirty. Your whole body shakes.",
+   "p": 0.6
+  },
+  {
+   "id": "g04",
+   "s": "N",
+   "t": "And then you remember something. You close your eyes. And you keep them closed.",
+   "el": "And then you remember something. You close your eyes. And you keep them closed.",
+   "p": 0.6
+  },
+  {
+   "id": "g05",
+   "s": "N",
+   "t": "One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten.",
+   "el": "One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten.",
+   "p": 0.4
+  },
+  {
+   "id": "g06",
+   "s": "N",
+   "t": "Reset. One meter.",
+   "el": "[softly] Reset. One meter.",
+   "p": 1.4
+  },
+  {
+   "id": "h01",
+   "s": "N",
+   "t": "You open your eyes. You are a hundred billion light years from home. And from now on, every step back is only one meter long.",
+   "el": "You open your eyes. You are a hundred billion light years from home. And from now on, every step back is only one meter long.",
+   "p": 0.8
+  },
+  {
+   "id": "h02",
+   "s": "N",
+   "t": "And the only thing you can think about is your mom, standing in the kitchen. Trying to tell you something.",
+   "el": "[emotional] And the only thing you can think about is your mom, standing in the kitchen. Trying to tell you something.",
+   "p": 0.8
+  },
+  {
+   "id": "h03",
+   "s": "MOM",
+   "t": "Don't forget your...",
+   "el": "[echo, soft] Don't forget your...",
+   "p": 1.4
+  },
+  {
+   "id": "h04",
+   "s": "N",
+   "t": "How would you get home? Tell me in the comments. Because next time... you're going to try.",
+   "el": "How would you get home? Tell me in the comments. Because next time... you're going to try.",
+   "p": 0.32
+  }
+ ]
+}
