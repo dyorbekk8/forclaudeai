@@ -156,11 +156,13 @@ export const B1: ShotFC = ({ o, d }) => {
   return (
     <Sh mood="clean" box={1}>
       <DataBG t={t + o} />
-      <g transform="translate(960 470)">
+      <g transform={`translate(960 470) scale(${tw(t, 0, d, 1.0, 1.12)})`}>
         <path d="M -340 0 Q 0 -230 340 0 Q 0 230 -340 0 Z" fill="#fff" />
-        <circle r={150} fill="#4a7bf0" />
-        <circle r={70} fill="#111" />
-        <circle cx={-46} cy={-46} r={28} fill="#fff" />
+        <g transform={`translate(${Math.sin(t * 1.3) * 60} ${Math.cos(t * 0.9) * 25})`}>
+          <circle r={150} fill="#4a7bf0" />
+          <circle r={70 + Math.sin(t * 2) * 8} fill="#111" />
+          <circle cx={-46} cy={-46} r={28} fill="#fff" />
+        </g>
         <rect x={-360} y={-260} width={720} height={260 * tw(t, fr('b01', 0.1), fr('b01', 0.14), 0, 1) * (t < fr('b01', 0.2) ? 1 : 0)} fill="#0b1530" />
       </g>
       <Badge t={t} t0={fr('b01', 0.2)} x={960} y={800} text="1 blink = teleport forward" size={46} color="#fff" icon="👁" />
@@ -584,8 +586,10 @@ export const G2: ShotFC = ({ o, d }) => {
   const { t, fr } = useF(o);
   return (
     <Sh mood="clean" box={1}>
-      <rect width={1920} height={1080} fill="#02010a" />
-      <circle cx={960} cy={560} r={300} fill="none" stroke="#b18cff" strokeWidth={6} opacity={0.8} />
+      <Stars t={t} n={140} drift={30} />
+      <g transform={`translate(960 560) scale(${tw(t, 0, d, 1.0, 1.15)}) translate(-960 -560)`}>
+      <circle cx={960} cy={560} r={300 + Math.sin(t * 2) * 8} fill="none" stroke="#b18cff" strokeWidth={6} opacity={0.8} />
+      <circle cx={960} cy={560} r={340 + (t * 60) % 200} fill="none" stroke="#b18cff" strokeWidth={3} opacity={0.4 * (1 - ((t * 60) % 200) / 200)} />
       <circle cx={960} cy={560} r={300} fill="#6a4aff" opacity={0.08} />
       <text x={960} y={575} textAnchor="middle" fontSize={40} fontWeight={700} fill="#e8e2ff" fontFamily={FONT_HEAD}>observable universe</text>
       <text x={960} y={625} textAnchor="middle" fontSize={34} fill={C.gray} fontFamily={FONT_HEAD}>46 billion ly radius</text>
@@ -593,6 +597,7 @@ export const G2: ShotFC = ({ o, d }) => {
       <g opacity={tw(t, fr('g02', 0.55), fr('g02', 0.65), 0, 1)}>
         <path d={`M ${1254} 560 L ${1254 + 600 * clamp01((t - fr('g02', 0.6)) / 1.2)} 560`} stroke={C.red} strokeWidth={8} strokeDasharray="20 12" />
         <text x={1600} y={520} textAnchor="middle" fontSize={44} fontWeight={700} fill={C.red} fontFamily={FONT_HEAD}>next blink: 100 billion ly</text>
+      </g>
       </g>
     </Sh>
   );
