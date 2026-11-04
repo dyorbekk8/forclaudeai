@@ -47,8 +47,8 @@ export const Thumb6: React.FC<{ v?: 'A' | 'B' }> = ({ v = 'A' }) => {
         </g>
         <rect width={1920} height={1080} fill="url(#vg6)" />
         <g style={{ filter: 'drop-shadow(0 10px 0 rgba(0,0,0,0.65))' }}>
-          <text x={70} y={800} fontSize={190} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? "DON'T" : '1 BLINK'}</text>
-          <text x={70} y={1000} fontSize={220} fontWeight={700} fontFamily={FONT_HEAD} fill="#ffd21a" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'BLINK.' : '= ×10'}</text>
+          <text x={150} y={740} fontSize={170} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? "DON'T" : '1 BLINK'}</text>
+          <text x={150} y={930} fontSize={200} fontWeight={700} fontFamily={FONT_HEAD} fill="#ffd21a" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'BLINK.' : '= ×10'}</text>
         </g>
       </svg>
     </AbsoluteFill>

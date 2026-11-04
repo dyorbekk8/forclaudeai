@@ -65,8 +65,8 @@ export const Thumb5: React.FC<{ v?: 'A' | 'B' }> = ({ v = 'A' }) => {
         <rect width={1920} height={1080} fill="url(#vg5)" />
         {/* headline: white + yellow, two lines */}
         <g style={{ filter: 'drop-shadow(0 10px 0 rgba(0,0,0,0.65))' }}>
-          <text x={70} y={v === 'A' ? 800 : 820} fontSize={190} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'SAY MY' : 'TOO'}</text>
-          <text x={70} y={v === 'A' ? 990 : 1010} fontSize={210} fontWeight={700} fontFamily={FONT_HEAD} fill="#ffd21a" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'NAME.' : 'FAST.'}</text>
+          <text x={150} y={740} fontSize={170} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'SAY MY' : 'TOO'}</text>
+          <text x={150} y={925} fontSize={195} fontWeight={700} fontFamily={FONT_HEAD} fill="#ffd21a" stroke="#000" strokeWidth={8} paintOrder="stroke">{v === 'A' ? 'NAME.' : 'FAST.'}</text>
         </g>
       </svg>
     </AbsoluteFill>
