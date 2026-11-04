@@ -1,0 +1,34 @@
+{
+ "video": {
+  "codec": "h264",
+  "w": 1920,
+  "h": 1080,
+  "fps": "30/1",
+  "pix": "yuv420p",
+  "dur": 229.966667
+ },
+ "audio": {
+  "codec": "aac",
+  "sr": "48000",
+  "ch": 2,
+  "dur": 229.952
+ },
+ "expected_dur": 229.96666666666667,
+ "av_dur_diff_s": 0.015,
+ "black_segments": [],
+ "frozen_over_4s": [],
+ "lufs": -14.0,
+ "lra": 1.5,
+ "true_peak": -1.0,
+ "checks": {
+  "1920x1080": true,
+  "30fps": true,
+  "yuv420p": true,
+  "duration\u2248EDL": true,
+  "A/V same length": true,
+  "no black frames": true,
+  "no frozen >4s": true,
+  "loudness -14\u00b11": true,
+  "true peak \u2264 -1": true
+ }
+}
