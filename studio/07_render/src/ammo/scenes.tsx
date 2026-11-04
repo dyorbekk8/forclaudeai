@@ -666,18 +666,18 @@ export const A10Drop: React.FC<{ev?: number[]}> = ({ev}) => {
         <line x1={0} y1={560} x2={1920} y2={560} stroke={C.ink} strokeWidth={5} strokeDasharray="22 14" />
         <text x={80} y={530} fontFamily="Barlow Condensed" fontWeight={800} fontSize={64} fill={C.inkSoft}>GEORGIA</text>
         <text x={80} y={640} fontFamily="Barlow Condensed" fontWeight={800} fontSize={64} fill={C.inkSoft}>FLORIDA</text>
-        <g transform={`translate(${px} ${py})`}>
+        <g transform={`translate(${px} ${py}) scale(2.2)`}>
           <path d="M -70 0 L 70 -6 L 90 0 L 70 6 Z" fill="#6E747A" />
           <path d="M -10 -4 L 20 -60 L 34 -60 L 22 -4 Z M -10 4 L 20 60 L 34 60 L 22 4 Z" fill="#6E747A" />
           <rect x={-60} y={-18} width={18} height={10} fill="#6E747A" />
           <rect x={-60} y={8} width={18} height={10} fill="#6E747A" />
         </g>
-        {f >= hit && f < hit + 8 && <circle cx={px + 90} cy={py} r={40} fill="#fff" stroke={C.red} strokeWidth={6} />}
+        {f >= hit && f < hit + 8 && <circle cx={px + 200} cy={py} r={70} fill="#fff" stroke={C.red} strokeWidth={6} />}
         {after > 0 &&
           [0, 1, 2].map((k) => {
             const x0 = interpolate(hit, [0, d], [100, 1500]) + k * 40;
             const y = Math.min(760 + k * 20, interpolate(hit, [0, d], [300, 420]) + after * after * 0.4);
-            return <rect key={k} x={x0 + after * 3} y={y} width={40} height={14} rx={7} fill="#86B6E6" stroke="#2C4D70" strokeWidth={2} />;
+            return <rect key={k} x={x0 + after * 3} y={y} width={80} height={26} rx={13} fill="#86B6E6" stroke="#2C4D70" strokeWidth={2} />;
           })}
       </svg>
       <div style={{position: 'absolute', left: 120, top: 140}}>
