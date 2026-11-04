@@ -1,0 +1,25 @@
+8000|742|Every Gas Cylinder Color Explained
+26000|868|Every Bullet Type Explained
+8100|499|Every Hard Hat Color Explained
+76000|683|Every Shotgun Shell Color Explained
+27000|653|Every Medical Waste Color Explained
+15000|484|Every Emergency Light Color Explained
+84000|872|Every Bullet Caliber Explained
+8000|531|Every Utility Marking Color Explained
+416000|834|Every Bullet Tip Color Explained
+52000|532|Every Patient Condition Explained
+171000|595|Every Biosafety Level Explained
+10000|836|Every US Navy Badge Explained
+90000|496|Every Firefighter Helmet Color Explained
+20000|858|Every US Coast Guard Rank Explained
+124000|748|Every Blood Tube Color Explained
+92000|869|Every Police 10-Code Explained
+69000|974|Every US Military Pay Grade Explained
+157000|903|Every Hazmat Placard Explained
+169000|520|Every Emergency Room Triage Color Explained
+29000|727|Every Road Sign Color Explained
+30000|829|Every Way You Can Lose a Security Clearance
+11000|663|Every Item on a Police Duty Belt Explained
+274000|874|Every US Army Badge Explained
+82000|766|Every Step of Becoming a Navy SEAL Explained
+332000|625|Every Hospital Wristband Color Explained

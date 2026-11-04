@@ -1,0 +1,2183 @@
+{
+ "fps": 30,
+ "total": 8441,
+ "beats": [
+  {
+   "id": "a01",
+   "from": 0,
+   "dur": 287,
+   "voStart": 15,
+   "vo": "03_voiceover/prison/final/a01.wav",
+   "voDur": 8.957
+  },
+  {
+   "id": "a02",
+   "from": 287,
+   "dur": 225,
+   "voStart": 289,
+   "vo": "03_voiceover/prison/final/a02.wav",
+   "voDur": 7.296
+  },
+  {
+   "id": "a03",
+   "from": 512,
+   "dur": 159,
+   "voStart": 514,
+   "vo": "03_voiceover/prison/final/a03.wav",
+   "voDur": 4.86
+  },
+  {
+   "id": "s1a",
+   "from": 671,
+   "dur": 60,
+   "voStart": 686,
+   "vo": "03_voiceover/prison/final/s1a.wav",
+   "voDur": 1.392
+  },
+  {
+   "id": "s1b",
+   "from": 731,
+   "dur": 249,
+   "voStart": 733,
+   "vo": "03_voiceover/prison/final/s1b.wav",
+   "voDur": 8.104
+  },
+  {
+   "id": "s1c",
+   "from": 980,
+   "dur": 229,
+   "voStart": 982,
+   "vo": "03_voiceover/prison/final/s1c.wav",
+   "voDur": 7.423
+  },
+  {
+   "id": "s1d",
+   "from": 1209,
+   "dur": 294,
+   "voStart": 1211,
+   "vo": "03_voiceover/prison/final/s1d.wav",
+   "voDur": 9.614
+  },
+  {
+   "id": "s1e",
+   "from": 1503,
+   "dur": 210,
+   "voStart": 1505,
+   "vo": "03_voiceover/prison/final/s1e.wav",
+   "voDur": 3.491
+  },
+  {
+   "id": "s1f",
+   "from": 1713,
+   "dur": 130,
+   "voStart": 1715,
+   "vo": "03_voiceover/prison/final/s1f.wav",
+   "voDur": 4.15
+  },
+  {
+   "id": "s1g",
+   "from": 1843,
+   "dur": 163,
+   "voStart": 1845,
+   "vo": "03_voiceover/prison/final/s1g.wav",
+   "voDur": 5.238
+  },
+  {
+   "id": "s1h",
+   "from": 2006,
+   "dur": 245,
+   "voStart": 2008,
+   "vo": "03_voiceover/prison/final/s1h.wav",
+   "voDur": 7.744
+  },
+  {
+   "id": "s2a",
+   "from": 2251,
+   "dur": 79,
+   "voStart": 2266,
+   "vo": "03_voiceover/prison/final/s2a.wav",
+   "voDur": 2.027
+  },
+  {
+   "id": "s2b",
+   "from": 2330,
+   "dur": 240,
+   "voStart": 2332,
+   "vo": "03_voiceover/prison/final/s2b.wav",
+   "voDur": 7.794
+  },
+  {
+   "id": "s2c",
+   "from": 2570,
+   "dur": 272,
+   "voStart": 2572,
+   "vo": "03_voiceover/prison/final/s2c.wav",
+   "voDur": 8.862
+  },
+  {
+   "id": "s2d",
+   "from": 2842,
+   "dur": 408,
+   "voStart": 2844,
+   "vo": "03_voiceover/prison/final/s2d.wav",
+   "voDur": 13.397
+  },
+  {
+   "id": "s2e",
+   "from": 3250,
+   "dur": 232,
+   "voStart": 3252,
+   "vo": "03_voiceover/prison/final/s2e.wav",
+   "voDur": 7.523
+  },
+  {
+   "id": "s2f",
+   "from": 3482,
+   "dur": 160,
+   "voStart": 3484,
+   "vo": "03_voiceover/prison/final/s2f.wav",
+   "voDur": 4.891
+  },
+  {
+   "id": "s3a",
+   "from": 3642,
+   "dur": 75,
+   "voStart": 3657,
+   "vo": "03_voiceover/prison/final/s3a.wav",
+   "voDur": 1.877
+  },
+  {
+   "id": "s3b",
+   "from": 3717,
+   "dur": 165,
+   "voStart": 3719,
+   "vo": "03_voiceover/prison/final/s3b.wav",
+   "voDur": 5.313
+  },
+  {
+   "id": "s3c",
+   "from": 3882,
+   "dur": 243,
+   "voStart": 3884,
+   "vo": "03_voiceover/prison/final/s3c.wav",
+   "voDur": 7.667
+  },
+  {
+   "id": "s4a",
+   "from": 4125,
+   "dur": 82,
+   "voStart": 4140,
+   "vo": "03_voiceover/prison/final/s4a.wav",
+   "voDur": 2.126
+  },
+  {
+   "id": "s4b",
+   "from": 4207,
+   "dur": 174,
+   "voStart": 4209,
+   "vo": "03_voiceover/prison/final/s4b.wav",
+   "voDur": 5.613
+  },
+  {
+   "id": "s4c",
+   "from": 4381,
+   "dur": 228,
+   "voStart": 4383,
+   "vo": "03_voiceover/prison/final/s4c.wav",
+   "voDur": 7.166
+  },
+  {
+   "id": "s5a",
+   "from": 4609,
+   "dur": 76,
+   "voStart": 4624,
+   "vo": "03_voiceover/prison/final/s5a.wav",
+   "voDur": 1.901
+  },
+  {
+   "id": "s5b",
+   "from": 4685,
+   "dur": 329,
+   "voStart": 4687,
+   "vo": "03_voiceover/prison/final/s5b.wav",
+   "voDur": 10.767
+  },
+  {
+   "id": "s5c",
+   "from": 5014,
+   "dur": 184,
+   "voStart": 5016,
+   "vo": "03_voiceover/prison/final/s5c.wav",
+   "voDur": 5.71
+  },
+  {
+   "id": "s6a",
+   "from": 5198,
+   "dur": 76,
+   "voStart": 5213,
+   "vo": "03_voiceover/prison/final/s6a.wav",
+   "voDur": 1.897
+  },
+  {
+   "id": "s6b",
+   "from": 5274,
+   "dur": 211,
+   "voStart": 5276,
+   "vo": "03_voiceover/prison/final/s6b.wav",
+   "voDur": 6.845
+  },
+  {
+   "id": "s6c",
+   "from": 5485,
+   "dur": 381,
+   "voStart": 5487,
+   "vo": "03_voiceover/prison/final/s6c.wav",
+   "voDur": 12.505
+  },
+  {
+   "id": "s6d",
+   "from": 5866,
+   "dur": 128,
+   "voStart": 5868,
+   "vo": "03_voiceover/prison/final/s6d.wav",
+   "voDur": 3.837
+  },
+  {
+   "id": "s7a",
+   "from": 5994,
+   "dur": 91,
+   "voStart": 6009,
+   "vo": "03_voiceover/prison/final/s7a.wav",
+   "voDur": 2.428
+  },
+  {
+   "id": "s7b",
+   "from": 6085,
+   "dur": 357,
+   "voStart": 6087,
+   "vo": "03_voiceover/prison/final/s7b.wav",
+   "voDur": 11.705
+  },
+  {
+   "id": "s7c",
+   "from": 6442,
+   "dur": 202,
+   "voStart": 6444,
+   "vo": "03_voiceover/prison/final/s7c.wav",
+   "voDur": 6.542
+  },
+  {
+   "id": "s7d",
+   "from": 6644,
+   "dur": 198,
+   "voStart": 6646,
+   "vo": "03_voiceover/prison/final/s7d.wav",
+   "voDur": 6.386
+  },
+  {
+   "id": "s7e",
+   "from": 6842,
+   "dur": 114,
+   "voStart": 6844,
+   "vo": "03_voiceover/prison/final/s7e.wav",
+   "voDur": 3.596
+  },
+  {
+   "id": "s7f",
+   "from": 6956,
+   "dur": 414,
+   "voStart": 6958,
+   "vo": "03_voiceover/prison/final/s7f.wav",
+   "voDur": 13.589
+  },
+  {
+   "id": "s7g",
+   "from": 7370,
+   "dur": 89,
+   "voStart": 7372,
+   "vo": "03_voiceover/prison/final/s7g.wav",
+   "voDur": 2.76
+  },
+  {
+   "id": "s7h",
+   "from": 7459,
+   "dur": 468,
+   "voStart": 7461,
+   "vo": "03_voiceover/prison/final/s7h.wav",
+   "voDur": 15.403
+  },
+  {
+   "id": "e1",
+   "from": 7927,
+   "dur": 314,
+   "voStart": 7929,
+   "vo": "03_voiceover/prison/final/e1.wav",
+   "voDur": 10.261
+  },
+  {
+   "id": "e2",
+   "from": 8241,
+   "dur": 200,
+   "voStart": 8243,
+   "vo": "03_voiceover/prison/final/e2.wav",
+   "voDur": 3.601
+  }
+ ],
+ "shots": [
+  {
+   "id": "a01.0",
+   "beat": "a01",
+   "scene": "Ladder",
+   "props": {
+    "focus": -1,
+    "ev": []
+   },
+   "step": -1,
+   "from": 0,
+   "dur": 131,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "a01.1",
+   "beat": "a01",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "FROM A CAMP"
+     },
+     {
+      "t": "WITH NO FENCE",
+      "red": true
+     },
+     {
+      "t": "TO A CELL WHERE YOU SPEND"
+     },
+     {
+      "t": "23 HOURS A DAY ALONE",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     40,
+     58,
+     110
+    ]
+   },
+   "step": -1,
+   "from": 131,
+   "dur": 156,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 136,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 171,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 189,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 241,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "a02.0",
+   "beat": "a02",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "FEDERAL CUSTODY",
+    "lines": [
+     {
+      "t": "\u2248 150,000 PEOPLE",
+      "red": true
+     },
+     {
+      "t": "EVERY ONE SORTED"
+     },
+     {
+      "t": "INTO A LEVEL"
+     }
+    ],
+    "ev": [
+     2,
+     106,
+     153
+    ]
+   },
+   "step": -1,
+   "from": 287,
+   "dur": 225,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 289,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 393,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 440,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "a03.0",
+   "beat": "a03",
+   "scene": "NoEscape",
+   "props": {
+    "ev": []
+   },
+   "step": -1,
+   "from": 512,
+   "dur": 80,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 522,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "a03.1",
+   "beat": "a03",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE MOST SECURE PRISON"
+     },
+     {
+      "t": "IS NOT \"HIGH SECURITY\"",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     40
+    ]
+   },
+   "step": -1,
+   "from": 592,
+   "dur": 79,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 597,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 632,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s1a.0",
+   "beat": "s1a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 0,
+    "from": -1,
+    "ev": []
+   },
+   "step": 0,
+   "from": 671,
+   "dur": 60,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 671,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 693,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1b.0",
+   "beat": "s1b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "A JUDGE CAN RECOMMEND"
+     },
+     {
+      "t": "THE BUREAU OF PRISONS DECIDES",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     143
+    ]
+   },
+   "step": 0,
+   "from": 731,
+   "dur": 178,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 733,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 874,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s1b.1",
+   "beat": "s1b",
+   "scene": "ScoreForm",
+   "props": {
+    "rows": [
+     "OFFENSE SEVERITY",
+     "CRIMINAL HISTORY",
+     "HISTORY OF VIOLENCE",
+     "ESCAPE HISTORY"
+    ],
+    "pts": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "ev": [
+     15,
+     42
+    ]
+   },
+   "step": 0,
+   "from": 909,
+   "dur": 71,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 909,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1c.0",
+   "beat": "s1c",
+   "scene": "ScoreForm",
+   "props": {
+    "rows": [
+     "OFFENSE SEVERITY",
+     "CRIMINAL HISTORY",
+     "HISTORY OF VIOLENCE",
+     "ESCAPE HISTORY"
+    ],
+    "pts": [
+     5,
+     3,
+     2,
+     3
+    ],
+    "ev": [
+     2,
+     69,
+     107,
+     136
+    ]
+   },
+   "step": 0,
+   "from": 980,
+   "dur": 229,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 988,
+     "gain": -16
+    },
+    {
+     "file": "tick_2",
+     "frame": 1055,
+     "gain": -16
+    },
+    {
+     "file": "tick_3",
+     "frame": 1093,
+     "gain": -16
+    },
+    {
+     "file": "tick_1",
+     "frame": 1122,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1d.0",
+   "beat": "s1d",
+   "scene": "ScoreScale",
+   "props": {
+    "ev": [
+     21,
+     101,
+     157,
+     232
+    ]
+   },
+   "step": 0,
+   "from": 1209,
+   "dur": 294,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 1230,
+     "gain": -17
+    },
+    {
+     "file": "pop_2",
+     "frame": 1310,
+     "gain": -17
+    },
+    {
+     "file": "pop_3",
+     "frame": 1366,
+     "gain": -17
+    },
+    {
+     "file": "pop_1",
+     "frame": 1441,
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "s1e.0",
+   "beat": "s1e",
+   "scene": "ScoreScale",
+   "props": {
+    "marker": 14,
+    "quiz": true,
+    "ev": []
+   },
+   "step": 0,
+   "from": 1503,
+   "dur": 210,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 1503,
+     "gain": -18
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 1618,
+     "gain": -20
+    },
+    {
+     "file": "tick_1",
+     "frame": 1618,
+     "gain": -14
+    },
+    {
+     "file": "tick_2",
+     "frame": 1648,
+     "gain": -14
+    },
+    {
+     "file": "tick_3",
+     "frame": 1678,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s1f.0",
+   "beat": "s1f",
+   "scene": "ScoreScale",
+   "props": {
+    "marker": 14,
+    "reveal": true,
+    "gapNote": true,
+    "ev": [
+     36
+    ]
+   },
+   "step": 0,
+   "from": 1713,
+   "dur": 130,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 1715,
+     "gain": -14
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 1749,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1g.0",
+   "beat": "s1g",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "THE ONLY THING THAT SUBTRACTS POINTS",
+    "lines": [
+     {
+      "t": "SHOWING UP"
+     },
+     {
+      "t": "ON YOUR OWN",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     96
+    ]
+   },
+   "step": 0,
+   "from": 1843,
+   "dur": 163,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1845,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1939,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s1h.0",
+   "beat": "s1h",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE SCORE IS NOT FINAL"
+     }
+    ],
+    "ev": [
+     10
+    ]
+   },
+   "step": 0,
+   "from": 2006,
+   "dur": 90,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2016,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s1h.1",
+   "beat": "s1h",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "OVERRIDE",
+    "lines": [
+     {
+      "t": "PUBLIC SAFETY FACTORS",
+      "red": true
+     },
+     {
+      "t": "CAN PUSH YOU UP A LEVEL"
+     }
+    ],
+    "ev": [
+     19,
+     105
+    ]
+   },
+   "step": 0,
+   "from": 2096,
+   "dur": 155,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2115,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2201,
+     "gain": -19
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 2201,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2a.0",
+   "beat": "s2a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 1,
+    "from": 0,
+    "ev": []
+   },
+   "step": 1,
+   "from": 2251,
+   "dur": 79,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 2251,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2273,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s2b.0",
+   "beat": "s2b",
+   "scene": "PerimeterScene",
+   "props": {
+    "kind": "camp",
+    "title": "FEDERAL PRISON CAMP",
+    "labels": [
+     "DORMITORIES",
+     "FEW OFFICERS",
+     "LITTLE OR NO FENCE"
+    ],
+    "ev": [
+     55,
+     119,
+     168
+    ]
+   },
+   "step": 1,
+   "from": 2330,
+   "dur": 50,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2385,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2449,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 2498,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2b.1",
+   "beat": "s2b",
+   "scene": "HousingScene",
+   "props": {
+    "kinds": [
+     "dorm"
+    ],
+    "labels": [
+     "DORMITORY \u00b7 NOT CELLS"
+    ],
+    "ev": []
+   },
+   "step": 1,
+   "from": 2380,
+   "dur": 113,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 2380,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s2b.2",
+   "beat": "s2b",
+   "scene": "PerimeterScene",
+   "props": {
+    "kind": "camp",
+    "labels": [
+     "NO FENCE AT ALL"
+    ],
+    "ev": [
+     41
+    ]
+   },
+   "step": 1,
+   "from": 2493,
+   "dur": 77,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 2534,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2c.0",
+   "beat": "s2c",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "DESIGNED THAT WAY",
+    "lines": [
+     {
+      "t": "SO INMATES COULD WORK"
+     },
+     {
+      "t": "LANDSCAPING & MAINTENANCE",
+      "red": true
+     },
+     {
+      "t": "WITHOUT CHECKING IN AND OUT"
+     }
+    ],
+    "ev": [
+     2,
+     128,
+     182
+    ]
+   },
+   "step": 1,
+   "from": 2570,
+   "dur": 272,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2572,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2698,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 2752,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2d.0",
+   "beat": "s2d",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "AND SOMETIMES,"
+     },
+     {
+      "t": "THEY JUST LEAVE",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     51
+    ]
+   },
+   "step": 1,
+   "from": 2842,
+   "dur": 75,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2844,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2893,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2d.1",
+   "beat": "s2d",
+   "scene": "WalkAway",
+   "props": {
+    "phase": 0,
+    "ev": [
+     94,
+     206
+    ]
+   },
+   "step": 1,
+   "from": 2917,
+   "dur": 333,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 2917,
+     "gain": -18
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 3011,
+     "gain": -24
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3123,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s2e.0",
+   "beat": "s2e",
+   "scene": "WalkAway",
+   "props": {
+    "phase": 1,
+    "ev": [
+     123
+    ]
+   },
+   "step": 1,
+   "from": 3250,
+   "dur": 232,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3254,
+     "gain": -16
+    },
+    {
+     "file": "tick_2",
+     "frame": 3373,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2f.0",
+   "beat": "s2f",
+   "scene": "TwoWords",
+   "props": {
+    "a": "WALK AWAY",
+    "aWho": "BUREAU OF PRISONS",
+    "b": "ESCAPE",
+    "bWho": "THE LAW",
+    "ev": [
+     2,
+     87
+    ]
+   },
+   "step": 1,
+   "from": 3482,
+   "dur": 160,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 3484,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3569,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s3a.0",
+   "beat": "s3a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 2,
+    "from": 1,
+    "ev": []
+   },
+   "step": 2,
+   "from": 3642,
+   "dur": 75,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 3642,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3664,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3b.0",
+   "beat": "s3b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THIS IS WHERE"
+     },
+     {
+      "t": "THE FENCES START",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     37
+    ]
+   },
+   "step": 2,
+   "from": 3717,
+   "dur": 106,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3719,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3754,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s3b.1",
+   "beat": "s3b",
+   "scene": "PerimeterScene",
+   "props": {
+    "kind": "low",
+    "labels": [
+     "FENCE 1",
+     "FENCE 2"
+    ],
+    "ev": [
+     5,
+     32
+    ]
+   },
+   "step": 2,
+   "from": 3823,
+   "dur": 59,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 3828,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 3855,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s3c.0",
+   "beat": "s3c",
+   "scene": "HousingScene",
+   "props": {
+    "kinds": [
+     "dorm",
+     "cubicle"
+    ],
+    "labels": [
+     "DORMITORIES",
+     "CUBICLES"
+    ],
+    "ev": [
+     110,
+     139
+    ]
+   },
+   "step": 2,
+   "from": 3882,
+   "dur": 153,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 3992,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 4021,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3c.1",
+   "beat": "s3c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "MORE STAFF"
+     },
+     {
+      "t": "WATCHING",
+      "red": true
+     }
+    ],
+    "ev": [
+     31
+    ]
+   },
+   "step": 2,
+   "from": 4035,
+   "dur": 90,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4066,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s4a.0",
+   "beat": "s4a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 3,
+    "from": 2,
+    "ev": []
+   },
+   "step": 3,
+   "from": 4125,
+   "dur": 82,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 4125,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4147,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s4b.0",
+   "beat": "s4b",
+   "scene": "PerimeterScene",
+   "props": {
+    "kind": "medium",
+    "labels": [
+     "STRONGER FENCES",
+     "ELECTRONIC DETECTION"
+    ],
+    "ev": [
+     10,
+     58
+    ]
+   },
+   "step": 3,
+   "from": 4207,
+   "dur": 174,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4217,
+     "gain": -18
+    },
+    {
+     "file": "click_1",
+     "frame": 4265,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s4c.0",
+   "beat": "s4c",
+   "scene": "HousingScene",
+   "props": {
+    "kinds": [
+     "dorm",
+     "cell"
+    ],
+    "labels": [
+     "DORMS",
+     "CELLS"
+    ],
+    "ev": [
+     32,
+     104
+    ]
+   },
+   "step": 3,
+   "from": 4381,
+   "dur": 144,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 4413,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 4485,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s4c.1",
+   "beat": "s4c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "A DOOR THAT LOCKS"
+     },
+     {
+      "t": "FROM THE OUTSIDE",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     41
+    ]
+   },
+   "step": 3,
+   "from": 4525,
+   "dur": 84,
+   "cues": [
+    {
+     "file": "click_2",
+     "frame": 4566,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s5a.0",
+   "beat": "s5a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 4,
+    "from": 3,
+    "ev": []
+   },
+   "step": 4,
+   "from": 4609,
+   "dur": 76,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 4609,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4631,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5b.0",
+   "beat": "s5b",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "HIGH SECURITY",
+    "lines": [
+     {
+      "t": "UNITED STATES PENITENTIARIES",
+      "red": true
+     }
+    ],
+    "ev": [
+     32
+    ]
+   },
+   "step": 4,
+   "from": 4685,
+   "dur": 91,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4717,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s5b.1",
+   "beat": "s5b",
+   "scene": "PerimeterScene",
+   "props": {
+    "kind": "high",
+    "labels": [
+     "WALLS",
+     "CELLS FOR 1\u20132",
+     "MOST STAFF"
+    ],
+    "ev": [
+     5,
+     64,
+     143
+    ]
+   },
+   "step": 4,
+   "from": 4776,
+   "dur": 238,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4781,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4840,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 4919,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s5c.0",
+   "beat": "s5c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "FOR MOST INMATES"
+     },
+     {
+      "t": "THIS IS THE CEILING",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     90
+    ]
+   },
+   "step": 4,
+   "from": 5014,
+   "dur": 184,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5016,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5104,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6a.0",
+   "beat": "s6a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 5,
+    "from": 4,
+    "ev": []
+   },
+   "step": 5,
+   "from": 5198,
+   "dur": 76,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 5198,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5220,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s6b.0",
+   "beat": "s6b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "NOT A LEVEL OF DANGER"
+     },
+     {
+      "t": "A LEVEL OF PURPOSE",
+      "red": true
+     }
+    ],
+    "ev": [
+     86,
+     192
+    ]
+   },
+   "step": 5,
+   "from": 5274,
+   "dur": 211,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5360,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5466,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6c.0",
+   "beat": "s6c",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "ADMINISTRATIVE",
+    "lines": [
+     {
+      "t": "PRISONS WITH"
+     },
+     {
+      "t": "A SPECIFIC MISSION",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     87
+    ]
+   },
+   "step": 5,
+   "from": 5485,
+   "dur": 119,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5487,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5572,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6c.1",
+   "beat": "s6c",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "SPECIAL MISSIONS",
+    "lines": [
+     {
+      "t": "WAITING FOR TRIAL"
+     },
+     {
+      "t": "SERIOUS MEDICAL CARE"
+     }
+    ],
+    "ev": [
+     5,
+     140
+    ]
+   },
+   "step": 5,
+   "from": 5604,
+   "dur": 164,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5609,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5744,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6c.2",
+   "beat": "s6c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "EVERY SECURITY LEVEL"
+     },
+     {
+      "t": "AT ONCE",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     78
+    ]
+   },
+   "step": 5,
+   "from": 5768,
+   "dur": 98,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5773,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5846,
+     "gain": -19
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5846,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s6d.0",
+   "beat": "s6d",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "AND ONE IS"
+     },
+     {
+      "t": "VERY DIFFERENT",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     63
+    ]
+   },
+   "step": 5,
+   "from": 5866,
+   "dur": 128,
+   "cues": [
+    {
+     "file": "sub_hit_1",
+     "frame": 5929,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7a.0",
+   "beat": "s7a",
+   "scene": "Ladder",
+   "props": {
+    "focus": 6,
+    "from": 5,
+    "ev": []
+   },
+   "step": 6,
+   "from": 5994,
+   "dur": 91,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 5994,
+     "gain": -17
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 6016,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s7b.0",
+   "beat": "s7b",
+   "scene": "Florence",
+   "props": {
+    "ev": [
+     52,
+     193
+    ]
+   },
+   "step": 6,
+   "from": 6085,
+   "dur": 250,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 6085,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 6091,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 6137,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7b.1",
+   "beat": "s7b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "\"the Alcatraz of the Rockies\"",
+      "hand": true,
+      "size": 110,
+      "red": true
+     }
+    ],
+    "ev": [
+     5
+    ]
+   },
+   "step": 6,
+   "from": 6335,
+   "dur": 107,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 6340,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s7c.0",
+   "beat": "s7c",
+   "scene": "ADXCell",
+   "props": {
+    "ev": [
+     92,
+     102
+    ]
+   },
+   "step": 6,
+   "from": 6442,
+   "dur": 202,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6534,
+     "gain": -16
+    },
+    {
+     "file": "tick_2",
+     "frame": 6544,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7d.0",
+   "beat": "s7d",
+   "scene": "ADXCell",
+   "props": {
+    "window": true,
+    "ev": []
+   },
+   "step": 6,
+   "from": 6644,
+   "dur": 198,
+   "cues": [
+    {
+     "file": "click_1",
+     "frame": 6648,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s7e.0",
+   "beat": "s7e",
+   "scene": "Hours23",
+   "props": {
+    "ev": []
+   },
+   "step": 6,
+   "from": 6842,
+   "dur": 114,
+   "cues": [
+    {
+     "file": "counter_tick_loop",
+     "frame": 6846,
+     "gain": -24
+    }
+   ]
+  },
+  {
+   "id": "s7f.0",
+   "beat": "s7f",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "SOME OF THE MOST"
+     },
+     {
+      "t": "NOTORIOUS CRIMINALS",
+      "red": true
+     },
+     {
+      "t": "IN AMERICA"
+     }
+    ],
+    "ev": [
+     2,
+     68,
+     121
+    ]
+   },
+   "step": 6,
+   "from": 6956,
+   "dur": 137,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6958,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 7024,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 7077,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s7f.1",
+   "beat": "s7f",
+   "scene": "Inmates",
+   "props": {
+    "ev": [
+     5,
+     89,
+     193
+    ]
+   },
+   "step": 6,
+   "from": 7093,
+   "dur": 277,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 7098,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7182,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7286,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s7g.0",
+   "beat": "s7g",
+   "scene": "NoEscape",
+   "props": {
+    "ev": []
+   },
+   "step": 6,
+   "from": 7370,
+   "dur": 89,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 7380,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s7h.0",
+   "beat": "s7h",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "BUT HERE IS"
+     },
+     {
+      "t": "THE TWIST",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     37
+    ]
+   },
+   "step": 6,
+   "from": 7459,
+   "dur": 48,
+   "cues": [
+    {
+     "file": "sub_hit_2",
+     "frame": 7496,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s7h.1",
+   "beat": "s7h",
+   "scene": "Ninety",
+   "props": {
+    "ev": [
+     67,
+     168
+    ]
+   },
+   "step": 6,
+   "from": 7507,
+   "dur": 265,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 7507,
+     "gain": -18
+    },
+    {
+     "file": "tick_3",
+     "frame": 7675,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7h.2",
+   "beat": "s7h",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "SENT THERE FOR"
+     },
+     {
+      "t": "HOW THEY BEHAVED",
+      "red": true
+     },
+     {
+      "t": "IN OTHER PRISONS"
+     }
+    ],
+    "ev": [
+     5,
+     76,
+     113
+    ]
+   },
+   "step": 6,
+   "from": 7772,
+   "dur": 155,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 7777,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 7848,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 7885,
+     "gain": -19
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 7848,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "NOT ABOUT"
+     },
+     {
+      "t": "WHAT YOU DID",
+      "red": true
+     }
+    ],
+    "ev": [
+     36,
+     70
+    ]
+   },
+   "step": -1,
+   "from": 7927,
+   "dur": 94,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 7963,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 7997,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "e1.1",
+   "beat": "e1",
+   "scene": "ScoreScale",
+   "props": {
+    "marker": 14,
+    "ev": []
+   },
+   "step": -1,
+   "from": 8021,
+   "dur": 70,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8021,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "e1.2",
+   "beat": "e1",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "AT THE TOP:"
+     },
+     {
+      "t": "WHAT YOU DO INSIDE",
+      "red": true
+     }
+    ],
+    "ev": [
+     13,
+     106
+    ]
+   },
+   "step": -1,
+   "from": 8091,
+   "dur": 150,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 8104,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 8197,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
+   "scene": "Outro",
+   "props": {
+    "ev": []
+   },
+   "step": -1,
+   "from": 8241,
+   "dur": 200,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 8247,
+     "gain": -18
+    }
+   ]
+  }
+ ]
+}

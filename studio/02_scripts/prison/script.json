@@ -1,0 +1,294 @@
+{
+ "title": "How Prison Security Levels Actually Work",
+ "sources": {
+  "BOP_SOB2010": "https://webarchive.library.unt.edu/web/20120915082412/http://www.bop.gov/news/PDFs/sob10.pdf",
+  "USC_TYPES": "https://tysk.lamp.uscourts.gov/ex-offender-suggestions/types-and-levels-of-prisons-w-y-s-k.php",
+  "PS_5100": "https://www.ca1.uscourts.gov/sites/ca1/files/citations/ProgramStatement5100_008.pdf",
+  "PAMP_PLACED": "https://www.pamp.uscourts.gov/sites/pamp/files/How%20Federal%20Prisoners%20Are%20Placed.pdf",
+  "USSC_BOP": "https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2017/BOP_Designation.pdf",
+  "WCA_LEVELS": "https://www.whitecollaradvice.com/federal-prison-security-levels-explained",
+  "SAM_CAMP": "https://sam-mangel.com/blog/will-i-get-a-camp/",
+  "AP_ESCAPES": "https://www.arkansasonline.com/news/2021/jun/12/federal-prison-escapes-an-issue/",
+  "DOJ_BUDGET": "https://www.justice.gov/jmd/media/1434176/dl",
+  "POPSCI_ADX": "https://www.popsci.com/adx-florence-prison-design/",
+  "5280_ADX": "https://5280.com/adx-florence-facts-supermax/",
+  "5280_INMATES": "https://www.5280.com/the-14-most-notorious-inmates-at-the-adx-in-florence-colorado/",
+  "BI_ADX": "https://www.businessinsider.in/Convicted-kingpin-El-Chapo-Guzman-is-likely-heading-to-the-Alcatraz-of-the-Rockies-a-US-prison-where-no-one-has-ever-escaped/About-90-of-more-than-400-inmates-are-there-because-of-discipline-issues-according-to-an-October-report-by-the-District-of-Columbia-Corrections-Information-Council-/slideshow/67983808.cms",
+  "CBS_ADX": "https://www.cbsnews.com/media/el-chapo-will-join-notorious-prisoners-at-supermax-alcatraz-of-the-rockies/"
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "text": "This is every security level in an American federal prison, from a camp with no fence to a cell where you spend 23 hours a day alone.",
+   "src": [
+    "BOP_SOB2010",
+    "5280_ADX"
+   ]
+  },
+  {
+   "id": "a02",
+   "text": "About 150,000 people are in federal custody, and every one of them was sorted into one of these levels.",
+   "src": [
+    "DOJ_BUDGET"
+   ]
+  },
+  {
+   "id": "a03",
+   "text": "And the most secure prison in the country is not even rated high security.",
+   "src": [
+    "5280_ADX"
+   ]
+  },
+  {
+   "id": "s1a",
+   "text": "Step one. The score.",
+   "src": []
+  },
+  {
+   "id": "s1b",
+   "text": "A judge can recommend a prison, but your level is calculated by the Bureau of Prisons, with points, on a single form.",
+   "src": [
+    "PS_5100",
+    "PAMP_PLACED"
+   ]
+  },
+  {
+   "id": "s1c",
+   "text": "How serious the crime was. Your criminal history. Any violence. Any escape attempts. Each one adds points.",
+   "src": [
+    "PS_5100",
+    "USSC_BOP"
+   ]
+  },
+  {
+   "id": "s1d",
+   "text": "For men, zero to eleven points means minimum. Twelve to fifteen is low. Sixteen to twenty-three is medium. Twenty-four and up is high.",
+   "src": [
+    "WCA_LEVELS",
+    "SAM_CAMP"
+   ]
+  },
+  {
+   "id": "s1e",
+   "text": "Quick test. You scored fourteen points. Where are you going?",
+   "src": []
+  },
+  {
+   "id": "s1f",
+   "text": "Low security. And just three points separate a camp from a fence.",
+   "src": [
+    "SAM_CAMP"
+   ]
+  },
+  {
+   "id": "s1g",
+   "text": "Only one thing on the form can take points away: showing up to prison on your own.",
+   "src": [
+    "SAM_CAMP"
+   ]
+  },
+  {
+   "id": "s1h",
+   "text": "And the score is not final. Certain red flags, called public safety factors, can override it and push you up a level.",
+   "src": [
+    "PS_5100",
+    "USSC_BOP"
+   ]
+  },
+  {
+   "id": "s2a",
+   "text": "Step two. Minimum security.",
+   "src": []
+  },
+  {
+   "id": "s2b",
+   "text": "The federal prison camp. Dormitories instead of cells, very few officers, and limited fencing, or none at all.",
+   "src": [
+    "BOP_SOB2010",
+    "USC_TYPES"
+   ]
+  },
+  {
+   "id": "s2c",
+   "text": "Camps were designed that way on purpose, so inmates could work on landscaping and maintenance without checking in and out of a main prison.",
+   "src": [
+    "AP_ESCAPES"
+   ]
+  },
+  {
+   "id": "s2d",
+   "text": "And sometimes, they just leave. In 2021, the Associated Press found 29 escapes from federal custody in 18 months. Every single one was from a minimum security camp.",
+   "src": [
+    "AP_ESCAPES"
+   ]
+  },
+  {
+   "id": "s2e",
+   "text": "Nearly half of them had still not been caught. At some camps, a single officer was watching everyone during a shift.",
+   "src": [
+    "AP_ESCAPES"
+   ]
+  },
+  {
+   "id": "s2f",
+   "text": "The Bureau of Prisons calls them walk aways. The law still calls them escapes.",
+   "src": [
+    "AP_ESCAPES"
+   ]
+  },
+  {
+   "id": "s3a",
+   "text": "Step three. Low security.",
+   "src": []
+  },
+  {
+   "id": "s3b",
+   "text": "This is where the fences start. A low security prison is surrounded by two of them.",
+   "src": [
+    "BOP_SOB2010",
+    "USC_TYPES"
+   ]
+  },
+  {
+   "id": "s3c",
+   "text": "Inside, it still looks like a camp. Most people sleep in dormitories or cubicles, and there are more staff watching them.",
+   "src": [
+    "BOP_SOB2010"
+   ]
+  },
+  {
+   "id": "s4a",
+   "text": "Step four. Medium security.",
+   "src": []
+  },
+  {
+   "id": "s4b",
+   "text": "The fences get stronger, and electronic detection systems watch the space between them.",
+   "src": [
+    "BOP_SOB2010",
+    "WCA_LEVELS"
+   ]
+  },
+  {
+   "id": "s4c",
+   "text": "And this is the first level where most people live in cells instead of dorms. A door that locks, from the outside.",
+   "src": [
+    "BOP_SOB2010"
+   ]
+  },
+  {
+   "id": "s5a",
+   "text": "Step five. High security.",
+   "src": []
+  },
+  {
+   "id": "s5b",
+   "text": "These are the United States Penitentiaries. Walls or reinforced fences, cells for one or two people, and the most staff per inmate of any regular level.",
+   "src": [
+    "BOP_SOB2010",
+    "USC_TYPES"
+   ]
+  },
+  {
+   "id": "s5c",
+   "text": "For most people in federal prison, this is the ceiling. There is no regular level above it.",
+   "src": [
+    "BOP_SOB2010"
+   ]
+  },
+  {
+   "id": "s6a",
+   "text": "Step six. Administrative.",
+   "src": []
+  },
+  {
+   "id": "s6b",
+   "text": "This is the strangest level, because it is not really a level of danger at all. It is a level of purpose.",
+   "src": [
+    "BOP_SOB2010"
+   ]
+  },
+  {
+   "id": "s6c",
+   "text": "Administrative prisons hold people for a specific mission, like people still waiting for trial, or inmates who need serious medical care. They can hold every security level at once.",
+   "src": [
+    "BOP_SOB2010",
+    "USC_TYPES"
+   ]
+  },
+  {
+   "id": "s6d",
+   "text": "And one administrative prison is very different from the rest.",
+   "src": []
+  },
+  {
+   "id": "s7a",
+   "text": "Step seven. A D X Florence.",
+   "src": []
+  },
+  {
+   "id": "s7b",
+   "text": "Its full name is the Administrative Maximum facility, in Florence, Colorado. It opened in 1994, and it is often called the Alcatraz of the Rockies.",
+   "src": [
+    "5280_ADX",
+    "CBS_ADX"
+   ]
+  },
+  {
+   "id": "s7c",
+   "text": "Each cell is about seven by twelve feet. The bed, the desk, and the stool are all poured concrete.",
+   "src": [
+    "POPSCI_ADX",
+    "5280_ADX"
+   ]
+  },
+  {
+   "id": "s7d",
+   "text": "The only window is about four inches wide, angled so you can see the sky, but not where you are.",
+   "src": [
+    "POPSCI_ADX"
+   ]
+  },
+  {
+   "id": "s7e",
+   "text": "Inmates spend about 23 hours a day alone in that cell.",
+   "src": [
+    "5280_ADX",
+    "POPSCI_ADX"
+   ]
+  },
+  {
+   "id": "s7f",
+   "text": "It has held some of the most notorious criminals in America. Drug lord Joaquin El Chapo Guzman. Boston Marathon bomber Dzhokhar Tsarnaev. Oklahoma City bomber Terry Nichols.",
+   "src": [
+    "5280_INMATES",
+    "CBS_ADX"
+   ]
+  },
+  {
+   "id": "s7g",
+   "text": "Since it opened, no one has ever escaped.",
+   "src": [
+    "5280_ADX",
+    "BI_ADX"
+   ]
+  },
+  {
+   "id": "s7h",
+   "text": "But here is the twist. According to a 2016 report, about 90 percent of its more than 400 inmates were not sent there for their original crime. They were sent there because of how they behaved in other prisons.",
+   "src": [
+    "BI_ADX"
+   ]
+  },
+  {
+   "id": "e1",
+   "text": "So the system is not really about what you did. It starts with a number on a form, and at the very top, it is decided by what you do once you are inside.",
+   "src": []
+  },
+  {
+   "id": "e2",
+   "text": "How many points do you think you would score? Tell me in the comments.",
+   "src": []
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+7200|490|Every Navigation Buoy Explained
+4700|301|Every Fire Extinguisher Class Explained
+332000|353|Every Emergency Vehicle Light Color Explained
+41000|483|Every Warning Siren Explained
+201000|343|Every Fire Hydrant Color Explained
+1100|252|Every NATO Enlisted Rank Code Explained
+2100|301|Every NATO Officer Rank Code Explained
+57000|1444|Every Emergency Alert System Code Explained
+1300|329|Every Utility Marking Color Explained
+13000|382|Every INES Nuclear Event Level Explained
+6200|442|Every Hazmat Placard Explained
