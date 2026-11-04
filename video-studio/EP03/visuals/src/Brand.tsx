@@ -58,13 +58,13 @@ export const Banner: React.FC = () => {
         {[...Array(36)].map((_, i) => { const a = (i / 36) * Math.PI * 2; return <path key={i} d={`M 1024 576 L ${1024 + Math.cos(a - 0.04) * 2400} ${576 + Math.sin(a - 0.04) * 2400} L ${1024 + Math.cos(a + 0.04) * 2400} ${576 + Math.sin(a + 0.04) * 2400} Z`} fill="#e8fbff" opacity={i % 2 ? 0.12 : 0.04} />; })}
         {[...Array(30)].map((_, i) => <rect key={i} x={(i * 337) % 2040} y={(i * 211) % 1140} width={30 + (i % 4) * 26} height={14 + (i % 3) * 12} fill={['#ff2a6d', '#22e6ff', '#fff'][i % 3]} opacity={0.3} />)}
         <g filter="url(#bSt)">
-          <You t={0.4} x={500} y={900} scale={2.1} pose={P.cheer} expr="happy" mouth="grin" rim="rgba(120,230,255,1)" />
-          <Mia t={0.4} x={1520} y={900} scale={2.1} facing={-1} pose={P.armsUp} expr="happy" mouth="grin" />
-          <Dog x={1650} y={905} s={0.55} t={0.4} lying={false} facing={-1} />
-          <Ball x={370} y={560} r={40} rot={20} />
+          <You t={0.4} x={540} y={715} scale={1.35} pose={P.cheer} expr="happy" mouth="grin" rim="rgba(120,230,255,1)" />
+          <Mia t={0.4} x={1420} y={715} scale={1.5} facing={-1} pose={P.armsUp} expr="happy" mouth="grin" />
+          <Dog x={1520} y={718} s={0.36} t={0.4} lying={false} facing={-1} />
+          <Ball x={460} y={470} r={26} rot={20} />
         </g>
-        <Word x={1024} y={600} size={124} text="SECOND YOU" />
-        <text x={1024} y={690} textAnchor="middle" fontSize={44} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" letterSpacing={4} stroke="#0a0418" strokeWidth={10} paintOrder="stroke">NEW “WHAT IF” EVERY WEEK</text>
+        <Word x={1000} y={590} size={112} text="SECOND YOU" />
+        <text x={1000} y={665} textAnchor="middle" fontSize={36} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" letterSpacing={4} stroke="#0a0418" strokeWidth={10} paintOrder="stroke">NEW “WHAT IF” EVERY WEEK</text>
       </svg>
     </AbsoluteFill>
   );
