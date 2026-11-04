@@ -17,3 +17,4 @@ agents/packaging-analyst/thumbs_extra/
 03_voiceover/prison/final/*.wav
 03_voiceover/prison_short/*/*.wav
 03_voiceover/potus/*/*.wav
+03_voiceover/*/cb_log.txt
