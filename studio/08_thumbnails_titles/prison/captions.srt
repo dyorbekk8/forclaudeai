@@ -1,0 +1,315 @@
+1
+00:00:00,500 --> 00:00:09,417
+This is every security level in an American federal prison, from a camp with no fence to a cell where you spend 23 hours a day alone.
+
+2
+00:00:09,633 --> 00:00:16,889
+About 150,000 people are in federal custody, and every one of them was sorted into one of these levels.
+
+3
+00:00:17,133 --> 00:00:21,953
+And the most secure prison in the country is not even rated high security.
+
+4
+00:00:22,867 --> 00:00:23,486
+Step one.
+
+5
+00:00:23,526 --> 00:00:24,219
+The score.
+
+6
+00:00:24,433 --> 00:00:32,497
+A judge can recommend a prison, but your level is calculated by the Bureau of Prisons, with points, on a single form.
+
+7
+00:00:32,733 --> 00:00:34,585
+How serious the crime was.
+
+8
+00:00:34,625 --> 00:00:36,187
+Your criminal history.
+
+9
+00:00:36,227 --> 00:00:37,133
+Any violence.
+
+10
+00:00:37,173 --> 00:00:38,588
+Any escape attempts.
+
+11
+00:00:38,628 --> 00:00:40,116
+Each one adds points.
+
+12
+00:00:40,367 --> 00:00:43,629
+For men, zero to eleven points means minimum.
+
+13
+00:00:43,669 --> 00:00:45,464
+Twelve to fifteen is low.
+
+14
+00:00:45,504 --> 00:00:47,959
+Sixteen to twenty-three is medium.
+
+15
+00:00:47,999 --> 00:00:49,941
+Twenty-four and up is high.
+
+16
+00:00:50,167 --> 00:00:50,789
+Quick test.
+
+17
+00:00:50,829 --> 00:00:52,414
+You scored fourteen points.
+
+18
+00:00:52,454 --> 00:00:53,618
+Where are you going?
+
+19
+00:00:57,167 --> 00:00:57,970
+Low security.
+
+20
+00:00:58,010 --> 00:01:01,277
+And just three points separate a camp from a fence.
+
+21
+00:01:01,500 --> 00:01:06,698
+Only one thing on the form can take points away: showing up to prison on your own.
+
+22
+00:01:06,933 --> 00:01:08,696
+And the score is not final.
+
+23
+00:01:08,736 --> 00:01:14,637
+Certain red flags, called public safety factors, can override it and push you up a level.
+
+24
+00:01:15,533 --> 00:01:16,195
+Step two.
+
+25
+00:01:16,235 --> 00:01:17,520
+Minimum security.
+
+26
+00:01:17,733 --> 00:01:19,409
+The federal prison camp.
+
+27
+00:01:19,449 --> 00:01:25,487
+Dormitories instead of cells, very few officers, and limited fencing, or none at all.
+
+28
+00:01:25,733 --> 00:01:34,555
+Camps were designed that way on purpose, so inmates could work on landscaping and maintenance without checking in and out of a main prison.
+
+29
+00:01:34,800 --> 00:01:37,324
+And sometimes, they just leave.
+
+30
+00:01:37,364 --> 00:01:44,022
+In 2021, the Associated Press found 29 escapes from federal custody in 18 months.
+
+31
+00:01:44,062 --> 00:01:48,157
+Every single one was from a minimum security camp.
+
+32
+00:01:48,400 --> 00:01:51,369
+Nearly half of them had still not been caught.
+
+33
+00:01:51,409 --> 00:01:55,883
+At some camps, a single officer was watching everyone during a shift.
+
+34
+00:01:56,133 --> 00:01:58,888
+The Bureau of Prisons calls them walk aways.
+
+35
+00:01:58,928 --> 00:02:00,984
+The law still calls them escapes.
+
+36
+00:02:01,900 --> 00:02:02,720
+Step three.
+
+37
+00:02:02,760 --> 00:02:03,737
+Low security.
+
+38
+00:02:03,967 --> 00:02:05,935
+This is where the fences start.
+
+39
+00:02:05,975 --> 00:02:09,240
+A low security prison is surrounded by two of them.
+
+40
+00:02:09,467 --> 00:02:11,663
+Inside, it still looks like a camp.
+
+41
+00:02:11,703 --> 00:02:17,094
+Most people sleep in dormitories or cubicles, and there are more staff watching them.
+
+42
+00:02:18,000 --> 00:02:18,778
+Step four.
+
+43
+00:02:18,818 --> 00:02:20,086
+Medium security.
+
+44
+00:02:20,300 --> 00:02:25,873
+The fences get stronger, and electronic detection systems watch the space between them.
+
+45
+00:02:26,100 --> 00:02:30,943
+And this is the first level where most people live in cells instead of dorms.
+
+46
+00:02:30,983 --> 00:02:33,226
+A door that locks, from the outside.
+
+47
+00:02:34,133 --> 00:02:34,885
+Step five.
+
+48
+00:02:34,925 --> 00:02:35,994
+High security.
+
+49
+00:02:36,233 --> 00:02:39,259
+These are the United States Penitentiaries.
+
+50
+00:02:39,299 --> 00:02:46,960
+Walls or reinforced fences, cells for one or two people, and the most staff per inmate of any regular level.
+
+51
+00:02:47,200 --> 00:02:50,649
+For most people in federal prison, this is the ceiling.
+
+52
+00:02:50,689 --> 00:02:52,870
+There is no regular level above it.
+
+53
+00:02:53,767 --> 00:02:54,438
+Step six.
+
+54
+00:02:54,478 --> 00:02:55,624
+Administrative.
+
+55
+00:02:55,867 --> 00:03:01,026
+This is the strangest level, because it is not really a level of danger at all.
+
+56
+00:03:01,066 --> 00:03:02,672
+It is a level of purpose.
+
+57
+00:03:02,900 --> 00:03:12,378
+Administrative prisons hold people for a specific mission, like people still waiting for trial, or inmates who need serious medical care.
+
+58
+00:03:12,418 --> 00:03:15,365
+They can hold every security level at once.
+
+59
+00:03:15,600 --> 00:03:19,397
+And one administrative prison is very different from the rest.
+
+60
+00:03:20,300 --> 00:03:21,287
+Step seven.
+
+61
+00:03:21,327 --> 00:03:22,688
+A D X Florence.
+
+62
+00:03:22,900 --> 00:03:28,953
+Its full name is the Administrative Maximum facility, in Florence, Colorado.
+
+63
+00:03:28,993 --> 00:03:34,565
+It opened in 1994, and it is often called the Alcatraz of the Rockies.
+
+64
+00:03:34,800 --> 00:03:37,458
+Each cell is about seven by twelve feet.
+
+65
+00:03:37,498 --> 00:03:41,302
+The bed, the desk, and the stool are all poured concrete.
+
+66
+00:03:41,533 --> 00:03:47,879
+The only window is about four inches wide, angled so you can see the sky, but not where you are.
+
+67
+00:03:48,133 --> 00:03:51,689
+Inmates spend about 23 hours a day alone in that cell.
+
+68
+00:03:51,933 --> 00:03:56,689
+It has held some of the most notorious criminals in America.
+
+69
+00:03:56,729 --> 00:03:59,407
+Drug lord Joaquin El Chapo Guzman.
+
+70
+00:03:59,447 --> 00:04:02,685
+Boston Marathon bomber Dzhokhar Tsarnaev.
+
+71
+00:04:02,725 --> 00:04:05,482
+Oklahoma City bomber Terry Nichols.
+
+72
+00:04:05,733 --> 00:04:08,453
+Since it opened, no one has ever escaped.
+
+73
+00:04:08,700 --> 00:04:10,297
+But here is the twist.
+
+74
+00:04:10,337 --> 00:04:19,152
+According to a 2016 report, about 90 percent of its more than 400 inmates were not sent there for their original crime.
+
+75
+00:04:19,192 --> 00:04:24,063
+They were sent there because of how they behaved in other prisons.
+
+76
+00:04:24,300 --> 00:04:27,433
+So the system is not really about what you did.
+
+77
+00:04:27,473 --> 00:04:34,521
+It starts with a number on a form, and at the very top, it is decided by what you do once you are inside.
+
+78
+00:04:34,767 --> 00:04:37,075
+How many points do you think you would score?
+
+79
+00:04:37,115 --> 00:04:38,328
+Tell me in the comments.
