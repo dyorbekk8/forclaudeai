@@ -1,0 +1,72 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: Title,Fredoka Light,92,&H0000D2FF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,8,50,50,170,1
+Style: Sub,Fredoka Light,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,6,2,8,50,50,290,1
+Style: CTA,Fredoka Light,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:54.62,Title,,0,0,0,,WHAT IF YOUR LIFE\NHAD LAG?
+Dialogue: 1,0:00:00.00,0:00:54.62,Sub,,0,0,0,,{\c&H005EFF4D&}…and it doubles every day
+Dialogue: 2,0:00:54.62,0:00:57.82,CTA,,0,0,0,,{\fad(200,0)}DAY 26 SHOWS YOU\NSOMEONE YOU LOST…\N\N{\c&H0031C5FF&\fs70}FULL VIDEO ON\NTHE CHANNEL ↑
+Dialogue: 0,0:00:00.50,0:00:01.55,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}A BASKETBALL HITS
+Dialogue: 0,0:00:01.55,0:00:02.16,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU IN THE
+Dialogue: 0,0:00:02.16,0:00:02.47,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}FACE.
+Dialogue: 0,0:00:02.79,0:00:03.64,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND THEN...
+Dialogue: 0,0:00:03.64,0:00:04.42,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU SEE IT
+Dialogue: 0,0:00:04.42,0:00:04.96,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}COMING.
+Dialogue: 0,0:00:05.46,0:00:06.35,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU SEE JAKE
+Dialogue: 0,0:00:06.35,0:00:07.02,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THROW IT.
+Dialogue: 0,0:00:07.02,0:00:07.77,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU SEE IT
+Dialogue: 0,0:00:07.77,0:00:08.06,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}FLY.
+Dialogue: 0,0:00:08.06,0:00:08.81,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU SEE IT
+Dialogue: 0,0:00:08.81,0:00:09.41,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}HIT YOU.
+Dialogue: 0,0:00:09.41,0:00:10.52,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}ONE FULL SECOND
+Dialogue: 0,0:00:10.52,0:00:11.71,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AFTER IT ALREADY
+Dialogue: 0,0:00:11.71,0:00:12.01,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DID.
+Dialogue: 0,0:00:12.33,0:00:13.55,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DID YOU JUST...
+Dialogue: 0,0:00:13.55,0:00:14.61,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}NOT SEE THAT?
+Dialogue: 0,0:00:14.93,0:00:15.70,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOUR NOSE IS
+Dialogue: 0,0:00:15.70,0:00:16.28,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}BLEEDING.
+Dialogue: 0,0:00:16.28,0:00:17.11,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND YOUR EYES
+Dialogue: 0,0:00:17.11,0:00:18.27,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}ARE STILL CATCHING
+Dialogue: 0,0:00:18.27,0:00:18.47,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}UP.
+Dialogue: 0,0:00:18.87,0:00:20.87,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}BECAUSE STARTING TODAY...
+Dialogue: 0,0:00:20.87,0:00:21.91,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOUR LIFE HAS
+Dialogue: 0,0:00:21.91,0:00:22.23,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LAG.
+Dialogue: 0,0:00:22.83,0:00:23.91,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND EVERY SINGLE
+Dialogue: 0,0:00:23.91,0:00:24.18,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DAY,
+Dialogue: 0,0:00:24.18,0:00:25.26,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE LAG DOUBLES.
+Dialogue: 0,0:00:26.36,0:00:27.16,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DAY FIVE.
+Dialogue: 0,0:00:27.16,0:00:28.59,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}SIXTEEN SECONDS.
+Dialogue: 0,0:00:29.09,0:00:29.87,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND THAT'S WHEN
+Dialogue: 0,0:00:29.87,0:00:30.54,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU LEARN THE
+Dialogue: 0,0:00:30.54,0:00:31.57,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}SCARIEST THING ABOUT
+Dialogue: 0,0:00:31.57,0:00:31.77,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LAG.
+Dialogue: 0,0:00:32.09,0:00:32.94,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU STEP OFF
+Dialogue: 0,0:00:32.94,0:00:33.58,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE CURB.
+Dialogue: 0,0:00:33.58,0:00:34.71,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE STREET LOOKS
+Dialogue: 0,0:00:34.71,0:00:35.14,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}EMPTY.
+Dialogue: 0,0:00:35.74,0:00:36.98,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}IT WAS EMPTY.
+Dialogue: 0,0:00:36.98,0:00:38.89,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}SIXTEEN SECONDS AGO.
+Dialogue: 0,0:00:39.79,0:00:40.87,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}A HORN SCREAMS.
+Dialogue: 0,0:00:40.87,0:00:42.31,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}SOMETHING YANKS YOUR
+Dialogue: 0,0:00:42.31,0:00:43.17,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}HOODIE BACK.
+Dialogue: 0,0:00:43.17,0:00:44.54,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND SIXTEEN SECONDS
+Dialogue: 0,0:00:44.54,0:00:44.97,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LATER,
+Dialogue: 0,0:00:44.97,0:00:46.05,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU FINALLY SEE
+Dialogue: 0,0:00:46.05,0:00:46.27,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}IT.
+Dialogue: 0,0:00:46.27,0:00:46.84,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}A TRUCK.
+Dialogue: 0,0:00:46.84,0:00:47.42,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND MIA.
+Dialogue: 0,0:00:47.42,0:00:48.57,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}HOLDING ONTO YOU
+Dialogue: 0,0:00:48.57,0:00:49.72,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}WITH BOTH HANDS.
+Dialogue: 0,0:00:50.12,0:00:51.04,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU CAN'T GO
+Dialogue: 0,0:00:51.04,0:00:52.71,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}OUTSIDE ALONE ANYMORE.
+Dialogue: 0,0:00:52.71,0:00:53.09,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}OKAY?
+Dialogue: 0,0:00:53.09,0:00:53.92,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}PROMISE ME.
