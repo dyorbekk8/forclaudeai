@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,3,2,60,60,430,1
+Style: Title,Fredoka Light,92,&H0000D2FF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,8,50,50,170,1
+Style: Sub,Fredoka Light,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,6,2,8,50,50,290,1
+Style: CTA,Fredoka Light,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:20.07,Title,,0,0,0,,EVERY TIME SOMEONE\NSAYS YOUR NAME…
+Dialogue: 1,0:00:00.00,0:00:20.07,Sub,,0,0,0,,{\c&H005EFF4D&}+1% FASTER
+Dialogue: 0,0:00:00.20,0:00:00.66,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LEO!
+Dialogue: 0,0:00:00.66,0:00:01.81,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}BREAKFAST!
+Dialogue: 0,0:00:02.06,0:00:02.71,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU BLINK.
+Dialogue: 0,0:00:02.71,0:00:03.88,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND YOU'RE ALREADY
+Dialogue: 0,0:00:03.88,0:00:04.60,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DOWNSTAIRS.
+Dialogue: 0,0:00:04.85,0:00:06.52,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}BECAUSE STARTING TODAY...
+Dialogue: 0,0:00:06.52,0:00:07.73,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}EVERY TIME SOMEONE
+Dialogue: 0,0:00:07.73,0:00:08.74,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}SAYS YOUR NAME,
+Dialogue: 0,0:00:08.74,0:00:09.47,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU GET ONE
+Dialogue: 0,0:00:09.47,0:00:10.48,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}PERCENT FASTER.
+Dialogue: 0,0:00:10.83,0:00:11.36,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AT LUNCH,
+Dialogue: 0,0:00:11.36,0:00:12.07,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU STAND UP
+Dialogue: 0,0:00:12.07,0:00:12.59,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}TOO FAST.
+Dialogue: 0,0:00:12.59,0:00:13.24,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AND THE AIR
+Dialogue: 0,0:00:13.24,0:00:14.24,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AROUND YOU CRACKS
+Dialogue: 0,0:00:14.24,0:00:15.01,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LIKE THUNDER.
+Dialogue: 0,0:00:15.31,0:00:16.24,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}A SONIC BOOM.
+Dialogue: 0,0:00:16.24,0:00:17.32,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}EVERY WINDOW IN
+Dialogue: 0,0:00:17.32,0:00:18.90,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE CAFETERIA EXPLODES
+Dialogue: 0,0:00:18.90,0:00:19.47,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AT ONCE.
