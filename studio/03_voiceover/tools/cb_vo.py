@@ -19,12 +19,20 @@ tts = ChatterboxTTS.from_pretrained(device='cpu')
 asr = WhisperModel('small.en', device='cpu', compute_type='int8')
 SR = tts.sr
 
-NUM = {'0': 'zero', '1': 'one', '2': 'two', '3': 'three', '4': 'four', '5': 'five', '6': 'six', '7': 'seven', '8': 'eight', '9': 'nine'}
+NUMW = set('zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty thirty forty fifty sixty seventy eighty ninety hundred thousand million first second third fourth fifth sixth seventh eighth ninth tenth twentieth twenty-ninth ninth seventh'.split())
 def norm(s):
     s = s.lower().replace('-', ' ')
-    s = re.sub(r'(\d)', lambda m: ' ' + NUM[m.group(1)] + ' ', s)
-    s = re.sub(r"[^a-z' ]", ' ', s)
-    return s.split()
+    s = re.sub(r"[^a-z0-9' ]", ' ', s)
+    toks = [t for t in s.split() if not re.search(r'\d', t) and t not in NUMW and not re.fullmatch(r'(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)?(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)', t)]
+    out = []
+    for t in toks:  # "u s s" -> "uss"
+        if len(t) == 1 and t not in ('a', 'i') and out and out[-1].startswith('#'):
+            out[-1] += t
+        elif len(t) == 1 and t not in ('a', 'i'):
+            out.append('#' + t)
+        else:
+            out.append(t)
+    return [t.lstrip('#') for t in out]
 
 def wer(a, b):
     a, b = norm(a), norm(b)

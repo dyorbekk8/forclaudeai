@@ -82,7 +82,7 @@ for idx, lid in enumerate(ORDER):
     vo = info.frames / info.samplerate
     lead = 0.08
     nxt = ORDER[idx + 1] if idx + 1 < len(ORDER) else None
-    tail = 0.4 if (nxt and nxt.endswith('1') and nxt[0] != lid[0]) else 0.12
+    tail = 0.6 if (nxt and nxt.endswith('1') and nxt[0] != lid[0]) else 0.3
     if lid == 'e3':
         tail = 3.0
     if SPEC[lid][0][1] == 'Ladder':
