@@ -1,0 +1,446 @@
+{
+ "duration": 377.747,
+ "lines": [
+  {
+   "id": "a01",
+   "speaker": "MOM",
+   "text": "Leo! Breakfast!",
+   "start": 0.5,
+   "end": 2.105
+  },
+  {
+   "id": "a02",
+   "speaker": "N",
+   "text": "You blink. And you're already downstairs.",
+   "start": 2.355,
+   "end": 4.899
+  },
+  {
+   "id": "a03",
+   "speaker": "N",
+   "text": "Your toast is still in the air. Your mom hasn't even finished saying your name.",
+   "start": 5.249,
+   "end": 9.491
+  },
+  {
+   "id": "a04",
+   "speaker": "N",
+   "text": "Because starting today... every time someone says your name, you get one percent faster.",
+   "start": 9.891,
+   "end": 15.522
+  },
+  {
+   "id": "a05",
+   "speaker": "N",
+   "text": "And one percent... adds up.",
+   "start": 16.122,
+   "end": 18.737
+  },
+  {
+   "id": "b01",
+   "speaker": "N",
+   "text": "Here's the rule. Every time anyone, anywhere, says your name out loud, your speed goes up by one percent. And every hour nobody says it... you lose one percent.",
+   "start": 19.837,
+   "end": 30.849
+  },
+  {
+   "id": "b02",
+   "speaker": "N",
+   "text": "Your top speed right now? Twenty four kilometers an hour. A normal fifteen year old.",
+   "start": 31.349,
+   "end": 37.056
+  },
+  {
+   "id": "b03",
+   "speaker": "N",
+   "text": "But percentages stack. Sixty two times, and you're as fast as Usain Bolt.",
+   "start": 37.556,
+   "end": 42.472
+  },
+  {
+   "id": "b04",
+   "speaker": "N",
+   "text": "Three hundred ninety six times. You break the speed of sound.",
+   "start": 42.972,
+   "end": 46.683
+  },
+  {
+   "id": "b05",
+   "speaker": "N",
+   "text": "And seventeen hundred seventy one times... you're running at the speed of light.",
+   "start": 47.283,
+   "end": 51.93
+  },
+  {
+   "id": "b06",
+   "speaker": "N",
+   "text": "That's fewer people than go to some schools.",
+   "start": 52.73,
+   "end": 55.278
+  },
+  {
+   "id": "c01",
+   "speaker": "N",
+   "text": "Day one. The problem is... nobody really says your name.",
+   "start": 56.378,
+   "end": 60.659
+  },
+  {
+   "id": "c02",
+   "speaker": "N",
+   "text": "You're the quiet kid. Back row. Headphones. On a good day, your name gets said maybe three times.",
+   "start": 61.059,
+   "end": 67.724
+  },
+  {
+   "id": "c03",
+   "speaker": "TEACH",
+   "text": "Leo? ...Leo. Present?",
+   "start": 68.124,
+   "end": 71.891
+  },
+  {
+   "id": "c04",
+   "speaker": "N",
+   "text": "Plus one. Plus one.",
+   "start": 72.141,
+   "end": 73.97
+  },
+  {
+   "id": "c05",
+   "speaker": "N",
+   "text": "So you get creative. A name tag. A loud hello to everyone in the hallway. You even join the basketball team, just so the coach yells at you.",
+   "start": 74.47,
+   "end": 83.778
+  },
+  {
+   "id": "c06",
+   "speaker": "COACH",
+   "text": "LEO! Pass the ball! LEO!",
+   "start": 84.078,
+   "end": 86.706
+  },
+  {
+   "id": "c07",
+   "speaker": "N",
+   "text": "By Friday, you run the forty meter dash in three seconds flat. The coach drops his stopwatch.",
+   "start": 87.006,
+   "end": 92.921
+  },
+  {
+   "id": "c08",
+   "speaker": "N",
+   "text": "Day two. You start having fun. You catch your phone before it hits the floor. You finish your homework before the teacher finishes the question. You bring your mom the lunch she forgot at home... and you are back before your cereal gets soggy.",
+   "start": 93.521,
+   "end": 107.868
+  },
+  {
+   "id": "d01",
+   "speaker": "N",
+   "text": "Then someone films you outrunning the school bus.",
+   "start": 108.868,
+   "end": 111.636
+  },
+  {
+   "id": "d02",
+   "speaker": "N",
+   "text": "By morning, it has eleven million views. And every comment, every reaction video, every person telling their friend about you... says your name.",
+   "start": 112.136,
+   "end": 121.182
+  },
+  {
+   "id": "d03",
+   "speaker": "KID",
+   "text": "Dude, did you see Leo?! Leo is insane!",
+   "start": 121.482,
+   "end": 123.913
+  },
+  {
+   "id": "d04",
+   "speaker": "N",
+   "text": "Plus one percent. Plus one percent. Plus one percent. Faster than you can count.",
+   "start": 124.213,
+   "end": 129.709
+  },
+  {
+   "id": "d04b",
+   "speaker": "N",
+   "text": "Mach one. Mach two. Your sneakers melt on the pavement. You go through three pairs a day.",
+   "start": 130.109,
+   "end": 136.383
+  },
+  {
+   "id": "d05",
+   "speaker": "N",
+   "text": "At lunch, you stand up too fast. And the air around you cracks like thunder.",
+   "start": 136.983,
+   "end": 141.16
+  },
+  {
+   "id": "d06",
+   "speaker": "N",
+   "text": "A sonic boom. Every window in the cafeteria explodes at once.",
+   "start": 141.46,
+   "end": 145.626
+  },
+  {
+   "id": "d07",
+   "speaker": "N",
+   "text": "Nobody's hurt. But for the first time... people are scared of you.",
+   "start": 146.426,
+   "end": 151.357
+  },
+  {
+   "id": "e01",
+   "speaker": "N",
+   "text": "Day four. Forty thousand kilometers an hour. Escape velocity. If you jumped right now, you would leave the Earth.",
+   "start": 152.557,
+   "end": 159.933
+  },
+  {
+   "id": "e02",
+   "speaker": "N",
+   "text": "You learn to move slowly. Painfully slowly. Every step has to be gentle, or you'll go through a wall.",
+   "start": 160.533,
+   "end": 166.994
+  },
+  {
+   "id": "e02b",
+   "speaker": "N",
+   "text": "At this speed, the world looks frozen. Raindrops hang in the air like glass beads. You walk between them... and stay completely dry.",
+   "start": 167.494,
+   "end": 176.791
+  },
+  {
+   "id": "e03",
+   "speaker": "N",
+   "text": "And then something strange starts happening. To time.",
+   "start": 177.791,
+   "end": 181.353
+  },
+  {
+   "id": "e04",
+   "speaker": "N",
+   "text": "Einstein figured this out over a hundred years ago. The faster you move, the slower your clock ticks compared to everyone else.",
+   "start": 182.153,
+   "end": 189.919
+  },
+  {
+   "id": "e05",
+   "speaker": "N",
+   "text": "At ninety nine point nine nine percent of light speed, one day for you... is seventy days for them.",
+   "start": 190.419,
+   "end": 196.869
+  },
+  {
+   "id": "e06",
+   "speaker": "N",
+   "text": "You run to the store to buy milk. When you get home, it's two months later.",
+   "start": 197.569,
+   "end": 202.017
+  },
+  {
+   "id": "e07",
+   "speaker": "MOM",
+   "text": "Leo? Leo! Where have you been?!",
+   "start": 202.617,
+   "end": 205.379
+  },
+  {
+   "id": "e08",
+   "speaker": "N",
+   "text": "Every time she says it, you get faster. And every time you get faster... you lose her a little more.",
+   "start": 205.879,
+   "end": 212.54
+  },
+  {
+   "id": "f01",
+   "speaker": "N",
+   "text": "You do the math. If this keeps going, one afternoon for you will be ten years for your family. Your little sister Mia will grow up while you blink.",
+   "start": 213.84,
+   "end": 222.655
+  },
+  {
+   "id": "f02",
+   "speaker": "N",
+   "text": "There's only one way to slow down.",
+   "start": 223.255,
+   "end": 225.514
+  },
+  {
+   "id": "f03",
+   "speaker": "N",
+   "text": "The world has to forget your name.",
+   "start": 226.114,
+   "end": 228.135
+  },
+  {
+   "id": "f04",
+   "speaker": "N",
+   "text": "So you disappear. You delete everything. You ask everyone to stop talking about you. You stop going to school.",
+   "start": 229.335,
+   "end": 236.519
+  },
+  {
+   "id": "f05",
+   "speaker": "N",
+   "text": "And slowly... the world moves on. The videos stop. The memes die. Nobody says Leo anymore.",
+   "start": 237.019,
+   "end": 244.207
+  },
+  {
+   "id": "f05b",
+   "speaker": "MOM",
+   "text": "Please. If you love my son... stop saying his name.",
+   "start": 244.707,
+   "end": 248.891
+  },
+  {
+   "id": "f06",
+   "speaker": "N",
+   "text": "Minus one percent. Minus one percent. Every hour.",
+   "start": 249.691,
+   "end": 253.706
+  },
+  {
+   "id": "f07",
+   "speaker": "N",
+   "text": "Light speed. Then rocket speed. Then a car. Then... just you. Normal. For one perfect afternoon, you're exactly as fast as everyone else.",
+   "start": 254.206,
+   "end": 266.875
+  },
+  {
+   "id": "g01",
+   "speaker": "N",
+   "text": "But the rule doesn't stop at normal.",
+   "start": 268.075,
+   "end": 270.099
+  },
+  {
+   "id": "g02",
+   "speaker": "N",
+   "text": "After a week of silence, you're moving at one fifth speed. Your hand takes ten seconds to reach a glass of water.",
+   "start": 270.899,
+   "end": 277.874
+  },
+  {
+   "id": "g02b",
+   "speaker": "N",
+   "text": "Mia sits next to you and talks for hours. To you, her voice sounds like a recording played at the wrong speed.",
+   "start": 278.374,
+   "end": 285.568
+  },
+  {
+   "id": "g03",
+   "speaker": "N",
+   "text": "After a month... you're a statue. To you, it feels like a slow blink. To everyone else, you haven't moved in days.",
+   "start": 286.368,
+   "end": 294.657
+  },
+  {
+   "id": "g04",
+   "speaker": "N",
+   "text": "You can hear the house around you. You just can't move.",
+   "start": 295.357,
+   "end": 298.848
+  },
+  {
+   "id": "g05",
+   "speaker": "N",
+   "text": "Your mom stops saying your name. Not because she forgot. Because it hurts too much.",
+   "start": 299.748,
+   "end": 305.384
+  },
+  {
+   "id": "h01",
+   "speaker": "N",
+   "text": "And then, one night... the door opens. It's Mia. She sits on the edge of your bed, the way she used to when she had nightmares.",
+   "start": 306.784,
+   "end": 315.367
+  },
+  {
+   "id": "h02",
+   "speaker": "MIA",
+   "text": "Leo.",
+   "start": 316.167,
+   "end": 316.964
+  },
+  {
+   "id": "h03",
+   "speaker": "N",
+   "text": "Plus one percent. Your finger twitches.",
+   "start": 317.864,
+   "end": 320.822
+  },
+  {
+   "id": "h04",
+   "speaker": "MIA",
+   "text": "Leo. Leo. Leo!",
+   "start": 321.522,
+   "end": 324.067
+  },
+  {
+   "id": "h05",
+   "speaker": "N",
+   "text": "She doesn't stop. She says it a hundred times. Then she comes back the next morning and says it again. And again. Every single day.",
+   "start": 324.667,
+   "end": 334.455
+  },
+  {
+   "id": "h06",
+   "speaker": "N",
+   "text": "Not millions of strangers. Just one little girl who refuses to let you disappear.",
+   "start": 335.055,
+   "end": 340.612
+  },
+  {
+   "id": "h07",
+   "speaker": "N",
+   "text": "And for the first time, you understand. Your name was never about speed. It was about being remembered.",
+   "start": 341.312,
+   "end": 348.023
+  },
+  {
+   "id": "h08",
+   "speaker": "MIA",
+   "text": "Morning, Leo.",
+   "start": 348.923,
+   "end": 350.26
+  },
+  {
+   "id": "i01",
+   "speaker": "N",
+   "text": "A year later, you're normal again. Mia says your name every morning. Exactly one hundred times. No more, no less.",
+   "start": 351.76,
+   "end": 359.303
+  },
+  {
+   "id": "i02",
+   "speaker": "N",
+   "text": "And then, your phone buzzes.",
+   "start": 359.903,
+   "end": 361.481
+  },
+  {
+   "id": "i03",
+   "speaker": "N",
+   "text": "Someone found the old video. It's trending again. Number one. Worldwide.",
+   "start": 362.081,
+   "end": 367.44
+  },
+  {
+   "id": "i04",
+   "speaker": "N",
+   "text": "And you feel your heartbeat... speeding up.",
+   "start": 368.04,
+   "end": 371.25
+  },
+  {
+   "id": "i05",
+   "speaker": "N",
+   "text": "Would you want this power? And who would say your name every day? Tell me in the comments.",
+   "start": 372.25,
+   "end": 377.427
+  }
+ ]
+}

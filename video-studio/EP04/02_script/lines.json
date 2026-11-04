@@ -1,0 +1,472 @@
+{
+ "title": "What If You Got 1% Faster Every Time Someone Said Your Name?",
+ "cast": {
+  "N": {
+   "voice": "am_michael",
+   "speed": 0.95
+  },
+  "MOM": {
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  "MIA": {
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  "TEACH": {
+   "voice": "bm_george",
+   "speed": 0.95
+  },
+  "COACH": {
+   "voice": "am_onyx",
+   "speed": 1.0
+  },
+  "KID": {
+   "voice": "am_puck",
+   "speed": 1.05
+  }
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "s": "MOM",
+   "t": "Leo! Breakfast!",
+   "el": "[shouting from downstairs] Leo! Breakfast!",
+   "p": 0.25
+  },
+  {
+   "id": "a02",
+   "s": "N",
+   "t": "You blink. And you're already downstairs.",
+   "el": "You blink. And you're already downstairs.",
+   "p": 0.35
+  },
+  {
+   "id": "a03",
+   "s": "N",
+   "t": "Your toast is still in the air. Your mom hasn't even finished saying your name.",
+   "el": "Your toast is still in the air. Your mom hasn't even finished saying your name.",
+   "p": 0.4
+  },
+  {
+   "id": "a04",
+   "s": "N",
+   "t": "Because starting today... every time someone says your name, you get one percent faster.",
+   "el": "Because starting today... every time someone says your name, you get one percent faster.",
+   "p": 0.6
+  },
+  {
+   "id": "a05",
+   "s": "N",
+   "t": "And one percent... adds up.",
+   "el": "[ominous] And one percent... adds up.",
+   "p": 1.1
+  },
+  {
+   "id": "b01",
+   "s": "N",
+   "t": "Here's the rule. Every time anyone, anywhere, says your name out loud, your speed goes up by one percent. And every hour nobody says it... you lose one percent.",
+   "el": "Here's the rule. Every time anyone, anywhere, says your name out loud, your speed goes up by one percent. And every hour nobody says it... you lose one percent.",
+   "p": 0.5
+  },
+  {
+   "id": "b02",
+   "s": "N",
+   "t": "Your top speed right now? Twenty four kilometers an hour. A normal fifteen year old.",
+   "el": "Your top speed right now? Twenty four kilometers an hour. A normal fifteen year old.",
+   "p": 0.5
+  },
+  {
+   "id": "b03",
+   "s": "N",
+   "t": "But percentages stack. Sixty two times, and you're as fast as Usain Bolt.",
+   "el": "But percentages stack. Sixty two times, and you're as fast as Usain Bolt.",
+   "p": 0.5
+  },
+  {
+   "id": "b04",
+   "s": "N",
+   "t": "Three hundred ninety six times. You break the speed of sound.",
+   "el": "Three hundred ninety six times. You break the speed of sound.",
+   "p": 0.6
+  },
+  {
+   "id": "b05",
+   "s": "N",
+   "t": "And seventeen hundred seventy one times... you're running at the speed of light.",
+   "el": "And seventeen hundred seventy one times... you're running at the speed of light.",
+   "p": 0.8
+  },
+  {
+   "id": "b06",
+   "s": "N",
+   "t": "That's fewer people than go to some schools.",
+   "el": "[pause] That's fewer people than go to some schools.",
+   "p": 1.1
+  },
+  {
+   "id": "c01",
+   "s": "N",
+   "t": "Day one. The problem is... nobody really says your name.",
+   "el": "Day one. The problem is... nobody really says your name.",
+   "p": 0.4
+  },
+  {
+   "id": "c02",
+   "s": "N",
+   "t": "You're the quiet kid. Back row. Headphones. On a good day, your name gets said maybe three times.",
+   "el": "You're the quiet kid. Back row. Headphones. On a good day, your name gets said maybe three times.",
+   "p": 0.4
+  },
+  {
+   "id": "c03",
+   "s": "TEACH",
+   "t": "Leo? ...Leo. Present?",
+   "el": "[bored] Leo? ...Leo. Present?",
+   "p": 0.25
+  },
+  {
+   "id": "c04",
+   "s": "N",
+   "t": "Plus one. Plus one.",
+   "el": "Plus one. Plus one.",
+   "p": 0.5
+  },
+  {
+   "id": "c05",
+   "s": "N",
+   "t": "So you get creative. A name tag. A loud hello to everyone in the hallway. You even join the basketball team, just so the coach yells at you.",
+   "el": "So you get creative. A name tag. A loud hello to everyone in the hallway. You even join the basketball team, just so the coach yells at you.",
+   "p": 0.3
+  },
+  {
+   "id": "c06",
+   "s": "COACH",
+   "t": "LEO! Pass the ball! LEO!",
+   "el": "[yelling] LEO! Pass the ball! LEO!",
+   "p": 0.3
+  },
+  {
+   "id": "c07",
+   "s": "N",
+   "t": "By Friday, you run the forty meter dash in three seconds flat. The coach drops his stopwatch.",
+   "el": "By Friday, you run the forty meter dash in three seconds flat. The coach drops his stopwatch.",
+   "p": 0.6
+  },
+  {
+   "id": "c08",
+   "s": "N",
+   "t": "Day two. You start having fun. You catch your phone before it hits the floor. You finish your homework before the teacher finishes the question. You bring your mom the lunch she forgot at home... and you are back before your cereal gets soggy.",
+   "el": "Day two. You start having fun. You catch your phone before it hits the floor. You finish your homework before the teacher finishes the question. You bring your mom the lunch she forgot at home... and you are back before your cereal gets soggy.",
+   "p": 1.0
+  },
+  {
+   "id": "d01",
+   "s": "N",
+   "t": "Then someone films you outrunning the school bus.",
+   "el": "Then someone films you outrunning the school bus.",
+   "p": 0.5
+  },
+  {
+   "id": "d02",
+   "s": "N",
+   "t": "By morning, it has eleven million views. And every comment, every reaction video, every person telling their friend about you... says your name.",
+   "el": "[building] By morning, it has eleven million views. And every comment, every reaction video, every person telling their friend about you... says your name.",
+   "p": 0.3
+  },
+  {
+   "id": "d03",
+   "s": "KID",
+   "t": "Dude, did you see Leo?! Leo is insane!",
+   "el": "[excited] Dude, did you see Leo?! Leo is insane!",
+   "p": 0.3
+  },
+  {
+   "id": "d04",
+   "s": "N",
+   "t": "Plus one percent. Plus one percent. Plus one percent. Faster than you can count.",
+   "el": "Plus one percent. Plus one percent. Plus one percent. Faster than you can count.",
+   "p": 0.4
+  },
+  {
+   "id": "d04b",
+   "s": "N",
+   "t": "Mach one. Mach two. Your sneakers melt on the pavement. You go through three pairs a day.",
+   "el": "Mach one. Mach two. Your sneakers melt on the pavement. You go through three pairs a day.",
+   "p": 0.6
+  },
+  {
+   "id": "d05",
+   "s": "N",
+   "t": "At lunch, you stand up too fast. And the air around you cracks like thunder.",
+   "el": "[tense] At lunch, you stand up too fast. And the air around you cracks like thunder.",
+   "p": 0.3
+  },
+  {
+   "id": "d06",
+   "s": "N",
+   "t": "A sonic boom. Every window in the cafeteria explodes at once.",
+   "el": "A sonic boom. Every window in the cafeteria explodes at once.",
+   "p": 0.8
+  },
+  {
+   "id": "d07",
+   "s": "N",
+   "t": "Nobody's hurt. But for the first time... people are scared of you.",
+   "el": "Nobody's hurt. But for the first time... people are scared of you.",
+   "p": 1.2
+  },
+  {
+   "id": "e01",
+   "s": "N",
+   "t": "Day four. Forty thousand kilometers an hour. Escape velocity. If you jumped right now, you would leave the Earth.",
+   "el": "Day four. Forty thousand kilometers an hour. Escape velocity. If you jumped right now, you would leave the Earth.",
+   "p": 0.6
+  },
+  {
+   "id": "e02",
+   "s": "N",
+   "t": "You learn to move slowly. Painfully slowly. Every step has to be gentle, or you'll go through a wall.",
+   "el": "You learn to move slowly. Painfully slowly. Every step has to be gentle, or you'll go through a wall.",
+   "p": 0.5
+  },
+  {
+   "id": "e02b",
+   "s": "N",
+   "t": "At this speed, the world looks frozen. Raindrops hang in the air like glass beads. You walk between them... and stay completely dry.",
+   "el": "[amazed] At this speed, the world looks frozen. Raindrops hang in the air like glass beads. You walk between them... and stay completely dry.",
+   "p": 1.0
+  },
+  {
+   "id": "e03",
+   "s": "N",
+   "t": "And then something strange starts happening. To time.",
+   "el": "And then something strange starts happening. To time.",
+   "p": 0.8
+  },
+  {
+   "id": "e04",
+   "s": "N",
+   "t": "Einstein figured this out over a hundred years ago. The faster you move, the slower your clock ticks compared to everyone else.",
+   "el": "Einstein figured this out over a hundred years ago. The faster you move, the slower your clock ticks compared to everyone else.",
+   "p": 0.5
+  },
+  {
+   "id": "e05",
+   "s": "N",
+   "t": "At ninety nine point nine nine percent of light speed, one day for you... is seventy days for them.",
+   "el": "At ninety nine point nine nine percent of light speed, one day for you... is seventy days for them.",
+   "p": 0.7
+  },
+  {
+   "id": "e06",
+   "s": "N",
+   "t": "You run to the store to buy milk. When you get home, it's two months later.",
+   "el": "[quietly] You run to the store to buy milk. When you get home, it's two months later.",
+   "p": 0.6
+  },
+  {
+   "id": "e07",
+   "s": "MOM",
+   "t": "Leo? Leo! Where have you been?!",
+   "el": "[crying, relieved] Leo? Leo! Where have you been?!",
+   "p": 0.5
+  },
+  {
+   "id": "e08",
+   "s": "N",
+   "t": "Every time she says it, you get faster. And every time you get faster... you lose her a little more.",
+   "el": "Every time she says it, you get faster. And every time you get faster... you lose her a little more.",
+   "p": 1.3
+  },
+  {
+   "id": "f01",
+   "s": "N",
+   "t": "You do the math. If this keeps going, one afternoon for you will be ten years for your family. Your little sister Mia will grow up while you blink.",
+   "el": "You do the math. If this keeps going, one afternoon for you will be ten years for your family. Your little sister Mia will grow up while you blink.",
+   "p": 0.6
+  },
+  {
+   "id": "f02",
+   "s": "N",
+   "t": "There's only one way to slow down.",
+   "el": "[serious] There's only one way to slow down.",
+   "p": 0.6
+  },
+  {
+   "id": "f03",
+   "s": "N",
+   "t": "The world has to forget your name.",
+   "el": "The world has to forget your name.",
+   "p": 1.2
+  },
+  {
+   "id": "f04",
+   "s": "N",
+   "t": "So you disappear. You delete everything. You ask everyone to stop talking about you. You stop going to school.",
+   "el": "So you disappear. You delete everything. You ask everyone to stop talking about you. You stop going to school.",
+   "p": 0.5
+  },
+  {
+   "id": "f05",
+   "s": "N",
+   "t": "And slowly... the world moves on. The videos stop. The memes die. Nobody says Leo anymore.",
+   "el": "And slowly... the world moves on. The videos stop. The memes die. Nobody says Leo anymore.",
+   "p": 0.5
+  },
+  {
+   "id": "f05b",
+   "s": "MOM",
+   "t": "Please. If you love my son... stop saying his name.",
+   "el": "[on TV, pleading] Please. If you love my son... stop saying his name.",
+   "p": 0.8
+  },
+  {
+   "id": "f06",
+   "s": "N",
+   "t": "Minus one percent. Minus one percent. Every hour.",
+   "el": "Minus one percent. Minus one percent. Every hour.",
+   "p": 0.5
+  },
+  {
+   "id": "f07",
+   "s": "N",
+   "t": "Light speed. Then rocket speed. Then a car. Then... just you. Normal. For one perfect afternoon, you're exactly as fast as everyone else.",
+   "el": "Light speed. Then rocket speed. Then a car. Then... just you. Normal. For one perfect afternoon, you're exactly as fast as everyone else.",
+   "p": 1.2
+  },
+  {
+   "id": "g01",
+   "s": "N",
+   "t": "But the rule doesn't stop at normal.",
+   "el": "[ominous] But the rule doesn't stop at normal.",
+   "p": 0.8
+  },
+  {
+   "id": "g02",
+   "s": "N",
+   "t": "After a week of silence, you're moving at one fifth speed. Your hand takes ten seconds to reach a glass of water.",
+   "el": "After a week of silence, you're moving at one fifth speed. Your hand takes ten seconds to reach a glass of water.",
+   "p": 0.5
+  },
+  {
+   "id": "g02b",
+   "s": "N",
+   "t": "Mia sits next to you and talks for hours. To you, her voice sounds like a recording played at the wrong speed.",
+   "el": "Mia sits next to you and talks for hours. To you, her voice sounds like a recording played at the wrong speed.",
+   "p": 0.8
+  },
+  {
+   "id": "g03",
+   "s": "N",
+   "t": "After a month... you're a statue. To you, it feels like a slow blink. To everyone else, you haven't moved in days.",
+   "el": "After a month... you're a statue. To you, it feels like a slow blink. To everyone else, you haven't moved in days.",
+   "p": 0.7
+  },
+  {
+   "id": "g04",
+   "s": "N",
+   "t": "You can hear the house around you. You just can't move.",
+   "el": "[whispers] You can hear the house around you. You just can't move.",
+   "p": 0.9
+  },
+  {
+   "id": "g05",
+   "s": "N",
+   "t": "Your mom stops saying your name. Not because she forgot. Because it hurts too much.",
+   "el": "Your mom stops saying your name. Not because she forgot. Because it hurts too much.",
+   "p": 1.4
+  },
+  {
+   "id": "h01",
+   "s": "N",
+   "t": "And then, one night... the door opens. It's Mia. She sits on the edge of your bed, the way she used to when she had nightmares.",
+   "el": "And then, one night... the door opens. It's Mia. She sits on the edge of your bed, the way she used to when she had nightmares.",
+   "p": 0.8
+  },
+  {
+   "id": "h02",
+   "s": "MIA",
+   "t": "Leo.",
+   "el": "[softly] Leo.",
+   "p": 0.9
+  },
+  {
+   "id": "h03",
+   "s": "N",
+   "t": "Plus one percent. Your finger twitches.",
+   "el": "Plus one percent. Your finger twitches.",
+   "p": 0.7
+  },
+  {
+   "id": "h04",
+   "s": "MIA",
+   "t": "Leo. Leo. Leo!",
+   "el": "[tearful] Leo. Leo. Leo!",
+   "p": 0.6
+  },
+  {
+   "id": "h05",
+   "s": "N",
+   "t": "She doesn't stop. She says it a hundred times. Then she comes back the next morning and says it again. And again. Every single day.",
+   "el": "[emotional] She doesn't stop. She says it a hundred times. Then she comes back the next morning and says it again. And again. Every single day.",
+   "p": 0.6
+  },
+  {
+   "id": "h06",
+   "s": "N",
+   "t": "Not millions of strangers. Just one little girl who refuses to let you disappear.",
+   "el": "Not millions of strangers. Just one little girl who refuses to let you disappear.",
+   "p": 0.7
+  },
+  {
+   "id": "h07",
+   "s": "N",
+   "t": "And for the first time, you understand. Your name was never about speed. It was about being remembered.",
+   "el": "And for the first time, you understand. Your name was never about speed. It was about being remembered.",
+   "p": 0.9
+  },
+  {
+   "id": "h08",
+   "s": "MIA",
+   "t": "Morning, Leo.",
+   "el": "[smiling] Morning, Leo.",
+   "p": 1.5
+  },
+  {
+   "id": "i01",
+   "s": "N",
+   "t": "A year later, you're normal again. Mia says your name every morning. Exactly one hundred times. No more, no less.",
+   "el": "A year later, you're normal again. Mia says your name every morning. Exactly one hundred times. No more, no less.",
+   "p": 0.6
+  },
+  {
+   "id": "i02",
+   "s": "N",
+   "t": "And then, your phone buzzes.",
+   "el": "[pause] And then, your phone buzzes.",
+   "p": 0.6
+  },
+  {
+   "id": "i03",
+   "s": "N",
+   "t": "Someone found the old video. It's trending again. Number one. Worldwide.",
+   "el": "Someone found the old video. It's trending again. Number one. Worldwide.",
+   "p": 0.6
+  },
+  {
+   "id": "i04",
+   "s": "N",
+   "t": "And you feel your heartbeat... speeding up.",
+   "el": "[whispers] And you feel your heartbeat... speeding up.",
+   "p": 1.0
+  },
+  {
+   "id": "i05",
+   "s": "N",
+   "t": "Would you want this power? And who would say your name every day? Tell me in the comments.",
+   "el": "Would you want this power? And who would say your name every day? Tell me in the comments.",
+   "p": 0.32
+  }
+ ]
+}
