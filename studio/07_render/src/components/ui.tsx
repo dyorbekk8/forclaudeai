@@ -264,13 +264,34 @@ export const Spray: React.FC<{t: number; cx: number; cy: number; scale?: number;
 };
 
 /** Simple line icons, 100×100 viewBox, ink stroke. */
-export const Icon: React.FC<{name: 'hotel' | 'hanger' | 'club' | 'piano' | 'sun' | 'heater' | 'oven' | 'factory' | 'office' | 'school' | 'pot' | 'smoke' | 'fire'; size?: number; color?: string}> = ({
+export const Icon: React.FC<{name: 'road' | 'hospital' | 'restroom' | 'hotel' | 'hanger' | 'club' | 'piano' | 'sun' | 'heater' | 'oven' | 'factory' | 'office' | 'school' | 'pot' | 'smoke' | 'fire'; size?: number; color?: string}> = ({
   name,
   size = 120,
   color = C.ink,
 }) => {
   const p = {stroke: color, strokeWidth: 4.5, fill: 'none', strokeLinecap: 'round' as const, strokeLinejoin: 'round' as const};
   const shapes: Record<string, React.ReactNode> = {
+    road: (
+      <g {...p}>
+        <path d="M 30 92 L 44 8 M 70 92 L 56 8" />
+        <path d="M 50 84 L 50 72 M 50 58 L 50 46 M 50 32 L 50 22" />
+      </g>
+    ),
+    hospital: (
+      <g {...p}>
+        <rect x="14" y="20" width="72" height="72" rx="4" />
+        <path d="M 50 34 L 50 70 M 32 52 L 68 52" stroke={C.red} strokeWidth={9} />
+      </g>
+    ),
+    restroom: (
+      <g {...p}>
+        <circle cx="30" cy="20" r="8" />
+        <path d="M 30 32 L 30 62 M 18 40 L 42 40 M 24 90 L 30 62 L 36 90" />
+        <circle cx="70" cy="20" r="8" />
+        <path d="M 70 30 L 58 66 L 82 66 Z M 66 66 L 64 90 M 74 66 L 76 90" />
+        <line x1="50" y1="10" x2="50" y2="92" />
+      </g>
+    ),
     hotel: (
       <g {...p}>
         <rect x="22" y="10" width="56" height="84" />

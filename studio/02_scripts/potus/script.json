@@ -1,0 +1,271 @@
+{
+ "title": "How Presidential Protection Actually Works",
+ "sources": {
+  "NBAA_TFR": "https://nbaa.org/vip-tfr",
+  "AOPA_TFR": "https://www.aopa.org/news-and-media/all-news/2025/january/29/pilots-take-note",
+  "CBS12_NORAD": "https://cbs12.com/features/the-wellness-experience/photos/norad-explains-response-to-mar-a-lago-airspace-violations-djt-airport-trump-faa-flight-restrictions-oct-6-2026",
+  "NBC_SS": "https://www.nbcnews.com/politics/donald-trump/trump-assassination-attempt-secret-service-rally-shooting-missteps-rcna162278",
+  "USSS_PLACES": "https://webarchive.library.unt.edu/web/20201218011905/https://www.secretservice.gov/protection/places",
+  "SOFREP_DETAIL": "https://sofrep.com/news/former-secret-service-agent-describes-presidents-security-detail",
+  "KSAT_CS": "https://www.ksat.com/news/national/2024/07/18/what-to-know-about-the-secret-services-counter-sniper-team/",
+  "SCRIPPS_ROOF": "https://www.scrippsnews.com/us-news/trump-assassination-attempt/secret-service-did-not-sweep-rooftop-where-trump-shooter-was-found-source-says",
+  "CH_REVIEW": "https://www.courthousenews.com/secret-service-report-highlights-failures-before-attempted-trump-assassination/",
+  "CBS_JULY13": "https://www.cbsnews.com/news/secret-service-trump-assassination-attempt-july-13",
+  "NBC_BEAST": "https://www.nbcnews.com/business/autos/obamas-limo-heavy-armor-blood-bank-night-vision-f6C10537698",
+  "FOXB_BEAST": "https://foxbusiness.com/lifestyle/president-trump-limo-what-to-know",
+  "CSM_BEAST": "https://csmonitor.com/Business/In-Gear/2013/0121/Obama-s-beast-The-high-tech-presidential-limousine",
+  "BRIT_CODES": "https://www.britannica.com/list/secret-service-code-names-of-11-us-presidents",
+  "NBC_CODES": "https://www.nbcwashington.com/news/national-international/a-history-of-the-most-fascinating-first-family-code-names/2548486/",
+  "WIKI_MCCARTHY": "https://en.wikipedia.org/wiki/Tim_McCarthy",
+  "CBS_MCCARTHY": "https://www.cbsnews.com/news/he-took-a-bullet-for-reagan",
+  "WTTW_MCCARTHY": "https://news.wttw.com/2020/07/28/orland-park-police-chief-tim-mccarthy-retires"
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "text": "There are eight layers between the President of the United States and anyone who wants to hurt him.",
+   "src": []
+  },
+  {
+   "id": "a02",
+   "text": "The outermost layer is sixty nautical miles wide. The last one is a person.",
+   "src": [
+    "NBAA_TFR"
+   ]
+  },
+  {
+   "id": "s1a",
+   "text": "Layer one. The sky.",
+   "src": []
+  },
+  {
+   "id": "s1b",
+   "text": "Wherever the president goes, the airspace around him closes. A restricted ring, usually thirty nautical miles in every direction.",
+   "src": [
+    "NBAA_TFR",
+    "AOPA_TFR"
+   ]
+  },
+  {
+   "id": "s1c",
+   "text": "Inside that sits a second ring, about ten miles out, where almost every flight is banned.",
+   "src": [
+    "NBAA_TFR"
+   ]
+  },
+  {
+   "id": "s1d",
+   "text": "The FAA writes the rules. The military enforces them, with fighter jets.",
+   "src": [
+    "NBAA_TFR",
+    "CBS12_NORAD"
+   ]
+  },
+  {
+   "id": "s1e",
+   "text": "After the 2025 inauguration, NORAD responded to more than forty planes that wandered into the rings around Mar-a-Lago alone.",
+   "src": [
+    "CBS12_NORAD"
+   ]
+  },
+  {
+   "id": "s2a",
+   "text": "Layer two. The advance.",
+   "src": []
+  },
+  {
+   "id": "s2b",
+   "text": "Before the president arrives anywhere, a Secret Service advance team gets there first. For a campaign event, usually three to five days ahead. For a foreign trip, it can be a month.",
+   "src": [
+    "NBC_SS",
+    "SOFREP_DETAIL"
+   ]
+  },
+  {
+   "id": "s2c",
+   "text": "They walk every place he might go. The hotel, the route, the nearest hospital. Even the bathrooms.",
+   "src": [
+    "NBC_SS"
+   ]
+  },
+  {
+   "id": "s2d",
+   "text": "Then the lead agent writes the security plan that every other layer follows.",
+   "src": [
+    "NBC_SS"
+   ]
+  },
+  {
+   "id": "s3a",
+   "text": "Layer three. The rooftops.",
+   "src": []
+  },
+  {
+   "id": "s3b",
+   "text": "Outside, a counter sniper team watches from high ground, with long range optics, looking for anyone who should not be there.",
+   "src": [
+    "KSAT_CS",
+    "USSS_PLACES"
+   ]
+  },
+  {
+   "id": "s3c",
+   "text": "And this layer shows what happens when one fails. On July 13, 2024, in Butler, Pennsylvania, a gunman climbed onto a roof about 147 yards from the stage.",
+   "src": [
+    "SCRIPPS_ROOF",
+    "CBS_JULY13"
+   ]
+  },
+  {
+   "id": "s3d",
+   "text": "That roof had not been secured. Eight shots were fired before a Secret Service counter sniper killed him.",
+   "src": [
+    "SCRIPPS_ROOF",
+    "CBS_JULY13"
+   ]
+  },
+  {
+   "id": "s3e",
+   "text": "The agency's own review later found failures in its advance planning and in communication with local police.",
+   "src": [
+    "CH_REVIEW",
+    "CBS_JULY13"
+   ]
+  },
+  {
+   "id": "s4a",
+   "text": "Layer four. The checkpoint.",
+   "src": []
+  },
+  {
+   "id": "s4b",
+   "text": "Everyone who gets close walks through a magnetometer, run by the Secret Service Uniformed Division. Staff, guests and reporters. No exceptions.",
+   "src": [
+    "USSS_PLACES"
+   ]
+  },
+  {
+   "id": "s5a",
+   "text": "Layer five. The motorcade.",
+   "src": []
+  },
+  {
+   "id": "s5b",
+   "text": "When he moves, local police close the roads, and the president travels inside a convoy that carries its own counter assault team and an ambulance.",
+   "src": [
+    "USSS_PLACES",
+    "FOXB_BEAST"
+   ]
+  },
+  {
+   "id": "s5c",
+   "text": "The counter assault team has one job. If the motorcade is attacked, they fight, so everyone else can get him out.",
+   "src": [
+    "USSS_PLACES"
+   ]
+  },
+  {
+   "id": "s6a",
+   "text": "Layer six. The Beast.",
+   "src": []
+  },
+  {
+   "id": "s6b",
+   "text": "The president's limousine. Its real specifications are classified, but reports describe doors about eight inches thick, built from steel, aluminum, titanium and ceramic.",
+   "src": [
+    "NBC_BEAST",
+    "CSM_BEAST"
+   ]
+  },
+  {
+   "id": "s6c",
+   "text": "Estimates put its weight at around eight tons.",
+   "src": [
+    "CSM_BEAST",
+    "FOXB_BEAST"
+   ]
+  },
+  {
+   "id": "s6d",
+   "text": "And according to multiple reports, the trunk carries a supply of the president's own blood type, in case he cannot reach a hospital.",
+   "src": [
+    "NBC_BEAST",
+    "FOXB_BEAST"
+   ]
+  },
+  {
+   "id": "s7a",
+   "text": "Layer seven. The shift.",
+   "src": []
+  },
+  {
+   "id": "s7b",
+   "text": "The agents closest to the president work in rotating shifts, and they talk about him on the radio using a code name.",
+   "src": [
+    "BRIT_CODES"
+   ]
+  },
+  {
+   "id": "s7c",
+   "text": "The Secret Service does not pick those names. They come from a list kept by the White House Communications Agency.",
+   "src": [
+    "BRIT_CODES",
+    "NBC_CODES"
+   ]
+  },
+  {
+   "id": "s7d",
+   "text": "Barack Obama was Renegade. Donald Trump is Mogul. Joe Biden was Celtic.",
+   "src": [
+    "BRIT_CODES",
+    "NBC_CODES"
+   ]
+  },
+  {
+   "id": "s8a",
+   "text": "Layer eight. The last layer.",
+   "src": []
+  },
+  {
+   "id": "s8b",
+   "text": "When every other layer has failed, what is left is an agent's body.",
+   "src": [
+    "WIKI_MCCARTHY"
+   ]
+  },
+  {
+   "id": "s8c",
+   "text": "On March 30, 1981, outside the Washington Hilton, shots were fired at Ronald Reagan.",
+   "src": [
+    "WIKI_MCCARTHY",
+    "CBS_MCCARTHY"
+   ]
+  },
+  {
+   "id": "s8d",
+   "text": "Agent Tim McCarthy turned toward the gunfire and spread his body in front of the president. He was shot in the chest.",
+   "src": [
+    "WIKI_MCCARTHY",
+    "CBS_MCCARTHY"
+   ]
+  },
+  {
+   "id": "s8e",
+   "text": "He survived. And he was not even supposed to be working that day. He was on the shift because he lost a coin flip.",
+   "src": [
+    "WIKI_MCCARTHY",
+    "WTTW_MCCARTHY"
+   ]
+  },
+  {
+   "id": "e1",
+   "text": "So that is presidential protection. Sixty nautical miles of closed sky, eight layers of people and steel, and at the very center, sometimes, a coin flip.",
+   "src": []
+  },
+  {
+   "id": "e2",
+   "text": "Which layer surprised you the most? Tell me in the comments.",
+   "src": []
+  }
+ ]
+}

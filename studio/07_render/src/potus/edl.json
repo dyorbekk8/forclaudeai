@@ -1,0 +1,1648 @@
+{
+ "fps": 30,
+ "total": 6899,
+ "beats": [
+  {
+   "id": "a01",
+   "from": 0,
+   "dur": 167,
+   "voStart": 2,
+   "vo": "03_voiceover/potus/final/a01.wav",
+   "voDur": 5.36
+  },
+  {
+   "id": "a02",
+   "from": 167,
+   "dur": 168,
+   "voStart": 169,
+   "vo": "03_voiceover/potus/final/a02.wav",
+   "voDur": 5.182
+  },
+  {
+   "id": "s1a",
+   "from": 335,
+   "dur": 49,
+   "voStart": 337,
+   "vo": "03_voiceover/potus/final/s1a.wav",
+   "voDur": 1.435
+  },
+  {
+   "id": "s1b",
+   "from": 384,
+   "dur": 264,
+   "voStart": 386,
+   "vo": "03_voiceover/potus/final/s1b.wav",
+   "voDur": 8.61
+  },
+  {
+   "id": "s1c",
+   "from": 648,
+   "dur": 179,
+   "voStart": 650,
+   "vo": "03_voiceover/potus/final/s1c.wav",
+   "voDur": 5.779
+  },
+  {
+   "id": "s1d",
+   "from": 827,
+   "dur": 160,
+   "voStart": 829,
+   "vo": "03_voiceover/potus/final/s1d.wav",
+   "voDur": 5.136
+  },
+  {
+   "id": "s1e",
+   "from": 987,
+   "dur": 293,
+   "voStart": 989,
+   "vo": "03_voiceover/potus/final/s1e.wav",
+   "voDur": 9.331
+  },
+  {
+   "id": "s2a",
+   "from": 1280,
+   "dur": 57,
+   "voStart": 1282,
+   "vo": "03_voiceover/potus/final/s2a.wav",
+   "voDur": 1.703
+  },
+  {
+   "id": "s2b",
+   "from": 1337,
+   "dur": 357,
+   "voStart": 1339,
+   "vo": "03_voiceover/potus/final/s2b.wav",
+   "voDur": 11.694
+  },
+  {
+   "id": "s2c",
+   "from": 1694,
+   "dur": 190,
+   "voStart": 1696,
+   "vo": "03_voiceover/potus/final/s2c.wav",
+   "voDur": 6.123
+  },
+  {
+   "id": "s2d",
+   "from": 1884,
+   "dur": 156,
+   "voStart": 1886,
+   "vo": "03_voiceover/potus/final/s2d.wav",
+   "voDur": 4.762
+  },
+  {
+   "id": "s3a",
+   "from": 2040,
+   "dur": 61,
+   "voStart": 2042,
+   "vo": "03_voiceover/potus/final/s3a.wav",
+   "voDur": 1.83
+  },
+  {
+   "id": "s3b",
+   "from": 2101,
+   "dur": 256,
+   "voStart": 2103,
+   "vo": "03_voiceover/potus/final/s3b.wav",
+   "voDur": 8.337
+  },
+  {
+   "id": "s3c",
+   "from": 2357,
+   "dur": 418,
+   "voStart": 2359,
+   "vo": "03_voiceover/potus/final/s3c.wav",
+   "voDur": 13.735
+  },
+  {
+   "id": "s3d",
+   "from": 2775,
+   "dur": 202,
+   "voStart": 2777,
+   "vo": "03_voiceover/potus/final/s3d.wav",
+   "voDur": 6.539
+  },
+  {
+   "id": "s3e",
+   "from": 2977,
+   "dur": 216,
+   "voStart": 2979,
+   "vo": "03_voiceover/potus/final/s3e.wav",
+   "voDur": 6.782
+  },
+  {
+   "id": "s4a",
+   "from": 3193,
+   "dur": 58,
+   "voStart": 3195,
+   "vo": "03_voiceover/potus/final/s4a.wav",
+   "voDur": 1.739
+  },
+  {
+   "id": "s4b",
+   "from": 3251,
+   "dur": 309,
+   "voStart": 3253,
+   "vo": "03_voiceover/potus/final/s4b.wav",
+   "voDur": 9.879
+  },
+  {
+   "id": "s5a",
+   "from": 3560,
+   "dur": 56,
+   "voStart": 3562,
+   "vo": "03_voiceover/potus/final/s5a.wav",
+   "voDur": 1.657
+  },
+  {
+   "id": "s5b",
+   "from": 3616,
+   "dur": 289,
+   "voStart": 3618,
+   "vo": "03_voiceover/potus/final/s5b.wav",
+   "voDur": 9.429
+  },
+  {
+   "id": "s5c",
+   "from": 3905,
+   "dur": 219,
+   "voStart": 3907,
+   "vo": "03_voiceover/potus/final/s5c.wav",
+   "voDur": 6.86
+  },
+  {
+   "id": "s6a",
+   "from": 4124,
+   "dur": 51,
+   "voStart": 4126,
+   "vo": "03_voiceover/potus/final/s6a.wav",
+   "voDur": 1.503
+  },
+  {
+   "id": "s6b",
+   "from": 4175,
+   "dur": 357,
+   "voStart": 4177,
+   "vo": "03_voiceover/potus/final/s6b.wav",
+   "voDur": 11.696
+  },
+  {
+   "id": "s6c",
+   "from": 4532,
+   "dur": 83,
+   "voStart": 4534,
+   "vo": "03_voiceover/potus/final/s6c.wav",
+   "voDur": 2.579
+  },
+  {
+   "id": "s6d",
+   "from": 4615,
+   "dur": 261,
+   "voStart": 4617,
+   "vo": "03_voiceover/potus/final/s6d.wav",
+   "voDur": 8.256
+  },
+  {
+   "id": "s7a",
+   "from": 4876,
+   "dur": 52,
+   "voStart": 4878,
+   "vo": "03_voiceover/potus/final/s7a.wav",
+   "voDur": 1.524
+  },
+  {
+   "id": "s7b",
+   "from": 4928,
+   "dur": 221,
+   "voStart": 4930,
+   "vo": "03_voiceover/potus/final/s7b.wav",
+   "voDur": 7.174
+  },
+  {
+   "id": "s7c",
+   "from": 5149,
+   "dur": 215,
+   "voStart": 5151,
+   "vo": "03_voiceover/potus/final/s7c.wav",
+   "voDur": 6.965
+  },
+  {
+   "id": "s7d",
+   "from": 5364,
+   "dur": 176,
+   "voStart": 5366,
+   "vo": "03_voiceover/potus/final/s7d.wav",
+   "voDur": 5.431
+  },
+  {
+   "id": "s8a",
+   "from": 5540,
+   "dur": 61,
+   "voStart": 5542,
+   "vo": "03_voiceover/potus/final/s8a.wav",
+   "voDur": 1.831
+  },
+  {
+   "id": "s8b",
+   "from": 5601,
+   "dur": 129,
+   "voStart": 5603,
+   "vo": "03_voiceover/potus/final/s8b.wav",
+   "voDur": 4.091
+  },
+  {
+   "id": "s8c",
+   "from": 5730,
+   "dur": 224,
+   "voStart": 5732,
+   "vo": "03_voiceover/potus/final/s8c.wav",
+   "voDur": 7.269
+  },
+  {
+   "id": "s8d",
+   "from": 5954,
+   "dur": 215,
+   "voStart": 5956,
+   "vo": "03_voiceover/potus/final/s8d.wav",
+   "voDur": 6.974
+  },
+  {
+   "id": "s8e",
+   "from": 6169,
+   "dur": 215,
+   "voStart": 6171,
+   "vo": "03_voiceover/potus/final/s8e.wav",
+   "voDur": 6.958
+  },
+  {
+   "id": "e1",
+   "from": 6384,
+   "dur": 322,
+   "voStart": 6386,
+   "vo": "03_voiceover/potus/final/e1.wav",
+   "voDur": 10.533
+  },
+  {
+   "id": "e2",
+   "from": 6706,
+   "dur": 193,
+   "voStart": 6708,
+   "vo": "03_voiceover/potus/final/e2.wav",
+   "voDur": 3.359
+  }
+ ],
+ "shots": [
+  {
+   "id": "a01.0",
+   "beat": "a01",
+   "scene": "Rings",
+   "props": {
+    "focus": -1,
+    "ev": []
+   },
+   "step": -1,
+   "from": 0,
+   "dur": 104,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 4,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "a01.1",
+   "beat": "a01",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "8 LAYERS",
+      "red": true
+     },
+     {
+      "t": "BETWEEN THE PRESIDENT"
+     },
+     {
+      "t": "AND ANYONE WHO"
+     },
+     {
+      "t": "WANTS TO HURT HIM"
+     }
+    ],
+    "ev": [
+     5,
+     30
+    ]
+   },
+   "step": -1,
+   "from": 104,
+   "dur": 63,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 109,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 134,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "a02.0",
+   "beat": "a02",
+   "scene": "Airspace",
+   "props": {
+    "stage": "outer",
+    "ev": []
+   },
+   "step": -1,
+   "from": 167,
+   "dur": 101,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 167,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "a02.1",
+   "beat": "a02",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE LAST ONE"
+     },
+     {
+      "t": "IS A PERSON",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     38
+    ]
+   },
+   "step": -1,
+   "from": 268,
+   "dur": 67,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 273,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 306,
+     "gain": -19
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 306,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s1a.0",
+   "beat": "s1a",
+   "scene": "Rings",
+   "props": {
+    "focus": 0,
+    "from": -1,
+    "ev": []
+   },
+   "step": 0,
+   "from": 335,
+   "dur": 49,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 335,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 335,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 357,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1b.0",
+   "beat": "s1b",
+   "scene": "Airspace",
+   "props": {
+    "stage": "outer",
+    "ev": []
+   },
+   "step": 0,
+   "from": 384,
+   "dur": 264,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 384,
+     "gain": -16
+    },
+    {
+     "file": "tick_1",
+     "frame": 396,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1c.0",
+   "beat": "s1c",
+   "scene": "Airspace",
+   "props": {
+    "stage": "inner",
+    "ev": [
+     39,
+     162
+    ]
+   },
+   "step": 0,
+   "from": 648,
+   "dur": 179,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 687,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 810,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1d.0",
+   "beat": "s1d",
+   "scene": "Airspace",
+   "props": {
+    "stage": "intercept",
+    "ev": [
+     25,
+     88
+    ]
+   },
+   "step": 0,
+   "from": 827,
+   "dur": 160,
+   "cues": [
+    {
+     "file": "tick_2",
+     "frame": 852,
+     "gain": -16
+    },
+    {
+     "file": "whoosh_hard_2",
+     "frame": 915,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s1e.0",
+   "beat": "s1e",
+   "scene": "Airspace",
+   "props": {
+    "stage": "count",
+    "ev": [
+     110
+    ]
+   },
+   "step": 0,
+   "from": 987,
+   "dur": 293,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 987,
+     "gain": -18
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 1097,
+     "gain": -22
+    },
+    {
+     "file": "whoosh_soft_3",
+     "frame": 1007,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2a.0",
+   "beat": "s2a",
+   "scene": "Rings",
+   "props": {
+    "focus": 1,
+    "from": 0,
+    "ev": []
+   },
+   "step": 1,
+   "from": 1280,
+   "dur": 57,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 1280,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 1280,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 1302,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s2b.0",
+   "beat": "s2b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "THE ADVANCE TEAM"
+     },
+     {
+      "t": "GETS THERE FIRST",
+      "red": true
+     }
+    ],
+    "ev": [
+     111,
+     136
+    ]
+   },
+   "step": 1,
+   "from": 1337,
+   "dur": 166,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1448,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1473,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s2b.1",
+   "beat": "s2b",
+   "scene": "LeadTime",
+   "props": {
+    "ev": [
+     63,
+     171
+    ]
+   },
+   "step": 1,
+   "from": 1503,
+   "dur": 191,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 1566,
+     "gain": -18
+    },
+    {
+     "file": "whoosh_soft_2",
+     "frame": 1674,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s2c.0",
+   "beat": "s2c",
+   "scene": "Checklist",
+   "props": {
+    "title": "THEY WALK EVERY PLACE HE MIGHT GO",
+    "items": [
+     {
+      "icon": "hotel",
+      "l": "THE HOTEL"
+     },
+     {
+      "icon": "road",
+      "l": "THE ROUTE"
+     },
+     {
+      "icon": "hospital",
+      "l": "THE HOSPITAL"
+     },
+     {
+      "icon": "restroom",
+      "l": "THE BATHROOMS"
+     }
+    ],
+    "ev": [
+     68,
+     88,
+     116,
+     167
+    ]
+   },
+   "step": 1,
+   "from": 1694,
+   "dur": 190,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 1762,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 1782,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 1810,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 1861,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 1869,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2d.0",
+   "beat": "s2d",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "THE LEAD AGENT",
+    "lines": [
+     {
+      "t": "WRITES THE SECURITY PLAN"
+     },
+     {
+      "t": "EVERY LAYER FOLLOWS",
+      "red": true
+     }
+    ],
+    "ev": [
+     19,
+     96
+    ]
+   },
+   "step": 1,
+   "from": 1884,
+   "dur": 156,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1903,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 1980,
+     "gain": -19
+    },
+    {
+     "file": "paper_slide",
+     "frame": 1884,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3a.0",
+   "beat": "s3a",
+   "scene": "Rings",
+   "props": {
+    "focus": 2,
+    "from": 1,
+    "ev": []
+   },
+   "step": 2,
+   "from": 2040,
+   "dur": 61,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 2040,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 2040,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2062,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3b.0",
+   "beat": "s3b",
+   "scene": "Rooftop",
+   "props": {
+    "mode": "watch",
+    "ev": [
+     127
+    ]
+   },
+   "step": 2,
+   "from": 2101,
+   "dur": 256,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 2101,
+     "gain": -18
+    },
+    {
+     "file": "click_1",
+     "frame": 2228,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s3c.0",
+   "beat": "s3c",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "WHAT HAPPENS"
+     },
+     {
+      "t": "WHEN ONE FAILS",
+      "red": true
+     }
+    ],
+    "ev": [
+     52,
+     83
+    ]
+   },
+   "step": 2,
+   "from": 2357,
+   "dur": 116,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2409,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2440,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s3c.1",
+   "beat": "s3c",
+   "scene": "Rooftop",
+   "props": {
+    "mode": "butler",
+    "ev": [
+     129,
+     177
+    ]
+   },
+   "step": 2,
+   "from": 2473,
+   "dur": 302,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 2473,
+     "gain": -18
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 2650,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s3d.0",
+   "beat": "s3d",
+   "scene": "Rooftop",
+   "props": {
+    "mode": "shots",
+    "ev": [
+     62
+    ]
+   },
+   "step": 2,
+   "from": 2775,
+   "dur": 202,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 2779,
+     "gain": -12
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 2837,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 2845,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_3",
+     "frame": 2853,
+     "gain": -18
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 2877,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s3e.0",
+   "beat": "s3e",
+   "scene": "TextSlide",
+   "props": {
+    "kicker": "THE AGENCY'S OWN REVIEW",
+    "lines": [
+     {
+      "t": "FAILURES IN"
+     },
+     {
+      "t": "ADVANCE PLANNING",
+      "red": true
+     },
+     {
+      "t": "& COMMUNICATION",
+      "red": true
+     }
+    ],
+    "ev": [
+     10,
+     100,
+     145
+    ]
+   },
+   "step": 2,
+   "from": 2977,
+   "dur": 216,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2987,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3077,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 3122,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s4a.0",
+   "beat": "s4a",
+   "scene": "Rings",
+   "props": {
+    "focus": 3,
+    "from": 2,
+    "ev": []
+   },
+   "step": 3,
+   "from": 3193,
+   "dur": 58,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 3193,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 3193,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3215,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s4b.0",
+   "beat": "s4b",
+   "scene": "Magnetometer",
+   "props": {
+    "ev": [
+     209,
+     224,
+     247,
+     269
+    ]
+   },
+   "step": 3,
+   "from": 3251,
+   "dur": 309,
+   "cues": [
+    {
+     "file": "click_1",
+     "frame": 3480,
+     "gain": -16
+    },
+    {
+     "file": "click_2",
+     "frame": 3495,
+     "gain": -16
+    },
+    {
+     "file": "click_1",
+     "frame": 3518,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3520,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s5a.0",
+   "beat": "s5a",
+   "scene": "Rings",
+   "props": {
+    "focus": 4,
+    "from": 3,
+    "ev": []
+   },
+   "step": 4,
+   "from": 3560,
+   "dur": 56,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 3560,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 3560,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 3582,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s5b.0",
+   "beat": "s5b",
+   "scene": "Motorcade",
+   "props": {
+    "ev": [
+     56,
+     211,
+     260
+    ]
+   },
+   "step": 4,
+   "from": 3616,
+   "dur": 289,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 3616,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 3672,
+     "gain": -16
+    },
+    {
+     "file": "tick_2",
+     "frame": 3827,
+     "gain": -16
+    },
+    {
+     "file": "tick_3",
+     "frame": 3876,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s5c.0",
+   "beat": "s5c",
+   "scene": "Motorcade",
+   "props": {
+    "focus": "cat",
+    "ev": [
+     126
+    ]
+   },
+   "step": 4,
+   "from": 3905,
+   "dur": 219,
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 3905,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4031,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s6a.0",
+   "beat": "s6a",
+   "scene": "Rings",
+   "props": {
+    "focus": 5,
+    "from": 4,
+    "ev": []
+   },
+   "step": 5,
+   "from": 4124,
+   "dur": 51,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 4124,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 4124,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4146,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s6b.0",
+   "beat": "s6b",
+   "scene": "Beast",
+   "props": {
+    "labels": [
+     "SPECS: CLASSIFIED"
+    ],
+    "stamp": true,
+    "ev": []
+   },
+   "step": 5,
+   "from": 4175,
+   "dur": 136,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 4183,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s6b.1",
+   "beat": "s6b",
+   "scene": "Beast",
+   "props": {
+    "labels": [
+     "DOORS \u2248 8 INCHES THICK",
+     "STEEL \u00b7 ALUMINUM \u00b7 TITANIUM \u00b7 CERAMIC"
+    ],
+    "ev": [
+     49,
+     115
+    ]
+   },
+   "step": 5,
+   "from": 4311,
+   "dur": 221,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4360,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 4426,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s6c.0",
+   "beat": "s6c",
+   "scene": "Beast",
+   "props": {
+    "labels": [
+     "\u2248 8 TONS"
+    ],
+    "ev": []
+   },
+   "step": 5,
+   "from": 4532,
+   "dur": 83,
+   "cues": [
+    {
+     "file": "sub_hit_2",
+     "frame": 4538,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s6d.0",
+   "beat": "s6d",
+   "scene": "Beast",
+   "props": {
+    "labels": [
+     "THE PRESIDENT'S BLOOD TYPE",
+     "IN THE TRUNK"
+    ],
+    "blood": true,
+    "ev": [
+     105,
+     184
+    ]
+   },
+   "step": 5,
+   "from": 4615,
+   "dur": 261,
+   "cues": [
+    {
+     "file": "pop_2",
+     "frame": 4720,
+     "gain": -14
+    },
+    {
+     "file": "tick_2",
+     "frame": 4799,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7a.0",
+   "beat": "s7a",
+   "scene": "Rings",
+   "props": {
+    "focus": 6,
+    "from": 5,
+    "ev": []
+   },
+   "step": 6,
+   "from": 4876,
+   "dur": 52,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 4876,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 4876,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4898,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s7b.0",
+   "beat": "s7b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "ROTATING SHIFTS"
+     },
+     {
+      "t": "A CODE NAME ON THE RADIO",
+      "red": true
+     }
+    ],
+    "ev": [
+     84,
+     199
+    ]
+   },
+   "step": 6,
+   "from": 4928,
+   "dur": 221,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5012,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5127,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s7c.0",
+   "beat": "s7c",
+   "scene": "CodeNames",
+   "props": {
+    "who": true,
+    "ev": [
+     37,
+     149
+    ]
+   },
+   "step": 6,
+   "from": 5149,
+   "dur": 215,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 5186,
+     "gain": -14
+    },
+    {
+     "file": "whoosh_soft_1",
+     "frame": 5298,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s7d.0",
+   "beat": "s7d",
+   "scene": "CodeNames",
+   "props": {
+    "ev": [
+     41,
+     101,
+     149
+    ]
+   },
+   "step": 6,
+   "from": 5364,
+   "dur": 176,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 5405,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 5465,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 5513,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s8a.0",
+   "beat": "s8a",
+   "scene": "Rings",
+   "props": {
+    "focus": 7,
+    "from": 6,
+    "ev": []
+   },
+   "step": 7,
+   "from": 5540,
+   "dur": 61,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 5540,
+     "gain": -16
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 5540,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5562,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s8b.0",
+   "beat": "s8b",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "WHEN EVERY LAYER FAILS"
+     },
+     {
+      "t": "WHAT'S LEFT IS",
+      "red": true
+     },
+     {
+      "t": "AN AGENT'S BODY",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     66,
+     101
+    ]
+   },
+   "step": 7,
+   "from": 5601,
+   "dur": 129,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5603,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5667,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 5702,
+     "gain": -19
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 5702,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s8c.0",
+   "beat": "s8c",
+   "scene": "Shield",
+   "props": {
+    "phase": 0,
+    "ev": [
+     132
+    ]
+   },
+   "step": 7,
+   "from": 5730,
+   "dur": 224,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 5730,
+     "gain": -18
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 5862,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s8d.0",
+   "beat": "s8d",
+   "scene": "Shield",
+   "props": {
+    "phase": 1,
+    "ev": [
+     90,
+     167
+    ]
+   },
+   "step": 7,
+   "from": 5954,
+   "dur": 215,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5954,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 6044,
+     "gain": -16
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 6121,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s8e.0",
+   "beat": "s8e",
+   "scene": "CoinFlip",
+   "props": {
+    "ev": [
+     2,
+     46
+    ]
+   },
+   "step": 7,
+   "from": 6169,
+   "dur": 215,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6171,
+     "gain": -16
+    },
+    {
+     "file": "whoosh_soft_3",
+     "frame": 6215,
+     "gain": -18
+    },
+    {
+     "file": "click_2",
+     "frame": 6251,
+     "gain": -12
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 6255,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
+   "scene": "Rings",
+   "props": {
+    "focus": -1,
+    "outro": true,
+    "ev": []
+   },
+   "step": -1,
+   "from": 6384,
+   "dur": 146,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 6384,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "e1.1",
+   "beat": "e1",
+   "scene": "TextSlide",
+   "props": {
+    "lines": [
+     {
+      "t": "60 NM OF CLOSED SKY"
+     },
+     {
+      "t": "8 LAYERS OF PEOPLE & STEEL"
+     },
+     {
+      "t": "AND AT THE CENTER:",
+      "red": true
+     },
+     {
+      "t": "A COIN FLIP",
+      "red": true
+     }
+    ],
+    "ev": [
+     0,
+     5,
+     83,
+     147
+    ]
+   },
+   "step": -1,
+   "from": 6530,
+   "dur": 176,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6530,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6535,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6613,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 6677,
+     "gain": -19
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 6677,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
+   "scene": "Outro",
+   "props": {
+    "ev": []
+   },
+   "step": -1,
+   "from": 6706,
+   "dur": 193,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 6712,
+     "gain": -18
+    }
+   ]
+  }
+ ]
+}
