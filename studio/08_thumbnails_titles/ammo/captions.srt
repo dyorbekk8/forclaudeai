@@ -1,203 +1,347 @@
 1
-00:00:00,067 --> 00:00:00,756
+00:00:00,067 --> 00:00:00,890
 Olive drab.
 
 2
-00:00:00,796 --> 00:00:07,789
-It's the color on almost every American bomb and artillery shell, and on its own, it means almost nothing.
+00:00:00,930 --> 00:00:05,994
+It's the color on almost every American bomb and artillery shell.
 
 3
-00:00:08,033 --> 00:00:09,443
-It's the base coat.
+00:00:06,034 --> 00:00:09,135
+And on its own, it means almost nothing.
 
 4
-00:00:09,483 --> 00:00:17,455
-Under the military's ammunition color code, MIL-STD-709, the real message is painted on top, as a stripe.
+00:00:09,567 --> 00:00:11,095
+It's only the base coat.
 
 5
-00:00:17,700 --> 00:00:21,420
-That code covers ammunition twenty millimeters and larger.
+00:00:11,135 --> 00:00:17,108
+Under the military's ammunition color code, the real message is painted on top, as a stripe.
 
 6
-00:00:21,460 --> 00:00:24,921
-Smaller bullets use a different system, a painted tip.
+00:00:17,533 --> 00:00:21,887
+That code covers ammunition twenty millimeters and larger.
 
 7
-00:00:25,433 --> 00:00:25,838
-Yellow.
+00:00:21,927 --> 00:00:25,978
+Smaller bullets use a different system: a painted tip.
 
 8
-00:00:25,878 --> 00:00:28,060
-A yellow band means high explosive.
+00:00:26,400 --> 00:00:33,834
+So once you can read the stripes, a pile of identical green bombs suddenly starts telling you exactly what's inside.
 
 9
-00:00:28,300 --> 00:00:37,321
-A live Mark eighty-two, the five hundred pound general purpose bomb, is olive drab with a yellow band about three inches wide around the nose.
+00:00:34,567 --> 00:00:35,083
+Yellow.
 
 10
-00:00:37,567 --> 00:00:41,926
-Bombs with a heat resistant thermal coating get two yellow bands.
+00:00:35,123 --> 00:00:37,862
+A yellow band means high explosive.
 
 11
-00:00:41,966 --> 00:00:45,310
-One stripe, and everyone on the flight line knows.
+00:00:38,267 --> 00:00:42,766
+Take the Mark eighty-two, the five-hundred-pound general purpose bomb.
 
 12
-00:00:45,350 --> 00:00:46,461
-This one is real.
+00:00:42,806 --> 00:00:46,139
+Almost two hundred pounds of it is explosive filler.
 
 13
-00:00:46,967 --> 00:00:47,353
-Brown.
+00:00:46,567 --> 00:00:52,334
+A live one is olive drab, with a yellow band about three inches wide around the nose.
 
 14
-00:00:47,393 --> 00:00:49,200
-Brown means low explosive.
+00:00:52,767 --> 00:00:55,303
+And some bombs get two yellow bands.
 
 15
-00:00:49,433 --> 00:00:51,065
-Not the blast, the push.
+00:00:55,343 --> 00:00:57,521
+That second stripe has a story.
 
 16
-00:00:51,105 --> 00:00:53,643
-Propellant charges and rocket motors.
+00:00:57,933 --> 00:01:04,665
+On July twenty-ninth, nineteen sixty-seven, a fire broke out on the deck of the carrier U S S Forrestal.
 
 17
-00:00:53,683 --> 00:00:57,404
-A low explosive burns very fast instead of detonating.
+00:01:04,705 --> 00:01:09,223
+A bomb sitting in the flames exploded about a minute and a half later.
 
 18
-00:00:57,633 --> 00:01:04,107
-So a brown band on a missile tells the crew loading it that the motor is live, even if the warhead isn't.
+00:01:09,633 --> 00:01:13,498
+After that, the Navy pushed for bombs that could survive a fire.
 
 19
-00:01:04,633 --> 00:01:05,283
-Light blue.
+00:01:13,538 --> 00:01:20,392
+With a heat-resistant coating, a Mark eighty-two can sit in burning fuel for several minutes before it cooks off.
 
 20
-00:01:05,323 --> 00:01:06,912
-Light blue means practice.
+00:01:20,800 --> 00:01:25,562
+Those thermally protected bombs are the ones with two yellow bands.
 
 21
-00:01:07,167 --> 00:01:14,194
-The B D U thirty-three is a blue, twenty-five pound practice bomb built to fly like a Mark eighty-two.
+00:01:25,602 --> 00:01:27,496
+One stripe means it's live.
 
 22
-00:01:14,433 --> 00:01:16,471
-But blue does not mean harmless.
+00:01:27,536 --> 00:01:31,868
+Two stripes mean it's live, and it was built to buy you time.
 
 23
-00:01:16,511 --> 00:01:22,250
-Inside is a spotting charge that throws up a puff of smoke, so crews can score their hit.
+00:01:32,600 --> 00:01:33,194
+Brown.
 
 24
-00:01:22,500 --> 00:01:29,813
-There are hundreds of thousands of them on American bombing ranges, and the Air Force's advice if you find one is simple.
+00:01:33,234 --> 00:01:35,943
+Brown means low explosive.
 
 25
-00:01:29,853 --> 00:01:30,846
-Don't pick it up.
+00:01:36,367 --> 00:01:37,504
+Not the blast.
 
 26
-00:01:31,367 --> 00:01:32,164
-Light green.
+00:01:37,544 --> 00:01:38,261
+The push.
 
 27
-00:01:32,204 --> 00:01:33,840
-Light green means smoke.
+00:01:38,301 --> 00:01:41,457
+Propellant charges, and rocket motors.
 
 28
-00:01:34,067 --> 00:01:36,970
-Screening smoke, to hide troops and vehicles.
+00:01:41,867 --> 00:01:46,613
+A low explosive burns from layer to layer, slower than the speed of sound.
 
 29
-00:01:37,010 --> 00:01:40,763
-Or marking smoke, to point out a target or a landing zone.
+00:01:46,653 --> 00:01:53,340
+A high explosive detonates, with a shock wave that can race through it at several kilometers per second.
 
 30
-00:01:40,803 --> 00:01:44,426
-This round is built to hide things, not to destroy them.
+00:01:53,767 --> 00:01:55,598
+One is controlled pressure.
 
 31
-00:01:44,933 --> 00:01:45,272
-White.
+00:01:55,638 --> 00:01:57,678
+The other is shattering force.
 
 32
-00:01:45,312 --> 00:01:46,847
-White means illumination.
+00:01:58,100 --> 00:02:05,117
+So a brown band on a missile tells the crew loading it that the motor is live, even if the warhead has a code of its own.
 
 33
-00:01:47,100 --> 00:01:49,613
-These rounds aren't meant to hit the ground.
+00:02:05,833 --> 00:02:06,672
+Light blue.
 
 34
-00:01:49,653 --> 00:01:56,403
-High above the battlefield, the shell releases a flare that drifts down under a parachute and turns the night bright.
+00:02:06,712 --> 00:02:08,748
+Light blue means practice.
 
 35
-00:01:56,933 --> 00:01:57,244
-Black.
+00:02:09,167 --> 00:02:15,557
+The B D U thirty-three is a blue, twenty-five-pound practice bomb, shaped to fly like a Mark eighty-two.
 
 36
-00:01:57,284 --> 00:01:58,878
-Black means armor defeating.
+00:02:15,967 --> 00:02:17,983
+But blue does not mean harmless.
 
 37
-00:01:59,133 --> 00:02:02,072
-These are the rounds built to punch through tanks.
+00:02:18,023 --> 00:02:24,023
+Inside is a spotting charge that throws up a puff of smoke, so crews can score where they hit.
 
 38
-00:02:02,112 --> 00:02:05,885
-It's the same idea as the black tip on an armor piercing bullet.
+00:02:24,433 --> 00:02:30,547
+In July twenty nineteen, an A ten hit a bird over Georgia and accidentally released three of them.
 
 39
-00:02:06,400 --> 00:02:07,008
-And gray.
+00:02:30,587 --> 00:02:33,373
+They came down somewhere in northern Florida.
 
 40
-00:02:07,048 --> 00:02:09,599
-Gray is the one nobody wants to see.
+00:02:33,800 --> 00:02:37,753
+The Air Force's advice to anyone who found one was simple.
 
 41
-00:02:09,639 --> 00:02:11,542
-A gray body means chemical.
+00:02:37,793 --> 00:02:38,993
+Don't approach it.
 
 42
-00:02:11,767 --> 00:02:14,022
-The band tells you which kind.
+00:02:39,033 --> 00:02:41,058
+Mark the spot, and call it in.
 
 43
-00:02:14,062 --> 00:02:17,695
-Dark red is a riot control agent, like tear gas.
+00:02:41,467 --> 00:02:48,418
+And there are hundreds of thousands of these practice bombs sitting on American bombing ranges right now.
 
 44
-00:02:17,735 --> 00:02:20,297
-Violet is an incapacitating agent.
+00:02:49,133 --> 00:02:50,216
+Light green.
 
 45
-00:02:20,337 --> 00:02:22,669
-Dark green is a toxic chemical.
+00:02:50,256 --> 00:02:52,462
+Light green means smoke.
 
 46
-00:02:22,900 --> 00:02:29,240
-And if that dark green band is broken into half inch dashes, it marks a binary nerve agent.
+00:02:52,867 --> 00:02:55,737
+Screening smoke, to hide troops and vehicles.
 
 47
-00:02:29,280 --> 00:02:33,938
-Two chemicals stored apart, that only mix after the round is fired.
+00:02:55,777 --> 00:02:59,488
+Or marking smoke, to point out a target or a landing zone.
 
 48
-00:02:34,467 --> 00:02:40,819
-Colors fade, and other countries use their own codes, so a color is never proof that something is safe.
+00:02:59,900 --> 00:03:06,662
+The classic M eighteen smoke grenade comes in four colors: red, yellow, green, and violet.
 
 49
-00:02:41,067 --> 00:02:53,380
-But on an American flight line, yellow is the blast, brown is the push, blue is practice, green is smoke, white is light, black is armor, and gray is the one you hope never leaves the bunker.
+00:03:06,702 --> 00:03:10,138
+It pours out colored smoke for about a minute.
 
 50
-00:02:53,633 --> 00:02:55,561
-Which stripe surprised you the most?
+00:03:10,567 --> 00:03:14,577
+Violet was once pulled, because the original formula was toxic.
 
 51
-00:02:55,601 --> 00:02:56,873
+00:03:14,617 --> 00:03:17,791
+A safer version only arrived in the two thousands.
+
+52
+00:03:18,200 --> 00:03:21,938
+This kind of round is built to hide things, not to destroy them.
+
+53
+00:03:22,667 --> 00:03:23,156
+White.
+
+54
+00:03:23,196 --> 00:03:25,360
+White means illumination.
+
+55
+00:03:25,767 --> 00:03:28,261
+These rounds aren't meant to hit anything.
+
+56
+00:03:28,301 --> 00:03:33,813
+High above the battlefield, the shell pushes out a flare that drifts down under a parachute.
+
+57
+00:03:34,233 --> 00:03:41,623
+A modern one hundred fifty-five millimeter illumination round burns at about one million candlepower, for around two minutes.
+
+58
+00:03:42,033 --> 00:03:46,764
+For two minutes, a few square kilometers of night turn into something close to day.
+
+59
+00:03:47,500 --> 00:03:48,039
+Black.
+
+60
+00:03:48,079 --> 00:03:50,743
+Black means armor defeating.
+
+61
+00:03:51,167 --> 00:03:53,856
+These are the rounds built to go through tanks.
+
+62
+00:03:54,267 --> 00:04:04,120
+A modern American tank sabot round leaves the barrel at over fifteen hundred meters per second, a dense metal dart that relies on speed, not explosives.
+
+63
+00:04:04,533 --> 00:04:10,067
+It's the same idea as the black tip on an armor piercing bullet, just scaled up to a tank gun.
+
+64
+00:04:10,800 --> 00:04:11,521
+And gray.
+
+65
+00:04:11,561 --> 00:04:14,566
+Gray is the one nobody wants to see.
+
+66
+00:04:14,606 --> 00:04:16,849
+A gray body means chemical.
+
+67
+00:04:17,267 --> 00:04:19,701
+The band tells you which kind.
+
+68
+00:04:19,741 --> 00:04:23,659
+Dark red is a riot control agent, like tear gas.
+
+69
+00:04:23,699 --> 00:04:26,462
+Violet is an incapacitating agent.
+
+70
+00:04:26,502 --> 00:04:29,019
+Dark green is a toxic chemical.
+
+71
+00:04:29,433 --> 00:04:39,912
+And if that dark green band is broken into half-inch dashes, it marks a binary nerve agent: two chemicals stored apart, that only combine after the round is fired.
+
+72
+00:04:40,333 --> 00:04:47,143
+America's binary sarin shell, the M six eighty-seven, went into production in nineteen eighty-seven.
+
+73
+00:04:47,183 --> 00:04:49,061
+It was never used in combat.
+
+74
+00:04:49,467 --> 00:04:59,126
+And on July seventh, twenty twenty-three, at the Blue Grass Army Depot in Kentucky, the United States destroyed the last weapon in its declared chemical stockpile.
+
+75
+00:04:59,533 --> 00:05:04,191
+So the gray shell with the green band is now a color you mostly find in a manual.
+
+76
+00:05:04,900 --> 00:05:05,751
+One warning.
+
+77
+00:05:05,791 --> 00:05:09,688
+Colors fade, and other countries use their own codes.
+
+78
+00:05:09,728 --> 00:05:13,104
+A color is never proof that something is safe.
+
+79
+00:05:13,533 --> 00:05:18,105
+But on an American flight line, yellow is the blast.
+
+80
+00:05:18,145 --> 00:05:19,702
+Brown is the push.
+
+81
+00:05:19,742 --> 00:05:21,210
+Blue is practice.
+
+82
+00:05:21,250 --> 00:05:22,540
+Green is smoke.
+
+83
+00:05:22,580 --> 00:05:23,870
+White is light.
+
+84
+00:05:23,910 --> 00:05:25,201
+Black is armor.
+
+85
+00:05:25,241 --> 00:05:29,901
+And gray is the one you hope never leaves the bunker.
+
+86
+00:05:30,333 --> 00:05:32,441
+Which stripe surprised you the most?
+
+87
+00:05:32,481 --> 00:05:33,872
 Tell me in the comments.

@@ -54,7 +54,7 @@ const Shot: React.FC<{children: React.ReactNode; first: boolean; dur: number; se
   const blur = mode === 'fade' ? 0 : 12 * (1 - inP);
   let bump = 0;
   for (const e of ev || []) if (f >= e && f < e + 10) bump = Math.max(bump, 0.02 * (1 - (f - e) / 10));
-  const drift = kind === 'Lineup' ? 1 : 1 + 0.035 * t;
+  const drift = kind === 'Lineup' ? 1 + 0.05 * t : 1 + 0.035 * t;
   return (
     <AbsoluteFill style={{opacity: inP, filter: blur > 0.3 ? `blur(${blur}px)` : undefined, transform: `translateX(${inX + (kind === 'Lineup' ? 0 : dir * 12 * t)}px) scale(${inScale * drift * (1 + bump)})`}}>
       {children}
