@@ -1,0 +1,405 @@
+{
+ "fps": 30,
+ "total": 559,
+ "beats": [
+  {
+   "id": "h1",
+   "from": 0,
+   "dur": 120,
+   "voStart": 0,
+   "vo": "03_voiceover/prison_short/final/h1.wav",
+   "voDur": 3.882
+  },
+  {
+   "id": "h2",
+   "from": 120,
+   "dur": 54,
+   "voStart": 122,
+   "vo": "03_voiceover/prison_short/final/h2.wav",
+   "voDur": 1.639
+  },
+  {
+   "id": "h3",
+   "from": 174,
+   "dur": 83,
+   "voStart": 176,
+   "vo": "03_voiceover/prison_short/final/h3.wav",
+   "voDur": 2.431
+  },
+  {
+   "id": "h4",
+   "from": 257,
+   "dur": 69,
+   "voStart": 259,
+   "vo": "03_voiceover/prison_short/final/h4.wav",
+   "voDur": 2.144
+  },
+  {
+   "id": "h5",
+   "from": 326,
+   "dur": 125,
+   "voStart": 328,
+   "vo": "03_voiceover/prison_short/final/h5.wav",
+   "voDur": 4.002
+  },
+  {
+   "id": "h6",
+   "from": 451,
+   "dur": 108,
+   "voStart": 453,
+   "vo": "03_voiceover/prison_short/final/h6.wav",
+   "voDur": 2.856
+  }
+ ],
+ "shots": [
+  {
+   "id": "h1",
+   "beat": "h1",
+   "scene": "Hook",
+   "props": {
+    "words": [
+     {
+      "w": "This",
+      "f": 0
+     },
+     {
+      "w": "is",
+      "f": 11
+     },
+     {
+      "w": "ADX",
+      "f": 18
+     },
+     {
+      "w": "Florence,",
+      "f": 27
+     },
+     {
+      "w": "America's",
+      "f": 50
+     },
+     {
+      "w": "most",
+      "f": 73
+     },
+     {
+      "w": "secure",
+      "f": 84
+     },
+     {
+      "w": "prison.",
+      "f": 100
+     }
+    ]
+   },
+   "from": 0,
+   "dur": 120,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -12
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 2,
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "h2",
+   "beat": "h2",
+   "scene": "NoEscapes",
+   "props": {
+    "words": [
+     {
+      "w": "No",
+      "f": 2
+     },
+     {
+      "w": "one",
+      "f": 8
+     },
+     {
+      "w": "has",
+      "f": 16
+     },
+     {
+      "w": "ever",
+      "f": 25
+     },
+     {
+      "w": "escaped.",
+      "f": 35
+     }
+    ]
+   },
+   "from": 120,
+   "dur": 54,
+   "cues": [
+    {
+     "file": "stamp_thud_1",
+     "frame": 130,
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "h3",
+   "beat": "h3",
+   "scene": "LadderQ",
+   "props": {
+    "words": [
+     {
+      "w": "So",
+      "f": 2
+     },
+     {
+      "w": "it",
+      "f": 7
+     },
+     {
+      "w": "must",
+      "f": 13
+     },
+     {
+      "w": "be",
+      "f": 22
+     },
+     {
+      "w": "rated",
+      "f": 27
+     },
+     {
+      "w": "high",
+      "f": 38
+     },
+     {
+      "w": "security,",
+      "f": 46
+     },
+     {
+      "w": "right?",
+      "f": 64
+     }
+    ]
+   },
+   "from": 174,
+   "dur": 83,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 178,
+     "gain": -14
+    },
+    {
+     "file": "pop_2",
+     "frame": 182,
+     "gain": -14
+    },
+    {
+     "file": "pop_3",
+     "frame": 186,
+     "gain": -14
+    },
+    {
+     "file": "pop_1",
+     "frame": 190,
+     "gain": -14
+    },
+    {
+     "file": "tick_2",
+     "frame": 214,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "h4",
+   "beat": "h4",
+   "scene": "Admin",
+   "props": {
+    "words": [
+     {
+      "w": "Wrong.",
+      "f": 2
+     },
+     {
+      "w": "Officially,",
+      "f": 14
+     },
+     {
+      "w": "it's",
+      "f": 33
+     },
+     {
+      "w": "administrative.",
+      "f": 42
+     }
+    ]
+   },
+   "from": 257,
+   "dur": 69,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 257,
+     "gain": -14
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 271,
+     "gain": -8
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 271,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "h5",
+   "beat": "h5",
+   "scene": "Ninety",
+   "props": {
+    "words": [
+     {
+      "w": "And",
+      "f": 2
+     },
+     {
+      "w": "about",
+      "f": 8
+     },
+     {
+      "w": "90",
+      "f": 18
+     },
+     {
+      "w": "percent",
+      "f": 22
+     },
+     {
+      "w": "of",
+      "f": 35
+     },
+     {
+      "w": "the",
+      "f": 39
+     },
+     {
+      "w": "people",
+      "f": 46
+     },
+     {
+      "w": "inside",
+      "f": 57
+     },
+     {
+      "w": "weren't",
+      "f": 67
+     },
+     {
+      "w": "sent",
+      "f": 80
+     },
+     {
+      "w": "there",
+      "f": 88
+     },
+     {
+      "w": "for",
+      "f": 97
+     },
+     {
+      "w": "their",
+      "f": 103
+     },
+     {
+      "w": "crime.",
+      "f": 113
+     }
+    ]
+   },
+   "from": 326,
+   "dur": 125,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 326,
+     "gain": -14
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 330,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "h6",
+   "beat": "h6",
+   "scene": "Payoff",
+   "props": {
+    "words": [
+     {
+      "w": "They",
+      "f": 2
+     },
+     {
+      "w": "were",
+      "f": 10
+     },
+     {
+      "w": "sent",
+      "f": 18
+     },
+     {
+      "w": "for",
+      "f": 26
+     },
+     {
+      "w": "how",
+      "f": 33
+     },
+     {
+      "w": "they",
+      "f": 39
+     },
+     {
+      "w": "behaved",
+      "f": 47
+     },
+     {
+      "w": "in",
+      "f": 60
+     },
+     {
+      "w": "other",
+      "f": 65
+     },
+     {
+      "w": "prisons.",
+      "f": 75
+     }
+    ]
+   },
+   "from": 451,
+   "dur": 108,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 457,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 481,
+     "gain": -12
+    }
+   ]
+  }
+ ]
+}

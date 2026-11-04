@@ -6,6 +6,8 @@ import edl from './edl.json';
 import {Thumb} from './Thumb';
 import {ThumbCarrier} from './ThumbCarrier';
 import {MainPrison} from './prison/MainPrison';
+import {ShortPrison} from './short/ShortPrison';
+import shortEdl from './short/edl.json';
 import {ThumbPrison} from './prison/ThumbPrison';
 import prisonEdl from './prison/edl.json';
 import {MainArmor} from './armor/MainArmor';
@@ -23,6 +25,7 @@ export const Root = () => (
     <Composition id="ThumbArmorB" component={ThumbArmorB} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="ThumbArmorC" component={ThumbArmorC} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="ThumbPrison" component={ThumbPrison} durationInFrames={1} fps={30} width={1280} height={720} />
+    <Composition id="ShortPrison" component={ShortPrison} durationInFrames={shortEdl.total} fps={30} width={1080} height={1920} />
     <Composition id="Prison" component={MainPrison} durationInFrames={prisonEdl.total} fps={30} width={1920} height={1080} />
     {prisonEdl.beats.map((b) => (
       <Composition key={`p-${b.id}`} id={`prison-${b.id}`} component={MainPrison} defaultProps={{only: b.id}} durationInFrames={b.dur} fps={30} width={1920} height={1080} />
