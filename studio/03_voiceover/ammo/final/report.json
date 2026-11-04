@@ -1,0 +1,152 @@
+{
+ "b1": {
+  "dur": 2.273,
+  "lufs_in": -19.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.6
+ },
+ "b2": {
+  "dur": 8.011,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "b3": {
+  "dur": 6.514,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "e1": {
+  "dur": 6.392,
+  "lufs_in": -20.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "e2": {
+  "dur": 12.353,
+  "lufs_in": -20.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "e3": {
+  "dur": 3.28,
+  "lufs_in": -20.2,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "g1": {
+  "dur": 2.513,
+  "lufs_in": -19.5,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "g2": {
+  "dur": 10.399,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "k1": {
+  "dur": 1.985,
+  "lufs_in": -20.2,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "k2": {
+  "dur": 6.792,
+  "lufs_in": -20.2,
+  "lufs_out": -18.0,
+  "peak_db": -1.8
+ },
+ "o1": {
+  "dur": 7.762,
+  "lufs_in": -20.2,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "o2": {
+  "dur": 9.462,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "o3": {
+  "dur": 7.261,
+  "lufs_in": -20.0,
+  "lufs_out": -17.9,
+  "peak_db": -1.7
+ },
+ "r1": {
+  "dur": 5.182,
+  "lufs_in": -19.8,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "r2": {
+  "dur": 10.942,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "r3": {
+  "dur": 11.078,
+  "lufs_in": -20.2,
+  "lufs_out": -18.0,
+  "peak_db": -1.6
+ },
+ "u1": {
+  "dur": 2.319,
+  "lufs_in": -20.0,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "u2": {
+  "dur": 7.067,
+  "lufs_in": -20.6,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "u3": {
+  "dur": 7.857,
+  "lufs_in": -20.0,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "u4": {
+  "dur": 8.386,
+  "lufs_in": -20.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "w1": {
+  "dur": 1.954,
+  "lufs_in": -19.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "w2": {
+  "dur": 9.343,
+  "lufs_in": -20.0,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "y1": {
+  "dur": 2.667,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "y2": {
+  "dur": 9.061,
+  "lufs_in": -20.6,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "y3": {
+  "dur": 8.934,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ }
+}

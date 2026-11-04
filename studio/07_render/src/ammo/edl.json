@@ -1,0 +1,1246 @@
+{
+ "fps": 30,
+ "total": 5398,
+ "beats": [
+  {
+   "id": "o1",
+   "from": 0,
+   "dur": 239,
+   "voStart": 2,
+   "vo": "03_voiceover/ammo/final/o1.wav",
+   "voDur": 7.762
+  },
+  {
+   "id": "o2",
+   "from": 239,
+   "dur": 290,
+   "voStart": 241,
+   "vo": "03_voiceover/ammo/final/o2.wav",
+   "voDur": 9.462
+  },
+  {
+   "id": "o3",
+   "from": 529,
+   "dur": 232,
+   "voStart": 531,
+   "vo": "03_voiceover/ammo/final/o3.wav",
+   "voDur": 7.261
+  },
+  {
+   "id": "y1",
+   "from": 761,
+   "dur": 86,
+   "voStart": 763,
+   "vo": "03_voiceover/ammo/final/y1.wav",
+   "voDur": 2.667
+  },
+  {
+   "id": "y2",
+   "from": 847,
+   "dur": 278,
+   "voStart": 849,
+   "vo": "03_voiceover/ammo/final/y2.wav",
+   "voDur": 9.061
+  },
+  {
+   "id": "y3",
+   "from": 1125,
+   "dur": 282,
+   "voStart": 1127,
+   "vo": "03_voiceover/ammo/final/y3.wav",
+   "voDur": 8.934
+  },
+  {
+   "id": "b1",
+   "from": 1407,
+   "dur": 74,
+   "voStart": 1409,
+   "vo": "03_voiceover/ammo/final/b1.wav",
+   "voDur": 2.273
+  },
+  {
+   "id": "b2",
+   "from": 1481,
+   "dur": 246,
+   "voStart": 1483,
+   "vo": "03_voiceover/ammo/final/b2.wav",
+   "voDur": 8.011
+  },
+  {
+   "id": "b3",
+   "from": 1727,
+   "dur": 210,
+   "voStart": 1729,
+   "vo": "03_voiceover/ammo/final/b3.wav",
+   "voDur": 6.514
+  },
+  {
+   "id": "u1",
+   "from": 1937,
+   "dur": 76,
+   "voStart": 1939,
+   "vo": "03_voiceover/ammo/final/u1.wav",
+   "voDur": 2.319
+  },
+  {
+   "id": "u2",
+   "from": 2013,
+   "dur": 218,
+   "voStart": 2015,
+   "vo": "03_voiceover/ammo/final/u2.wav",
+   "voDur": 7.067
+  },
+  {
+   "id": "u3",
+   "from": 2231,
+   "dur": 242,
+   "voStart": 2233,
+   "vo": "03_voiceover/ammo/final/u3.wav",
+   "voDur": 7.857
+  },
+  {
+   "id": "u4",
+   "from": 2473,
+   "dur": 266,
+   "voStart": 2475,
+   "vo": "03_voiceover/ammo/final/u4.wav",
+   "voDur": 8.386
+  },
+  {
+   "id": "g1",
+   "from": 2739,
+   "dur": 81,
+   "voStart": 2741,
+   "vo": "03_voiceover/ammo/final/g1.wav",
+   "voDur": 2.513
+  },
+  {
+   "id": "g2",
+   "from": 2820,
+   "dur": 326,
+   "voStart": 2822,
+   "vo": "03_voiceover/ammo/final/g2.wav",
+   "voDur": 10.399
+  },
+  {
+   "id": "w1",
+   "from": 3146,
+   "dur": 65,
+   "voStart": 3148,
+   "vo": "03_voiceover/ammo/final/w1.wav",
+   "voDur": 1.954
+  },
+  {
+   "id": "w2",
+   "from": 3211,
+   "dur": 295,
+   "voStart": 3213,
+   "vo": "03_voiceover/ammo/final/w2.wav",
+   "voDur": 9.343
+  },
+  {
+   "id": "k1",
+   "from": 3506,
+   "dur": 66,
+   "voStart": 3508,
+   "vo": "03_voiceover/ammo/final/k1.wav",
+   "voDur": 1.985
+  },
+  {
+   "id": "k2",
+   "from": 3572,
+   "dur": 218,
+   "voStart": 3574,
+   "vo": "03_voiceover/ammo/final/k2.wav",
+   "voDur": 6.792
+  },
+  {
+   "id": "r1",
+   "from": 3790,
+   "dur": 161,
+   "voStart": 3792,
+   "vo": "03_voiceover/ammo/final/r1.wav",
+   "voDur": 5.182
+  },
+  {
+   "id": "r2",
+   "from": 3951,
+   "dur": 334,
+   "voStart": 3953,
+   "vo": "03_voiceover/ammo/final/r2.wav",
+   "voDur": 10.942
+  },
+  {
+   "id": "r3",
+   "from": 4285,
+   "dur": 347,
+   "voStart": 4287,
+   "vo": "03_voiceover/ammo/final/r3.wav",
+   "voDur": 11.078
+  },
+  {
+   "id": "e1",
+   "from": 4632,
+   "dur": 198,
+   "voStart": 4634,
+   "vo": "03_voiceover/ammo/final/e1.wav",
+   "voDur": 6.392
+  },
+  {
+   "id": "e2",
+   "from": 4830,
+   "dur": 377,
+   "voStart": 4832,
+   "vo": "03_voiceover/ammo/final/e2.wav",
+   "voDur": 12.353
+  },
+  {
+   "id": "e3",
+   "from": 5207,
+   "dur": 191,
+   "voStart": 5209,
+   "vo": "03_voiceover/ammo/final/e3.wav",
+   "voDur": 3.28
+  }
+ ],
+ "shots": [
+  {
+   "id": "o1.0",
+   "beat": "o1",
+   "scene": "Lineup",
+   "props": {
+    "focus": -1,
+    "ev": []
+   },
+   "step": 0,
+   "from": 0,
+   "dur": 151,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -14
+    },
+    {
+     "file": "pop_1",
+     "frame": 3,
+     "gain": -20
+    },
+    {
+     "file": "pop_2",
+     "frame": 9,
+     "gain": -20
+    },
+    {
+     "file": "pop_3",
+     "frame": 15,
+     "gain": -20
+    },
+    {
+     "file": "pop_1",
+     "frame": 21,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "o1.1",
+   "beat": "o1",
+   "scene": "Hero",
+   "props": {
+    "item": 0,
+    "facts": [],
+    "ev": [
+     42
+    ]
+   },
+   "step": 0,
+   "from": 151,
+   "dur": 88,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 151,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 193,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "o2.0",
+   "beat": "o2",
+   "scene": "Kinetic",
+   "props": {
+    "item": 0,
+    "kicker": "MIL-STD-709",
+    "lines": [
+     {
+      "t": "IT'S THE BASE COAT"
+     },
+     {
+      "t": "THE MESSAGE IS THE STRIPE",
+      "red": true
+     }
+    ],
+    "ev": [
+     20,
+     189
+    ]
+   },
+   "step": 0,
+   "from": 239,
+   "dur": 290,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 259,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 428,
+     "gain": -19
+    },
+    {
+     "file": "paper_slide",
+     "frame": 239,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "o3.0",
+   "beat": "o3",
+   "scene": "Tiers",
+   "props": {
+    "ev": [
+     56,
+     116
+    ]
+   },
+   "step": 0,
+   "from": 529,
+   "dur": 232,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 585,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 645,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "y1.0",
+   "beat": "y1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 1,
+    "from": -1,
+    "ev": []
+   },
+   "step": 1,
+   "from": 761,
+   "dur": 49,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 763,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 785,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "y1.1",
+   "beat": "y1",
+   "scene": "Hero",
+   "props": {
+    "item": 1,
+    "facts": [
+     "THE BLAST"
+    ],
+    "ev": [
+     5
+    ]
+   },
+   "step": 1,
+   "from": 810,
+   "dur": 37,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 822,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "y2.0",
+   "beat": "y2",
+   "scene": "BombBands",
+   "props": {
+    "mode": "live",
+    "ev": [
+     174,
+     209
+    ]
+   },
+   "step": 1,
+   "from": 847,
+   "dur": 278,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 847,
+     "gain": -16
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 1021,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 1056,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "y3.0",
+   "beat": "y3",
+   "scene": "BombBands",
+   "props": {
+    "mode": "thermal",
+    "ev": [
+     98,
+     236
+    ]
+   },
+   "step": 1,
+   "from": 1125,
+   "dur": 282,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 1223,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 1361,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "b1.0",
+   "beat": "b1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 2,
+    "from": 1,
+    "ev": []
+   },
+   "step": 2,
+   "from": 1407,
+   "dur": 36,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 1409,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 1431,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "b1.1",
+   "beat": "b1",
+   "scene": "Hero",
+   "props": {
+    "item": 2,
+    "facts": [
+     "THE PUSH"
+    ],
+    "ev": [
+     5
+    ]
+   },
+   "step": 2,
+   "from": 1443,
+   "dur": 38,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 1455,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "b2.0",
+   "beat": "b2",
+   "scene": "BurnVsBlast",
+   "props": {
+    "ev": [
+     164,
+     220
+    ]
+   },
+   "step": 2,
+   "from": 1481,
+   "dur": 246,
+   "cues": [
+    {
+     "file": "heat_rise",
+     "frame": 1645,
+     "gain": -20
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 1701,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "b3.0",
+   "beat": "b3",
+   "scene": "BombBands",
+   "props": {
+    "mode": "brown",
+    "ev": [
+     121,
+     171
+    ]
+   },
+   "step": 2,
+   "from": 1727,
+   "dur": 210,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 1848,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 1898,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "u1.0",
+   "beat": "u1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 3,
+    "from": 2,
+    "ev": []
+   },
+   "step": 3,
+   "from": 1937,
+   "dur": 39,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 1939,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 1961,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "u1.1",
+   "beat": "u1",
+   "scene": "Hero",
+   "props": {
+    "item": 3,
+    "facts": [
+     "TRAINING ROUNDS"
+    ],
+    "ev": [
+     16
+    ]
+   },
+   "step": 3,
+   "from": 1976,
+   "dur": 37,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 1988,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "u2.0",
+   "beat": "u2",
+   "scene": "Practice",
+   "props": {
+    "mode": "drop",
+    "ev": [
+     110
+    ]
+   },
+   "step": 3,
+   "from": 2013,
+   "dur": 218,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 2013,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "u3.0",
+   "beat": "u3",
+   "scene": "Kinetic",
+   "props": {
+    "item": 3,
+    "lines": [
+     {
+      "t": "BLUE DOES NOT MEAN"
+     },
+     {
+      "t": "HARMLESS",
+      "red": true
+     }
+    ],
+    "ev": [
+     10,
+     46
+    ]
+   },
+   "step": 3,
+   "from": 2231,
+   "dur": 61,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 2241,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 2277,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "u3.1",
+   "beat": "u3",
+   "scene": "Practice",
+   "props": {
+    "mode": "drop",
+    "ev": [
+     92
+    ]
+   },
+   "step": 3,
+   "from": 2292,
+   "dur": 181,
+   "cues": [
+    {
+     "file": "riser_2s",
+     "frame": 2292,
+     "gain": -24
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 2384,
+     "gain": -14
+    },
+    {
+     "file": "whoosh_soft_4",
+     "frame": 2384,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "u4.0",
+   "beat": "u4",
+   "scene": "Practice",
+   "props": {
+    "mode": "ranges",
+    "ev": [
+     223
+    ]
+   },
+   "step": 3,
+   "from": 2473,
+   "dur": 266,
+   "cues": [
+    {
+     "file": "counter_tick_loop",
+     "frame": 2477,
+     "gain": -22
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 2696,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "g1.0",
+   "beat": "g1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 4,
+    "from": 3,
+    "ev": []
+   },
+   "step": 4,
+   "from": 2739,
+   "dur": 48,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 2741,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 2763,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "g1.1",
+   "beat": "g1",
+   "scene": "Hero",
+   "props": {
+    "item": 4,
+    "facts": [
+     "HIDE \u00b7 MARK"
+    ],
+    "ev": [
+     17
+    ]
+   },
+   "step": 4,
+   "from": 2787,
+   "dur": 33,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 2799,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "g2.0",
+   "beat": "g2",
+   "scene": "Smoke",
+   "props": {
+    "ev": [
+     2,
+     97
+    ]
+   },
+   "step": 4,
+   "from": 2820,
+   "dur": 200,
+   "cues": [
+    {
+     "file": "water_spray_burst",
+     "frame": 2822,
+     "gain": -22
+    },
+    {
+     "file": "water_spray_burst",
+     "frame": 2917,
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "g2.1",
+   "beat": "g2",
+   "scene": "Kinetic",
+   "props": {
+    "item": 4,
+    "lines": [
+     {
+      "t": "BUILT TO HIDE THINGS"
+     },
+     {
+      "t": "NOT DESTROY THEM",
+      "red": true
+     }
+    ],
+    "ev": [
+     0,
+     75
+    ]
+   },
+   "step": 4,
+   "from": 3020,
+   "dur": 126,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3020,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3095,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "w1.0",
+   "beat": "w1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 5,
+    "from": 4,
+    "ev": []
+   },
+   "step": 5,
+   "from": 3146,
+   "dur": 21,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 3148,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 3170,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "w1.1",
+   "beat": "w1",
+   "scene": "Hero",
+   "props": {
+    "item": 5,
+    "facts": [
+     "LIGHTS THE NIGHT"
+    ],
+    "ev": [
+     16
+    ]
+   },
+   "step": 5,
+   "from": 3167,
+   "dur": 44,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 3179,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "w2.0",
+   "beat": "w2",
+   "scene": "Illum",
+   "props": {
+    "ev": [
+     146,
+     218
+    ]
+   },
+   "step": 5,
+   "from": 3211,
+   "dur": 295,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 3211,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 3357,
+     "gain": -14
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 3429,
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "k1.0",
+   "beat": "k1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 6,
+    "from": 5,
+    "ev": []
+   },
+   "step": 6,
+   "from": 3506,
+   "dur": 29,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 3508,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 3530,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k1.1",
+   "beat": "k1",
+   "scene": "Hero",
+   "props": {
+    "item": 6,
+    "facts": [
+     "PUNCHES THROUGH TANKS"
+    ],
+    "ev": [
+     5
+    ]
+   },
+   "step": 6,
+   "from": 3535,
+   "dur": 37,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 3547,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k2.0",
+   "beat": "k2",
+   "scene": "Punch",
+   "props": {
+    "ev": [
+     55,
+     138
+    ]
+   },
+   "step": 6,
+   "from": 3572,
+   "dur": 218,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 3619,
+     "gain": -14
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 3627,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 3627,
+     "gain": -12
+    },
+    {
+     "file": "pop_2",
+     "frame": 3710,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "r1.0",
+   "beat": "r1",
+   "scene": "Lineup",
+   "props": {
+    "focus": 7,
+    "from": 6,
+    "ev": []
+   },
+   "step": 7,
+   "from": 3790,
+   "dur": 52,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 3792,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 3814,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "r1.1",
+   "beat": "r1",
+   "scene": "Kinetic",
+   "props": {
+    "item": 7,
+    "lines": [
+     {
+      "t": "THE ONE"
+     },
+     {
+      "t": "NOBODY WANTS TO SEE",
+      "red": true
+     }
+    ],
+    "ev": [
+     5
+    ]
+   },
+   "step": 7,
+   "from": 3842,
+   "dur": 44,
+   "cues": [
+    {
+     "file": "reverse_swell_1s",
+     "frame": 3842,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "r1.2",
+   "beat": "r1",
+   "scene": "Hero",
+   "props": {
+    "item": 7,
+    "facts": [
+     "THE BAND SAYS WHICH"
+    ],
+    "ev": [
+     43
+    ]
+   },
+   "step": 7,
+   "from": 3886,
+   "dur": 65,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 3898,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "r2.0",
+   "beat": "r2",
+   "scene": "Chem",
+   "props": {
+    "mode": "bands",
+    "ev": [
+     72,
+     182,
+     261
+    ]
+   },
+   "step": 7,
+   "from": 3951,
+   "dur": 334,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 4023,
+     "gain": -18
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 4133,
+     "gain": -18
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 4212,
+     "gain": -18
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 4212,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "r3.0",
+   "beat": "r3",
+   "scene": "Chem",
+   "props": {
+    "mode": "binary",
+    "ev": [
+     67,
+     194
+    ]
+   },
+   "step": 7,
+   "from": 4285,
+   "dur": 347,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4352,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 4372,
+     "gain": -14
+    },
+    {
+     "file": "whoosh_soft_2",
+     "frame": 4479,
+     "gain": -16
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 4523,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
+   "scene": "Fade",
+   "props": {
+    "ev": [
+     129
+    ]
+   },
+   "step": -1,
+   "from": 4632,
+   "dur": 198,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 4632,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4761,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
+   "scene": "Lineup",
+   "props": {
+    "focus": -1,
+    "labels": true,
+    "ev": [
+     64,
+     105,
+     142,
+     177,
+     208,
+     239,
+     278
+    ]
+   },
+   "step": -1,
+   "from": 4830,
+   "dur": 377,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 4894,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 4935,
+     "gain": -18
+    },
+    {
+     "file": "tick_3",
+     "frame": 4972,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 5007,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 5038,
+     "gain": -18
+    },
+    {
+     "file": "tick_3",
+     "frame": 5069,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 5108,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e3.0",
+   "beat": "e3",
+   "scene": "Outro",
+   "props": {
+    "ev": []
+   },
+   "step": -1,
+   "from": 5207,
+   "dur": 191,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 5213,
+     "gain": -18
+    }
+   ]
+  }
+ ]
+}
