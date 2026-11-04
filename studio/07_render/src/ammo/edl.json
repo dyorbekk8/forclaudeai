@@ -1,13 +1,13 @@
 {
  "fps": 30,
- "total": 10099,
+ "total": 10108,
  "beats": [
   {
    "id": "o1",
    "from": 0,
    "dur": 285,
    "voStart": 2,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/o1.wav",
+   "vo": "03_voiceover/ammo/final/o1.wav",
    "voDur": 9.108
   },
   {
@@ -15,7 +15,7 @@
    "from": 285,
    "dur": 239,
    "voStart": 287,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/o2.wav",
+   "vo": "03_voiceover/ammo/final/o2.wav",
    "voDur": 7.581
   },
   {
@@ -23,7 +23,7 @@
    "from": 524,
    "dur": 266,
    "voStart": 526,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/o3.wav",
+   "vo": "03_voiceover/ammo/final/o3.wav",
    "voDur": 8.485
   },
   {
@@ -31,7 +31,7 @@
    "from": 790,
    "dur": 245,
    "voStart": 792,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/o4.wav",
+   "vo": "03_voiceover/ammo/final/o4.wav",
    "voDur": 7.474
   },
   {
@@ -39,7 +39,7 @@
    "from": 1035,
    "dur": 111,
    "voStart": 1037,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y1.wav",
+   "vo": "03_voiceover/ammo/final/y1.wav",
    "voDur": 3.335
   },
   {
@@ -47,7 +47,7 @@
    "from": 1146,
    "dur": 249,
    "voStart": 1148,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y2.wav",
+   "vo": "03_voiceover/ammo/final/y2.wav",
    "voDur": 7.912
   },
   {
@@ -55,7 +55,7 @@
    "from": 1395,
    "dur": 186,
    "voStart": 1397,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y3.wav",
+   "vo": "03_voiceover/ammo/final/y3.wav",
    "voDur": 5.807
   },
   {
@@ -63,7 +63,7 @@
    "from": 1581,
    "dur": 155,
    "voStart": 1583,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y4.wav",
+   "vo": "03_voiceover/ammo/final/y4.wav",
    "voDur": 4.794
   },
   {
@@ -71,7 +71,7 @@
    "from": 1736,
    "dur": 351,
    "voStart": 1738,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y5.wav",
+   "vo": "03_voiceover/ammo/final/y5.wav",
    "voDur": 11.33
   },
   {
@@ -79,7 +79,7 @@
    "from": 2087,
    "dur": 335,
    "voStart": 2089,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y6.wav",
+   "vo": "03_voiceover/ammo/final/y6.wav",
    "voDur": 10.799
   },
   {
@@ -87,7 +87,7 @@
    "from": 2422,
    "dur": 354,
    "voStart": 2424,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/y7.wav",
+   "vo": "03_voiceover/ammo/final/y7.wav",
    "voDur": 11.108
   },
   {
@@ -95,7 +95,7 @@
    "from": 2776,
    "dur": 113,
    "voStart": 2778,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/b1.wav",
+   "vo": "03_voiceover/ammo/final/b1.wav",
    "voDur": 3.383
   },
   {
@@ -103,7 +103,7 @@
    "from": 2889,
    "dur": 165,
    "voStart": 2891,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/b2.wav",
+   "vo": "03_voiceover/ammo/final/b2.wav",
    "voDur": 5.13
   },
   {
@@ -111,7 +111,7 @@
    "from": 3054,
    "dur": 357,
    "voStart": 3056,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/b3.wav",
+   "vo": "03_voiceover/ammo/final/b3.wav",
    "voDur": 11.513
   },
   {
@@ -119,7 +119,7 @@
    "from": 3411,
    "dur": 130,
    "voStart": 3413,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/b4.wav",
+   "vo": "03_voiceover/ammo/final/b4.wav",
    "voDur": 3.951
   },
   {
@@ -127,7 +127,7 @@
    "from": 3541,
    "dur": 232,
    "voStart": 3543,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/b5.wav",
+   "vo": "03_voiceover/ammo/final/b5.wav",
    "voDur": 7.057
   },
   {
@@ -135,7 +135,7 @@
    "from": 3773,
    "dur": 100,
    "voStart": 3775,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u1.wav",
+   "vo": "03_voiceover/ammo/final/u1.wav",
    "voDur": 2.955
   },
   {
@@ -143,7 +143,7 @@
    "from": 3873,
    "dur": 204,
    "voStart": 3875,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u2.wav",
+   "vo": "03_voiceover/ammo/final/u2.wav",
    "voDur": 6.43
   },
   {
@@ -151,7 +151,7 @@
    "from": 4077,
    "dur": 254,
    "voStart": 4079,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u3.wav",
+   "vo": "03_voiceover/ammo/final/u3.wav",
    "voDur": 8.096
   },
   {
@@ -159,7 +159,7 @@
    "from": 4331,
    "dur": 281,
    "voStart": 4333,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u4.wav",
+   "vo": "03_voiceover/ammo/final/u4.wav",
    "voDur": 8.98
   },
   {
@@ -167,7 +167,7 @@
    "from": 4612,
    "dur": 230,
    "voStart": 4614,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u5.wav",
+   "vo": "03_voiceover/ammo/final/u5.wav",
    "voDur": 7.298
   },
   {
@@ -175,184 +175,184 @@
    "from": 4842,
    "dur": 230,
    "voStart": 4844,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/u6.wav",
+   "vo": "03_voiceover/ammo/final/u6.wav",
    "voDur": 6.991
   },
   {
    "id": "g1",
    "from": 5072,
-   "dur": 81,
+   "dur": 112,
    "voStart": 5074,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/g1.wav",
-   "voDur": 2.308
+   "vo": "03_voiceover/ammo/final/g1.wav",
+   "voDur": 3.369
   },
   {
    "id": "g2",
-   "from": 5153,
-   "dur": 231,
-   "voStart": 5155,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/g2.wav",
-   "voDur": 7.308
+   "from": 5184,
+   "dur": 211,
+   "voStart": 5186,
+   "vo": "03_voiceover/ammo/final/g2.wav",
+   "voDur": 6.661
   },
   {
    "id": "g3",
-   "from": 5384,
-   "dur": 288,
-   "voStart": 5386,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/g3.wav",
-   "voDur": 9.231
+   "from": 5395,
+   "dur": 320,
+   "voStart": 5397,
+   "vo": "03_voiceover/ammo/final/g3.wav",
+   "voDur": 10.278
   },
   {
    "id": "g4",
-   "from": 5672,
-   "dur": 231,
-   "voStart": 5674,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/g4.wav",
-   "voDur": 7.308
+   "from": 5715,
+   "dur": 229,
+   "voStart": 5717,
+   "vo": "03_voiceover/ammo/final/g4.wav",
+   "voDur": 7.264
   },
   {
    "id": "g5",
-   "from": 5903,
-   "dur": 170,
-   "voStart": 5905,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/g5.wav",
-   "voDur": 5.0
+   "from": 5944,
+   "dur": 134,
+   "voStart": 5946,
+   "vo": "03_voiceover/ammo/final/g5.wav",
+   "voDur": 3.778
   },
   {
    "id": "w1",
-   "from": 6073,
-   "dur": 58,
-   "voStart": 6075,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/w1.wav",
-   "voDur": 1.538
+   "from": 6078,
+   "dur": 93,
+   "voStart": 6080,
+   "vo": "03_voiceover/ammo/final/w1.wav",
+   "voDur": 2.733
   },
   {
    "id": "w2",
-   "from": 6131,
-   "dur": 277,
-   "voStart": 6133,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/w2.wav",
-   "voDur": 8.846
+   "from": 6171,
+   "dur": 254,
+   "voStart": 6173,
+   "vo": "03_voiceover/ammo/final/w2.wav",
+   "voDur": 8.086
   },
   {
    "id": "w3",
-   "from": 6408,
-   "dur": 219,
-   "voStart": 6410,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/w3.wav",
-   "voDur": 6.923
+   "from": 6425,
+   "dur": 234,
+   "voStart": 6427,
+   "vo": "03_voiceover/ammo/final/w3.wav",
+   "voDur": 7.43
   },
   {
    "id": "w4",
-   "from": 6627,
-   "dur": 193,
-   "voStart": 6629,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/w4.wav",
-   "voDur": 5.769
+   "from": 6659,
+   "dur": 164,
+   "voStart": 6661,
+   "vo": "03_voiceover/ammo/final/w4.wav",
+   "voDur": 4.771
   },
   {
    "id": "k1",
-   "from": 6820,
-   "dur": 69,
-   "voStart": 6822,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/k1.wav",
-   "voDur": 1.923
+   "from": 6823,
+   "dur": 110,
+   "voStart": 6825,
+   "vo": "03_voiceover/ammo/final/k1.wav",
+   "voDur": 3.283
   },
   {
    "id": "k2",
-   "from": 6889,
-   "dur": 115,
-   "voStart": 6891,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/k2.wav",
-   "voDur": 3.462
+   "from": 6933,
+   "dur": 93,
+   "voStart": 6935,
+   "vo": "03_voiceover/ammo/final/k2.wav",
+   "voDur": 2.729
   },
   {
    "id": "k3",
-   "from": 7004,
-   "dur": 311,
-   "voStart": 7006,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/k3.wav",
-   "voDur": 10.0
+   "from": 7026,
+   "dur": 308,
+   "voStart": 7028,
+   "vo": "03_voiceover/ammo/final/k3.wav",
+   "voDur": 9.893
   },
   {
    "id": "k4",
-   "from": 7315,
-   "dur": 251,
-   "voStart": 7317,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/k4.wav",
-   "voDur": 7.692
+   "from": 7334,
+   "dur": 188,
+   "voStart": 7336,
+   "vo": "03_voiceover/ammo/final/k4.wav",
+   "voDur": 5.574
   },
   {
    "id": "r1",
-   "from": 7566,
-   "dur": 184,
-   "voStart": 7568,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r1.wav",
-   "voDur": 5.769
+   "from": 7522,
+   "dur": 194,
+   "voStart": 7524,
+   "vo": "03_voiceover/ammo/final/r1.wav",
+   "voDur": 6.089
   },
   {
    "id": "r2",
-   "from": 7750,
-   "dur": 323,
-   "voStart": 7752,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r2.wav",
-   "voDur": 10.385
+   "from": 7716,
+   "dur": 365,
+   "voStart": 7718,
+   "vo": "03_voiceover/ammo/final/r2.wav",
+   "voDur": 11.792
   },
   {
    "id": "r3",
-   "from": 8073,
-   "dur": 346,
-   "voStart": 8075,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r3.wav",
-   "voDur": 11.154
+   "from": 8081,
+   "dur": 327,
+   "voStart": 8083,
+   "vo": "03_voiceover/ammo/final/r3.wav",
+   "voDur": 10.519
   },
   {
    "id": "r4",
-   "from": 8419,
-   "dur": 242,
-   "voStart": 8421,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r4.wav",
-   "voDur": 7.692
+   "from": 8408,
+   "dur": 274,
+   "voStart": 8410,
+   "vo": "03_voiceover/ammo/final/r4.wav",
+   "voDur": 8.768
   },
   {
    "id": "r5",
-   "from": 8661,
-   "dur": 311,
-   "voStart": 8663,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r5.wav",
-   "voDur": 10.0
+   "from": 8682,
+   "dur": 302,
+   "voStart": 8684,
+   "vo": "03_voiceover/ammo/final/r5.wav",
+   "voDur": 9.699
   },
   {
    "id": "r6",
-   "from": 8972,
-   "dur": 228,
-   "voStart": 8974,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/r6.wav",
-   "voDur": 6.923
+   "from": 8984,
+   "dur": 161,
+   "voStart": 8986,
+   "vo": "03_voiceover/ammo/final/r6.wav",
+   "voDur": 4.698
   },
   {
    "id": "e1",
-   "from": 9200,
-   "dur": 242,
-   "voStart": 9202,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/e1.wav",
-   "voDur": 7.692
+   "from": 9145,
+   "dur": 259,
+   "voStart": 9147,
+   "vo": "03_voiceover/ammo/final/e1.wav",
+   "voDur": 8.244
   },
   {
    "id": "e2",
-   "from": 9442,
-   "dur": 438,
-   "voStart": 9444,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/e2.wav",
-   "voDur": 14.231
+   "from": 9404,
+   "dur": 504,
+   "voStart": 9406,
+   "vo": "03_voiceover/ammo/final/e2.wav",
+   "voDur": 16.408
   },
   {
    "id": "e3",
-   "from": 9880,
-   "dur": 219,
-   "voStart": 9882,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo/e3.wav",
-   "voDur": 4.231
+   "from": 9908,
+   "dur": 200,
+   "voStart": 9910,
+   "vo": "03_voiceover/ammo/final/e3.wav",
+   "voDur": 3.579
   }
  ],
  "shots": [
@@ -1191,7 +1191,7 @@
    },
    "step": 4,
    "from": 5072,
-   "dur": 44,
+   "dur": 65,
    "cues": [
     {
      "file": "whoosh_soft_1",
@@ -1215,16 +1215,16 @@
      "HIDE \u00b7 MARK"
     ],
     "ev": [
-     16
+     22
     ]
    },
    "step": 4,
-   "from": 5116,
-   "dur": 37,
+   "from": 5137,
+   "dur": 47,
    "cues": [
     {
      "file": "stamp_thud_2",
-     "frame": 5128,
+     "frame": 5149,
      "gain": -16
     }
    ]
@@ -1236,21 +1236,21 @@
    "props": {
     "ev": [
      2,
-     105
+     96
     ]
    },
    "step": 4,
-   "from": 5153,
-   "dur": 231,
+   "from": 5184,
+   "dur": 211,
    "cues": [
     {
      "file": "water_spray_burst",
-     "frame": 5155,
+     "frame": 5186,
      "gain": -22
     },
     {
      "file": "water_spray_burst",
-     "frame": 5258,
+     "frame": 5280,
      "gain": -22
     }
    ]
@@ -1262,40 +1262,40 @@
    "props": {
     "mode": "four",
     "ev": [
-     121,
-     131,
-     148,
-     170,
-     249
+     135,
+     146,
+     164,
+     189,
+     277
     ]
    },
    "step": 4,
-   "from": 5384,
-   "dur": 288,
+   "from": 5395,
+   "dur": 320,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 5505,
+     "frame": 5530,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 5515,
+     "frame": 5541,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 5532,
+     "frame": 5559,
      "gain": -18
     },
     {
      "file": "pop_1",
-     "frame": 5554,
+     "frame": 5584,
      "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 5633,
+     "frame": 5672,
      "gain": -16
     }
    ]
@@ -1307,22 +1307,22 @@
    "props": {
     "mode": "violet",
     "ev": [
-     112,
-     129
+     111,
+     128
     ]
    },
    "step": 4,
-   "from": 5672,
-   "dur": 231,
+   "from": 5715,
+   "dur": 229,
    "cues": [
     {
      "file": "stamp_thud_1",
-     "frame": 5784,
+     "frame": 5826,
      "gain": -12
     },
     {
      "file": "pop_2",
-     "frame": 5801,
+     "frame": 5843,
      "gain": -16
     }
    ]
@@ -1343,22 +1343,22 @@
      }
     ],
     "ev": [
-     68,
-     105
+     52,
+     80
     ]
    },
    "step": 4,
-   "from": 5903,
-   "dur": 170,
+   "from": 5944,
+   "dur": 134,
    "cues": [
     {
      "file": "tick_1",
-     "frame": 5971,
+     "frame": 5996,
      "gain": -19
     },
     {
      "file": "tick_2",
-     "frame": 6008,
+     "frame": 6024,
      "gain": -19
     }
    ]
@@ -1373,17 +1373,17 @@
     "ev": []
    },
    "step": 5,
-   "from": 6073,
-   "dur": 16,
+   "from": 6078,
+   "dur": 30,
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 6075,
+     "frame": 6080,
      "gain": -16
     },
     {
      "file": "pop_2",
-     "frame": 6097,
+     "frame": 6102,
      "gain": -16
     }
    ]
@@ -1398,16 +1398,16 @@
      "LIGHTS THE NIGHT"
     ],
     "ev": [
-     13
+     21
     ]
    },
    "step": 5,
-   "from": 6089,
-   "dur": 42,
+   "from": 6108,
+   "dur": 63,
    "cues": [
     {
      "file": "stamp_thud_2",
-     "frame": 6101,
+     "frame": 6120,
      "gain": -16
     }
    ]
@@ -1418,27 +1418,27 @@
    "scene": "Illum",
    "props": {
     "ev": [
-     161,
-     248
+     148,
+     227
     ]
    },
    "step": 5,
-   "from": 6131,
-   "dur": 277,
+   "from": 6171,
+   "dur": 254,
    "cues": [
     {
      "file": "whoosh_hard_2",
-     "frame": 6131,
+     "frame": 6171,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 6292,
+     "frame": 6319,
      "gain": -14
     },
     {
      "file": "reverse_swell_1s",
-     "frame": 6379,
+     "frame": 6398,
      "gain": -20
     }
    ]
@@ -1453,22 +1453,22 @@
     "sub": "FOR \u2248 2 MINUTES \u00b7 155 MM ROUND",
     "item": 5,
     "ev": [
-     130,
-     190
+     139,
+     204
     ]
    },
    "step": 5,
-   "from": 6408,
-   "dur": 219,
+   "from": 6425,
+   "dur": 234,
    "cues": [
     {
      "file": "sub_hit_2",
-     "frame": 6538,
+     "frame": 6564,
      "gain": -14
     },
     {
      "file": "tick_1",
-     "frame": 6598,
+     "frame": 6629,
      "gain": -16
     }
    ]
@@ -1480,16 +1480,16 @@
    "props": {
     "lit": true,
     "ev": [
-     42
+     35
     ]
    },
    "step": 5,
-   "from": 6627,
-   "dur": 193,
+   "from": 6659,
+   "dur": 164,
    "cues": [
     {
      "file": "reverse_swell_1s",
-     "frame": 6627,
+     "frame": 6659,
      "gain": -20
     }
    ]
@@ -1504,17 +1504,17 @@
     "ev": []
    },
    "step": 6,
-   "from": 6820,
-   "dur": 28,
+   "from": 6823,
+   "dur": 50,
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 6822,
+     "frame": 6825,
      "gain": -16
     },
     {
      "file": "pop_2",
-     "frame": 6844,
+     "frame": 6847,
      "gain": -16
     }
    ]
@@ -1533,12 +1533,12 @@
     ]
    },
    "step": 6,
-   "from": 6848,
-   "dur": 41,
+   "from": 6873,
+   "dur": 60,
    "cues": [
     {
      "file": "stamp_thud_2",
-     "frame": 6860,
+     "frame": 6885,
      "gain": -16
     }
    ]
@@ -1549,26 +1549,26 @@
    "scene": "Punch",
    "props": {
     "ev": [
-     68
+     54
     ]
    },
    "step": 6,
-   "from": 6889,
-   "dur": 115,
+   "from": 6933,
+   "dur": 93,
    "cues": [
     {
      "file": "whoosh_hard_1",
-     "frame": 6949,
+     "frame": 6979,
      "gain": -14
     },
     {
      "file": "glass_shatter_1",
-     "frame": 6957,
+     "frame": 6987,
      "gain": -14
     },
     {
      "file": "sub_hit_1",
-     "frame": 6957,
+     "frame": 6987,
      "gain": -12
     }
    ]
@@ -1583,22 +1583,22 @@
     "sub": "A DENSE METAL DART \u00b7 NO EXPLOSIVE",
     "item": 6,
     "ev": [
-     113,
-     195
+     111,
+     193
     ]
    },
    "step": 6,
-   "from": 7004,
-   "dur": 311,
+   "from": 7026,
+   "dur": 308,
    "cues": [
     {
      "file": "whoosh_hard_2",
-     "frame": 7117,
+     "frame": 7137,
      "gain": -14
     },
     {
      "file": "tick_2",
-     "frame": 7199,
+     "frame": 7219,
      "gain": -16
     }
    ]
@@ -1619,22 +1619,22 @@
      }
     ],
     "ev": [
-     24,
-     66
+     18,
+     48
     ]
    },
    "step": 6,
-   "from": 7315,
-   "dur": 251,
+   "from": 7334,
+   "dur": 188,
    "cues": [
     {
      "file": "tick_1",
-     "frame": 7339,
+     "frame": 7352,
      "gain": -19
     },
     {
      "file": "tick_2",
-     "frame": 7381,
+     "frame": 7382,
      "gain": -19
     }
    ]
@@ -1649,17 +1649,17 @@
     "ev": []
    },
    "step": 7,
-   "from": 7566,
-   "dur": 58,
+   "from": 7522,
+   "dur": 61,
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 7568,
+     "frame": 7524,
      "gain": -16
     },
     {
      "file": "pop_2",
-     "frame": 7590,
+     "frame": 7546,
      "gain": -16
     }
    ]
@@ -1684,12 +1684,12 @@
     ]
    },
    "step": 7,
-   "from": 7624,
-   "dur": 49,
+   "from": 7583,
+   "dur": 52,
    "cues": [
     {
      "file": "reverse_swell_1s",
-     "frame": 7624,
+     "frame": 7583,
      "gain": -18
     }
    ]
@@ -1704,16 +1704,16 @@
      "THE BAND SAYS WHICH"
     ],
     "ev": [
-     47
+     49
     ]
    },
    "step": 7,
-   "from": 7673,
-   "dur": 77,
+   "from": 7635,
+   "dur": 81,
    "cues": [
     {
      "file": "stamp_thud_2",
-     "frame": 7685,
+     "frame": 7647,
      "gain": -16
     }
    ]
@@ -1725,23 +1725,23 @@
    "props": {
     "mode": "bands",
     "ev": [
-     68,
-     173,
-     247
+     77,
+     196,
+     281
     ]
    },
    "step": 7,
-   "from": 7750,
-   "dur": 323,
+   "from": 7716,
+   "dur": 365,
    "cues": [
     {
      "file": "marker_scribble",
-     "frame": 7818,
+     "frame": 7793,
      "gain": -18
     },
     {
      "file": "marker_scribble",
-     "frame": 7923,
+     "frame": 7912,
      "gain": -18
     },
     {
@@ -1763,32 +1763,32 @@
    "props": {
     "mode": "binary",
     "ev": [
-     66,
-     191
+     62,
+     180
     ]
    },
    "step": 7,
-   "from": 8073,
-   "dur": 346,
+   "from": 8081,
+   "dur": 327,
    "cues": [
     {
      "file": "tick_1",
-     "frame": 8139,
+     "frame": 8143,
      "gain": -16
     },
     {
      "file": "stamp_thud_2",
-     "frame": 8159,
+     "frame": 8163,
      "gain": -14
     },
     {
      "file": "whoosh_soft_2",
-     "frame": 8264,
+     "frame": 8261,
      "gain": -16
     },
     {
      "file": "sub_hit_1",
-     "frame": 8308,
+     "frame": 8305,
      "gain": -14
     }
    ]
@@ -1803,21 +1803,21 @@
     "stamp": "NEVER USED\nIN COMBAT",
     "item": 7,
     "ev": [
-     195
+     222
     ]
    },
    "step": 7,
-   "from": 8419,
-   "dur": 242,
+   "from": 8408,
+   "dur": 274,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 8419,
+     "frame": 8408,
      "gain": -18
     },
     {
      "file": "stamp_thud_1",
-     "frame": 8614,
+     "frame": 8630,
      "gain": -12
     }
    ]
@@ -1831,21 +1831,21 @@
     "place": "BLUE GRASS ARMY DEPOT, KENTUCKY",
     "stamp": "LAST DECLARED U.S.\nCHEMICAL WEAPON\nDESTROYED",
     "ev": [
-     190
+     184
     ]
    },
    "step": 7,
-   "from": 8661,
-   "dur": 311,
+   "from": 8682,
+   "dur": 302,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 8661,
+     "frame": 8682,
      "gain": -18
     },
     {
      "file": "stamp_thud_2",
-     "frame": 8851,
+     "frame": 8866,
      "gain": -12
     }
    ]
@@ -1866,22 +1866,22 @@
      }
     ],
     "ev": [
-     20,
-     192
+     14,
+     131
     ]
    },
    "step": 7,
-   "from": 8972,
-   "dur": 228,
+   "from": 8984,
+   "dur": 161,
    "cues": [
     {
      "file": "tick_1",
-     "frame": 8992,
+     "frame": 8998,
      "gain": -19
     },
     {
      "file": "tick_2",
-     "frame": 9164,
+     "frame": 9115,
      "gain": -19
     }
    ]
@@ -1892,21 +1892,21 @@
    "scene": "Fade",
    "props": {
     "ev": [
-     161
+     173
     ]
    },
    "step": -1,
-   "from": 9200,
-   "dur": 242,
+   "from": 9145,
+   "dur": 259,
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9200,
+     "frame": 9145,
      "gain": -18
     },
     {
      "file": "stamp_thud_1",
-     "frame": 9361,
+     "frame": 9318,
      "gain": -12
     }
    ]
@@ -1919,52 +1919,52 @@
     "focus": -1,
     "labels": true,
     "ev": [
-     74,
-     120,
-     163,
-     203,
-     239,
+     84,
+     139,
+     188,
+     234,
      275,
-     319
+     316,
+     368
     ]
    },
    "step": -1,
-   "from": 9442,
-   "dur": 438,
+   "from": 9404,
+   "dur": 504,
    "cues": [
     {
      "file": "tick_1",
-     "frame": 9516,
+     "frame": 9488,
      "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 9562,
+     "frame": 9543,
      "gain": -18
     },
     {
      "file": "tick_3",
-     "frame": 9605,
+     "frame": 9592,
      "gain": -18
     },
     {
      "file": "tick_1",
-     "frame": 9645,
+     "frame": 9638,
      "gain": -18
     },
     {
      "file": "tick_2",
-     "frame": 9681,
+     "frame": 9679,
      "gain": -18
     },
     {
      "file": "tick_3",
-     "frame": 9717,
+     "frame": 9720,
      "gain": -18
     },
     {
      "file": "stamp_thud_2",
-     "frame": 9761,
+     "frame": 9772,
      "gain": -14
     }
    ]
@@ -1977,12 +1977,12 @@
     "ev": []
    },
    "step": -1,
-   "from": 9880,
-   "dur": 219,
+   "from": 9908,
+   "dur": 200,
    "cues": [
     {
      "file": "pop_1",
-     "frame": 9886,
+     "frame": 9914,
      "gain": -18
     }
    ]
