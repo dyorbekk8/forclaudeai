@@ -9,17 +9,32 @@
   "CHEMOPS": "https://armychemicaloperations.tpub.com/cm3404a/Part-C-Chemical-Munitions-Markings-14.htm",
   "SERDP_BDU33": "https://serdp-estcp.mil/projects/details/5b6d0e92-f4ae-4553-b40f-73aecf3d83e7",
   "MOODY_BDU33": "https://www.moody.af.mil/News/Article-Display/Article/1893940/moody-a-10-dropped-object-reported/",
-  "UXOINFO": "http://www.uxoinfo.com/blogcfc/client/includes/uxopages/Mulvaney_Details.cfm?Ord_Id=B214"
+  "UXOINFO": "http://www.uxoinfo.com/blogcfc/client/includes/uxopages/Mulvaney_Details.cfm?Ord_Id=B214",
+  "FORRESTAL_IM": "https://www.insensitivemunitions.org/history/the-uss-forrestal-cva-59-fire-and-munition-explosions/",
+  "NIST_THERMAL": "https://firedoc.nist.gov/article/xHcxXYQBWEcjUZEY2x85",
+  "WIKI_MK82": "https://en.wikipedia.org/wiki/Mark_82_bomb",
+  "DEFLAG": "https://www.isegoria.net/?p=42341",
+  "MOODY_2019": "https://www.moody.af.mil/News/Article-Display/Article/1893940/moody-a-10-dropped-object-reported/",
+  "TASK_A10": "https://taskandpurpose.com/news/a10-bird-strike.md",
+  "WIKI_M18": "https://en.wikipedia.org/wiki/M18_smoke_grenade",
+  "GS_M18": "https://www.globalsecurity.org/military/systems/munitions/m18.htm",
+  "GS_M485": "https://www.globalsecurity.org/military/systems/munitions/m485.htm",
+  "EPA_ILLUM": "https://19january2021snapshot.epa.gov/sites/static/files/2015-02/documents/c15s04.pdf",
+  "NG_M829A3": "https://www.fbcinc.com/source/Northrop_Resources/120mm_M829A3.pdf",
+  "GS_M687": "https://www.globalsecurity.org/military/systems/munitions/m687.htm",
+  "WIKI_M687": "https://en.wikipedia.org/wiki/M687_155_mm_projectile",
+  "DN_2023": "https://www.defensenews.com/global/the-americas/2023/07/07/us-to-destroy-its-last-chemical-weapons/",
+  "PBS_2023": "https://www.pbs.org/newshour/nation/u-s-set-to-destroy-its-last-chemical-weapons-closing-a-deadly-chapter-dating-to-world-war-i"
  },
  "lines": [
   {
    "id": "o1",
-   "text": "Olive drab. It's the color on almost every American bomb and artillery shell, and on its own, it means almost nothing.",
+   "text": "Olive drab. It's the color on almost every American bomb and artillery shell. And on its own, it means almost nothing.",
    "src": []
   },
   {
    "id": "o2",
-   "text": "It's the base coat. Under the military's ammunition color code, MIL-STD-709, the real message is painted on top, as a stripe.",
+   "text": "It's only the base coat. Under the military's ammunition color code, the real message is painted on top, as a stripe.",
    "src": [
     "MIL709C",
     "MIL709D"
@@ -27,11 +42,16 @@
   },
   {
    "id": "o3",
-   "text": "That code covers ammunition twenty millimeters and larger. Smaller bullets use a different system, a painted tip.",
+   "text": "That code covers ammunition twenty millimeters and larger. Smaller bullets use a different system: a painted tip.",
    "src": [
     "MIL709D",
     "FM43013"
    ]
+  },
+  {
+   "id": "o4",
+   "text": "So once you can read the stripes, a pile of identical green bombs suddenly starts telling you exactly what's inside.",
+   "src": []
   },
   {
    "id": "y1",
@@ -43,14 +63,43 @@
   },
   {
    "id": "y2",
-   "text": "A live Mark eighty-two, the five hundred pound general purpose bomb, is olive drab with a yellow band about three inches wide around the nose.",
+   "text": "Take the Mark eighty-two, the five-hundred-pound general purpose bomb. Almost two hundred pounds of it is explosive filler.",
+   "src": [
+    "WIKI_MK82"
+   ]
+  },
+  {
+   "id": "y3",
+   "text": "A live one is olive drab, with a yellow band about three inches wide around the nose.",
    "src": [
     "MK82"
    ]
   },
   {
-   "id": "y3",
-   "text": "Bombs with a heat resistant thermal coating get two yellow bands. One stripe, and everyone on the flight line knows. This one is real.",
+   "id": "y4",
+   "text": "And some bombs get two yellow bands. That second stripe has a story.",
+   "src": [
+    "MIL709C"
+   ]
+  },
+  {
+   "id": "y5",
+   "text": "On July twenty-ninth, nineteen sixty-seven, a fire broke out on the deck of the carrier U S S Forrestal. A bomb sitting in the flames exploded about a minute and a half later.",
+   "src": [
+    "FORRESTAL_IM"
+   ]
+  },
+  {
+   "id": "y6",
+   "text": "After that, the Navy pushed for bombs that could survive a fire. With a heat-resistant coating, a Mark eighty-two can sit in burning fuel for several minutes before it cooks off.",
+   "src": [
+    "NIST_THERMAL",
+    "FORRESTAL_IM"
+   ]
+  },
+  {
+   "id": "y7",
+   "text": "Those thermally protected bombs are the ones with two yellow bands. One stripe means it's live. Two stripes mean it's live, and it was built to buy you time.",
    "src": [
     "MIL709C"
    ]
@@ -65,14 +114,28 @@
   },
   {
    "id": "b2",
-   "text": "Not the blast, the push. Propellant charges and rocket motors. A low explosive burns very fast instead of detonating.",
+   "text": "Not the blast. The push. Propellant charges, and rocket motors.",
    "src": [
     "MM2597"
    ]
   },
   {
    "id": "b3",
-   "text": "So a brown band on a missile tells the crew loading it that the motor is live, even if the warhead isn't.",
+   "text": "A low explosive burns from layer to layer, slower than the speed of sound. A high explosive detonates, with a shock wave that can race through it at several kilometers per second.",
+   "src": [
+    "DEFLAG"
+   ]
+  },
+  {
+   "id": "b4",
+   "text": "One is controlled pressure. The other is shattering force.",
+   "src": [
+    "DEFLAG"
+   ]
+  },
+  {
+   "id": "b5",
+   "text": "So a brown band on a missile tells the crew loading it that the motor is live, even if the warhead has a code of its own.",
    "src": [
     "MM2597"
    ]
@@ -86,14 +149,15 @@
   },
   {
    "id": "u2",
-   "text": "The B D U thirty-three is a blue, twenty-five pound practice bomb built to fly like a Mark eighty-two.",
+   "text": "The B D U thirty-three is a blue, twenty-five-pound practice bomb, shaped to fly like a Mark eighty-two.",
    "src": [
-    "SERDP_BDU33"
+    "SERDP_BDU33",
+    "MOODY_2019"
    ]
   },
   {
    "id": "u3",
-   "text": "But blue does not mean harmless. Inside is a spotting charge that throws up a puff of smoke, so crews can score their hit.",
+   "text": "But blue does not mean harmless. Inside is a spotting charge that throws up a puff of smoke, so crews can score where they hit.",
    "src": [
     "SERDP_BDU33",
     "MOODY_BDU33"
@@ -101,10 +165,24 @@
   },
   {
    "id": "u4",
-   "text": "There are hundreds of thousands of them on American bombing ranges, and the Air Force's advice if you find one is simple. Don't pick it up.",
+   "text": "In July twenty nineteen, an A ten hit a bird over Georgia and accidentally released three of them. They came down somewhere in northern Florida.",
    "src": [
-    "SERDP_BDU33",
-    "MOODY_BDU33"
+    "MOODY_2019",
+    "TASK_A10"
+   ]
+  },
+  {
+   "id": "u5",
+   "text": "The Air Force's advice to anyone who found one was simple. Don't approach it. Mark the spot, and call it in.",
+   "src": [
+    "MOODY_2019"
+   ]
+  },
+  {
+   "id": "u6",
+   "text": "And there are hundreds of thousands of these practice bombs sitting on American bombing ranges right now.",
+   "src": [
+    "SERDP_BDU33"
    ]
   },
   {
@@ -117,10 +195,30 @@
   },
   {
    "id": "g2",
-   "text": "Screening smoke, to hide troops and vehicles. Or marking smoke, to point out a target or a landing zone. This round is built to hide things, not to destroy them.",
+   "text": "Screening smoke, to hide troops and vehicles. Or marking smoke, to point out a target or a landing zone.",
    "src": [
     "MIL709D"
    ]
+  },
+  {
+   "id": "g3",
+   "text": "The classic M eighteen smoke grenade comes in four colors: red, yellow, green, and violet. It pours out colored smoke for about a minute.",
+   "src": [
+    "WIKI_M18",
+    "GS_M18"
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "Violet was once pulled, because the original formula was toxic. A safer version only arrived in the two thousands.",
+   "src": [
+    "WIKI_M18"
+   ]
+  },
+  {
+   "id": "g5",
+   "text": "This kind of round is built to hide things, not to destroy them.",
+   "src": []
   },
   {
    "id": "w1",
@@ -132,7 +230,22 @@
   },
   {
    "id": "w2",
-   "text": "These rounds aren't meant to hit the ground. High above the battlefield, the shell releases a flare that drifts down under a parachute and turns the night bright.",
+   "text": "These rounds aren't meant to hit anything. High above the battlefield, the shell pushes out a flare that drifts down under a parachute.",
+   "src": [
+    "GS_M485",
+    "EPA_ILLUM"
+   ]
+  },
+  {
+   "id": "w3",
+   "text": "A modern one hundred fifty-five millimeter illumination round burns at about one million candlepower, for around two minutes.",
+   "src": [
+    "GS_M485"
+   ]
+  },
+  {
+   "id": "w4",
+   "text": "For two minutes, a few square kilometers of night turn into something close to day.",
    "src": []
   },
   {
@@ -144,7 +257,21 @@
   },
   {
    "id": "k2",
-   "text": "These are the rounds built to punch through tanks. It's the same idea as the black tip on an armor piercing bullet.",
+   "text": "These are the rounds built to go through tanks.",
+   "src": [
+    "FM43013"
+   ]
+  },
+  {
+   "id": "k3",
+   "text": "A modern American tank sabot round leaves the barrel at over fifteen hundred meters per second, a dense metal dart that relies on speed, not explosives.",
+   "src": [
+    "NG_M829A3"
+   ]
+  },
+  {
+   "id": "k4",
+   "text": "It's the same idea as the black tip on an armor piercing bullet, just scaled up to a tank gun.",
    "src": [
     "FM43013"
    ]
@@ -166,21 +293,43 @@
   },
   {
    "id": "r3",
-   "text": "And if that dark green band is broken into half inch dashes, it marks a binary nerve agent. Two chemicals stored apart, that only mix after the round is fired.",
+   "text": "And if that dark green band is broken into half-inch dashes, it marks a binary nerve agent: two chemicals stored apart, that only combine after the round is fired.",
    "src": [
-    "CHEMOPS"
+    "CHEMOPS",
+    "GS_M687"
    ]
   },
   {
+   "id": "r4",
+   "text": "America's binary sarin shell, the M six eighty-seven, went into production in nineteen eighty-seven. It was never used in combat.",
+   "src": [
+    "WIKI_M687",
+    "GS_M687"
+   ]
+  },
+  {
+   "id": "r5",
+   "text": "And on July seventh, twenty twenty-three, at the Blue Grass Army Depot in Kentucky, the United States destroyed the last weapon in its declared chemical stockpile.",
+   "src": [
+    "DN_2023",
+    "PBS_2023"
+   ]
+  },
+  {
+   "id": "r6",
+   "text": "So the gray shell with the green band is now a color you mostly find in a manual.",
+   "src": []
+  },
+  {
    "id": "e1",
-   "text": "Colors fade, and other countries use their own codes, so a color is never proof that something is safe.",
+   "text": "One warning. Colors fade, and other countries use their own codes. A color is never proof that something is safe.",
    "src": [
     "UXOINFO"
    ]
   },
   {
    "id": "e2",
-   "text": "But on an American flight line, yellow is the blast, brown is the push, blue is practice, green is smoke, white is light, black is armor, and gray is the one you hope never leaves the bunker.",
+   "text": "But on an American flight line, yellow is the blast. Brown is the push. Blue is practice. Green is smoke. White is light. Black is armor. And gray is the one you hope never leaves the bunker.",
    "src": []
   },
   {

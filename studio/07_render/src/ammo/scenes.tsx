@@ -277,10 +277,11 @@ export const BurnVsBlast: React.FC<{ev?: number[]}> = ({ev}) => {
 };
 
 /* ---------- practice bomb drop + spotting puff ---------- */
-export const Practice: React.FC<{mode: 'drop' | 'ranges'; ev?: number[]}> = ({mode, ev}) => {
+export const Practice: React.FC<{mode: 'drop' | 'ranges'; ev?: number[]; nopuff?: boolean}> = ({mode, ev, nopuff}) => {
   const f = useCurrentFrame();
-  const hit = at(ev, 0, 40);
-  const fall = prog(f, 0, Math.max(10, hit), (x) => x * x);
+  const {durationInFrames: dd} = useVideoConfig();
+  const hit = nopuff ? dd + 100 : at(ev, 0, 40);
+  const fall = nopuff ? prog(f, 0, dd + 20, (x) => x * x) * 0.75 : prog(f, 0, Math.max(10, hit), (x) => x * x);
   const by = interpolate(fall, [0, 1], [-200, 700]);
   const puff = Math.max(0, f - hit);
   if (mode === 'ranges') {
@@ -397,13 +398,13 @@ export const Smoke: React.FC<{ev?: number[]}> = ({ev}) => {
 };
 
 /* ---------- illumination: flare under parachute, inside a framed card ---------- */
-export const Illum: React.FC<{ev?: number[]}> = ({ev}) => {
+export const Illum: React.FC<{ev?: number[]; lit?: boolean}> = ({ev, lit}) => {
   const f = useCurrentFrame();
-  const s0 = at(ev, 0, 20);
+  const s0 = lit ? -200 : at(ev, 0, 20);
   const pop1 = f >= s0;
   const fy = interpolate(f, [s0, s0 + 240], [140, 420], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   const light = prog(f, s0, 14);
-  const shellY = interpolate(f, [0, s0], [620, 120], {extrapolateRight: 'clamp', easing: ease});
+  const shellY = interpolate(f, [0, Math.max(1, s0)], [620, 120], {extrapolateRight: 'clamp', easing: ease});
   return (
     <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center'}}>
       <div style={{width: 1600, height: 780, ...TILE, padding: 0, overflow: 'hidden', position: 'relative', marginTop: 40}}>
@@ -550,6 +551,280 @@ export const Fade: React.FC<{ev?: number[]}> = ({ev}) => {
         <div style={{marginTop: 40}}>
           <RedStamp text={'NOT PROOF\nIT\'S SAFE'} f={f} delay={at(ev, 0, 50)} size={84} rotate={-6} />
         </div>
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/* ======================= long-form additions ======================= */
+const Big: React.FC<{children: React.ReactNode; size?: number; color?: string}> = ({children, size = 90, color = C.ink}) => (
+  <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: size, lineHeight: 1.02, color}}>{children}</div>
+);
+const Mono: React.FC<{children: React.ReactNode; size?: number; color?: string}> = ({children, size = 32, color = C.inkSoft}) => (
+  <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: size, color, letterSpacing: 2}}>{children}</div>
+);
+
+/** Bomb cut-away: how much of a Mk 82 is explosive. */
+export const Filler: React.FC<{ev?: number[]}> = ({ev}) => {
+  const f = useCurrentFrame();
+  const p = prog(f, at(ev, 0, 12), 30, easeInOut);
+  const n = Math.round(192 * p);
+  return (
+    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center'}}>
+      <div style={{position: 'absolute', top: 150, left: 0, right: 0, textAlign: 'center'}}>
+        <Big size={84}>MK 82 · 500 LB GENERAL PURPOSE</Big>
+      </div>
+      <div style={{position: 'relative', marginTop: 40}}>
+        <Bomb width={1500} uid="fill" />
+        <svg width={1500} height={375} style={{position: 'absolute', left: 0, top: 0}} viewBox="0 0 800 200">
+          <clipPath id="fillclip">
+            <path d="M 150 72 L 560 66 C 660 66 740 86 760 100 C 740 114 660 134 560 134 L 150 128 Z" />
+          </clipPath>
+          <rect x={150} y={60} width={610 * p} height={80} fill="#F2C21B" opacity={0.85} clipPath="url(#fillclip)" />
+        </svg>
+      </div>
+      <div style={{position: 'absolute', bottom: 190, display: 'flex', alignItems: 'baseline', gap: 26, opacity: prog(f, at(ev, 0, 12), 6)}}>
+        <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: 150, color: C.red, lineHeight: 1}}>≈{n}</div>
+        <Big size={70}>LB OF EXPLOSIVE FILLER</Big>
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/** USS Forrestal 1967: fire on deck, clock to the first explosion. */
+export const Forrestal: React.FC<{ev?: number[]}> = ({ev}) => {
+  const f = useCurrentFrame();
+  const {durationInFrames: d} = useVideoConfig();
+  const s1 = at(ev, 1, Math.round(d * 0.6));
+  const clock = Math.min(94, Math.round(interpolate(f, [at(ev, 0, 10), s1], [0, 94], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})));
+  const boom = f >= s1;
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: 120, top: 150}}>
+        <Mono size={40} color={C.red}>JULY 29, 1967</Mono>
+        <Big size={110}>USS FORRESTAL</Big>
+      </div>
+      <svg width={1920} height={1080} style={{position: 'absolute'}}>
+        <path d="M 160 700 L 1760 700 L 1700 800 L 240 800 Z" fill="#9AA0A6" stroke={C.ink} strokeWidth={5} />
+        <rect x={1180} y={560} width={120} height={140} fill="#8A9096" stroke={C.ink} strokeWidth={5} />
+        {Array.from({length: 26}).map((_, k) => {
+          const x = 560 + random(`fx${k}`) * 420;
+          const h = (60 + random(`fh${k}`) * 140) * (0.8 + 0.2 * Math.sin((f + k * 7) / 4)) * prog(f, at(ev, 0, 10), 16);
+          return <path key={k} d={`M ${x - 26} 700 Q ${x} ${700 - h} ${x + 26} 700 Z`} fill={k % 3 ? '#F28C28' : '#E5482E'} opacity={0.9} />;
+        })}
+        <g transform="translate(760 690)">
+          <Bomb width={200} uid="fr" />
+        </g>
+        {boom && <circle cx={860} cy={680} r={Math.min(500, (f - s1) * 40)} fill="#FFF1C2" opacity={Math.max(0, 1 - (f - s1) / 14)} />}
+      </svg>
+      <div style={{position: 'absolute', right: 140, top: 170, ...TILE, padding: '18px 34px', textAlign: 'center'}}>
+        <Mono size={26}>FIRE → FIRST BOMB EXPLODES</Mono>
+        <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: 130, color: boom ? C.red : C.ink, lineHeight: 1}}>
+          {Math.floor(clock / 60)}:{String(clock % 60).padStart(2, '0')}
+        </div>
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/** Cook-off time bars: unprotected vs thermal coating. */
+export const CookOff: React.FC<{ev?: number[]}> = ({ev}) => {
+  const f = useCurrentFrame();
+  const a = prog(f, at(ev, 0, 6), 14, easeInOut);
+  const b = prog(f, at(ev, 1, 40), 30, easeInOut);
+  const row = (label: string, w: number, p: number, tag: string, color: string, s: number) => (
+    <div style={{marginBottom: 60, opacity: prog(f, s - 4, 6)}}>
+      <Big size={64}>{label}</Big>
+      <div style={{display: 'flex', alignItems: 'center', gap: 26, marginTop: 10}}>
+        <div style={{height: 90, width: w * p, background: color, borderRadius: 10}} />
+        <Big size={72} color={color}>{tag}</Big>
+      </div>
+    </div>
+  );
+  return (
+    <AbsoluteFill style={{justifyContent: 'center', paddingLeft: 220}}>
+      <Mono size={34} color={C.red}>TIME IN A FUEL FIRE BEFORE COOK-OFF</Mono>
+      <div style={{height: 40}} />
+      {row('1967 · NO PROTECTION', 220, a, '≈ 1.5 MIN', C.ink, at(ev, 0, 6))}
+      {row('THERMAL COATING · MK 82', 1050, b, '5–10 MIN', '#C99A00', at(ev, 1, 40))}
+    </AbsoluteFill>
+  );
+};
+
+/** 2019: an A-10 drops three BDU-33s after a bird strike. */
+export const A10Drop: React.FC<{ev?: number[]}> = ({ev}) => {
+  const f = useCurrentFrame();
+  const {durationInFrames: d} = useVideoConfig();
+  const hit = at(ev, 0, 40);
+  const px = interpolate(f, [0, d], [100, 1500]);
+  const py = interpolate(f, [0, d], [300, 420]);
+  const after = Math.max(0, f - hit);
+  return (
+    <AbsoluteFill>
+      <svg width={1920} height={1080} style={{position: 'absolute'}}>
+        <rect x={0} y={560} width={1920} height={520} fill="#E7E1D0" />
+        <line x1={0} y1={560} x2={1920} y2={560} stroke={C.ink} strokeWidth={5} strokeDasharray="22 14" />
+        <text x={80} y={530} fontFamily="Barlow Condensed" fontWeight={800} fontSize={64} fill={C.inkSoft}>GEORGIA</text>
+        <text x={80} y={640} fontFamily="Barlow Condensed" fontWeight={800} fontSize={64} fill={C.inkSoft}>FLORIDA</text>
+        <g transform={`translate(${px} ${py})`}>
+          <path d="M -70 0 L 70 -6 L 90 0 L 70 6 Z" fill="#6E747A" />
+          <path d="M -10 -4 L 20 -60 L 34 -60 L 22 -4 Z M -10 4 L 20 60 L 34 60 L 22 4 Z" fill="#6E747A" />
+          <rect x={-60} y={-18} width={18} height={10} fill="#6E747A" />
+          <rect x={-60} y={8} width={18} height={10} fill="#6E747A" />
+        </g>
+        {f >= hit && f < hit + 8 && <circle cx={px + 90} cy={py} r={40} fill="#fff" stroke={C.red} strokeWidth={6} />}
+        {after > 0 &&
+          [0, 1, 2].map((k) => {
+            const x0 = interpolate(hit, [0, d], [100, 1500]) + k * 40;
+            const y = Math.min(760 + k * 20, interpolate(hit, [0, d], [300, 420]) + after * after * 0.4);
+            return <rect key={k} x={x0 + after * 3} y={y} width={40} height={14} rx={7} fill="#86B6E6" stroke="#2C4D70" strokeWidth={2} />;
+          })}
+      </svg>
+      <div style={{position: 'absolute', left: 120, top: 140}}>
+        <Mono size={40} color={C.red}>JULY 2019 · MOODY AIR FORCE BASE</Mono>
+        <Big size={96}>BIRD STRIKE → 3 PRACTICE BOMBS RELEASED</Big>
+      </div>
+      <div style={{position: 'absolute', right: 160, bottom: 200, opacity: prog(f, at(ev, 1, 80), 8), background: C.ink, color: '#fff', fontFamily: fonts.label, fontWeight: 800, fontSize: 54, padding: '6px 20px', borderRadius: 8}}>
+        LANDED: NORTHERN FLORIDA
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/** Short rule list (checklist style). */
+export const Rules: React.FC<{title: string; items: string[]; ev?: number[]}> = ({title, items, ev}) => {
+  const f = useCurrentFrame();
+  return (
+    <AbsoluteFill style={{justifyContent: 'center', paddingLeft: 260}}>
+      <Mono size={36} color={C.red}>{title}</Mono>
+      <div style={{height: 30}} />
+      {items.map((t, i) => {
+        const s = at(ev, i, 10 + i * 20);
+        return (
+          <div key={t} style={{display: 'flex', alignItems: 'center', gap: 30, marginBottom: 34, opacity: prog(f, s, 6), transform: `translateX(${(1 - prog(f, s, 8)) * 60}px)`}}>
+            <div style={{width: 92, height: 92, borderRadius: 16, background: C.red, color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: fonts.label, fontWeight: 800, fontSize: 64}}>{i + 1}</div>
+            <Big size={110}>{t}</Big>
+          </div>
+        );
+      })}
+    </AbsoluteFill>
+  );
+};
+
+/** M18 colored smoke grenades. */
+const Grenade: React.FC<{c: string; size?: number}> = ({c, size = 300}) => (
+  <svg width={size * 0.55} height={size} viewBox="0 0 55 100" style={{overflow: 'visible', filter: 'drop-shadow(0 10px 12px rgba(0,0,0,0.15))'}}>
+    <rect x="6" y="22" width="43" height="74" rx="5" fill="#5E6338" stroke="#16161A" strokeWidth="2.5" />
+    <rect x="6" y="22" width="43" height="16" fill={c} stroke="#16161A" strokeWidth="2.5" />
+    <rect x="20" y="8" width="15" height="14" fill="#9DA1A5" stroke="#16161A" strokeWidth="2.5" />
+    <path d="M 35 12 Q 52 14 50 34" fill="none" stroke="#9DA1A5" strokeWidth="4" />
+    <circle cx="16" cy="9" r="6" fill="none" stroke="#9DA1A5" strokeWidth="2.5" />
+  </svg>
+);
+export const M18: React.FC<{mode: 'four' | 'violet'; ev?: number[]}> = ({mode, ev}) => {
+  const f = useCurrentFrame();
+  const cols = [
+    {c: '#D23A32', l: 'RED'},
+    {c: '#F2C21B', l: 'YELLOW'},
+    {c: '#3C9A4B', l: 'GREEN'},
+    {c: '#7A45B5', l: 'VIOLET'},
+  ];
+  if (mode === 'violet')
+    return (
+      <AbsoluteFill style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 120}}>
+        <div style={{...TILE, width: 460, height: 700, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+          <Grenade c="#7A45B5" size={480} />
+        </div>
+        <div>
+          <Big size={110}>VIOLET</Big>
+          <div style={{marginTop: 20}}>
+            <RedStamp text={'PULLED:\nTOXIC'} f={f} delay={at(ev, 0, 10)} size={80} rotate={-6} />
+          </div>
+          <div style={{marginTop: 40, opacity: prog(f, at(ev, 1, 60), 6)}}>
+            <Big size={70} color="#3C9A4B">SAFE VERSION: 2000s</Big>
+          </div>
+        </div>
+      </AbsoluteFill>
+    );
+  return (
+    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center'}}>
+      <div style={{position: 'absolute', top: 150}}>
+        <Big size={90}>M18 COLORED SMOKE</Big>
+      </div>
+      <div style={{display: 'flex', gap: 60, marginTop: 60}}>
+        {cols.map((c, i) => {
+          const s = at(ev, i, 10 + i * 10);
+          const p = pop(f, s, 11);
+          return (
+            <div key={c.l} style={{...TILE, width: 300, height: 520, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-end', paddingBottom: 20, opacity: Math.min(1, p), transform: `translateY(${(1 - Math.min(1, p)) * 60}px)`}}>
+              <svg width={300} height={160} style={{position: 'absolute', top: 10}}>
+                {Array.from({length: 7}).map((_, k) => (
+                  <circle key={k} cx={150 + Math.sin((f + k * 9) / 14) * 24} cy={150 - k * 20 * Math.min(1, Math.max(0, (f - s) / 30))} r={22 + k * 4} fill={c.c} opacity={0.5 - k * 0.05} />
+                ))}
+              </svg>
+              <Grenade c={c.c} size={260} />
+              <Big size={52}>{c.l}</Big>
+            </div>
+          );
+        })}
+      </div>
+      <div style={{position: 'absolute', bottom: 150, opacity: prog(f, at(ev, 4, 80), 6)}}>
+        <Mono size={40} color={C.red}>≈ 1 MINUTE OF SMOKE</Mono>
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/** Single big number with label lines. */
+export const Stat: React.FC<{value: string; label: string; sub?: string; item?: number; ev?: number[]}> = ({value, label, sub, item, ev}) => {
+  const f = useCurrentFrame();
+  const it = item !== undefined ? ITEMS[item] : null;
+  const p = pop(f, at(ev, 0, 6), 11);
+  return (
+    <AbsoluteFill style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 100}}>
+      {it && (
+        <div style={{transform: `rotate(-6deg) scale(${Math.min(1, pop(f, 0, 12))})`}}>
+          <Shell body={it.body} bands={it.bands} size={520} uid="stat" />
+        </div>
+      )}
+      <div>
+        <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: value.length > 9 ? 150 : 190, color: C.red, lineHeight: 1, transform: `scale(${0.8 + 0.2 * Math.min(1, p)})`, transformOrigin: 'left', opacity: Math.min(1, p)}}>{value}</div>
+        <div style={{opacity: prog(f, at(ev, 0, 6) + 6, 6)}}>
+          <Big size={84}>{label}</Big>
+        </div>
+        {sub && (
+          <div style={{marginTop: 14, opacity: prog(f, at(ev, 1, 50), 6)}}>
+            <Mono size={38}>{sub}</Mono>
+          </div>
+        )}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+/** Date + place card with a stamp. */
+export const DateCard: React.FC<{date: string; place: string; stamp?: string; item?: number; ev?: number[]}> = ({date, place, stamp, item, ev}) => {
+  const f = useCurrentFrame();
+  const it = item !== undefined ? ITEMS[item] : null;
+  return (
+    <AbsoluteFill style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 100}}>
+      {it && (
+        <div style={{...TILE, width: 460, height: 700, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+          <Shell body={it.body} bands={it.bands} size={560} uid="date" />
+        </div>
+      )}
+      <div style={{maxWidth: 1100}}>
+        <div style={{opacity: prog(f, 2, 6)}}>
+          <Mono size={46} color={C.red}>{date}</Mono>
+        </div>
+        <div style={{opacity: prog(f, 6, 6), transform: `translateY(${(1 - prog(f, 6, 8)) * 30}px)`}}>
+          <Big size={100}>{place}</Big>
+        </div>
+        {stamp && (
+          <div style={{marginTop: 40}}>
+            <RedStamp text={stamp} f={f} delay={at(ev, 0, 40)} size={70} rotate={-5} />
+          </div>
+        )}
       </div>
     </AbsoluteFill>
   );

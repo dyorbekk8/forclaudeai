@@ -4,7 +4,7 @@ import edl from './edl.json';
 import {prog} from '../lib';
 import {C} from '../theme';
 import {Hand, Label, Paper} from '../components/ui';
-import {BombBands, BurnVsBlast, Chem, Fade, HUD, Hero, Illum, Kinetic, Lineup, Practice, Punch, Smoke, Tiers} from './scenes';
+import {A10Drop, CookOff, DateCard, Filler, Forrestal, M18, Rules, Stat, BombBands, BurnVsBlast, Chem, Fade, HUD, Hero, Illum, Kinetic, Lineup, Practice, Punch, Smoke, Tiers} from './scenes';
 
 const XF = 5;
 
@@ -25,7 +25,7 @@ const Outro: React.FC = () => {
   );
 };
 
-const M: Record<string, React.FC<any>> = {BombBands, BurnVsBlast, Chem, Fade, Hero, Illum, Kinetic, Lineup, Practice, Punch, Smoke, Tiers, Outro};
+const M: Record<string, React.FC<any>> = {A10Drop, CookOff, DateCard, Filler, Forrestal, M18, Rules, Stat, BombBands, BurnVsBlast, Chem, Fade, Hero, Illum, Kinetic, Lineup, Practice, Punch, Smoke, Tiers, Outro};
 
 const Grain: React.FC = () => {
   const f = useCurrentFrame();
