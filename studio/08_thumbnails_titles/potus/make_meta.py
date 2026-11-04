@@ -18,6 +18,9 @@ names = {'s1a': 'Layer 1: The sky', 's2a': 'Layer 2: The advance', 's3a': 'Layer
 ch = ['0:00 Eight layers around the president'] + [f"{int(b['from'] / 30) // 60}:{int(b['from'] / 30) % 60:02d} {names[b['id']]}" for b in edl['beats'] if b['id'] in names]
 desc = ("Sixty nautical miles of closed sky, counter snipers on the rooftops, an eight-ton armored limo — and at the very center, sometimes, a coin flip. Every layer of U.S. presidential protection, from the outermost ring to the last one.\n\nCHAPTERS\n"
         + '\n'.join(ch) + "\n\nPublic information only; many Secret Service specifics are classified and the figures shown are as reported by the sources below.\n\nSOURCES\n" + '\n'.join(sc['sources'].values()) + '\n')
+cred = json.load(open(os.path.join(ROOT, 'agents', 'image-sourcer', 'potus', 'credits.json')))
+used = sorted({sh['props']['src'][:-4] for sh in edl['shots'] if 'src' in sh['props']} | {sh['props']['bg'][:-4] for sh in edl['shots'] if sh['props'].get('bg')})
+desc += '\nPHOTOS (Wikimedia Commons)\n' + '\n'.join(f"{c['author'][:80]} · {c['license']} · {c['source_page_url']}" for c in cred if c['slug'] in used) + '\n'
 open(os.path.join(HERE, 'description.txt'), 'w').write(desc)
 open(os.path.join(HERE, 'titles.txt'), 'w').write("A (use): How Presidential Protection Actually Works\nB: Every Layer Protecting the President Explained\nC: Why the President Is Almost Impossible to Reach\n")
 print(n - 1, 'captions;', len(ch), 'chapters')

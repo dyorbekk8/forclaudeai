@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Full rebuild of video #3 (prison): EDL -> mix (lo-fi) -> render -> mux -> QA.
+# Full rebuild of potus video: EDL -> mix (lo-fi) -> render -> mux -> QA.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 B=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell

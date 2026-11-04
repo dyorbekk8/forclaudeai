@@ -23,7 +23,7 @@ export const HUD: React.FC<{step: number}> = ({step}) => {
           LAYER {String(step + 1).padStart(2, '0')} / 08
         </div>
       )}
-      <div style={{position: 'absolute', left: 40, bottom: 26, display: 'flex', alignItems: 'center', gap: 6}}>
+      <div style={{position: 'absolute', left: 28, bottom: 18, display: 'flex', alignItems: 'center', gap: 6, background: 'rgba(246,245,241,0.92)', padding: '8px 14px 6px', borderRadius: 12, boxShadow: '0 6px 20px rgba(0,0,0,0.18)'}}>
         {SHORT.map((s, i) => {
           const on = i === step;
           const done = step >= 0 && i < step;

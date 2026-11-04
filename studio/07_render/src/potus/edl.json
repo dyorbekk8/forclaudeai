@@ -295,14 +295,58 @@
   {
    "id": "a01.0",
    "beat": "a01",
-   "scene": "Rings",
+   "scene": "PhotoShot",
    "props": {
-    "focus": -1,
-    "ev": []
+    "src": "n1_obama_inaugural_walk_agents.jpg",
+    "w": 1280,
+    "h": 853,
+    "credit": "Photo: SSgt Timothy Kingston, U.S. Army (public domain)",
+    "focus": [
+     50,
+     45
+    ],
+    "zoom": [
+     1.04,
+     1.16
+    ],
+    "callouts": [
+     {
+      "u": 0.5,
+      "v": 0.6,
+      "l": "THE PRESIDENT",
+      "e": 0,
+      "ring": 90,
+      "dx": 170,
+      "dy": 150
+     },
+     {
+      "u": 0.07,
+      "v": 0.45,
+      "l": "AGENT",
+      "e": 1,
+      "ring": 60,
+      "dx": 120,
+      "dy": -120
+     },
+     {
+      "u": 0.86,
+      "v": 0.22,
+      "l": "AGENT",
+      "e": 2,
+      "ring": 60,
+      "dx": -130,
+      "dy": 130
+     }
+    ],
+    "ev": [
+     59,
+     86,
+     116
+    ]
    },
    "step": -1,
    "from": 0,
-   "dur": 104,
+   "dur": 129,
    "cues": [
     {
      "file": "whoosh_hard_1",
@@ -311,15 +355,30 @@
     },
     {
      "file": "sub_hit_1",
-     "frame": 4,
+     "frame": 2,
      "gain": -14
+    },
+    {
+     "file": "pop_1",
+     "frame": 67,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 94,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 124,
+     "gain": -16
     }
    ]
   },
   {
    "id": "a01.1",
    "beat": "a01",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
     "lines": [
      {
@@ -327,42 +386,36 @@
       "red": true
      },
      {
-      "t": "BETWEEN THE PRESIDENT"
+      "t": "BETWEEN HIM AND"
      },
      {
-      "t": "AND ANYONE WHO"
-     },
-     {
-      "t": "WANTS TO HURT HIM"
+      "t": "ANYONE WHO WANTS TO HURT HIM"
      }
     ],
-    "ev": [
-     5,
-     30
-    ]
+    "ev": []
    },
    "step": -1,
-   "from": 104,
-   "dur": 63,
+   "from": 129,
+   "dur": 38,
    "cues": [
     {
-     "file": "tick_1",
-     "frame": 109,
-     "gain": -19
+     "file": "whoosh_soft_1",
+     "frame": 129,
+     "gain": -16
     },
     {
-     "file": "tick_2",
-     "frame": 134,
-     "gain": -19
+     "file": "stamp_thud_2",
+     "frame": 131,
+     "gain": -14
     }
    ]
   },
   {
    "id": "a02.0",
    "beat": "a02",
-   "scene": "Airspace",
+   "scene": "Radar",
    "props": {
-    "stage": "outer",
+    "stage": "diam",
     "ev": []
    },
    "step": -1,
@@ -373,14 +426,35 @@
      "file": "whoosh_soft_1",
      "frame": 167,
      "gain": -16
+    },
+    {
+     "file": "riser_2s",
+     "frame": 167,
+     "gain": -22
+    },
+    {
+     "file": "tick_1",
+     "frame": 177,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 207,
+     "gain": -22
+    },
+    {
+     "file": "tick_3",
+     "frame": 237,
+     "gain": -22
     }
    ]
   },
   {
    "id": "a02.1",
    "beat": "a02",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
+    "bg": "n1_obama_secret_service_detail.jpg",
     "lines": [
      {
       "t": "THE LAST ONE"
@@ -419,10 +493,9 @@
   {
    "id": "s1a.0",
    "beat": "s1a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 0,
-    "from": -1,
+    "i": 0,
     "ev": []
    },
    "step": 0,
@@ -432,31 +505,60 @@
     {
      "file": "whoosh_hard_2",
      "frame": 335,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 335,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 337,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 357,
-     "gain": -18
+     "frame": 349,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s1b.0",
    "beat": "s1b",
-   "scene": "Airspace",
+   "scene": "PhotoShot",
    "props": {
-    "stage": "outer",
-    "ev": []
+    "src": "n7_air_force_one_rushmore.jpg",
+    "w": 1280,
+    "h": 1029,
+    "credit": "Photo: U.S. Air Force (public domain)",
+    "focus": [
+     50,
+     40
+    ],
+    "zoom": [
+     1.02,
+     1.14
+    ],
+    "pan": [
+     -40,
+     0
+    ],
+    "pos": "tl",
+    "kicker": "WHEREVER HE GOES",
+    "lines": [
+     {
+      "t": "THE AIRSPACE"
+     },
+     {
+      "t": "CLOSES",
+      "red": true
+     }
+    ],
+    "ev": [
+     60,
+     108
+    ]
    },
    "step": 0,
    "from": 384,
-   "dur": 264,
+   "dur": 119,
    "cues": [
     {
      "file": "whoosh_soft_2",
@@ -465,15 +567,54 @@
     },
     {
      "file": "tick_1",
-     "frame": 396,
+     "frame": 444,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 492,
      "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1b.1",
+   "beat": "s1b",
+   "scene": "Radar",
+   "props": {
+    "stage": "outer",
+    "ev": []
+   },
+   "step": 0,
+   "from": 503,
+   "dur": 145,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 503,
+     "gain": -16
+    },
+    {
+     "file": "tick_1",
+     "frame": 513,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 543,
+     "gain": -22
+    },
+    {
+     "file": "tick_3",
+     "frame": 573,
+     "gain": -22
     }
    ]
   },
   {
    "id": "s1c.0",
    "beat": "s1c",
-   "scene": "Airspace",
+   "scene": "Radar",
    "props": {
     "stage": "inner",
     "ev": [
@@ -493,14 +634,14 @@
     {
      "file": "stamp_thud_1",
      "frame": 810,
-     "gain": -16
+     "gain": -14
     }
    ]
   },
   {
    "id": "s1d.0",
    "beat": "s1d",
-   "scene": "Airspace",
+   "scene": "Radar",
    "props": {
     "stage": "intercept",
     "ev": [
@@ -510,12 +651,17 @@
    },
    "step": 0,
    "from": 827,
-   "dur": 160,
+   "dur": 114,
    "cues": [
     {
      "file": "tick_2",
      "frame": 852,
      "gain": -16
+    },
+    {
+     "file": "alarm_bell_distant",
+     "frame": 868,
+     "gain": -26
     },
     {
      "file": "whoosh_hard_2",
@@ -525,9 +671,57 @@
    ]
   },
   {
+   "id": "s1d.1",
+   "beat": "s1d",
+   "scene": "PhotoShot",
+   "props": {
+    "src": "n6_f16_escorts_su27.jpg",
+    "w": 1280,
+    "h": 858,
+    "credit": "Photo: TSgt Fernando Serna, U.S. Air Force (public domain)",
+    "focus": [
+     50,
+     50
+    ],
+    "zoom": [
+     1.05,
+     1.2
+    ],
+    "pan": [
+     60,
+     0
+    ],
+    "tag": "ARCHIVE \u00b7 F-16 ESCORTING AN AIRCRAFT",
+    "lines": [
+     {
+      "t": "WITH FIGHTER JETS",
+      "red": true
+     }
+    ],
+    "ev": [
+     15
+    ]
+   },
+   "step": 0,
+   "from": 941,
+   "dur": 46,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 941,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 943,
+     "gain": -16
+    }
+   ]
+  },
+  {
    "id": "s1e.0",
    "beat": "s1e",
-   "scene": "Airspace",
+   "scene": "Radar",
    "props": {
     "stage": "count",
     "ev": [
@@ -549,19 +743,18 @@
      "gain": -22
     },
     {
-     "file": "whoosh_soft_3",
-     "frame": 1007,
-     "gain": -16
+     "file": "stamp_thud_2",
+     "frame": 1145,
+     "gain": -14
     }
    ]
   },
   {
    "id": "s2a.0",
    "beat": "s2a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 1,
-    "from": 0,
+    "i": 1,
     "ev": []
    },
    "step": 1,
@@ -571,25 +764,38 @@
     {
      "file": "whoosh_hard_2",
      "frame": 1280,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 1280,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 1282,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 1302,
-     "gain": -18
+     "frame": 1294,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s2b.0",
    "beat": "s2b",
-   "scene": "TextSlide",
+   "scene": "PhotoShot",
    "props": {
+    "src": "n4_counter_sniper_a.jpg",
+    "w": 1280,
+    "h": 1024,
+    "credit": "Photo: Carlos Guerra, U.S. Secret Service (public domain)",
+    "focus": [
+     50,
+     40
+    ],
+    "zoom": [
+     1.04,
+     1.18
+    ],
+    "kicker": "SECRET SERVICE ADVANCE",
     "lines": [
      {
       "t": "THE ADVANCE TEAM"
@@ -597,6 +803,17 @@
      {
       "t": "GETS THERE FIRST",
       "red": true
+     }
+    ],
+    "callouts": [
+     {
+      "u": 0.66,
+      "v": 0.74,
+      "l": "K9 SWEEP",
+      "e": 1,
+      "ring": 80,
+      "dx": -160,
+      "dy": -150
      }
     ],
     "ev": [
@@ -617,6 +834,11 @@
      "file": "tick_2",
      "frame": 1473,
      "gain": -19
+    },
+    {
+     "file": "pop_2",
+     "frame": 1481,
+     "gain": -16
     }
    ]
   },
@@ -711,8 +933,20 @@
   {
    "id": "s2d.0",
    "beat": "s2d",
-   "scene": "TextSlide",
+   "scene": "PhotoShot",
    "props": {
+    "src": "n5_uniformed_division_screening_a.jpg",
+    "w": 1280,
+    "h": 1024,
+    "credit": "Photo: U.S. Department of Homeland Security (public domain)",
+    "focus": [
+     50,
+     35
+    ],
+    "zoom": [
+     1.06,
+     1.2
+    ],
     "kicker": "THE LEAD AGENT",
     "lines": [
      {
@@ -752,10 +986,9 @@
   {
    "id": "s3a.0",
    "beat": "s3a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 2,
-    "from": 1,
+    "i": 2,
     "ev": []
    },
    "step": 2,
@@ -765,24 +998,24 @@
     {
      "file": "whoosh_hard_2",
      "frame": 2040,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 2040,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 2042,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 2062,
-     "gain": -18
+     "frame": 2054,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s3b.0",
    "beat": "s3b",
-   "scene": "Rooftop",
+   "scene": "Tactical",
    "props": {
     "mode": "watch",
     "ev": [
@@ -802,13 +1035,18 @@
      "file": "click_1",
      "frame": 2228,
      "gain": -16
+    },
+    {
+     "file": "click_2",
+     "frame": 2236,
+     "gain": -18
     }
    ]
   },
   {
    "id": "s3c.0",
    "beat": "s3c",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
     "lines": [
      {
@@ -837,13 +1075,18 @@
      "file": "tick_2",
      "frame": 2440,
      "gain": -19
+    },
+    {
+     "file": "reverse_swell_1s",
+     "frame": 2420,
+     "gain": -18
     }
    ]
   },
   {
    "id": "s3c.1",
    "beat": "s3c",
-   "scene": "Rooftop",
+   "scene": "Tactical",
    "props": {
     "mode": "butler",
     "ev": [
@@ -861,6 +1104,11 @@
      "gain": -18
     },
     {
+     "file": "pop_1",
+     "frame": 2602,
+     "gain": -16
+    },
+    {
      "file": "marker_scribble",
      "frame": 2650,
      "gain": -18
@@ -870,7 +1118,7 @@
   {
    "id": "s3d.0",
    "beat": "s3d",
-   "scene": "Rooftop",
+   "scene": "Tactical",
    "props": {
     "mode": "shots",
     "ev": [
@@ -893,25 +1141,25 @@
     },
     {
      "file": "glass_shatter_2",
-     "frame": 2845,
+     "frame": 2849,
      "gain": -18
     },
     {
      "file": "glass_shatter_3",
-     "frame": 2853,
+     "frame": 2861,
      "gain": -18
     },
     {
      "file": "sub_hit_1",
-     "frame": 2877,
-     "gain": -14
+     "frame": 2889,
+     "gain": -12
     }
    ]
   },
   {
    "id": "s3e.0",
    "beat": "s3e",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
     "kicker": "THE AGENCY'S OWN REVIEW",
     "lines": [
@@ -957,10 +1205,9 @@
   {
    "id": "s4a.0",
    "beat": "s4a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 3,
-    "from": 2,
+    "i": 3,
     "ev": []
    },
    "step": 3,
@@ -970,17 +1217,17 @@
     {
      "file": "whoosh_hard_2",
      "frame": 3193,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 3193,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 3195,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 3215,
-     "gain": -18
+     "frame": 3207,
+     "gain": -16
     }
    ]
   },
@@ -1025,10 +1272,9 @@
   {
    "id": "s5a.0",
    "beat": "s5a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 4,
-    "from": 3,
+    "i": 4,
     "ev": []
    },
    "step": 4,
@@ -1038,43 +1284,112 @@
     {
      "file": "whoosh_hard_2",
      "frame": 3560,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 3560,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 3562,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 3582,
-     "gain": -18
+     "frame": 3574,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s5b.0",
    "beat": "s5b",
-   "scene": "Motorcade",
+   "scene": "PhotoShot",
    "props": {
+    "src": "n2_motorcade_inauguration_2017.jpg",
+    "w": 1280,
+    "h": 853,
+    "credit": "Photo: Cpl. Timothy Turner, USMC (public domain)",
+    "focus": [
+     50,
+     60
+    ],
+    "zoom": [
+     1.04,
+     1.2
+    ],
+    "kicker": "WHEN HE MOVES",
+    "lines": [
+     {
+      "t": "LOCAL POLICE"
+     },
+     {
+      "t": "CLOSE THE ROADS",
+      "red": true
+     }
+    ],
+    "callouts": [
+     {
+      "u": 0.49,
+      "v": 0.7,
+      "l": "THE BEAST",
+      "e": 1,
+      "ring": 110,
+      "dx": 200,
+      "dy": -160
+     }
+    ],
     "ev": [
-     56,
-     211,
-     260
+     31,
+     56
     ]
    },
    "step": 4,
    "from": 3616,
-   "dur": 289,
+   "dur": 135,
    "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3647,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3672,
+     "gain": -19
+    },
     {
      "file": "whoosh_hard_1",
      "frame": 3616,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 3680,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s5b.1",
+   "beat": "s5b",
+   "scene": "Motorcade",
+   "props": {
+    "ev": [
+     5,
+     76,
+     125
+    ]
+   },
+   "step": 4,
+   "from": 3751,
+   "dur": 154,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 3751,
      "gain": -18
     },
     {
      "file": "tick_1",
-     "frame": 3672,
+     "frame": 3756,
      "gain": -16
     },
     {
@@ -1092,11 +1407,34 @@
   {
    "id": "s5c.0",
    "beat": "s5c",
-   "scene": "Motorcade",
+   "scene": "PhotoShot",
    "props": {
-    "focus": "cat",
+    "src": "n4_counter_sniper_b.jpg",
+    "w": 1280,
+    "h": 853,
+    "credit": "Photo: Carlos Guerra, U.S. Secret Service (public domain)",
+    "focus": [
+     50,
+     40
+    ],
+    "zoom": [
+     1.06,
+     1.2
+    ],
+    "tag": "SECRET SERVICE TACTICAL PERSONNEL \u00b7 2020",
+    "kicker": "COUNTER ASSAULT TEAM \u00b7 ONE JOB",
+    "lines": [
+     {
+      "t": "THEY FIGHT"
+     },
+     {
+      "t": "SO HE GETS OUT",
+      "red": true
+     }
+    ],
     "ev": [
-     126
+     126,
+     186
     ]
    },
    "step": 4,
@@ -1111,6 +1449,11 @@
     {
      "file": "stamp_thud_1",
      "frame": 4031,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 4091,
      "gain": -16
     }
    ]
@@ -1118,10 +1461,9 @@
   {
    "id": "s6a.0",
    "beat": "s6a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 5,
-    "from": 4,
+    "i": 5,
     "ev": []
    },
    "step": 5,
@@ -1131,38 +1473,64 @@
     {
      "file": "whoosh_hard_2",
      "frame": 4124,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 4124,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 4126,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 4146,
-     "gain": -18
+     "frame": 4138,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s6b.0",
    "beat": "s6b",
-   "scene": "Beast",
+   "scene": "PhotoShot",
    "props": {
-    "labels": [
-     "SPECS: CLASSIFIED"
+    "src": "n2_motorcade_2021.jpg",
+    "w": 1280,
+    "h": 958,
+    "credit": "Photo: U.S. Customs and Border Protection (public domain)",
+    "focus": [
+     50,
+     40
     ],
-    "stamp": true,
-    "ev": []
+    "zoom": [
+     1.05,
+     1.22
+    ],
+    "pan": [
+     -30,
+     0
+    ],
+    "kicker": "THE PRESIDENT'S LIMOUSINE",
+    "lines": [
+     {
+      "t": "SPECS: CLASSIFIED",
+      "red": true
+     }
+    ],
+    "ev": [
+     116
+    ]
    },
    "step": 5,
    "from": 4175,
    "dur": 136,
    "cues": [
     {
+     "file": "whoosh_soft_1",
+     "frame": 4175,
+     "gain": -16
+    },
+    {
      "file": "stamp_thud_1",
-     "frame": 4183,
+     "frame": 4291,
      "gain": -12
     }
    ]
@@ -1252,10 +1620,9 @@
   {
    "id": "s7a.0",
    "beat": "s7a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 6,
-    "from": 5,
+    "i": 6,
     "ev": []
    },
    "step": 6,
@@ -1265,25 +1632,37 @@
     {
      "file": "whoosh_hard_2",
      "frame": 4876,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 4876,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 4878,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 4898,
-     "gain": -18
+     "frame": 4890,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s7b.0",
    "beat": "s7b",
-   "scene": "TextSlide",
+   "scene": "PhotoShot",
    "props": {
+    "src": "n1_obama_secret_service_detail.jpg",
+    "w": 1280,
+    "h": 857,
+    "credit": "Photo: Marc Nozell, CC BY 2.0, via Wikimedia Commons",
+    "focus": [
+     40,
+     40
+    ],
+    "zoom": [
+     1.05,
+     1.2
+    ],
     "lines": [
      {
       "t": "ROTATING SHIFTS"
@@ -1311,6 +1690,11 @@
      "file": "tick_2",
      "frame": 5127,
      "gain": -19
+    },
+    {
+     "file": "click_1",
+     "frame": 5127,
+     "gain": -16
     }
    ]
   },
@@ -1376,10 +1760,9 @@
   {
    "id": "s8a.0",
    "beat": "s8a",
-   "scene": "Rings",
+   "scene": "LayerCard",
    "props": {
-    "focus": 7,
-    "from": 6,
+    "i": 7,
     "ev": []
    },
    "step": 7,
@@ -1389,25 +1772,26 @@
     {
      "file": "whoosh_hard_2",
      "frame": 5540,
-     "gain": -16
+     "gain": -14
     },
     {
-     "file": "reverse_swell_1s",
-     "frame": 5540,
-     "gain": -18
+     "file": "sub_hit_1",
+     "frame": 5542,
+     "gain": -14
     },
     {
      "file": "stamp_thud_2",
-     "frame": 5562,
-     "gain": -18
+     "frame": 5554,
+     "gain": -16
     }
    ]
   },
   {
    "id": "s8b.0",
    "beat": "s8b",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
+    "bg": "n1_obama_inaugural_walk_agents.jpg",
     "lines": [
      {
       "t": "WHEN EVERY LAYER FAILS"
@@ -1456,16 +1840,34 @@
   {
    "id": "s8c.0",
    "beat": "s8c",
-   "scene": "Shield",
+   "scene": "PhotoShot",
    "props": {
-    "phase": 0,
+    "src": "n8_washington_hilton_today.jpg",
+    "w": 1280,
+    "h": 578,
+    "credit": "Photo: APK, CC BY-SA 3.0, via Wikimedia Commons",
+    "focus": [
+     50,
+     50
+    ],
+    "zoom": [
+     1.02,
+     1.12
+    ],
+    "pos": "tl",
+    "kicker": "MARCH 30, 1981",
+    "lines": [
+     {
+      "t": "WASHINGTON HILTON"
+     }
+    ],
     "ev": [
-     132
+     10
     ]
    },
    "step": 7,
    "from": 5730,
-   "dur": 224,
+   "dur": 127,
    "cues": [
     {
      "file": "paper_slide",
@@ -1473,26 +1875,97 @@
      "gain": -18
     },
     {
+     "file": "tick_1",
+     "frame": 5736,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s8c.1",
+   "beat": "s8c",
+   "scene": "PhotoShot",
+   "props": {
+    "src": "n8_hilton_1981_chaos.jpg",
+    "w": 1280,
+    "h": 868,
+    "credit": "Photo: Michael Evans, White House (public domain)",
+    "focus": [
+     50,
+     55
+    ],
+    "zoom": [
+     1.04,
+     1.16
+    ],
+    "flash": true,
+    "tag": "MARCH 30, 1981 \u00b7 WHITE HOUSE PHOTO",
+    "lines": [
+     {
+      "t": "SHOTS FIRED"
+     },
+     {
+      "t": "AT RONALD REAGAN",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     57
+    ]
+   },
+   "step": 7,
+   "from": 5857,
+   "dur": 97,
+   "cues": [
+    {
      "file": "glass_shatter_1",
-     "frame": 5862,
-     "gain": -16
+     "frame": 5857,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 5857,
+     "gain": -12
     }
    ]
   },
   {
    "id": "s8d.0",
    "beat": "s8d",
-   "scene": "Shield",
+   "scene": "PhotoShot",
    "props": {
-    "phase": 1,
+    "src": "n8_hilton_1981_chaos.jpg",
+    "w": 1280,
+    "h": 868,
+    "credit": "Photo: Michael Evans, White House (public domain)",
+    "focus": [
+     40,
+     70
+    ],
+    "zoom": [
+     1.18,
+     1.32
+    ],
+    "bw": true,
+    "kicker": "AGENT TIM McCARTHY",
+    "lines": [
+     {
+      "t": "TURNED TOWARD"
+     },
+     {
+      "t": "THE GUNFIRE",
+      "red": true
+     }
+    ],
     "ev": [
-     90,
-     167
+     20,
+     48
     ]
    },
    "step": 7,
    "from": 5954,
-   "dur": 215,
+   "dur": 85,
    "cues": [
     {
      "file": "whoosh_soft_2",
@@ -1500,8 +1973,35 @@
      "gain": -16
     },
     {
+     "file": "tick_2",
+     "frame": 6002,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s8d.1",
+   "beat": "s8d",
+   "scene": "Shield",
+   "props": {
+    "phase": 1,
+    "ev": [
+     5,
+     82
+    ]
+   },
+   "step": 7,
+   "from": 6039,
+   "dur": 130,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 6039,
+     "gain": -16
+    },
+    {
      "file": "glass_shatter_2",
-     "frame": 6044,
+     "frame": 6121,
      "gain": -16
     },
     {
@@ -1550,11 +2050,29 @@
   {
    "id": "e1.0",
    "beat": "e1",
-   "scene": "Rings",
+   "scene": "PhotoShot",
    "props": {
-    "focus": -1,
-    "outro": true,
-    "ev": []
+    "src": "n10_white_house_from_monument.jpg",
+    "w": 1280,
+    "h": 853,
+    "credit": "Photo: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+    "focus": [
+     50,
+     50
+    ],
+    "zoom": [
+     1.02,
+     1.15
+    ],
+    "pos": "c",
+    "lines": [
+     {
+      "t": "60 NM OF CLOSED SKY"
+     }
+    ],
+    "ev": [
+     76
+    ]
    },
    "step": -1,
    "from": 6384,
@@ -1570,12 +2088,9 @@
   {
    "id": "e1.1",
    "beat": "e1",
-   "scene": "TextSlide",
+   "scene": "Kinetic",
    "props": {
     "lines": [
-     {
-      "t": "60 NM OF CLOSED SKY"
-     },
      {
       "t": "8 LAYERS OF PEOPLE & STEEL"
      },
@@ -1589,7 +2104,6 @@
      }
     ],
     "ev": [
-     0,
      5,
      83,
      147
@@ -1601,21 +2115,16 @@
    "cues": [
     {
      "file": "tick_1",
-     "frame": 6530,
-     "gain": -19
-    },
-    {
-     "file": "tick_2",
      "frame": 6535,
      "gain": -19
     },
     {
-     "file": "tick_3",
+     "file": "tick_2",
      "frame": 6613,
      "gain": -19
     },
     {
-     "file": "tick_1",
+     "file": "tick_3",
      "frame": 6677,
      "gain": -19
     },
