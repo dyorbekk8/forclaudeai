@@ -35,8 +35,13 @@ export const Avatar: React.FC = () => {
         <GlobalDefs /><Defs />
         <rect width={800} height={800} fill="url(#bBg)" />
         {[...Array(24)].map((_, i) => { const a = (i / 24) * Math.PI * 2; return <path key={i} d={`M 400 330 L ${400 + Math.cos(a - 0.06) * 900} ${330 + Math.sin(a - 0.06) * 900} L ${400 + Math.cos(a + 0.06) * 900} ${330 + Math.sin(a + 0.06) * 900} Z`} fill="#e8fbff" opacity={i % 2 ? 0.14 : 0.05} />; })}
-        <g filter="url(#bSt)"><You t={0.4} x={400} y={1060} scale={4.2} pose={P.stand} expr="happy" mouth="grin" look={[0, -0.2]} rim="rgba(120,230,255,1)" /></g>
-        <Word x={400} y={740} size={150} text="IF?" />
+        <defs>
+          <filter id="aR"><feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 0.16  0 0 0 0 0.43  0 0 0 0.9 0" /></filter>
+          <filter id="aC"><feColorMatrix type="matrix" values="0 0 0 0 0.13  0 0 0 0 0.9  0 0 0 0 1  0 0 0 0.9 0" /></filter>
+        </defs>
+        <g filter="url(#aR)" opacity={0.8} transform="translate(-46 0)"><You t={0.4} x={400} y={1320} scale={5.6} pose={P.stand} expr="smug" mouth="smirk" look={[0.3, -0.1]} /></g>
+        <g filter="url(#aC)" opacity={0.8} transform="translate(46 0)"><You t={0.4} x={400} y={1320} scale={5.6} pose={P.stand} expr="smug" mouth="smirk" look={[0.3, -0.1]} /></g>
+        <g filter="url(#bSt)"><You t={0.4} x={400} y={1320} scale={5.6} pose={P.stand} expr="smug" mouth="smirk" look={[0.3, -0.1]} rim="rgba(120,230,255,1)" /></g>
       </svg>
     </AbsoluteFill>
   );
@@ -53,12 +58,12 @@ export const Banner: React.FC = () => {
         {[...Array(36)].map((_, i) => { const a = (i / 36) * Math.PI * 2; return <path key={i} d={`M 1024 576 L ${1024 + Math.cos(a - 0.04) * 2400} ${576 + Math.sin(a - 0.04) * 2400} L ${1024 + Math.cos(a + 0.04) * 2400} ${576 + Math.sin(a + 0.04) * 2400} Z`} fill="#e8fbff" opacity={i % 2 ? 0.12 : 0.04} />; })}
         {[...Array(30)].map((_, i) => <rect key={i} x={(i * 337) % 2040} y={(i * 211) % 1140} width={30 + (i % 4) * 26} height={14 + (i % 3) * 12} fill={['#ff2a6d', '#22e6ff', '#fff'][i % 3]} opacity={0.3} />)}
         <g filter="url(#bSt)">
-          <You t={0.4} x={560} y={900} scale={2.1} pose={P.cheer} expr="happy" mouth="grin" rim="rgba(120,230,255,1)" />
+          <You t={0.4} x={500} y={900} scale={2.1} pose={P.cheer} expr="happy" mouth="grin" rim="rgba(120,230,255,1)" />
           <Mia t={0.4} x={1520} y={900} scale={2.1} facing={-1} pose={P.armsUp} expr="happy" mouth="grin" />
           <Dog x={1650} y={905} s={0.55} t={0.4} lying={false} facing={-1} />
-          <Ball x={420} y={560} r={40} rot={20} />
+          <Ball x={370} y={560} r={40} rot={20} />
         </g>
-        <Word x={1024} y={600} size={170} text="IF MODE" />
+        <Word x={1024} y={600} size={124} text="SECOND YOU" />
         <text x={1024} y={690} textAnchor="middle" fontSize={44} fontWeight={700} fontFamily={FONT_HEAD} fill="#fff" letterSpacing={4} stroke="#0a0418" strokeWidth={10} paintOrder="stroke">NEW “WHAT IF” EVERY WEEK</text>
       </svg>
     </AbsoluteFill>

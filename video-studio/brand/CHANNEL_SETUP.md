@@ -1,6 +1,6 @@
-# New channel: IF MODE
+# New channel: SECOND YOU
 
-Name: IF MODE · Handle: @ifmode (if taken: @ifmodeTV, @ifmode.stories, @theifmode)
+Name: SECOND YOU · Handle: @secondyou (if taken: @secondyou.tv, @thesecondyou)
 Avatar: avatar.png (800x800) · Banner: banner.jpg (2048x1152; title + tagline sit inside the 1235x338 safe area)
 
 About (description):
