@@ -1,1 +1,3116 @@
-{"fps":30,"total":30,"beats":[],"shots":[]}
+{
+ "fps": 30,
+ "total": 15808,
+ "beats": [
+  {
+   "id": "h1",
+   "from": 0,
+   "dur": 105,
+   "voStart": 2,
+   "vo": "03_voiceover/aircraft/final/h1.wav",
+   "voDur": 3.109
+  },
+  {
+   "id": "h2",
+   "from": 105,
+   "dur": 243,
+   "voStart": 107,
+   "vo": "03_voiceover/aircraft/final/h2.wav",
+   "voDur": 7.736
+  },
+  {
+   "id": "h3",
+   "from": 348,
+   "dur": 402,
+   "voStart": 350,
+   "vo": "03_voiceover/aircraft/final/h3.wav",
+   "voDur": 13.017
+  },
+  {
+   "id": "h4",
+   "from": 750,
+   "dur": 324,
+   "voStart": 752,
+   "vo": "03_voiceover/aircraft/final/h4.wav",
+   "voDur": 10.424
+  },
+  {
+   "id": "h4b",
+   "from": 1074,
+   "dur": 250,
+   "voStart": 1076,
+   "vo": "03_voiceover/aircraft/final/h4b.wav",
+   "voDur": 7.951
+  },
+  {
+   "id": "h5",
+   "from": 1324,
+   "dur": 385,
+   "voStart": 1326,
+   "vo": "03_voiceover/aircraft/final/h5.wav",
+   "voDur": 12.469
+  },
+  {
+   "id": "h6",
+   "from": 1709,
+   "dur": 431,
+   "voStart": 1711,
+   "vo": "03_voiceover/aircraft/final/h6.wav",
+   "voDur": 13.684
+  },
+  {
+   "id": "m1",
+   "from": 2140,
+   "dur": 148,
+   "voStart": 2142,
+   "vo": "03_voiceover/aircraft/final/m1.wav",
+   "voDur": 4.568
+  },
+  {
+   "id": "m2",
+   "from": 2288,
+   "dur": 282,
+   "voStart": 2290,
+   "vo": "03_voiceover/aircraft/final/m2.wav",
+   "voDur": 9.016
+  },
+  {
+   "id": "m3",
+   "from": 2570,
+   "dur": 482,
+   "voStart": 2572,
+   "vo": "03_voiceover/aircraft/final/m3.wav",
+   "voDur": 15.674
+  },
+  {
+   "id": "m3b",
+   "from": 3052,
+   "dur": 363,
+   "voStart": 3054,
+   "vo": "03_voiceover/aircraft/final/m3b.wav",
+   "voDur": 11.712
+  },
+  {
+   "id": "m4",
+   "from": 3415,
+   "dur": 231,
+   "voStart": 3417,
+   "vo": "03_voiceover/aircraft/final/m4.wav",
+   "voDur": 7.311
+  },
+  {
+   "id": "m5",
+   "from": 3646,
+   "dur": 268,
+   "voStart": 3648,
+   "vo": "03_voiceover/aircraft/final/m5.wav",
+   "voDur": 8.553
+  },
+  {
+   "id": "m6",
+   "from": 3914,
+   "dur": 268,
+   "voStart": 3916,
+   "vo": "03_voiceover/aircraft/final/m6.wav",
+   "voDur": 8.57
+  },
+  {
+   "id": "m6b",
+   "from": 4182,
+   "dur": 376,
+   "voStart": 4184,
+   "vo": "03_voiceover/aircraft/final/m6b.wav",
+   "voDur": 12.15
+  },
+  {
+   "id": "m6c",
+   "from": 4558,
+   "dur": 287,
+   "voStart": 4560,
+   "vo": "03_voiceover/aircraft/final/m6c.wav",
+   "voDur": 9.195
+  },
+  {
+   "id": "m7",
+   "from": 4845,
+   "dur": 220,
+   "voStart": 4847,
+   "vo": "03_voiceover/aircraft/final/m7.wav",
+   "voDur": 6.646
+  },
+  {
+   "id": "d1",
+   "from": 5065,
+   "dur": 240,
+   "voStart": 5067,
+   "vo": "03_voiceover/aircraft/final/d1.wav",
+   "voDur": 7.625
+  },
+  {
+   "id": "d2",
+   "from": 5305,
+   "dur": 147,
+   "voStart": 5307,
+   "vo": "03_voiceover/aircraft/final/d2.wav",
+   "voDur": 4.514
+  },
+  {
+   "id": "d3",
+   "from": 5452,
+   "dur": 417,
+   "voStart": 5454,
+   "vo": "03_voiceover/aircraft/final/d3.wav",
+   "voDur": 13.525
+  },
+  {
+   "id": "d4",
+   "from": 5869,
+   "dur": 124,
+   "voStart": 5871,
+   "vo": "03_voiceover/aircraft/final/d4.wav",
+   "voDur": 3.769
+  },
+  {
+   "id": "d5",
+   "from": 5993,
+   "dur": 230,
+   "voStart": 5995,
+   "vo": "03_voiceover/aircraft/final/d5.wav",
+   "voDur": 7.274
+  },
+  {
+   "id": "d5b",
+   "from": 6223,
+   "dur": 274,
+   "voStart": 6225,
+   "vo": "03_voiceover/aircraft/final/d5b.wav",
+   "voDur": 8.737
+  },
+  {
+   "id": "d5c",
+   "from": 6497,
+   "dur": 343,
+   "voStart": 6499,
+   "vo": "03_voiceover/aircraft/final/d5c.wav",
+   "voDur": 11.052
+  },
+  {
+   "id": "d5d",
+   "from": 6840,
+   "dur": 212,
+   "voStart": 6842,
+   "vo": "03_voiceover/aircraft/final/d5d.wav",
+   "voDur": 6.673
+  },
+  {
+   "id": "d5e",
+   "from": 7052,
+   "dur": 359,
+   "voStart": 7054,
+   "vo": "03_voiceover/aircraft/final/d5e.wav",
+   "voDur": 11.301
+  },
+  {
+   "id": "v1",
+   "from": 7411,
+   "dur": 163,
+   "voStart": 7413,
+   "vo": "03_voiceover/aircraft/final/v1.wav",
+   "voDur": 5.052
+  },
+  {
+   "id": "v2",
+   "from": 7574,
+   "dur": 188,
+   "voStart": 7576,
+   "vo": "03_voiceover/aircraft/final/v2.wav",
+   "voDur": 5.897
+  },
+  {
+   "id": "v3",
+   "from": 7762,
+   "dur": 155,
+   "voStart": 7764,
+   "vo": "03_voiceover/aircraft/final/v3.wav",
+   "voDur": 4.786
+  },
+  {
+   "id": "v4",
+   "from": 7917,
+   "dur": 259,
+   "voStart": 7919,
+   "vo": "03_voiceover/aircraft/final/v4.wav",
+   "voDur": 8.261
+  },
+  {
+   "id": "v5",
+   "from": 8176,
+   "dur": 162,
+   "voStart": 8178,
+   "vo": "03_voiceover/aircraft/final/v5.wav",
+   "voDur": 4.707
+  },
+  {
+   "id": "p1",
+   "from": 8338,
+   "dur": 176,
+   "voStart": 8340,
+   "vo": "03_voiceover/aircraft/final/p1.wav",
+   "voDur": 5.487
+  },
+  {
+   "id": "p2",
+   "from": 8514,
+   "dur": 374,
+   "voStart": 8516,
+   "vo": "03_voiceover/aircraft/final/p2.wav",
+   "voDur": 12.085
+  },
+  {
+   "id": "p3",
+   "from": 8888,
+   "dur": 242,
+   "voStart": 8890,
+   "vo": "03_voiceover/aircraft/final/p3.wav",
+   "voDur": 7.383
+  },
+  {
+   "id": "n1",
+   "from": 9130,
+   "dur": 272,
+   "voStart": 9132,
+   "vo": "03_voiceover/aircraft/final/n1.wav",
+   "voDur": 8.7
+  },
+  {
+   "id": "n2",
+   "from": 9402,
+   "dur": 335,
+   "voStart": 9404,
+   "vo": "03_voiceover/aircraft/final/n2.wav",
+   "voDur": 10.803
+  },
+  {
+   "id": "n3",
+   "from": 9737,
+   "dur": 276,
+   "voStart": 9739,
+   "vo": "03_voiceover/aircraft/final/n3.wav",
+   "voDur": 8.814
+  },
+  {
+   "id": "n4",
+   "from": 10013,
+   "dur": 149,
+   "voStart": 10015,
+   "vo": "03_voiceover/aircraft/final/n4.wav",
+   "voDur": 4.281
+  },
+  {
+   "id": "x1",
+   "from": 10162,
+   "dur": 69,
+   "voStart": 10164,
+   "vo": "03_voiceover/aircraft/final/x1.wav",
+   "voDur": 1.935
+  },
+  {
+   "id": "x2",
+   "from": 10231,
+   "dur": 445,
+   "voStart": 10233,
+   "vo": "03_voiceover/aircraft/final/x2.wav",
+   "voDur": 14.461
+  },
+  {
+   "id": "x3",
+   "from": 10676,
+   "dur": 238,
+   "voStart": 10678,
+   "vo": "03_voiceover/aircraft/final/x3.wav",
+   "voDur": 7.558
+  },
+  {
+   "id": "x3b",
+   "from": 10914,
+   "dur": 300,
+   "voStart": 10916,
+   "vo": "03_voiceover/aircraft/final/x3b.wav",
+   "voDur": 9.611
+  },
+  {
+   "id": "x4",
+   "from": 11214,
+   "dur": 197,
+   "voStart": 11216,
+   "vo": "03_voiceover/aircraft/final/x4.wav",
+   "voDur": 6.192
+  },
+  {
+   "id": "x5",
+   "from": 11411,
+   "dur": 243,
+   "voStart": 11413,
+   "vo": "03_voiceover/aircraft/final/x5.wav",
+   "voDur": 7.716
+  },
+  {
+   "id": "x5b",
+   "from": 11654,
+   "dur": 268,
+   "voStart": 11656,
+   "vo": "03_voiceover/aircraft/final/x5b.wav",
+   "voDur": 8.558
+  },
+  {
+   "id": "x6",
+   "from": 11922,
+   "dur": 301,
+   "voStart": 11924,
+   "vo": "03_voiceover/aircraft/final/x6.wav",
+   "voDur": 9.339
+  },
+  {
+   "id": "k1",
+   "from": 12223,
+   "dur": 114,
+   "voStart": 12225,
+   "vo": "03_voiceover/aircraft/final/k1.wav",
+   "voDur": 3.414
+  },
+  {
+   "id": "k2",
+   "from": 12337,
+   "dur": 380,
+   "voStart": 12339,
+   "vo": "03_voiceover/aircraft/final/k2.wav",
+   "voDur": 12.296
+  },
+  {
+   "id": "k3",
+   "from": 12717,
+   "dur": 290,
+   "voStart": 12719,
+   "vo": "03_voiceover/aircraft/final/k3.wav",
+   "voDur": 9.274
+  },
+  {
+   "id": "k4",
+   "from": 13007,
+   "dur": 244,
+   "voStart": 13009,
+   "vo": "03_voiceover/aircraft/final/k4.wav",
+   "voDur": 7.743
+  },
+  {
+   "id": "k5",
+   "from": 13251,
+   "dur": 181,
+   "voStart": 13253,
+   "vo": "03_voiceover/aircraft/final/k5.wav",
+   "voDur": 5.663
+  },
+  {
+   "id": "k6",
+   "from": 13432,
+   "dur": 413,
+   "voStart": 13434,
+   "vo": "03_voiceover/aircraft/final/k6.wav",
+   "voDur": 13.387
+  },
+  {
+   "id": "k7",
+   "from": 13845,
+   "dur": 366,
+   "voStart": 13847,
+   "vo": "03_voiceover/aircraft/final/k7.wav",
+   "voDur": 11.535
+  },
+  {
+   "id": "f1",
+   "from": 14211,
+   "dur": 138,
+   "voStart": 14213,
+   "vo": "03_voiceover/aircraft/final/f1.wav",
+   "voDur": 4.214
+  },
+  {
+   "id": "f2",
+   "from": 14349,
+   "dur": 471,
+   "voStart": 14351,
+   "vo": "03_voiceover/aircraft/final/f2.wav",
+   "voDur": 15.319
+  },
+  {
+   "id": "f3",
+   "from": 14820,
+   "dur": 238,
+   "voStart": 14822,
+   "vo": "03_voiceover/aircraft/final/f3.wav",
+   "voDur": 7.249
+  },
+  {
+   "id": "e1",
+   "from": 15058,
+   "dur": 351,
+   "voStart": 15060,
+   "vo": "03_voiceover/aircraft/final/e1.wav",
+   "voDur": 11.323
+  },
+  {
+   "id": "e2",
+   "from": 15409,
+   "dur": 171,
+   "voStart": 15411,
+   "vo": "03_voiceover/aircraft/final/e2.wav",
+   "voDur": 5.322
+  },
+  {
+   "id": "e3",
+   "from": 15580,
+   "dur": 228,
+   "voStart": 15582,
+   "vo": "03_voiceover/aircraft/final/e3.wav",
+   "voDur": 4.513
+  }
+ ],
+ "shots": [
+  {
+   "id": "h1.0",
+   "beat": "h1",
+   "scene": "Cross",
+   "props": {
+    "ev": [
+     67
+    ]
+   },
+   "step": -1,
+   "from": 0,
+   "dur": 105,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -14
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 2,
+     "gain": -12
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 67,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 73,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "h2.0",
+   "beat": "h2",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "24",
+     ""
+    ],
+    "focus": 4,
+    "plane": "fighter",
+    "caption": "NEXT NUMBER IN LINE",
+    "sub": "AFTER THE YF-23",
+    "ev": [
+     76,
+     211
+    ]
+   },
+   "step": -1,
+   "from": 105,
+   "dur": 243,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 105,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 113,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 119,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 125,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "h3.0",
+   "beat": "h3",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "X",
+     "",
+     "",
+     "",
+     "35",
+     ""
+    ],
+    "focus": 4,
+    "plane": "fighter",
+    "caption": "THE X-35 KEPT ITS NUMBER",
+    "ev": [
+     52,
+     141
+    ]
+   },
+   "step": -1,
+   "from": 348,
+   "dur": 228,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 348,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 356,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 362,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 368,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "h3.1",
+   "beat": "h3",
+   "scene": "Kinetic",
+   "props": {
+    "lines": [
+     {
+      "t": "EVERY LETTER AND NUMBER"
+     },
+     {
+      "t": "FOLLOWS A SYSTEM",
+      "red": true
+     }
+    ],
+    "ev": [
+     5,
+     151
+    ]
+   },
+   "step": -1,
+   "from": 576,
+   "dur": 174,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 581,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 727,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "h4.0",
+   "beat": "h4",
+   "scene": "Versus",
+   "props": {
+    "ev": [
+     177,
+     256
+    ]
+   },
+   "step": -1,
+   "from": 750,
+   "dur": 324,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 927,
+     "gain": -16
+    },
+    {
+     "file": "whoosh_soft_3",
+     "frame": 1006,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "h4b.0",
+   "beat": "h4b",
+   "scene": "Letters",
+   "props": {
+    "title": "THE OLD NAVY NAME: F4H",
+    "items": [
+     {
+      "l": "F",
+      "m": "FIGHTER",
+      "kind": "fighter"
+     },
+     {
+      "l": "4",
+      "m": "4TH FROM THE MAKER"
+     },
+     {
+      "l": "H",
+      "m": "McDONNELL"
+     }
+    ],
+    "ev": [
+     104,
+     140,
+     203
+    ]
+   },
+   "step": -1,
+   "from": 1074,
+   "dur": 250,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 1178,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 1214,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 1277,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "h5.0",
+   "beat": "h5",
+   "scene": "Story",
+   "props": {
+    "date": "1962 \u00b7 DEFENSE SECRETARY ROBERT McNAMARA",
+    "head": "ONE NAMING SYSTEM FOR EVERY SERVICE",
+    "sub": "NAVY \u00b7 AIR FORCE \u00b7 ARMY \u00b7 MARINES",
+    "plane": "fighter",
+    "ev": [
+     51,
+     257
+    ]
+   },
+   "step": -1,
+   "from": 1324,
+   "dur": 285,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 1324,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 1330,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 1581,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "h5.1",
+   "beat": "h5",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "4",
+     ""
+    ],
+    "focus": 4,
+    "plane": "fighter",
+    "caption": "F4H + F-110 \u2192 F-4",
+    "ev": [
+     13,
+     67
+    ]
+   },
+   "step": -1,
+   "from": 1609,
+   "dur": 100,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 1609,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 1617,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 1623,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 1629,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "h6.0",
+   "beat": "h6",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "22",
+     "A"
+    ],
+    "focus": -1,
+    "labels": true,
+    "caption": "ONLY 3 PARTS ARE REQUIRED",
+    "sub": "BASIC MISSION \u00b7 DESIGN NUMBER \u00b7 SERIES LETTER",
+    "ev": [
+     139,
+     203,
+     236,
+     276
+    ]
+   },
+   "step": -1,
+   "from": 1709,
+   "dur": 431,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 1719,
+     "gain": -20
+    },
+    {
+     "file": "tick_2",
+     "frame": 1739,
+     "gain": -20
+    },
+    {
+     "file": "pop_1",
+     "frame": 1848,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 1912,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 1945,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 1985,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "m1.0",
+   "beat": "m1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "",
+     ""
+    ],
+    "focus": 2,
+    "pull": true,
+    "plane": "fighter",
+    "caption": "EVERY AIRCRAFT HAS ONE",
+    "ev": [
+     107
+    ]
+   },
+   "step": 2,
+   "from": 2140,
+   "dur": 148,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 2140,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 2148,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 2247,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "m2.0",
+   "beat": "m2",
+   "scene": "Letters",
+   "props": {
+    "title": "BASIC MISSION",
+    "items": [
+     {
+      "l": "A",
+      "m": "ATTACK",
+      "kind": "a10"
+     },
+     {
+      "l": "B",
+      "m": "BOMBER",
+      "kind": "wing"
+     },
+     {
+      "l": "C",
+      "m": "CARGO",
+      "kind": "cargo"
+     },
+     {
+      "l": "F",
+      "m": "FIGHTER",
+      "kind": "fighter"
+     }
+    ],
+    "ev": [
+     2,
+     136,
+     185,
+     243
+    ]
+   },
+   "step": 2,
+   "from": 2288,
+   "dur": 282,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 2290,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 2424,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 2473,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 2531,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "m3.0",
+   "beat": "m3",
+   "scene": "Letters",
+   "props": {
+    "title": "THE RARER ONES",
+    "items": [
+     {
+      "l": "E",
+      "m": "SPECIAL ELECTRONICS",
+      "kind": "jumbo"
+     },
+     {
+      "l": "P",
+      "m": "MARITIME PATROL",
+      "kind": "cargo"
+     },
+     {
+      "l": "S",
+      "m": "ANTI-SUBMARINE",
+      "kind": "hornet"
+     },
+     {
+      "l": "T",
+      "m": "TRAINER",
+      "kind": "trainer"
+     },
+     {
+      "l": "U",
+      "m": "UTILITY",
+      "kind": "u2"
+     },
+     {
+      "l": "X",
+      "m": "SPECIAL RESEARCH",
+      "kind": "fighter"
+     }
+    ],
+    "ev": [
+     65,
+     142,
+     218,
+     312,
+     350,
+     415
+    ]
+   },
+   "step": 2,
+   "from": 2570,
+   "dur": 482,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 2635,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 2712,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 2788,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 2882,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 2920,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 2985,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "m3b.0",
+   "beat": "m3b",
+   "scene": "Letters",
+   "props": {
+    "title": "ON THE LIST \u00b7 NEVER USED BY THE BOOK",
+    "items": [
+     {
+      "l": "K",
+      "m": "TANKER",
+      "dim": false
+     },
+     {
+      "l": "R",
+      "m": "RECONNAISSANCE"
+     }
+    ],
+    "ev": [
+     94,
+     118
+    ]
+   },
+   "step": 2,
+   "from": 3052,
+   "dur": 363,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 3146,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 3170,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3190,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "m4.0",
+   "beat": "m4",
+   "scene": "Story",
+   "props": {
+    "date": "U-2 \u00b7 \"UTILITY\"",
+    "head": "A SPY PLANE LABELED UTILITY",
+    "sub": "TO HIDE WHAT IT REALLY DID",
+    "stamp": "COVER\nSTORY",
+    "plane": "u2",
+    "ev": [
+     106,
+     181
+    ]
+   },
+   "step": 2,
+   "from": 3415,
+   "dur": 231,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 3415,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 3421,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3596,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "m5.0",
+   "beat": "m5",
+   "scene": "Kinetic",
+   "props": {
+    "lines": [
+     {
+      "t": "ATTACK VS FIGHTER"
+     },
+     {
+      "t": "THE LINE HAS BLURRED",
+      "red": true
+     }
+    ],
+    "ev": [
+     54,
+     118
+    ]
+   },
+   "step": 2,
+   "from": 3646,
+   "dur": 268,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 3700,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 3764,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "m6.0",
+   "beat": "m6",
+   "scene": "Story",
+   "props": {
+    "date": "F-117 NIGHTHAWK",
+    "head": "A \"FIGHTER\" BUILT FOR GROUND ATTACK",
+    "plane": "stealth",
+    "planeColor": "#2A2D33",
+    "ev": []
+   },
+   "step": 2,
+   "from": 3914,
+   "dur": 268,
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 3914,
+     "gain": -16
+    },
+    {
+     "file": "tick_2",
+     "frame": 3924,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "m6b.0",
+   "beat": "m6b",
+   "scene": "Story",
+   "props": {
+    "date": "JULY 1986 \u00b7 CALIFORNIA",
+    "head": "THE SECRET \"F-19\"?",
+    "sub": "A CRASH SITE SEALED OFF",
+    "stamp": "RUMOR",
+    "plane": "stealth",
+    "planeColor": "#2A2D33",
+    "ev": [
+     253,
+     334
+    ]
+   },
+   "step": 2,
+   "from": 4182,
+   "dur": 376,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 4182,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 4188,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4516,
+     "gain": -12
+    },
+    {
+     "file": "riser_2s",
+     "frame": 4435,
+     "gain": -24
+    }
+   ]
+  },
+  {
+   "id": "m6c.0",
+   "beat": "m6c",
+   "scene": "Story",
+   "props": {
+    "date": "THE TRUTH",
+    "head": "IT WAS AN F-117",
+    "sub": "NO REAL F-19 HAS EVER BEEN SHOWN",
+    "stamp": "STILL CLASSIFIED\nAT THE TIME",
+    "plane": "stealth",
+    "planeColor": "#2A2D33",
+    "ev": [
+     115,
+     172
+    ]
+   },
+   "step": 2,
+   "from": 4558,
+   "dur": 287,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 4558,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 4564,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4730,
+     "gain": -12
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 4562,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "m7.0",
+   "beat": "m7",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "A",
+     "",
+     "10",
+     ""
+    ],
+    "focus": 2,
+    "plane": "a10",
+    "caption": "THE ONLY PLAIN \"A\" IN TODAY'S AIR FORCE",
+    "ev": [
+     37,
+     176
+    ]
+   },
+   "step": 2,
+   "from": 4845,
+   "dur": 220,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 4845,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 4853,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 4859,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 4865,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d1.0",
+   "beat": "d1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "?",
+     "C",
+     "",
+     "130",
+     ""
+    ],
+    "focus": 1,
+    "pull": true,
+    "plane": "cargo",
+    "caption": "AN EXTRA LETTER = A NEW JOB",
+    "ev": [
+     85,
+     209
+    ]
+   },
+   "step": 1,
+   "from": 5065,
+   "dur": 240,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 5065,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 5073,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 5079,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 5085,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d2.0",
+   "beat": "d2",
+   "scene": "Morph",
+   "props": {
+    "base": true,
+    "ev": []
+   },
+   "step": 1,
+   "from": 5305,
+   "dur": 147,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5305,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "d3.0",
+   "beat": "d3",
+   "scene": "Morph",
+   "props": {
+    "ev": [
+     12,
+     134,
+     210,
+     289,
+     365
+    ]
+   },
+   "step": 1,
+   "from": 5452,
+   "dur": 417,
+   "cues": [
+    {
+     "file": "stamp_thud_2",
+     "frame": 5464,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 5586,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 5662,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 5741,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 5817,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "d4.0",
+   "beat": "d4",
+   "scene": "Kinetic",
+   "props": {
+    "lines": [
+     {
+      "t": "SAME AIRFRAME"
+     },
+     {
+      "t": "ONE LETTER CHANGES THE JOB",
+      "red": true
+     }
+    ],
+    "ev": [
+     2,
+     54
+    ]
+   },
+   "step": 1,
+   "from": 5869,
+   "dur": 124,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 5871,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 5923,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "d5.0",
+   "beat": "d5",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "K",
+     "C",
+     "",
+     "46",
+     ""
+    ],
+    "focus": 1,
+    "plane": "jumbo",
+    "caption": "K = TANKER \u00b7 C = CARGO",
+    "ev": [
+     137,
+     185
+    ]
+   },
+   "step": 1,
+   "from": 5993,
+   "dur": 230,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 5993,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 6001,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 6007,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 6013,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d5b.0",
+   "beat": "d5b",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "W",
+     "C",
+     "",
+     "130",
+     ""
+    ],
+    "focus": 1,
+    "plane": "cargo",
+    "caption": "WEATHER RECON \u00b7 HURRICANE HUNTERS",
+    "ev": [
+     56,
+     165
+    ]
+   },
+   "step": 1,
+   "from": 6223,
+   "dur": 274,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 6223,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 6231,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 6237,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 6243,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d5c.0",
+   "beat": "d5c",
+   "scene": "Breakers",
+   "props": {
+    "items": [
+     {
+      "name": "VC-25",
+      "why": "THE PRESIDENT'S 747",
+      "kind": "jumbo"
+     },
+     {
+      "name": "VH-92",
+      "why": "THE PRESIDENT'S HELICOPTER",
+      "kind": "heli"
+     }
+    ],
+    "ev": [
+     175,
+     289
+    ]
+   },
+   "step": 1,
+   "from": 6497,
+   "dur": 343,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 6672,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 6786,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d5d.0",
+   "beat": "d5d",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "L",
+     "C",
+     "",
+     "130",
+     ""
+    ],
+    "focus": 1,
+    "plane": "cargo",
+    "caption": "COLD WEATHER \u00b7 SKIS FOR ICE",
+    "ev": [
+     2,
+     146
+    ]
+   },
+   "step": 1,
+   "from": 6840,
+   "dur": 212,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 6840,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 6848,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 6854,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 6860,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "d5e.0",
+   "beat": "d5e",
+   "scene": "Letters",
+   "props": {
+    "title": "M VS U",
+    "items": [
+     {
+      "l": "M",
+      "m": "COMBAT \u00b7 SPECIAL OPS",
+      "kind": "heli"
+     },
+     {
+      "l": "U",
+      "m": "SUPPORT \u00b7 UH-60",
+      "kind": "heli"
+     }
+    ],
+    "ev": [
+     121,
+     195
+    ]
+   },
+   "step": 1,
+   "from": 7052,
+   "dur": 359,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 7173,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7247,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "v1.0",
+   "beat": "v1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "35",
+     ""
+    ],
+    "focus": 3,
+    "pull": true,
+    "plane": "fighter",
+    "caption": "MOST AIRPLANES LEAVE IT EMPTY",
+    "ev": [
+     14,
+     113
+    ]
+   },
+   "step": 3,
+   "from": 7411,
+   "dur": 163,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7411,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 7419,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7425,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7431,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "v2.0",
+   "beat": "v2",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "A",
+     "",
+     "H",
+     "64",
+     ""
+    ],
+    "focus": 3,
+    "plane": "heli",
+    "caption": "ATTACK HELICOPTER",
+    "ev": [
+     2,
+     146
+    ]
+   },
+   "step": 3,
+   "from": 7574,
+   "dur": 188,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7574,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 7582,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7588,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7594,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "v3.0",
+   "beat": "v3",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "M",
+     "",
+     "V",
+     "22",
+     ""
+    ],
+    "focus": 3,
+    "plane": "tilt",
+    "caption": "VERTICAL / SHORT TAKEOFF",
+    "ev": [
+     2,
+     128
+    ]
+   },
+   "step": 3,
+   "from": 7762,
+   "dur": 155,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7762,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 7770,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7776,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7782,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "v4.0",
+   "beat": "v4",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "M",
+     "",
+     "Q",
+     "9",
+     ""
+    ],
+    "focus": 3,
+    "order": [
+     1,
+     3,
+     4,
+     0,
+     2,
+     5
+    ],
+    "plane": "drone",
+    "caption": "MULTI-MISSION \u00b7 UNMANNED \u00b7 DESIGN 9",
+    "ev": [
+     141,
+     43,
+     109
+    ]
+   },
+   "step": 3,
+   "from": 7917,
+   "dur": 259,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7917,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 8058,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 7960,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 8026,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "v5.0",
+   "beat": "v5",
+   "scene": "Letters",
+   "props": {
+    "title": "TWO MORE TYPES",
+    "items": [
+     {
+      "l": "S",
+      "m": "SPACEPLANE"
+     },
+     {
+      "l": "D",
+      "m": "DRONE GROUND STATION",
+      "kind": "drone"
+     }
+    ],
+    "ev": [
+     46,
+     89
+    ]
+   },
+   "step": 3,
+   "from": 8176,
+   "dur": 162,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 8222,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 8265,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "p1.0",
+   "beat": "p1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "X",
+     "",
+     "F",
+     "",
+     "35",
+     ""
+    ],
+    "focus": 0,
+    "pull": true,
+    "plane": "fighter",
+    "caption": "NOT IN NORMAL SERVICE",
+    "ev": [
+     59,
+     139
+    ]
+   },
+   "step": 0,
+   "from": 8338,
+   "dur": 176,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8338,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 8346,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 8352,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 8358,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "p2.0",
+   "beat": "p2",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "Y",
+     "",
+     "F",
+     "",
+     "22",
+     ""
+    ],
+    "focus": 0,
+    "plane": "fighter",
+    "caption": "YF-22 PROTOTYPE \u2192 F-22",
+    "ev": [
+     80,
+     296
+    ]
+   },
+   "step": 0,
+   "from": 8514,
+   "dur": 374,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8514,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 8522,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 8528,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 8534,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "p3.0",
+   "beat": "p3",
+   "scene": "Letters",
+   "props": {
+    "title": "MORE STATUS PREFIXES",
+    "color": "#7A5BC4",
+    "items": [
+     {
+      "l": "J",
+      "m": "SPECIAL TEST \u00b7 TEMPORARY"
+     },
+     {
+      "l": "N",
+      "m": "SPECIAL TEST \u00b7 PERMANENT"
+     },
+     {
+      "l": "G",
+      "m": "PERMANENTLY GROUNDED"
+     }
+    ],
+    "ev": [
+     2,
+     116,
+     159
+    ]
+   },
+   "step": 0,
+   "from": 8888,
+   "dur": 242,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 8890,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 9004,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 9047,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n1.0",
+   "beat": "n1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "4",
+     ""
+    ],
+    "focus": 4,
+    "pull": true,
+    "plane": "fighter",
+    "caption": "COUNTS RESTARTED IN 1962",
+    "ev": [
+     50,
+     159
+    ]
+   },
+   "step": 4,
+   "from": 9130,
+   "dur": 272,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 9130,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 9138,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 9144,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 9150,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n2.0",
+   "beat": "n2",
+   "scene": "SeriesRow",
+   "props": {
+    "ev": [
+     194
+    ]
+   },
+   "step": 4,
+   "from": 9402,
+   "dur": 335,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 9406,
+     "gain": -20
+    },
+    {
+     "file": "pop_2",
+     "frame": 9416,
+     "gain": -20
+    },
+    {
+     "file": "pop_3",
+     "frame": 9426,
+     "gain": -20
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 9596,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "n3.0",
+   "beat": "n3",
+   "scene": "Story",
+   "props": {
+    "date": "F-4 PHANTOM II",
+    "head": "THERE WAS NEVER AN F-4H",
+    "sub": "TOO CLOSE TO ITS OLD NAVY NAME: F4H",
+    "plane": "fighter",
+    "ev": [
+     184
+    ]
+   },
+   "step": 4,
+   "from": 9737,
+   "dur": 276,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 9737,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 9743,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "n4.0",
+   "beat": "n4",
+   "scene": "Kinetic",
+   "props": {
+    "lines": [
+     {
+      "t": "13"
+     },
+     {
+      "t": "SKIPPED IN MANY SERIES",
+      "red": true
+     }
+    ],
+    "ev": [
+     17,
+     106
+    ]
+   },
+   "step": 4,
+   "from": 10013,
+   "dur": 149,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 10030,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 10119,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "x1.0",
+   "beat": "x1",
+   "scene": "Kinetic",
+   "props": {
+    "lines": [
+     {
+      "t": "THE RULE"
+     },
+     {
+      "t": "BREAKERS",
+      "red": true
+     }
+    ],
+    "ev": [
+     34,
+     41
+    ]
+   },
+   "step": 6,
+   "from": 10162,
+   "dur": 69,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 10162,
+     "gain": -14
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 10203,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "x2.0",
+   "beat": "x2",
+   "scene": "Story",
+   "props": {
+    "date": "SR-71 BLACKBIRD",
+    "head": "\"RS-71\" \u2192 \"SR-71\"",
+    "sub": "CURTIS LeMAY PREFERRED \"STRATEGIC RECONNAISSANCE\"",
+    "plane": "blackbird",
+    "planeColor": "#1E1F22",
+    "ev": [
+     241,
+     418
+    ]
+   },
+   "step": 6,
+   "from": 10231,
+   "dur": 445,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 10231,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 10237,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 10649,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "x3.0",
+   "beat": "x3",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "B",
+     "",
+     "21",
+     ""
+    ],
+    "focus": 4,
+    "plane": "wing",
+    "caption": "NEXT IN LINE WAS B-3",
+    "ev": [
+     119,
+     214
+    ]
+   },
+   "step": 6,
+   "from": 10676,
+   "dur": 238,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10676,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 10684,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 10690,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 10696,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "x3b.0",
+   "beat": "x3b",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "M",
+     "",
+     "V",
+     "75",
+     ""
+    ],
+    "focus": 4,
+    "plane": "tilt",
+    "caption": "THE ARMY \u00b7 FOUNDED 1775",
+    "ev": [
+     68,
+     227
+    ]
+   },
+   "step": 6,
+   "from": 10914,
+   "dur": 300,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 10914,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 10922,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 10928,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 10934,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "x4.0",
+   "beat": "x4",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "T",
+     "",
+     "6",
+     ""
+    ],
+    "focus": 4,
+    "plane": "trainer",
+    "caption": "SKIPPED T-4 AND T-5",
+    "ev": [
+     65,
+     123
+    ]
+   },
+   "step": 6,
+   "from": 11214,
+   "dur": 197,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 11214,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 11222,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 11228,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 11234,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "x5.0",
+   "beat": "x5",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "",
+     "F",
+     "",
+     "47",
+     ""
+    ],
+    "focus": 4,
+    "plane": "fighter",
+    "caption": "P-47 THUNDERBOLT \u00b7 1947",
+    "ev": [
+     83,
+     218
+    ]
+   },
+   "step": 6,
+   "from": 11411,
+   "dur": 243,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 11411,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 11419,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 11425,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 11431,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "x5b.0",
+   "beat": "x5b",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "K",
+     "C",
+     "",
+     "767",
+     ""
+    ],
+    "focus": 4,
+    "plane": "jumbo",
+    "caption": "BOEING'S MODEL NUMBER",
+    "ev": [
+     157,
+     235
+    ]
+   },
+   "step": 6,
+   "from": 11654,
+   "dur": 268,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 11654,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 11662,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 11668,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 11674,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "x6.0",
+   "beat": "x6",
+   "scene": "Story",
+   "props": {
+    "date": "F/A-18 HORNET",
+    "head": "A SLASH THE RULES DON'T ALLOW",
+    "sub": "BY THE BOOK: AF-18",
+    "stamp": "AF-18",
+    "plane": "hornet",
+    "ev": [
+     31,
+     235
+    ]
+   },
+   "step": 6,
+   "from": 11922,
+   "dur": 301,
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 11922,
+     "gain": -18
+    },
+    {
+     "file": "tick_1",
+     "frame": 11928,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 12157,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "k1.0",
+   "beat": "k1",
+   "scene": "MCode",
+   "props": {
+    "code": [
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    "ev": []
+   },
+   "step": 6,
+   "from": 12223,
+   "dur": 114,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 12223,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k2.0",
+   "beat": "k2",
+   "scene": "Letters",
+   "props": {
+    "title": "1ST LETTER \u00b7 LAUNCHED FROM",
+    "color": "#2F6FD1",
+    "items": [
+     {
+      "l": "A",
+      "m": "AIR"
+     },
+     {
+      "l": "R",
+      "m": "SURFACE SHIP"
+     },
+     {
+      "l": "U",
+      "m": "UNDERWATER"
+     },
+     {
+      "l": "L",
+      "m": "SILO"
+     },
+     {
+      "l": "B",
+      "m": "MORE THAN ONE"
+     }
+    ],
+    "ev": [
+     85,
+     137,
+     184,
+     239,
+     295
+    ]
+   },
+   "step": 6,
+   "from": 12337,
+   "dur": 380,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 12422,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 12474,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 12521,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 12576,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 12632,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "k3.0",
+   "beat": "k3",
+   "scene": "Letters",
+   "props": {
+    "title": "2ND LETTER \u00b7 THE JOB",
+    "items": [
+     {
+      "l": "I",
+      "m": "INTERCEPT AIR TARGETS"
+     },
+     {
+      "l": "G",
+      "m": "ATTACK LAND OR SEA TARGETS"
+     }
+    ],
+    "ev": [
+     85,
+     190
+    ]
+   },
+   "step": 6,
+   "from": 12717,
+   "dur": 290,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 12802,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 12907,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "k4.0",
+   "beat": "k4",
+   "scene": "Letters",
+   "props": {
+    "title": "3RD LETTER \u00b7 WHAT IT IS",
+    "color": "#16161A",
+    "items": [
+     {
+      "l": "M",
+      "m": "GUIDED MISSILE"
+     },
+     {
+      "l": "R",
+      "m": "UNGUIDED ROCKET"
+     }
+    ],
+    "ev": [
+     86,
+     144
+    ]
+   },
+   "step": 6,
+   "from": 13007,
+   "dur": 244,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 13093,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 13151,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "k5.0",
+   "beat": "k5",
+   "scene": "MCode",
+   "props": {
+    "code": [
+     "A",
+     "I",
+     "M",
+     "9",
+     ""
+    ],
+    "caption": "AIR \u00b7 INTERCEPT \u00b7 MISSILE",
+    "ev": [
+     88,
+     112,
+     142
+    ]
+   },
+   "step": 6,
+   "from": 13251,
+   "dur": 181,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 13339,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 13363,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 13393,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k6.0",
+   "beat": "k6",
+   "scene": "MCode",
+   "props": {
+    "code": [
+     "A",
+     "I",
+     "M",
+     "7",
+     ""
+    ],
+    "focus": 0,
+    "caption": "FIRED FROM A JET",
+    "ev": [
+     112,
+     135
+    ]
+   },
+   "step": 6,
+   "from": 13432,
+   "dur": 158,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 13432,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 13544,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "k6.1",
+   "beat": "k6",
+   "scene": "MCode",
+   "props": {
+    "code": [
+     "R",
+     "I",
+     "M",
+     "7",
+     ""
+    ],
+    "focus": 0,
+    "caption": "SAME NUMBER \u00b7 NEW FIRST LETTER",
+    "ev": [
+     59,
+     192
+    ]
+   },
+   "step": 6,
+   "from": 13590,
+   "dur": 255,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 13649,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 13782,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "k7.0",
+   "beat": "k7",
+   "scene": "MCode",
+   "props": {
+    "code": [
+     "R",
+     "G",
+     "M",
+     "84",
+     "D"
+    ],
+    "caption": "HARPOON \u00b7 4TH MODIFICATION",
+    "ev": [
+     175,
+     178,
+     223,
+     265,
+     319
+    ]
+   },
+   "step": 6,
+   "from": 13845,
+   "dur": 366,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 14020,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 14023,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 14068,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 14110,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 14164,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "f1.0",
+   "beat": "f1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "H",
+     "",
+     "H",
+     "60",
+     "G"
+    ],
+    "focus": -1,
+    "plane": "heli",
+    "ev": [
+     26,
+     79
+    ]
+   },
+   "step": 6,
+   "from": 14211,
+   "dur": 138,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 14211,
+     "gain": -18
+    },
+    {
+     "file": "pop_1",
+     "frame": 14219,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 14225,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 14231,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "f2.0",
+   "beat": "f2",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "H",
+     "",
+     "H",
+     "60",
+     "G"
+    ],
+    "focus": 1,
+    "order": [
+     1,
+     3,
+     4,
+     5,
+     0,
+     2
+    ],
+    "plane": "heli",
+    "caption": "SEARCH AND RESCUE HELICOPTER",
+    "ev": [
+     7,
+     142,
+     251,
+     404
+    ]
+   },
+   "step": 6,
+   "from": 14349,
+   "dur": 471,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 14356,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 14491,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 14600,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 14753,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "f3.0",
+   "beat": "f3",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "H",
+     "",
+     "H",
+     "60",
+     "G"
+    ],
+    "focus": 1,
+    "plane": "heli",
+    "caption": "MODIFIED BLACK HAWKS \u2192 NEW MISSION LETTER",
+    "ev": [
+     73,
+     158
+    ]
+   },
+   "step": 6,
+   "from": 14820,
+   "dur": 238,
+   "cues": [
+    {
+     "file": "tick_2",
+     "frame": 14893,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 14978,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e1.0",
+   "beat": "e1",
+   "scene": "Code",
+   "props": {
+    "code": [
+     "",
+     "M",
+     "",
+     "Q",
+     "9",
+     "A"
+    ],
+    "focus": -1,
+    "order": [
+     1,
+     3,
+     4,
+     5,
+     0,
+     2
+    ],
+    "plane": "drone",
+    "caption": "MULTI-MISSION \u00b7 UNMANNED \u00b7 DESIGN 9 \u00b7 FIRST VERSION",
+    "ev": [
+     195,
+     237,
+     275,
+     318
+    ]
+   },
+   "step": 6,
+   "from": 15058,
+   "dur": 351,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 15253,
+     "gain": -16
+    },
+    {
+     "file": "pop_2",
+     "frame": 15295,
+     "gain": -16
+    },
+    {
+     "file": "pop_3",
+     "frame": 15333,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 15376,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "e2.0",
+   "beat": "e2",
+   "scene": "Cross",
+   "props": {
+    "ev": [
+     67
+    ]
+   },
+   "step": 6,
+   "from": 15409,
+   "dur": 171,
+   "cues": [
+    {
+     "file": "marker_scribble",
+     "frame": 15476,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "e3.0",
+   "beat": "e3",
+   "scene": "Outro",
+   "props": {
+    "ev": []
+   },
+   "step": 6,
+   "from": 15580,
+   "dur": 228,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 15586,
+     "gain": -18
+    }
+   ]
+  }
+ ]
+}

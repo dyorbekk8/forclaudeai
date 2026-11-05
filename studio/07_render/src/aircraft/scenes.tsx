@@ -47,10 +47,12 @@ export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, capt
   const z = pull && focus >= 0 ? interpolate(f, [0, 26], [2.8, 1], {extrapolateRight: 'clamp', easing: easeInOut}) : 1;
   const origin = pull && focus >= 0 ? `${CX[focus]}px ${cy}px` : '50% 50%';
   const ord = order ?? code.map((_, i) => i);
+  const filledOrd = ord.filter((i) => code[i]);
   const appear = (i: number) => {
-    const k = ord.indexOf(i);
+    const k = filledOrd.indexOf(i);
     return at(ev, k, 6 + k * 6);
   };
+  const capAt = at(ev, filledOrd.length, Math.max(30, appear(filledOrd[filledOrd.length - 1] ?? 0) + 14));
   const filled = code.map((c, i) => (c ? 1 : 0));
   const dash = code.findIndex((_, i) => i === 4);
   return (
@@ -97,7 +99,7 @@ export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, capt
         })}
       </div>
       {caption && (
-        <div style={{position: 'absolute', left: 0, right: 0, bottom: 150, textAlign: 'center', opacity: prog(f, at(ev, ord.length, 30), 6), transform: `translateY(${(1 - prog(f, at(ev, ord.length, 30), 8)) * 30}px)`}}>
+        <div style={{position: 'absolute', left: 0, right: 0, bottom: 150, textAlign: 'center', opacity: prog(f, capAt, 6), transform: `translateY(${(1 - prog(f, capAt, 8)) * 30}px)`}}>
           <span style={{background: C.red, color: '#fff', fontFamily: fonts.label, fontWeight: 800, fontSize: 70, padding: '4px 24px', borderRadius: 8}}>{caption}</span>
           {sub && (
             <div style={{marginTop: 14}}>
@@ -335,7 +337,8 @@ export const MCode: React.FC<{code: string[]; focus?: number; caption?: string; 
       </div>
       <div style={{position: 'absolute', left: 0, right: 0, top: 420, display: 'flex', justifyContent: 'center', alignItems: 'flex-start', gap: 14}}>
         {code.map((c, i) => {
-          const s = at(ev, ord.indexOf(i), 6 + ord.indexOf(i) * 6);
+          const kk = ord.filter((j) => code[j]).indexOf(i);
+          const s = at(ev, kk, 6 + kk * 6);
           const p = c ? Math.min(1, pop(f, s, 10)) : 0;
           const on = focus === i;
           return (
@@ -352,7 +355,7 @@ export const MCode: React.FC<{code: string[]; focus?: number; caption?: string; 
         })}
       </div>
       {caption && (
-        <div style={{position: 'absolute', left: 0, right: 0, bottom: 150, textAlign: 'center', opacity: prog(f, at(ev, ord.length, 30), 8)}}>
+        <div style={{position: 'absolute', left: 0, right: 0, bottom: 150, textAlign: 'center', opacity: prog(f, at(ev, code.filter((c) => c).length, 30), 8)}}>
           <span style={{background: C.red, color: '#fff', fontFamily: fonts.label, fontWeight: 800, fontSize: 64, padding: '4px 24px', borderRadius: 8}}>{caption}</span>
         </div>
       )}
