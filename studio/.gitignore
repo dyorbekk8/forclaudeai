@@ -23,3 +23,4 @@ agents/packaging-analyst/thumbs_extra/
 03_voiceover/*/scratch/*.wav
 03_voiceover/*_log.txt
 07_render/out/
+03_voiceover/*/*.log
