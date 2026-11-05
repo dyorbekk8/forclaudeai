@@ -3,6 +3,15 @@
 Source: `00_research/dossier/EXPLAINER_RESEARCH_DOSSIER_v2.md` (GPT research, 2026-11-04) + our own render/QA experience.
 Positioning (hypothesis to test, not fact): **real-world systems decoded — colors, levels, signals, roles, equipment.**
 
+## LOCKED channel direction (owner decision, 2026-11-05)
+- Lane: **military, security & operations systems** (codes, levels, markings, roles, equipment). Next 15 videos stay in this lane.
+- No new medical / brain / body / random-facts videos.
+- Long videos 8–12 min (length from real facts and events, never padding).
+- Every long video ships with 2–3 Shorts that link to it (related video).
+- Thumbnails: own identity — one huge object + one curiosity line (B style); grid only as a test variant.
+- Topics chosen by search demand where current top results are old/weak.
+- One voice for everything: see `03_voiceover/VOICE.md`.
+
 ## Topic
 - Score: familiar object · real question/misconception · primary source · visual mechanism · continuity with past uploads · original angle (0–4 each).
 - Tag demand honestly: direct single-channel / cross-channel analogue / own-channel early / untested. No invented search-volume numbers.

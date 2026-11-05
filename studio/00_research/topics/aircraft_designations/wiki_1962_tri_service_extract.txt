@@ -1,0 +1,382 @@
+
+1962 United States Tri-Service aircraft designation system - Wikipedia
+Jump to content
+Main menu
+	Main menu
+	move to sidebar
+	hide
+		Navigation
+			Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+		Contribute
+			HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+Search
+				Search
+Appearance
+			Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+	Contents
+	move to sidebar
+	hide
+				(Top)
+				1
+				History
+				2
+				Designation system
+				Toggle Designation system subsection
+					2.1
+					Status prefix
+					2.2
+					Modified mission
+					2.3
+					Basic mission
+					2.4
+					Vehicle type
+					2.5
+					Design number
+					2.6
+					Series letter
+				3
+				Non-systematic aircraft designations
+				Toggle Non-systematic aircraft designations subsection
+					3.1
+					Non-systematic or aberrant designations
+					3.2
+					Skipped design numbers
+				4
+				Manufacturer's code
+				5
+				Block number
+				6
+				See also
+				7
+				Explanatory notes
+				8
+				References
+				Toggle References subsection
+					8.1
+					Citations
+					8.2
+					General and cited references
+				9
+				External links
+Toggle the table of contents
+					1962 United States Tri-Service aircraft designation system
+13 languages
+				DeutschSuomiFrançaisעבריתItaliano한국어LietuviųPolskiРусскийSlovenščinaSvenskaУкраїнська中文
+			Edit links
+			Article
+Talk
+	English
+			Read
+Edit
+View history
+Save
+Tools
+	Tools
+	move to sidebar
+	hide
+		Actions
+Read
+Edit
+View history
+Save
+		General
+			What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLSwitch to legacy parser
+		Print/export
+			Download as PDFPrintable version
+		In other projects
+			Wikidata item
+	Appearance
+	move to sidebar
+	hide
+						From Wikipedia, the free encyclopedia
+					US military standardized aircraft nomenclature
+Before the introduction of the tri-service designation system, the F-4 Phantom II was designated F4H by the U.S. Navy, and F-110 Spectre by the U.S. Air Force.
+The Tri-Service aircraft designation system is a unified system introduced in 1962 by the United States Department of Defense for designating all U.S. military aircraft. Previously, the U.S. armed services used separate nomenclature systems.
+Under the tri-service designation system, officially introduced on 18 September 1962, almost all aircraft receive a unified designation, whether they are operated by the United States Air Force (USAF), United States Navy (USN), United States Marine Corps (USMC), United States Army (USA), United States Space Force (USSF), or United States Coast Guard (USCG). Experimental aircraft operated by manufacturers or by NASA are also often assigned designations from the X-series of the tri-service system.
+The 1962 system was based on the one used by the USAF between 1948 and 1962, which was in turn based on the type, model, series USAAS/USAAC/USAAF system used from 1924 to 1948.  The 1962 system has been modified and updated since introduction.
+History[edit]
+The Tri-Service system was first enacted on 6 July 1962 by the DoD Directive 4505.6 "Designating, Redesignating, and Naming Military Aircraft" and was implemented via Air Force Regulation (AFR) 66-11, Army Regulation (AR) 700-26, Bureau of Weapons Instruction (BUWEPSINST) 13100.7 on 18 September 1962. Anecdotally, the Tri-Service system was partly brought about due to Secretary of Defense Robert McNamara's confusion and frustration with the different designation systems the Navy and Air Force used at the time which resulted in the U.S. Navy's F4H Phantom II and the U.S. Air Force's F-110 Spectre both being used to refer to, essentially, the same fighter aircraft.
+The Tri-Service aircraft designation system was presented alongside the 1963 rocket and guided missile designation system in Air Force Regulation (AFR) 82-1/Army Regulation (AR) 70-50/Naval Material Command Instruction (NAVMATINST) 8800.4A (published 27 March 1974)[Note 1] and the two systems have been concurrently presented and maintained in joint publications since.
+The most recent changes were mandated by Joint Regulation 4120.15E Designating and Naming Military Aerospace Vehicles[Note 2] and were implemented[Note 3] via Air Force Instruction (AFI) 16-401, Army Regulation (AR) 70-50, Naval Air Systems Command Instruction (NAVAIRINST) 13100.16 on 3 November 2020. The list of military aircraft was maintained via 4120.15-L Model Designation of Military Aerospace Vehicles until its transition to data.af.mil on 31 August 2018.
+Designation system[edit]
+The system uses a Mission-Design-Series (MDS) designation of the form:
+(Status Prefix)(Modified Mission)(Basic Mission)(Vehicle Type)-(Design Number)(Series Letter)
+Of these components, only the Basic Mission, Design Number and Series Letter are mandatory. In the case of special vehicles a Vehicle Type symbol must also be included.  The U.S. Air Force characterizes this designation system as "MDS", while the Navy, Marine Corps, and Coast Guard continue to refer to it as Type/Model/Series (T/M/S).
+Status prefix[edit]
+These optional prefixes are attached to aircraft not conducting normal operations, such as research, testing and development. The prefixes are:
+e: Digitally developed
+G: Permanently grounded
+J: Special test, temporary
+N: Special test, permanent
+X: Experimental
+Y: Prototype
+Z: Planning
+A temporary special test means the aircraft is intended to return to normal service after the tests are completed, while permanent special test aircraft are not. The Planning code is no longer used but was meant to designate aircraft "on the drawing board". For example, using this system an airframe such as the F-13 could have initially been designated as ZF-13 during the design phase, possibly XF-13 if experimental testing was required before building a prototype, the YF-13; the final production model would simply be designated F-13 (with the first production variant being the F-13A). Continuing the example, some F-13s during their service life may have been used for testing modifications or researching new designs and designated JF-13 or NF-13; finally after many years of service, the airframe would be permanently grounded due to safety or economic reasons as GF-13.
+Modified mission[edit]
+Aircraft which are modified after manufacture or even built for a different mission from the standard airframe of a particular design are assigned a modified mission code. They are:
+A: Attack
+B: Bomber
+C: Cargo (i.e., transport)
+D: Drone director
+E: Electronic warfare
+F: Fighter
+H: Search and rescue and MEDEVAC
+K: Tanker
+L: Modified for cold weather operations
+M: Multi-mission (i.e., Special Operations)
+O: Observation
+P: Maritime patrol
+Q: Unmanned aerial vehicle
+R: Reconnaissance
+S: Anti-submarine warfare
+T: Trainer
+U: Utility
+V: VIP transport
+W: Weather reconnaissance
+The multi-mission and utility missions could be considered the same thing; however they are applied to multipurpose aircraft conducting certain categories of mission. M-aircraft conduct combat or special operations while U-aircraft conduct combat support missions, such as transport (e.g., UH-60) and electronic warfare (e.g., MC-12). Historically, the vast majority of U.S. Coast Guard air assets included the H-code (e.g., HH-60 Jayhawk or HC-130 Hercules). In the 21st century, the Coast Guard has used the multi-mission designation for their armed rescue helicopters (MH-60 Jayhawk or MH-65 Dolphin).
+Basic mission[edit]
+All aircraft are to be assigned a basic mission code. In some cases, the basic mission code is replaced by one of the modified mission codes when it is more suitable (e.g., M in MH-53J Pave Low III). The defined codes are:
+A: Attack aircraft (for tactical air-to-surface mission)
+B: Bomber (for strategic air-to-surface mission)
+C: Cargo (i.e. Transport)
+E: Special electronic installation
+F: Fighter
+K: Tanker (dropped between 1977 and 1985)
+L: Laser-equipped
+O: Observation (Forward Air Control)
+P: Maritime patrol
+R: Reconnaissance
+S: Anti-submarine warfare
+T: Trainer
+U: Utility
+X: Special research
+The rise of the multirole fighter in the decades since the system was introduced has created some confusion about the difference between attack and fighter aircraft. According to the current designation system, an attack aircraft (A) is designed primarily for air-to-surface missions (also known as "attack missions"), while a fighter category F incorporates not only aircraft designed primarily for air-to-air warfare, but also multipurpose aircraft designed also for attack missions. The Air Force has even assigned the F designation to attack-only aircraft, such as the F-111 Aardvark and F-117 Nighthawk.
+The only A designated aircraft currently in the U.S. Air Force is the A-10 Thunderbolt II. The last front line A designated aircraft in the U.S. Navy and U.S. Marine Corps was the A-6 Intruder, with the only strictly A designated fixed-wing aircraft remaining in the sea services being the A-29 Super Tucano leased under the Imminent Fury program.
+Of these code series, no normal aircraft have been assigned a K or R basic mission code in a manner conforming to the system.
+Vehicle type[edit]
+The vehicle type element is used to designate the type of aerospace craft. Aircraft not in one of the following categories (most fixed-wing aircraft) are not required to carry a type designator. The type categories are:
+D: Unmanned aerial vehicle (UAV) control segment
+G: Glider
+H: Helicopter
+Q: Unmanned aerial vehicle
+S: Spaceplane
+V: Vertical take-off/short take-off and landing (VTOL/STOL)
+Z: Lighter-than-air
+A UAV control segment is not an aircraft, it is the ground control equipment used to command a UAV.  Only in recent years has an aircraft been designated as a spaceplane, the proposed MS-1A.
+Design number[edit]
+According to the designation system, aircraft of a particular vehicle type or basic mission (for manned, fixed-wing, powered aircraft) were to be numbered consecutively, and the number series were restarted, causing some redesignated naval aircraft and subsequent new designs to overlap disused USAAC/USAAF designations (e.g., the Lockheed F-5 and Northrop F-5). Numbers were not to be assigned to avoid confusion with other letter sequences or to conform with manufacturers' model numbers. Recently this rule has been ignored, and aircraft have received a design number equal to the model number (e.g., KC-767A) or have kept the design number when they are transferred from one series to another (e.g., the X-35 became the F-35).
+Series letter[edit]
+Different versions of the same basic aircraft type are to be delineated using a single letter suffix beginning with "A" and increasing sequentially (skipping "I" and "O" to avoid confusion with the numbers "1" and "0"). It is not clear how much modification is required to merit a new series letter, e.g., the F-16C production run has varied extensively over time. The modification of an aircraft to carry out a new mission does not necessarily require a new suffix (e.g., F-111Cs modified for reconnaissance are designated RF-111C), but often a new letter is assigned (e.g., the UH-60As modified for Search and Rescue missions are designated HH-60G).
+Some series letters have been skipped to forestall confusion with pre-1962 naval designations; for instance, there was no "H" version of the F-4 Phantom II because the aircraft type was previously designated F4H.
+Non-systematic aircraft designations[edit]
+Since the 1962 system was introduced there have been several instances of non-systematic aircraft designations and skipping of design numbers.
+Non-systematic or aberrant designations[edit]
+The most common changes are to use a number from another series, or some other choice, rather than the next available number (117, 767, 71). Another is to change the order of the letters or use new acronym based letters (e.g. SR) rather than existing ones.  Non-systematic designations are both official and correct, since the DOD has final authority to approve such designations.
+A-29
+Briefly designated "A-14A" before being changed to "A-29B" to match the Brazilian designation.
+A-37 Dragonfly
+Used the design number from its parent aircraft, the T-37 Tweet, rather than the next available number in the A series (A-8). Initially designated as the YAT-37D, using an A mission modifier and D series letter that continued the T-37 sequence, but redesignated as the YA-37A during development.
+B-21
+Designated "B-21" as being the first bomber type of the 21st century, rather than the next available number in the B series (B-3).
+E-130J
+Uses both the design number and suffix letter from its parent type, the C-130J Hercules, rather than the next available number in the E series (E-12).
+EA-37B
+Redesignated from EC-37B to better reflect the aircraft's capabilities.  The new designation conflicts with the A-37B Dragonfly.
+F/A-18 Hornet, also the transient F/A-16 and F/A-22.
+Originally, the Navy planned to have two variants of the Hornet: the F-18 fighter and A-18 light attack aircraft. During development, "F/A-18" was used as a shorthand to refer to both variants. When the Navy decided to develop a single aircraft able to perform both missions, the "F/A" appellation stuck despite the designation system not allowing for slashes or other characters. AF-18 would be conformant. Similar issues existed with the naming of the F-22, which was briefly redesignated F/A-22; a proposed bomber variant was the FB-22 (which, more appropriately, should have been designated BF-22).
+F-15EX Eagle II
+Uses non-standard EX series letters rather than the next available standard series letter (F-15L).
+F-35 Lightning II
+Used the design number from its X-plane designation (X-35) rather than the next available F series number (24).
+FB-111 Aardvark
+Should have used the next available number in the bomber sequence but 111 was retained for commonality with the F-111 from the pre-1962 system.
+F-117 Nighthawk
+Designated as part of series continuing from the pre-1962 system and latterly used to identify foreign aircraft acquired by the government, e.g., YF-113 was a MiG-23. Additionally, the basic mission designation as fighter implies air-to-air capabilities though the F-117 does not possess any. There have been conjecture and anecdotal reports concerning purported air-to-air capabilities for use against Soviet AWACS craft.
+MV-75
+The military designation of the Bell V-280 Valor skips designation numbers V-26 through V-74. 75 was chosen to honor the U.S. Army's founding year of 1775, and is almost in line with the helicopter sequence (though skipping 74) perhaps to signify its use as a direct successor to the H-60.
+RC-7B
+Designation conflicted with unrelated C-7 Caribou. Was redesignated EO-5C in August 2004.
+SR-71
+The SR-71 designator is a continuation of the pre-1962 bomber series, which ended with the XB-70 Valkyrie. During the later period of its testing, the B-70 was proposed for the Reconnaissance/Strike role, with an RS-70 designation.  The USAF decided instead to pursue the Lockheed A-12 which was dubbed RS-71 (Reconnaissance/Surveillance; unrelated to the S mission designation for anti-submarine warfare). Then-USAF Chief of Staff Gen. Curtis LeMay preferred the SR (Strategic Reconnaissance) moniker and wanted the reconnaissance aircraft to be named SR-71. Before the Blackbird was to be announced by President Johnson on 29 February 1964, LeMay lobbied to modify Johnson's speech to read SR-71 instead of RS-71. The media transcript given to the press at the time still had the earlier RS-71 designation in places, creating the myth that the president had misread the aircraft's designation.
+TR-1
+A variant of the U-2; uses its own modified mission letter (T for Tactical) with basic mission letter (R for Reconnaissance). The U-2 was initially designated as "utility" to obfuscate its reconnaissance capabilities. Following shootdowns of the aircraft, this subterfuge was pointless. The TR-1, first flown in 1981, was re-designated U-2R in 1991 for uniformity.
+Historical Designation Re-use: Several aircraft have received non-systematic designations as tributes to retired historically significant aircraft.
+F-47: Boeing developed sixth-generation fighter aircraft. Designation was chosen as a tribute to the Republic P-47 Thunderbolt, the USAF's founding in 1947, and in recognition of the support of Donald Trump—the 47th President of the United States—for the project.
+The P-47 was re-designated as F-47 in 1947 when the pursuit (P) designation was replaced by fighter (F).
+The Fairchild Republic A-10 Thunderbolt II also pays tribute to the P-47.
+OA-1K Skyraider II: Designated to "[renew] the rugged and versatile nature" of the long-retired and unrelated A-1 Skyraider, of which the A-1J was the last production variant, rather than using the next available number in the A series (14).
+T-6 Texan II: Turboprop training aircraft. Design numbers 4 and 5 of the Training vehicle type were skipped in order to pay tribute to the earlier North American T-6 Texan.
+Civilian model number usage: Numerous series numbers have been skipped to use civilian model numbers.[citation needed]
+KC-767: Skipped hundreds of C-series numbers to use Boeing's model number.  Has conformant basic mission and modified mission letters. Only used for aircraft sold to foreign air forces.  The U.S. Air Force ordered the Boeing 767-based tanker KC-46.
+MH-90 Enforcer: armed version of the MD 900 and MD 902 for the United States Coast Guard. Flown by the Helicopter Interdiction Tactical Squadron between 1998 and 2000.
+MH-139 Grey Wolf: security and support missions variant of the AW139 for the United States Air Force.
+TH-66 Sage: military training variant of the Robinson R66 for the U.S. Army FAA Part 141 Helicopter Flight School Pilot Program. Aircraft shares the same vehicle type and design number (H-66) as the Boeing-Sikorsky RAH-66 Comanche.
+UC-880: aerial tanker variant of the Convair 880 operated by the United States Navy.
+VH-92: presidential transport variant of the Sikorsky S-92 operated by the United States Marine Corps.
+Skipped design numbers[edit]
+The design number "13" has been skipped in many mission and vehicle series for its association with superstition. Some numbers were skipped when a number was requested and/or assigned to a project but the aircraft was never built.
+The following table lists design numbers in the 1962 system which have been skipped.
+ | Mission or Vehicle Series
+ | Missing numbers
+ | Next available number
+ | A
+ | 8#, 11, 13
+ | 14
+ | B
+ | 3–20
+ | 22
+ | C
+ | 13, 16, 30, 34, 36, 39, 42–44†
+ | 47
+ | D (Ground)
+ | 
+ | 5
+ | E
+ | 
+ | 12
+ | F
+ | 13, 19‡
+ | 24
+ | G
+ | 13
+ | 18
+ | H (original sequence)
+ | 36, 38, 44, 45, 69
+ | 74
+ | H (alternate sequence)
+ | 
+ | 7
+ | L
+ | 
+ | 2
+ | O
+ | 
+ | 7
+ | P
+ | 1, 6
+ | 10
+ | Q
+ | 13
+ | 31
+ | R
+ | 
+ | 2
+ | S (ASW)
+ | 1
+ | 4
+ | S (Spaceplane)
+ | 
+ | 2
+ | T (1990 sequence)
+ | 2*, 4**, 5**
+ | 8
+ | V
+ | 13, 14, 17, 19, 21
+ | 26
+ | Z
+ | 
+ | 5
+#: A-8 was technically skipped, but the AV-8 Harrier received the number within the "V" vehicle type sequence. Within the V sequence, it should have been designated AV-12 (as the Ryan XV-8 "Fleep" was already in existence). Additionally, the stillborn 1960s General Dynamics Model 100 attack aircraft proposal has been referred to as the A-8A, but it is unclear if it was ever formally granted this designation by the USAF.
+†: The C-42 through C-44 designations were skipped in favor of the KC-45 by Airbus. The designations are considered skipped as the sequence continued in with the C-46 rather than continuing from the last otherwise sequential designation.
+‡: A top-secret stealth fighter designated F-19 has been rumored to exist for decades, and the rumors gained widespread publicity after the USAF cordoned off a crash site near Nellis Air Force Base in July 1986, but the crashed aircraft was subsequently revealed to have been an F-117, which was still classified at the time. No conclusive evidence of a genuine F-19 program has surfaced.
+*: Skipped to avoid confusion with the North American T-2 Buckeye, which was still in service at the time.
+**: The T-4 and T-5 designations were skipped in favor of T-6 by Raytheon to honor the WW2-era North American T-6 Texan. The designations are considered skipped as the sequence continued with the T-7 rather than continuing from the last otherwise sequential designation.
+Manufacturer's code[edit]
+Since 1939, a 2-letter manufacturer's code has been added to designations to identify the manufacturer and the production plant. For example, F-15E-50-MC, the "MC" being the code for the McDonnell Douglas plant at St. Louis, Missouri.
+Block number[edit]
+In 1941, block numbers were added to designations to show minor equipment variations between production blocks. The block number appears in the designation between the model suffix and manufacturers code (for example F-100D-85-NH). Initially, they incremented in numerical order −1, −2, −3 but this was changed to −1, −5, −10, −15 in increments of five. The gaps in the block numbers could be used for post-delivery modifications—for example, a F-100D-85-NH could be modified in the field to F-100D-86-NH. Not all types have used block numbers.
+See also[edit]
+List of United States Tri-Service aircraft designations
+British military aircraft designation systems
+Hull classification symbol
+Italian Armed Forces aircraft designation system
+Japanese military aircraft designation systems
+Lists of military aircraft of the United States
+RLM aircraft designation system
+Soviet Union military aircraft designation systems
+United States military aircraft designation systems
+Explanatory notes[edit]
+AFR 82-1/AR 70-50/NAVMATINST 8800.4A was published to implement DoD Directive 4120.15 \"Designating and Naming Military Aircraft, Rockets, and Guided Missiles\" which was issued on 24 November 1971.</ref>\n<ref name=\"notew 02\">The most recent version is DoD Directive 4120.15E from 17 September 2020 (incorporating Change 2) which is an update of DoD Directive 4120.15E 29 November 2004</ref>\n<ref name=\"notew 03\">DoDD 4120.15E is enacted by Air Force Policy Directive (AFPD) 16-4 which is implemented by AFI 16-401/AR 70-50/NAVAIRINST 13100.16</ref>"}},"i":0}}]}'>
+↑ AFR 82-1/AR 70-50/NAVMATINST 8800.4A was published to implement DoD Directive 4120.15 "Designating and Naming Military Aircraft, Rockets, and Guided Missiles" which was issued on 24 November 1971.
+↑ The most recent version is DoD Directive 4120.15E from 17 September 2020 (incorporating Change 2) which is an update of DoD Directive 4120.15E 29 November 2004
+↑ DoDD 4120.15E is enacted by Air Force Policy Directive (AFPD) 16-4 which is implemented by AFI 16-401/AR 70-50/NAVAIRINST 13100.16
+References[edit]
+Citations[edit]
+<a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-AFR_82-1-6\" id=\"mwAso\"><span class=\"mw-reflink-text\" id=\"mwAss\"><span class=\"cite-bracket\" id=\"mwAsw\">[</span>5<span class=\"cite-bracket\" id=\"mwAs0\">]</span></span></a></sup>\n<sup about=\"#mwt110\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAs4\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AR and NAVMAT 1974\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AR_and_NAVMAT_1974-7\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-AR_and_NAVMAT_1974-7\" id=\"mwAs8\"><span class=\"mw-reflink-text\" id=\"mwAtA\"><span class=\"cite-bracket\" id=\"mwAtE\">[</span>6<span class=\"cite-bracket\" id=\"mwAtI\">]</span></span></a></sup>\n<sup about=\"#mwt113\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAtM\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15 Nov 24 1971\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15_Nov_24_1971-8\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-4120.15_Nov_24_1971-8\" id=\"mwAtQ\"><span class=\"mw-reflink-text\" id=\"mwAtU\"><span class=\"cite-bracket\" id=\"mwAtY\">[</span>7<span class=\"cite-bracket\" id=\"mwAtc\">]</span></span></a></sup>\n<sup about=\"#mwt116\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAtg\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFPD 16-4\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFPD_16-4-11\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-AFPD_16-4-11\" id=\"mwAtk\"><span class=\"mw-reflink-text\" id=\"mwAto\"><span class=\"cite-bracket\" id=\"mwAts\">[</span>9<span class=\"cite-bracket\" id=\"mwAtw\">]</span></span></a></sup>\n<sup about=\"#mwt119\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAt0\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15E (change 2) 2020\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15E_(change_2)_2020-9\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-4120.15E_(change_2)_2020-9\" id=\"mwAt4\"><span class=\"mw-reflink-text\" id=\"mwAt8\"><span class=\"cite-bracket\" id=\"mwAuA\">[</span>8<span class=\"cite-bracket\" id=\"mwAuE\">]</span></span></a></sup>\n<sup about=\"#mwt122\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAuI\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFI 16-401/AR 70-50/NAVAIRINST 13100.16 Nov 3 2020\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFI_16-401/AR_70-50/NAVAIRINST_13100.16_Nov_3_2020-13\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-AFI_16-401/AR_70-50/NAVAIRINST_13100.16_Nov_3_2020-13\" id=\"mwAuM\"><span class=\"mw-reflink-text\" id=\"mwAuQ\"><span class=\"cite-bracket\" id=\"mwAuU\">[</span>10<span class=\"cite-bracket\" id=\"mwAuY\">]</span></span></a></sup>\n<sup about=\"#mwt125\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAuc\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15-L Model List 2018\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15-L_Model_List_2018-1\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-4120.15-L_Model_List_2018-1\" id=\"mwAug\"><span class=\"mw-reflink-text\" id=\"mwAuk\"><span class=\"cite-bracket\" id=\"mwAuo\">[</span>1<span class=\"cite-bracket\" id=\"mwAus\">]</span></span></a></sup>\n<sup about=\"#mwt128\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAuw\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"DoDD 4505.6\"},\"body\":{\"id\":\"mw-reference-text-cite_note-DoDD_4505.6-2\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-DoDD_4505.6-2\" id=\"mwAu0\"><span class=\"mw-reflink-text\" id=\"mwAu4\"><span class=\"cite-bracket\" id=\"mwAu8\">[</span>2<span class=\"cite-bracket\" id=\"mwAvA\">]</span></span></a></sup>\n<sup about=\"#mwt131\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAvE\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"SR-71 or RS-71\"},\"body\":{\"id\":\"mw-reference-text-cite_note-SR-71_or_RS-71-34\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-SR-71_or_RS-71-34\" id=\"mwAvI\"><span class=\"mw-reflink-text\" id=\"mwAvM\"><span class=\"cite-bracket\" id=\"mwAvQ\">[</span>31<span class=\"cite-bracket\" id=\"mwAvU\">]</span></span></a></sup>\n<sup about=\"#mwt134\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAvY\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"McNamara2\"},\"body\":{\"id\":\"mw-reference-text-cite_note-McNamara2-4\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-McNamara2-4\" id=\"mwAvc\"><span class=\"mw-reflink-text\" id=\"mwAvg\"><span class=\"cite-bracket\" id=\"mwAvk\">[</span>4<span class=\"cite-bracket\" id=\"mwAvo\">]</span></span></a></sup>\n<sup about=\"#mwt137\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAvs\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"McNamara1\"},\"body\":{\"id\":\"mw-reference-text-cite_note-McNamara1-3\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-McNamara1-3\" id=\"mwAvw\"><span class=\"mw-reflink-text\" id=\"mwAv0\"><span class=\"cite-bracket\" id=\"mwAv4\">[</span>3<span class=\"cite-bracket\" id=\"mwAv8\">]</span></span></a></sup>\n<sup about=\"#mwt138\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAwA\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"andrade8\"},\"body\":{\"id\":\"mw-reference-text-cite_note-andrade8-44\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-andrade8-44\" id=\"mwAwE\"><span class=\"mw-reflink-text\" id=\"mwAwI\"><span class=\"cite-bracket\" id=\"mwAwM\">[</span>41<span class=\"cite-bracket\" id=\"mwAwQ\">]</span></span></a></sup>\n<sup about=\"#mwt139\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAwU\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"andrade9\"},\"body\":{\"id\":\"mw-reference-text-cite_note-andrade9-45\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-andrade9-45\" id=\"mwAwY\"><span class=\"mw-reflink-text\" id=\"mwAwc\"><span class=\"cite-bracket\" id=\"mwAwg\">[</span>42<span class=\"cite-bracket\" id=\"mwAwk\">]</span></span></a></sup>\n<sup about=\"#mwt142\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAwo\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"Long arm\"},\"body\":{\"id\":\"mw-reference-text-cite_note-Long_arm-28\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-Long_arm-28\" id=\"mwAws\"><span class=\"mw-reflink-text\" id=\"mwAww\"><span class=\"cite-bracket\" id=\"mwAw0\">[</span>25<span class=\"cite-bracket\" id=\"mwAw4\">]</span></span></a></sup>\n<sup about=\"#mwt145\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAw8\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"F117 fighter\"},\"body\":{\"id\":\"mw-reference-text-cite_note-F117_fighter-31\"}}'><a href=\"./1962_United_States_Tri-Service_aircraft_designation_system#cite_note-F117_fighter-31\" id=\"mwAxA\"><span class=\"mw-reflink-text\" id=\"mwAxE\"><span class=\"cite-bracket\" id=\"mwAxI\">[</span>28<span class=\"cite-bracket\" id=\"mwAxM\">]</span></span></a></sup>\n"}}'>1 2 3 4 "DoDD 4120.15-L MODEL DESIGNATION OF MILITARY AEROSPACE VEHICLES August 31 2018" (PDF). US DoD Executive Services Directorate. 31 August 2018. Archived from the original (PDF) on 19 January 2022. Retrieved 11 April 2022.
+↑ Trapp, Robert E.; Berkeley, William P.; Egerland, Arnold V. (1967). "The Criteria for an Equipment Identification Coding System" (PDF). Air Force Institute of Technology School of Systems and Logistics. p. III-20. Archived (PDF) from the original on 13 April 2022. Retrieved 13 April 2022.
+↑ "McDonnell F-110 Spectre/F-4C Phantom II". 12 November 2018. Archived from the original on 7 May 2021. Retrieved 13 April 2022.
+↑ Scott, Jeff (4 February 2001). "US Military Aircraft Designation Systems". Aerospaceweb. Archived from the original on 27 February 2021. Retrieved 13 April 2022.
+↑ "United States Air Force Statistical Digest, Fiscal Year 1974" (PDF). Directorate of Management Analysis, Comptroller of the Air Force Headquarters. 15 April 1975. p. 77. Archived (PDF) from the original on 12 April 2022. Retrieved 12 April 2022.
+↑ "Annual Department of Defense Bibliography of Logistics Studies and Related Documents 1976". Defense Logistics Studies Information Exchange. January 1976. p. 2. Archived from the original on 12 April 2022. Retrieved 12 April 2022.
+↑ "SECOND DESTINATION TRANSPORTATION PHASE 2 LMI TASK 75-4" (PDF). LOGISTICS MANAGEMENT INSTITUTE. January 1976. Archived (PDF) from the original on 11 April 2022. Retrieved 11 April 2022.
+↑ "DoDD 4120.15E November 29, 2004 Incorporating Change 2, September 17, 2020 Designating and Naming Military Aerospace Vehicles" (PDF). US DoD. 17 September 2020. Archived from the original (PDF) on 29 March 2022. Retrieved 11 April 2022.
+↑ "AIR FORCE POLICY DIRECTIVE 16-4: 20 NOVEMBER 2018 ACCOUNTING FOR AEROSPACE VEHICLES AT UNITS AND INSTALLATIONS" (PDF). Department of Air Force E-Publishing. 20 November 2018. Archived from the original (PDF) on 12 April 2022. Retrieved 12 April 2022.
+1 2 3 4 5 6 "DEPARTMENT AIR FORCE INSTRUCTION 16-401, ARMY REGULATION 70-50, NAVAIRINST 13100.16 3 November 2020 DESIGNATING AND NAMING DEFENSE MILITARY AEROSPACE VEHICLES" (PDF). Department of Air Force E-Publishing. 3 November 2020. Archived from the original (PDF) on 6 March 2022. Retrieved 11 April 2022.
+↑ "Homepage".
+↑ "Current Designations of U.S. Military Aircraft".
+↑ 2003 – Airborne Use of Force – Coast Guard Arms HH-65C and HH-60J Helicopters
+↑ Designating and Naming Defense Military Aerospace Vehicles (PDF). United States Department of the Air Force. 14 April 2005. Archived from the original (PDF) on 2 March 2012. Retrieved 29 January 2011. Attack: Aircraft designed to find, attack, and destroy land or sea targets.
+↑ 16-401(I), pp. 17, "F – Fighter Aircraft designed to intercept and destroy other aircraft or missiles. Includes multipurpose aircraft also designed for ground support missions such as interdiction and close air support."
+↑ Zarzecki, Thomas W. (2002). Arms diffusion: the spread of military innovations in the international system. New York [u.a.]: Routledge. p. 186. ISBN 0-415-93514-8.
+↑ http://www.navytimes.com/article/20090313/NEWS/903130325/Navy-eyes-Super-Tucano-for-SpecOps-work [dead link]
+↑ Francillon, René J. (1990). McDonnell Douglas Aircraft since 1920. Vol. II. Annapolis, Maryland: Naval Institute Press. p. 205. ISBN 1-55750-550-0.
+↑ ""Missing" USAF/DOD Aircraft Designations". www.designation-systems.net. Retrieved 15 March 2024.
+↑ Martin, Mike (26 February 2016). "Air Force reveals B-21 Long Range Strike Bomber" (Press release). AFNS. Archived from the original on 15 November 2023. Retrieved 2 March 2016.
+↑ Finnerty, Ryan (21 October 2024). "US Navy designates E-6B replacement the E-130J". Flight Global. Retrieved 21 October 2024.
+↑ Trevithick, Joseph (21 November 2023). "New 'Attack' EA-37B Moniker For USAF Electronic Warfare Jets". The War Zone. Retrieved 29 August 2024.
+↑ Jenkins, Dennis R. (2000). F/A-18 Hornet: A Navy Success Story. New York: McGraw-Hill. pp. 19–21. ISBN 978-0-07-134696-2.
+↑ "F-22 Raptor fact sheet.".  U.S. Air Force, March 2009. Retrieved 23 July 2009.
+↑ Tirpak, John A. (October 2002). "Long Arm of the Air Force" (PDF). Air Force Magazine. 85 (10): 28–34. ISSN 0730-6784. OCLC 5169825. Archived from the original (PDF) on 16 March 2020. Retrieved 8 March 2017.
+↑ Patricia Trenner, "A Short (Very Short) History of the F-19". Air & Space Magazine, 1 January 2008.
+↑ MiG-23 Archived 15 September 2020 at the Wayback Machine. FAS
+↑ Cenciotti, David (3 June 2020). ""F-117s Had An Air-To-Air Capability With Secondary Mission To Shoot Down Soviet AWACS" Former Stealth Pilot Says". The Aviationist. Archived from the original on 21 January 2022. Retrieved 13 April 2022.
+↑ Trevithick, Joseph (14 May 2025). "MV-75 Official Designation Given To Future U.S. Army Tiltrotor Assault Aircraft (Updated)". The War Zone. Retrieved 12 December 2025.
+↑ De Havilland RC-7B, designation-systems.net.
+↑ Merlin, Peter W. (July–August 2005). "The Truth is Out There... SR-71 Serials and Designations". Air Enthusiast. No. 118. Key Publishing. pp. 4–5. ISSN 0143-5450.
+↑ Non-Standard DOD Aircraft Designations. designation-systems.net
+↑ Jenkins, Dennis R. Lockheed U-2 Dragon Lady, pp. 60–61. North Branch, MN: Specialty Press, 1998. ISBN 1-58007-009-4.
+↑ "Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet". AP News. 21 March 2025. Retrieved 23 March 2025.
+↑ "AFSOC reveals name for OA-1K: Skyraider II". Air Force Special Operations Command. 27 February 2025. Archived from the original on 27 February 2025. Retrieved 10 March 2025. AFSOCs newest airframe, the OA-1K, will officially be the Skyraider II. AFSOC leaders made the announcement today at the Special Air Warfare Symposium. The moniker renews the rugged and versatile nature of the A-1 Skyraider, which was in service from 1946 to the early 1980s.
+↑ "USAF selects Boeing for KC-X contract". Flight International
+1 2 Parsch, Andreas. "Missing" USAF/DOD Aircraft Designations". designation-systems.net
+↑ , designation-systems.net.
+↑ Bradley, Robert, 2013. Convair Advanced Designs II: Secret Fighters, Attack Aircraft, and Unique Concepts 1929-1973. Manchester, England: Crécy Publishing. ISBN 978-0-8597917-0-0.
+↑ Jeffrey T. Richelson (July 2001). "When Secrets Crash". Air Force Magazine. Retrieved 21 June 2023.
+↑ Andrade 1979, p. 8
+1 2 3 4 Andrade 1979, p. 9
+General and cited references[edit]
+Andrade, John (1979). U.S. Military Aircraft Designations and Serials Since 1909. Midland Counties Publications. ISBN 0-904597-22-9.
+External links[edit]
+U.S. Military Aviation on Designation-Systems.net by Andreas Parsch—a reference source with details, examples and history
+Non-standard designations page on Designation-Systems.net
+Designation Systems FAQ on hazegray.org Archived 6 September 2006 at the Wayback Machine by Emmanuel Gustin
+U.S. Military Aircraft Designations 1911–2004 on driko.org by Andrew Chorney
+U.S. Military Aircraft and Weapon Designations by Derek O. Bridges
+Retrieved from "https://en.wikipedia.org/w/index.php?title=1962_United_States_Tri-Service_aircraft_designation_system&oldid=1377672269"
+					Categories: 1962 in the United StatesMilitary aircraft designation systemsUnited States Department of DefenseUnited States military aircraftHidden categories: Articles with short descriptionShort description is different from WikidataUse American English from September 2026All Wikipedia articles written in American EnglishUse dmy dates from July 2022All articles with dead external linksArticles with dead external links from February 2022Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from March 2025
+	 This page was last edited on 30 September 2026, at 13:39 (UTC).
+	Page was rendered with Parsoid.
+	Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Legal & safety contacts
+	Code of Conduct
+	Developers
+	Statistics
+	Cookie statement
+	Mobile view
+Search
+						Search
+Toggle the table of contents
+				1962 United States Tri-Service aircraft designation system
+13 languages
+Add topic

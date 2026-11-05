@@ -3,7 +3,7 @@ import {C, fonts} from './theme';
 import {RedStamp} from './components/ui';
 
 /** Flight-deck jersey + flotation vest + cranial, front view. viewBox 200x220. */
-const Jersey: React.FC<{color: string; size: number; dark?: boolean}> = ({color, size, dark}) => {
+export const Jersey: React.FC<{color: string; size: number; dark?: boolean}> = ({color, size, dark}) => {
   const shade = dark ? '#00000055' : '#00000033';
   return (
     <svg viewBox="0 0 200 230" width={size} height={size * 1.15}>
