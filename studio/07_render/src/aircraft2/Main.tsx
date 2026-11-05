@@ -8,6 +8,7 @@ import edl from './edl.json';
 import {fonts} from '../theme';
 import {easeInOut, pop, prog} from '../lib';
 import {Plane, Kind} from '../aircraft/assets';
+import {Code, SeriesRow, Versus} from '../aircraft/scenes';
 
 const BG = '#F3EEE3';
 const CARD = '#FBF8F2';
@@ -204,6 +205,37 @@ const TextCard: React.FC<{title: string; body: string}> = ({title, body}) => {
   );
 };
 
+const Thirteen: React.FC = () => {
+  const f = useCurrentFrame();
+  const st = prog(f, 18, 8);
+  return (
+    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center'}}>
+      <div style={{position: 'relative', transform: `scale(${0.9 + 0.1 * Math.min(1, pop(f, 0, 12))})`}}>
+        <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 420, lineHeight: 1, color: INK}}>13</div>
+        <div style={{position: 'absolute', left: -20, top: '48%', height: 30, width: `${st * 120}%`, background: PAL[0], borderRadius: 15, transform: 'rotate(-12deg)'}} />
+      </div>
+      <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 70, color: PAL[0], opacity: prog(f, 24, 8)}}>SKIPPED IN MANY SERIES</div>
+    </AbsoluteFill>
+  );
+};
+
+const Outro: React.FC<{dur: number}> = ({dur}) => {
+  const f = useCurrentFrame();
+  const z = interpolate(f, [0, dur], [1, 1.06]);
+  return (
+    <AbsoluteFill>
+      <AbsoluteFill style={{transform: `scale(${z})`}}>
+        <Grid item={-1} dur={dur} zoom={false} />
+      </AbsoluteFill>
+      <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center'}}>
+        <div style={{background: '#26272B', color: '#fff', fontFamily: fonts.label, fontWeight: 800, fontSize: 84, padding: '18px 44px', borderRadius: 16, opacity: prog(f, 6, 10), transform: `scale(${0.9 + 0.1 * Math.min(1, pop(f, 6, 12))})`}}>
+          WHICH NAME SHOULD I DECODE NEXT?
+        </div>
+      </AbsoluteFill>
+    </AbsoluteFill>
+  );
+};
+
 export const MainAircraft2: React.FC = () => {
   const f = useCurrentFrame();
   const curItem = (() => {
@@ -221,10 +253,14 @@ export const MainAircraft2: React.FC = () => {
           <Sequence key={s.id} from={s.from} durationInFrames={s.dur + 8}>
             <Fade>
               {s.kind === 'grid' && <Grid item={s.item} dur={s.dur} />}
-              {s.kind === 'outro' && <Grid item={-1} dur={s.dur} zoom={false} />}
+              {s.kind === 'outro' && <Outro dur={s.dur} />}
               {s.kind === 'card' && <ItemCard item={s.item} feat={s.feat} />}
               {s.kind === 'summary' && <Summary item={s.item} />}
-              {s.kind === 'text' && <TextCard title={s.title ?? ''} body={s.body ?? ''} />}
+              {s.kind === 'text' && s.id === 'ya' && <Versus ev={[6, 30, 99999]} />}
+              {s.kind === 'text' && s.id === 'yb' && <Versus ev={[-50, -50, 0]} />}
+              {s.kind === 'text' && s.id === 'za' && <Code code={['', '', 'F', '', '4', '']} focus={4} plane="fighter" caption="COUNTS RESTARTED IN 1962" ev={[4, 20, 40]} />}
+              {s.kind === 'text' && s.id === 'zb' && <SeriesRow ev={[Math.round(s.dur * 0.45)]} />}
+              {s.kind === 'text' && s.id === 'zb2' && <Thirteen />}
             </Fade>
           </Sequence>
         ))}
