@@ -1,24 +1,33 @@
-The F-35 should have been called the F-24. Every letter and number in a U.S. military aircraft name follows a system that dates to 1962 — basic mission, modified mission, vehicle type, status prefix, design number and series letter — plus the rule-breakers like the SR-71, F-117, B-21 and F/A-18, and how missile names like AIM-9 and RGM-84D work.
+Every letter in a U.S. military aircraft name, one by one — from F for fighter (and why the F-35 should have been the F-24) to Q for unmanned, V for VIP and Y for prototype.
 
 CHAPTERS
-0:00 The F-35 should have been the F-24
-0:56 The six parts of a name
-1:11 Basic mission
-2:48 Modified mission
-4:07 Vehicle type
-4:37 Status prefix
-5:04 Numbers and series letters
-5:38 The rule breakers
-6:47 Missile names
-7:53 Decoding the HH-60G
-8:21 Read any name
+0:00 F — Fighter
+0:25 A — Attack
+0:37 B — Bomber
+0:53 C — Cargo
+1:14 K — Tanker
+1:38 E — Electronic
+1:54 H — Rescue · Helicopter
+2:13 M — Multi-Mission
+2:27 U — Utility
+2:42 R — Reconnaissance
+3:00 W — Weather
+3:11 V — VIP · Vertical
+3:32 L — Cold Weather
+3:41 Q — Unmanned
+3:52 P — Patrol
+4:06 S — Anti-Submarine
+4:22 T — Trainer
+4:30 O — Observation
+4:43 X — Experimental
+5:00 Y — Prototype
+5:09 G — Grounded
+5:18 J — Special Test
+5:29 Numbers and the last letter
 
-Based on the 1962 Tri-Service designation system and the 1963 missile designation system (now maintained under DoDI 4120.15 / DAFI 16-401 / AR 70-50 / NAVAIRINST 13100.16).
+Based on the 1962 Tri-Service aircraft designation system (now maintained under DoDI 4120.15 / DAFI 16-401 / AR 70-50 / NAVAIRINST 13100.16).
 
 SOURCES
 https://en.wikipedia.org/wiki/1962_United_States_Tri-Service_aircraft_designation_system
 https://en.wikipedia.org/wiki/United_States_Department_of_Defense_aerospace_vehicle_designation
-https://apps.dtic.mil/sti/trecms/pdf/AD1180094.pdf
-https://designation-systems.net/usmilav/412015-L(addendum).html
 https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development
-https://en.wikipedia.org/wiki/1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system
