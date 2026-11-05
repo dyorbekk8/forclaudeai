@@ -34,7 +34,7 @@ for b in edl['beats']:
     run(['ffmpeg', '-v', 'error', '-y', '-ss', f'{t:.3f}', '-i', video, '-frames:v', '1', '-vf', 'scale=640:-1', os.path.join(sys.argv[3] if len(sys.argv) > 3 else HERE, 'frames', f"{b['id']}.jpg")])
 
 checks = {
-    '1920x1080': rep['video']['w'] == 1920 and rep['video']['h'] == 1080,
+    'resolution 1920x1080 or 1080x1920': (rep['video']['w'], rep['video']['h']) in ((1920, 1080), (1080, 1920)),
     '30fps': rep['video']['fps'] == '30/1',
     'yuv420p': rep['video']['pix'] == 'yuv420p',
     'duration≈EDL': abs(rep['video']['dur'] - rep['expected_dur']) < 0.25,

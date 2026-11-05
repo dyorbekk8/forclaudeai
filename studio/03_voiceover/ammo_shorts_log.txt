@@ -1,3 +1,0 @@
-s1a 0.00 | One yellow stripe on a bomb means it's live. || One yellow stripe on a bomb means it's live.
-s1b 0.00 | So why do some bombs have two? || So why do some bombs have two?
-s1c 0.00 | In nineteen sixty-seven, a fire broke out on the carrier U S S Forrestal. || In 1967, a fire broke out on the carrier USS Forrestal.

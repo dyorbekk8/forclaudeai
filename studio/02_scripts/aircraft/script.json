@@ -1,0 +1,351 @@
+{
+ "title": "Every Letter in a Military Aircraft Name Explained",
+ "sources": {
+  "WIKI_1962": "https://en.wikipedia.org/wiki/1962_United_States_Tri-Service_aircraft_designation_system",
+  "WIKI_DOD": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense_aerospace_vehicle_designation",
+  "DTIC_4120": "https://apps.dtic.mil/sti/trecms/pdf/AD1180094.pdf",
+  "PARSCH": "https://designation-systems.net/usmilav/412015-L(addendum).html",
+  "F35_DEV": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development"
+ },
+ "lines": [
+  {
+   "id": "h1",
+   "text": "The F-35 should have been called the F-24.",
+   "src": [
+    "WIKI_1962",
+    "F35_DEV"
+   ]
+  },
+  {
+   "id": "h2",
+   "text": "Under the rules, the next new American fighter after the YF-23 should have taken the next number in line: twenty-four.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "h3",
+   "text": "Instead, the winning demonstrator, the X-35, simply kept its number. And that's a clue. Every letter and number in a military aircraft name is supposed to follow a system.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "h4",
+   "text": "Before nineteen sixty-two, the Navy and the Air Force each had their own. The same fighter was the F four H Phantom to the Navy, and the F one ten to the Air Force.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "h4b",
+   "text": "The old Navy name packed in the maker, too. F for fighter, four for the fourth fighter from that company, and H for McDonnell.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "h5",
+   "text": "Defense Secretary Robert McNamara reportedly found that maddening. So in nineteen sixty-two, the Pentagon replaced them with one system, and the Phantom became simply the F-4.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "h6",
+   "text": "The full name has six parts: status, modified mission, basic mission, vehicle type, design number, and series letter. Only the basic mission, the number, and the series letter are always required.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m1",
+   "text": "Start with the one letter every aircraft must have: the basic mission.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m2",
+   "text": "A is attack, built for hitting targets on the ground. B is bomber. C is cargo. F is fighter.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m3",
+   "text": "Then the rarer ones. E for special electronics. P for maritime patrol. S for anti-submarine warfare. T for trainer. U for utility. And X for special research.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m3b",
+   "text": "Two letters on the list are strange. K for tanker and R for reconnaissance exist as basic missions, but no ordinary aircraft has ever been given one the way the rules intended.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m4",
+   "text": "Utility was once used as a cover. The U-2 spy plane was labeled utility to hide what it really did.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m5",
+   "text": "And the line between attack and fighter has blurred. Today, an F can also be a multirole jet that strikes ground targets.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m6",
+   "text": "The Air Force even gave the F to the F-117 Nighthawk, a stealth jet with no air-to-air mission at all.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m6b",
+   "text": "For years, people were convinced a secret F-19 stealth fighter existed. In July nineteen eighty-six, the Air Force sealed off a crash site in Nevada, and the rumors exploded.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m6c",
+   "text": "The jet that crashed was actually an F-117, still classified at the time. No real F-19 has ever been shown to exist.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "m7",
+   "text": "Meanwhile, the A-10 is the only aircraft in today's Air Force that still carries a plain A.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d1",
+   "text": "Next comes the modified mission: an extra letter in front, for an aircraft rebuilt, or built, for a different job.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d2",
+   "text": "The best example is the C-130 Hercules, a cargo plane.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d3",
+   "text": "Put an A in front, and the AC-130 is a gunship. H makes it a rescue aircraft. M makes it special operations. E makes it electronic warfare. And K makes it a tanker.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d4",
+   "text": "Same airframe. One letter changes the job.",
+   "src": []
+  },
+  {
+   "id": "d5",
+   "text": "That's why the Air Force's newest tanker is the KC-46. K for tanker, on top of C for cargo.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d5b",
+   "text": "The rest of the list works the same way. W is weather reconnaissance, which is why the planes that fly into hurricanes are W C one thirties.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d5c",
+   "text": "V is VIP transport. The President's Boeing seven forty-seven is the V C twenty-five, and the President's newest helicopter is the V H ninety-two.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d5d",
+   "text": "L means modified for cold weather. The L C one thirty has skis, for landing on ice.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "d5e",
+   "text": "And M and U look alike, but they're split by risk. M aircraft fly combat and special operations. U aircraft fly support, like the U H sixty Black Hawk.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "v1",
+   "text": "The vehicle type sits right before the dash, and most airplanes don't need one at all.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "v2",
+   "text": "H means helicopter, like the AH-64 Apache: an attack helicopter.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "v3",
+   "text": "V means vertical or short takeoff, like the MV-22 Osprey.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "v4",
+   "text": "And Q means unmanned. So the MQ-9 Reaper reads as multi-mission, unmanned, design number nine.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "v5",
+   "text": "There's even a letter for a spaceplane, and one for the ground stations that fly drones.",
+   "src": [
+    "WIKI_1962",
+    "DTIC_4120"
+   ]
+  },
+  {
+   "id": "p1",
+   "text": "In front of everything sits the status prefix, for aircraft that aren't in normal service.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "p2",
+   "text": "X means experimental. Y means prototype. That's why the jet that flew in the competition was the YF-22, and the one that entered service was the F-22.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "p3",
+   "text": "J and N mean special test, temporary or permanent. And G means permanently grounded.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "n1",
+   "text": "After the dash comes the design number. In nineteen sixty-two, the counts were restarted, which is why the numbers suddenly got small again.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Then the series letter marks each version: A, then B, then C. The letters I and O are skipped, so they're never confused with one and zero.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "n3",
+   "text": "There was never an F-4H Phantom, either. That letter was skipped to avoid confusion with its old Navy name, F four H.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "And the number thirteen has been skipped in many series, for superstition.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x1",
+   "text": "Then there are the rule breakers.",
+   "src": []
+  },
+  {
+   "id": "x2",
+   "text": "The SR-71 Blackbird continued the old bomber numbers. It was set to be called RS-71, but Air Force chief Curtis LeMay preferred SR, for strategic reconnaissance. And SR is what stuck.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x3",
+   "text": "The B-21 skipped ahead, because it's the first bomber of the twenty-first century. The next number in line was three.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x3b",
+   "text": "The MV-75, the Army's new tiltrotor, jumped all the way to seventy-five, to honor the year the Army was founded, seventeen seventy-five.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x4",
+   "text": "The T-6 Texan Two skipped four and five, as a tribute to the original T-6 trainer.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x5",
+   "text": "The F-47 was chosen to honor the P-47 Thunderbolt, and nineteen forty-seven, the year the Air Force was founded.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x5b",
+   "text": "Some numbers simply copy the maker. A tanker sold abroad became the K C seven sixty-seven, straight from Boeing's model number.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "x6",
+   "text": "And the F/A-18 Hornet has a slash that the system doesn't even allow. By the rules, it should have been the AF-18.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "e1",
+   "text": "So, the next time you see a name like MQ-9A, read it left to right. Multi-mission. Unmanned. Design nine. First version.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "e2",
+   "text": "And if the number looks wrong, like F-35, there's usually a story behind it.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "e3",
+   "text": "Which aircraft name should I decode next? Tell me in the comments.",
+   "src": []
+  }
+ ]
+}
