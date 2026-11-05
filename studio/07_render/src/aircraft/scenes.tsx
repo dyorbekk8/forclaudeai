@@ -38,9 +38,14 @@ export const HUD: React.FC<{step: number}> = ({step}) => {
 };
 
 /* ---------- the designation builder ---------- */
-type CodeP = {code: string[]; focus?: number; plane?: Kind; planeColor?: string; caption?: string; sub?: string; ev?: number[]; order?: number[]; labels?: boolean};
-export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, caption, sub, ev, order, labels = true}) => {
+type CodeP = {code: string[]; focus?: number; plane?: Kind; planeColor?: string; caption?: string; sub?: string; ev?: number[]; order?: number[]; labels?: boolean; pull?: boolean};
+export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, caption, sub, ev, order, labels = true, pull}) => {
   const f = useCurrentFrame();
+  // match-move: start close on the focus slot, pull back to reveal the whole name (the slot bar is our 'map')
+  const CX = [448, 622, 796, 970, 1263, 1472];
+  const cy = (plane ? 520 : 360) + 115;
+  const z = pull && focus >= 0 ? interpolate(f, [0, 26], [2.8, 1], {extrapolateRight: 'clamp', easing: easeInOut}) : 1;
+  const origin = pull && focus >= 0 ? `${CX[focus]}px ${cy}px` : '50% 50%';
   const ord = order ?? code.map((_, i) => i);
   const appear = (i: number) => {
     const k = ord.indexOf(i);
@@ -49,7 +54,7 @@ export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, capt
   const filled = code.map((c, i) => (c ? 1 : 0));
   const dash = code.findIndex((_, i) => i === 4);
   return (
-    <AbsoluteFill>
+    <AbsoluteFill style={{transform: `scale(${z})`, transformOrigin: origin}}>
       {plane && (
         <div style={{position: 'absolute', left: 0, right: 0, top: 110, display: 'flex', justifyContent: 'center', transform: `translateY(${(1 - Math.min(1, pop(f, 0, 12))) * 60}px)`, opacity: prog(f, 0, 6)}}>
           <Plane kind={plane} size={360} color={planeColor} rotate={-90 + 4 * Math.sin(f / 30)} />
@@ -305,6 +310,52 @@ export const Breakers: React.FC<{items: RB[]; ev?: number[]}> = ({items, ev}) =>
           );
         })}
       </div>
+    </AbsoluteFill>
+  );
+};
+
+/* ---------- missile designation: LAUNCH · MISSION · TYPE - NUMBER SERIES ---------- */
+const MLAB = ['LAUNCHED FROM', 'MISSION', 'VEHICLE TYPE', 'DESIGN NUMBER', 'SERIES'];
+const MCOL = ['#2F6FD1', '#D7262E', '#16161A', '#16161A', '#2E9E4F'];
+export const Missile: React.FC<{size?: number}> = ({size = 900}) => (
+  <svg width={size} height={size * 0.16} viewBox="0 0 500 80" style={{overflow: 'visible', filter: 'drop-shadow(0 10px 12px rgba(0,0,0,0.15))'}}>
+    <path d="M 40 30 L 420 30 Q 480 40 420 50 L 40 50 Z" fill="#E9E6DE" stroke="#16161A" strokeWidth={3} />
+    <path d="M 40 30 L 10 6 L 30 6 L 70 30 Z M 40 50 L 10 74 L 30 74 L 70 50 Z" fill="#9AA0A6" stroke="#16161A" strokeWidth={3} />
+    <path d="M 300 30 L 330 14 L 344 14 L 330 30 Z M 300 50 L 330 66 L 344 66 L 330 50 Z" fill="#9AA0A6" stroke="#16161A" strokeWidth={3} />
+    <rect x={380} y={30} width={10} height={20} fill="#F2C21B" />
+  </svg>
+);
+export const MCode: React.FC<{code: string[]; focus?: number; caption?: string; ev?: number[]; order?: number[]}> = ({code, focus = -1, caption, ev, order}) => {
+  const f = useCurrentFrame();
+  const ord = order ?? code.map((_, i) => i);
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: 0, right: 0, top: 150, display: 'flex', justifyContent: 'center', transform: `translateX(${interpolate(f, [0, 300], [-30, 30])}px)`, opacity: prog(f, 0, 8)}}>
+        <Missile size={980} />
+      </div>
+      <div style={{position: 'absolute', left: 0, right: 0, top: 420, display: 'flex', justifyContent: 'center', alignItems: 'flex-start', gap: 14}}>
+        {code.map((c, i) => {
+          const s = at(ev, ord.indexOf(i), 6 + ord.indexOf(i) * 6);
+          const p = c ? Math.min(1, pop(f, s, 10)) : 0;
+          const on = focus === i;
+          return (
+            <React.Fragment key={i}>
+              {i === 3 && <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 190, lineHeight: '230px', color: C.ink}}>-</div>}
+              <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10}}>
+                <div style={{minWidth: i === 3 ? 230 : 170, height: 230, padding: '0 16px', borderRadius: 20, border: c ? `6px solid ${on ? MCOL[i] : C.ink}` : `5px dashed ${C.tileBorder}`, background: c ? (on ? MCOL[i] : '#fff') : 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: c ? '0 16px 30px rgba(0,0,0,0.10)' : 'none'}}>
+                  <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 190, color: on ? '#fff' : C.ink, transform: `translateY(${(1 - p) * -60}px)`, opacity: p}}>{c}</div>
+                </div>
+                <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: 20, color: on ? MCOL[i] : C.inkSoft, width: 180, textAlign: 'center'}}>{MLAB[i]}</div>
+              </div>
+            </React.Fragment>
+          );
+        })}
+      </div>
+      {caption && (
+        <div style={{position: 'absolute', left: 0, right: 0, bottom: 150, textAlign: 'center', opacity: prog(f, at(ev, ord.length, 30), 8)}}>
+          <span style={{background: C.red, color: '#fff', fontFamily: fonts.label, fontWeight: 800, fontSize: 64, padding: '4px 24px', borderRadius: 8}}>{caption}</span>
+        </div>
+      )}
     </AbsoluteFill>
   );
 };

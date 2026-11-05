@@ -5,7 +5,8 @@
   "WIKI_DOD": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense_aerospace_vehicle_designation",
   "DTIC_4120": "https://apps.dtic.mil/sti/trecms/pdf/AD1180094.pdf",
   "PARSCH": "https://designation-systems.net/usmilav/412015-L(addendum).html",
-  "F35_DEV": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development"
+  "F35_DEV": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+  "WIKI_MSL": "https://en.wikipedia.org/wiki/1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system"
  },
  "lines": [
   {
@@ -324,6 +325,76 @@
   {
    "id": "x6",
    "text": "And the F/A-18 Hornet has a slash that the system doesn't even allow. By the rules, it should have been the AF-18.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "k1",
+   "text": "Missiles get the same treatment, with three letters of their own.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k2",
+   "text": "The first letter says where it's launched from. A is air. R is a surface ship. U is underwater. L is a silo. And B means more than one kind of launcher.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k3",
+   "text": "The second letter is the job. I means intercepting targets in the air. G means attacking targets on land or at sea.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k4",
+   "text": "And the third says what it is. M for guided missile. R for a rocket that can't be steered once it's launched.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k5",
+   "text": "So an AIM-9 reads as air-launched, intercept, guided missile.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k6",
+   "text": "The Sparrow shows how flexible this is. Fired from a jet, it's the AIM-7. Fired from a ship, it becomes the RIM-7 Sea Sparrow. Same number, new first letter.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "k7",
+   "text": "And an RGM-84D Harpoon reads the same way. Ship-launched. Surface attack. Guided missile. Design eighty-four. Fourth modification.",
+   "src": [
+    "WIKI_MSL"
+   ]
+  },
+  {
+   "id": "f1",
+   "text": "Now, a longer aircraft name: the HH-60G.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "f2",
+   "text": "The first H is the modified mission: search and rescue. The second H is the vehicle type: helicopter. Sixty is the design number, the same family as the UH-60 Black Hawk. And G is the series letter.",
+   "src": [
+    "WIKI_1962"
+   ]
+  },
+  {
+   "id": "f3",
+   "text": "In fact, some of them started life as Black Hawks that were modified for rescue, and the mission letter followed the new job.",
    "src": [
     "WIKI_1962"
    ]

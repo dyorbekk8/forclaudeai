@@ -35,6 +35,13 @@ Positioning (hypothesis to test, not fact): **real-world systems decoded — col
 - Motion has a job (draw, highlight, scale-in, move, compare, cutaway, grid reassembly). No dead holds > 4 s.
 - No full-frame animated grain (hurts sharpness/bitrate). Burned-in narration subtitles OFF; .srt delivered separately.
 
+## Flow (stable rhythm — studied from Unclassified, 2026-11-05)
+- The whole video lives on ONE stage. Ordinary shot changes are a soft 10-frame dissolve — no whole-frame zoom, blur or slide.
+- A persistent "map" anchors the video (Unclassified: the thumbnail grid; us: the item line-up / the 6-slot name bar). Chapter changes are camera moves on that map: outgoing frame pushes in, the new chapter starts close on its slot/tile and pulls back (match-move).
+- Camera drift is global (absolute frame), never reset per shot. Event "bumps" ≤ 0.8 %.
+- Inside a shot, text and visuals change by fading in place; something new arrives every 2–4 s on the spoken word (Whisper-timed).
+- Avoid "transition → animation → dead hold" cycles: if a hold > 4 s, add the next fact as a visual, not a new full-screen scene.
+
 ## Audio
 - SFX tied to on-screen events (cue sheet), varied, never masking speech. One continuous music bed under voice. −14 LUFS / ≤ −1 dBTP.
 

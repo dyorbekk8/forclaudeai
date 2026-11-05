@@ -1,13 +1,12 @@
 import React from 'react';
 import {AbsoluteFill, Sequence, useCurrentFrame} from 'remotion';
 import edl from './edl.json';
-import {prog} from '../lib';
+import {easeInOut, prog} from '../lib';
 import {C} from '../theme';
 import {Hand, Label, Paper} from '../components/ui';
 import {Kinetic} from '../ammo/scenes';
-import {Breakers, Code, Cross, HUD, Letters, Morph, SeriesRow, Story, Versus} from './scenes';
+import {Breakers, MCode, Code, Cross, HUD, Letters, Morph, SeriesRow, Story, Versus} from './scenes';
 
-const XF = 5;
 const Outro: React.FC = () => {
   const f = useCurrentFrame();
   return (
@@ -24,24 +23,29 @@ const Outro: React.FC = () => {
     </AbsoluteFill>
   );
 };
-const M: Record<string, React.FC<any>> = {Breakers, Code, Cross, Kinetic, Letters, Morph, SeriesRow, Story, Versus, Outro};
+const M: Record<string, React.FC<any>> = {MCode, Breakers, Code, Cross, Kinetic, Letters, Morph, SeriesRow, Story, Versus, Outro};
 
-const Shot: React.FC<{children: React.ReactNode; first: boolean; dur: number; seed: number; ev: number[]}> = ({children, first, dur, seed, ev}) => {
+/* Flow rules (studied from top channels): one continuous stage, no whole-frame zoom/blur/slide between
+   ordinary shots — just a soft dissolve while the paper background, HUD and camera keep moving.
+   Only a chapter change gets a "push-through": the outgoing frame drifts toward the viewer while the
+   new chapter dissolves in. The camera drift is global (absolute frame), so it never resets per shot. */
+const DISSOLVE = 10;
+const Shot: React.FC<{children: React.ReactNode; first: boolean; dur: number; ev: number[]; chapterIn: boolean; pushOut: boolean}> = ({children, first, dur, ev, chapterIn, pushOut}) => {
   const f = useCurrentFrame();
-  const t = Math.min(1, f / Math.max(1, dur));
-  const inP = first ? 1 : prog(f, 0, XF + 1);
-  const mode = seed % 3 === 0 ? 'slide' : 'zoom';
-  const dir = seed % 2 ? -1 : 1;
-  const inScale = mode === 'zoom' ? 1.12 - 0.12 * inP : 1;
-  const inX = mode === 'slide' ? dir * 240 * (1 - inP) : 0;
-  const blur = 12 * (1 - inP);
+  const inP = first ? 1 : prog(f, 0, DISSOLVE, easeInOut);
+  const inScale = chapterIn ? 1.05 - 0.05 * inP : 1;
+  const outP = pushOut ? prog(f, dur - DISSOLVE, DISSOLVE, easeInOut) : 0;
   let bump = 0;
-  for (const e of ev || []) if (f >= e && f < e + 10) bump = Math.max(bump, 0.02 * (1 - (f - e) / 10));
-  return (
-    <AbsoluteFill style={{opacity: inP, filter: blur > 0.3 ? `blur(${blur}px)` : undefined, transform: `translateX(${inX + dir * 12 * t}px) scale(${inScale * (1 + 0.035 * t) * (1 + bump)})`}}>
-      {children}
-    </AbsoluteFill>
-  );
+  for (const e of ev || []) if (f >= e && f < e + 12) bump = Math.max(bump, 0.008 * Math.sin(((f - e) / 12) * Math.PI));
+  return <AbsoluteFill style={{opacity: inP, transform: `scale(${inScale * (1 + 0.18 * outP) * (1 + bump)})`}}>{children}</AbsoluteFill>;
+};
+
+const Camera: React.FC<{children: React.ReactNode}> = ({children}) => {
+  const f = useCurrentFrame();
+  const s = 1.015 + 0.012 * Math.sin(f / 210);
+  const x = 14 * Math.sin(f / 260);
+  const y = 8 * Math.cos(f / 330);
+  return <AbsoluteFill style={{transform: `translate(${x}px, ${y}px) scale(${s})`}}>{children}</AbsoluteFill>;
 };
 
 type S = {id: string; beat: string; scene: string; props: any; from: number; dur: number; step: number};
@@ -49,14 +53,20 @@ export const MainAircraft: React.FC<{only?: string}> = ({only}) => {
   const shots = (edl as any).shots as S[];
   const list = only ? shots.filter((s) => s.beat === only) : shots;
   const base = list.length ? list[0].from : 0;
+  const sec = (b: string) => b[0];
   return (
     <Paper>
+      <Camera>
       {list.map((s, i) => {
         const Comp = M[s.scene];
         if (!Comp) throw new Error(`no scene ${s.scene}`);
+        const prev = list[i - 1];
+        const next = list[i + 1];
+        const chapterIn = !!prev && sec(prev.beat) !== sec(s.beat);
+        const pushOut = !!next && sec(next.beat) !== sec(s.beat);
         return (
-          <Sequence key={s.id} from={s.from - base} durationInFrames={s.dur + XF} name={`${s.id} ${s.scene}`}>
-            <Shot first={i === 0} dur={s.dur + XF} seed={i} ev={s.props.ev || []}>
+          <Sequence key={s.id} from={s.from - base} durationInFrames={s.dur + DISSOLVE} name={`${s.id} ${s.scene}`}>
+            <Shot first={i === 0} dur={s.dur + DISSOLVE} ev={s.props.ev || []} chapterIn={chapterIn} pushOut={pushOut}>
               <Paper>
                 <Comp {...s.props} />
               </Paper>
@@ -64,6 +74,7 @@ export const MainAircraft: React.FC<{only?: string}> = ({only}) => {
           </Sequence>
         );
       })}
+      </Camera>
       {list.map((s) => (
         <Sequence key={`hud-${s.id}`} from={s.from - base} durationInFrames={s.dur} layout="none">
           <HUD step={s.step} />

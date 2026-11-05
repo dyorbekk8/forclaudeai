@@ -1,0 +1,602 @@
+
+1963 United States Tri-Service rocket and guided missile designation system - Wikipedia
+Jump to content
+Main menu
+	Main menu
+	move to sidebar
+	hide
+		Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+		Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+				Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+	Contents
+	move to sidebar
+	hide
+				(Top)
+				1
+				History
+				2
+				Explanation
+				3
+				Code
+				4
+				Prefixes
+				5
+				See also
+				6
+				Notes
+				7
+				References
+				8
+				External links
+Toggle the table of contents
+					1963 United States Tri-Service rocket and guided missile designation system
+6 languages
+Čeština
+한국어
+Русский
+Українська
+Tiếng Việt
+中文
+			Edit links
+Article
+Talk
+	English
+Read
+Edit
+View history
+Save
+Tools
+	Tools
+	move to sidebar
+	hide
+		Actions
+Read
+Edit
+View history
+Save
+		General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+		Print/export
+Download as PDF
+Printable version
+		In other projects
+Wikidata item
+	Appearance
+	move to sidebar
+	hide
+						From Wikipedia, the free encyclopedia
+					Designation system for rockets
+In 1963, the U.S. Department of Defense established a designation system for rockets and guided missiles jointly used by all the United States armed services. It superseded the separate designation systems the Air Force and Navy had for designating US guided missiles and drones, but also a short-lived interim USAF system for guided missiles and rockets. 
+History[edit]
+On 11 December 1962, the U.S. Department of Defense issued Directive 4000.20 “Designating, Redesignating, and Naming Military Rockets and Guided Missiles” which called for a joint designation system for rockets and missiles which was to be used by all armed forces services. The directive was implemented via Air Force Regulation (AFR) 66-20, Army Regulation (AR) 705-36, Bureau of Weapons Instruction (BUWEPSINST) 8800.2 on 27 June 1963. A subsequent directive, DoD Directive 4120.15 "Designating and Naming Military Aircraft, Rockets, and Guided Missiles", was issued on 24 November 1971 and implemented via Air Force Regulation (AFR) 82-1/Army Regulation (AR) 70-50/Naval Material Command Instruction (NAVMATINST) 8800.4A on 27 March 1974. Within AFR 82-1/AR 70-50/NAVMATINST 8800.4A, the 1963 rocket and guided missile designation system was presented alongside the 1962 United States Tri-Service aircraft designation system and the two systems have been concurrently presented and maintained in joint publications since.
+The current version of the rocket and missile designation system was mandated by Joint Regulation 4120.15E Designating and Naming Military Aerospace Vehicles[Note 1] and was implemented[Note 2] via Air Force Instruction (AFI) 16-401, Army Regulation (AR) 70-50, Naval Air Systems Command Instruction (NAVAIRINST) 13100.16 on 3 November 2020. The list of military rockets and guided missiles was maintained via 4120.15-L Model Designation of Military Aerospace Vehicles until its transition to data.af.mil on 31 August 2018.
+Explanation[edit]
+The basic designation of every rocket and guided missile is based in a set of letters called the Mission Design Series. The sequence indicates the following:
+An optional status prefix
+The environment from which the weapon is launched
+The primary mission of the weapon
+The type of weapon
+Examples of guided missile designators are as follows:
+AGM – (A) Air-launched  (G) Surface-attack   (M) Guided missile
+AIM – (A) Air-launched  (I) Intercept-aerial (M) Guided missile
+ATM – (A) Air-launched  (T) Training         (M) Guided missile
+RIM – (R) Ship-launched (I) Intercept-aerial (M) Guided missile
+LGM – (L) Silo-launched (G) Surface-attack   (M) Guided missile
+The design or project number follows the basic designator. In turn, the number may be followed by consecutive letters, representing modifications. The numbers are assigned sequentially for each weapon type, while the launch environment and primary mission letters may be swapped in variants where those are changed (for example in the air-launched AIM-7 Sparrow and ship-launched RIM-7 Sea Sparrow) without incrementing the number.
+Example:
+RGM-84D means:
+R – The weapon is ship-launched;
+G – The weapon is designed to surface-attack;
+M – The weapon is a guided missile;
+84 – eighty-fourth missile design;
+D – fourth modification;
+In addition, most guided missiles have names, such as Harpoon, Tomahawk, Sea Sparrow, etc. These names are retained regardless of subsequent modifications to the missile.
+Code[edit]
+First letter designating launch environment
+ | Letter | Launch environment | Detailed description
+ | A | Air | Carried and launched by an airplane, helicopter, or other aerial vehicle
+ | B | Multiple | Capable of being launched from more than one platform without significant modifications
+ | C | Coffin or Container | Stored horizontally or at less than a 45-degree angle in a non-hardened enclosure and launched from the ground
+ | F | Individual or Infantry | Carried and launched by one man
+ | G | Ground | Other ground-launched, mainly from a runway
+ | H | Silo-stored | Stored vertically in a silo but raised to ground level for launch.
+ | L | Land or Silo | Launched from a fixed site or hardened silo
+ | M | Mobile | Launched from a ground vehicle or movable platform
+ | P | Soft Pad | Partially or unprotected in storage and launched from a fixed surface location
+ | R | Surface ship | Launched from a surface vessel such as a ship, barge, etc.
+ | S | Space | Launched from a vehicle that operates outside earth's atmosphere. Only used for space launch vehicle stages
+ | U | Underwater | Launched from a submarine or other underwater device
+Second letter designating mission symbol
+ | Letter | Mission | Detailed description
+ | C | Transport | Vehicle designed for transporting items from one place to another. Never used in active service
+ | D | Decoy | Vehicles designed or modified to confuse, deceive, or divert enemy defenses by simulating an attack vehicle
+ | E | Special Electronic | Vehicles designed or modified with electronics equipment for communications, countermeasures, electronic radiation sounding, or other electronic recording or relay missions
+ | G | Surface Attack | Vehicles designed to destroy enemy land or sea targets
+ | I | Intercept-Aerial | Vehicles designed to intercept aerial targets in defensive roles
+ | L | Launch Detection | Vehicles designed for detecting and tracking satellites and missiles
+ | M | Scientific | Vehicles designed for scientific purposes. Never used in active service
+ | N | Navigation | Vehicles to provide data for navigation purposes
+ | Q | Drone | Vehicles designed for target reconnaissance or surveillance, or a target drone
+ | S | Space | Vehicles designed to support or destroy space-based targets
+ | T | Training | Vehicles designed or permanently modified for training purposes. Only used for modifications
+ | U | Underwater attack | Vehicles designed to destroy enemy submarines or other underwater targets, or to detonate underwater
+ | W | Weather | Vehicles designed to observe, record, or relay data pertaining to meteorological phenomena
+Third letter designating vehicle type symbol
+ | Letter | Vehicle type | Detailed description
+ | B | Booster | A system to provide thrust for a satellite, missile, or aerospace vehicle. Only used in formal documents.
+ | M | Guided Missile | An unmanned, self-propelled vehicle with remote or internal trajectory guidance
+ | N | Probe | A non-orbital instrumented vehicle used to monitor and transmit environmental information
+ | R | Rocket | A self-propelled vehicle whose flight trajectory cannot be altered after launch[Note 3]
+ | S | Satellite | A vehicle placed in orbit. Only used in formal documents, and replaced by the 2023 Space Force naming system.
+Prefixes[edit]
+Additionally, a prefix may be added to the designation indicating a non-standard configuration.
+Optional Non-Standard Prefix
+ | Letter | Vehicle type | Detailed description
+ | e | Digitally Developed | System developed in a virtual environment.
+ | C | Captive | Functional but inert vehicle incapable of being fired.
+ | D | Dummy | Non-flyable vehicle for ground crew training.
+ | J | Temporary Special Test | Vehicles temporarily modified for special test purposes.
+ | N | Permanent Special Test | Vehicles permanently modified for special test purposes.
+ | X | Experimental | Experimental vehicle
+ | Y | Prototype | Prototype vehicle
+ | Z | Planning | Vehicle that is still in the planning phase.
+For example:
+YAIM-54A
+XAIM-174B
+See also[edit]
+List of missiles
+List of missiles by country § United States
+1962 United States Tri-Service aircraft designation system
+United States military aircraft designation systems
+Notes[edit]
+The most recent version is DoD Directive 4120.15E from September 17, 2020 (incorporating Change 2) which is an update of DoD Directive 4120.15E November 29, 2004</ref>\n<ref name=\"notew 02\">DoDD 4120.15E is enacted by Air Force Policy Directive (AFPD) 16-4 which is implemented by AFI 16-401/AR 70-50/NAVAIRINST 13100.16</ref>\n<ref name=\"notew 03\">Notwithstanding this definition, the designation is also used for guided modifications of unguided rockets, e.g. the AGR-19/AGR-20/AGR-21 [[Advanced Precision Kill Weapon System]], which is a guided version of the [[Hydra 70]] rocket and itself includes the AGR-20F variant, which is primarily intended for air intercept and should otherwise be designated AIM-.</ref>"}},"i":0}}]}'>
+↑ The most recent version is DoD Directive 4120.15E from September 17, 2020 (incorporating Change 2) which is an update of DoD Directive 4120.15E November 29, 2004
+↑ DoDD 4120.15E is enacted by Air Force Policy Directive (AFPD) 16-4 which is implemented by AFI 16-401/AR 70-50/NAVAIRINST 13100.16
+↑ Notwithstanding this definition, the designation is also used for guided modifications of unguided rockets, e.g. the AGR-19/AGR-20/AGR-21 Advanced Precision Kill Weapon System, which is a guided version of the Hydra 70 rocket and itself includes the AGR-20F variant, which is primarily intended for air intercept and should otherwise be designated AIM-.
+References[edit]
+<a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-DoDD_4000.20-3\" id=\"mwAYA\"><span class=\"mw-reflink-text\" id=\"mwAYE\"><span class=\"cite-bracket\" id=\"mwAYI\">[</span>3<span class=\"cite-bracket\" id=\"mwAYM\">]</span></span></a></sup>\n<sup about=\"#mwt51\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAYQ\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFR/AR/BUWEPSINST\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFR/AR/BUWEPSINST-4\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AFR/AR/BUWEPSINST-4\" id=\"mwAYU\"><span class=\"mw-reflink-text\" id=\"mwAYY\"><span class=\"cite-bracket\" id=\"mwAYc\">[</span>4<span class=\"cite-bracket\" id=\"mwAYg\">]</span></span></a></sup>\n<sup about=\"#mwt54\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAYk\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFR date\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFR_date-5\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AFR_date-5\" id=\"mwAYo\"><span class=\"mw-reflink-text\" id=\"mwAYs\"><span class=\"cite-bracket\" id=\"mwAYw\">[</span>5<span class=\"cite-bracket\" id=\"mwAY0\">]</span></span></a></sup>\n<sup about=\"#mwt57\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAY4\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFR 82-1\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFR_82-1-6\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AFR_82-1-6\" id=\"mwAY8\"><span class=\"mw-reflink-text\" id=\"mwAZA\"><span class=\"cite-bracket\" id=\"mwAZE\">[</span>6<span class=\"cite-bracket\" id=\"mwAZI\">]</span></span></a></sup>\n<sup about=\"#mwt60\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAZM\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AR and NAVMAT 1974\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AR_and_NAVMAT_1974-7\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AR_and_NAVMAT_1974-7\" id=\"mwAZQ\"><span class=\"mw-reflink-text\" id=\"mwAZU\"><span class=\"cite-bracket\" id=\"mwAZY\">[</span>7<span class=\"cite-bracket\" id=\"mwAZc\">]</span></span></a></sup>\n<sup about=\"#mwt63\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAZg\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15 Nov 24 1971\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15_Nov_24_1971-8\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-4120.15_Nov_24_1971-8\" id=\"mwAZk\"><span class=\"mw-reflink-text\" id=\"mwAZo\"><span class=\"cite-bracket\" id=\"mwAZs\">[</span>8<span class=\"cite-bracket\" id=\"mwAZw\">]</span></span></a></sup>\n<sup about=\"#mwt66\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAZ0\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFPD 16-4\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFPD_16-4-11\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AFPD_16-4-11\" id=\"mwAZ4\"><span class=\"mw-reflink-text\" id=\"mwAZ8\"><span class=\"cite-bracket\" id=\"mwAaA\">[</span>10<span class=\"cite-bracket\" id=\"mwAaE\">]</span></span></a></sup>\n<sup about=\"#mwt69\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAaI\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15E (change 2) 2020\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15E_(change_2)_2020-9\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-4120.15E_(change_2)_2020-9\" id=\"mwAaM\"><span class=\"mw-reflink-text\" id=\"mwAaQ\"><span class=\"cite-bracket\" id=\"mwAaU\">[</span>9<span class=\"cite-bracket\" id=\"mwAaY\">]</span></span></a></sup>\n<sup about=\"#mwt72\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAac\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"AFI 16-401/AR 70-50/NAVAIRINST 13100.16 Nov 3 2020\"},\"body\":{\"id\":\"mw-reference-text-cite_note-AFI_16-401/AR_70-50/NAVAIRINST_13100.16_Nov_3_2020-13\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-AFI_16-401/AR_70-50/NAVAIRINST_13100.16_Nov_3_2020-13\" id=\"mwAag\"><span class=\"mw-reflink-text\" id=\"mwAak\"><span class=\"cite-bracket\" id=\"mwAao\">[</span>11<span class=\"cite-bracket\" id=\"mwAas\">]</span></span></a></sup>\n<sup about=\"#mwt75\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAaw\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"4120.15-L Model List 2018\"},\"body\":{\"id\":\"mw-reference-text-cite_note-4120.15-L_Model_List_2018-14\"}}'><a href=\"./1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system#cite_note-4120.15-L_Model_List_2018-14\" id=\"mwAa0\"><span class=\"mw-reflink-text\" id=\"mwAa4\"><span class=\"cite-bracket\" id=\"mwAa8\">[</span>12<span class=\"cite-bracket\" id=\"mwAbA\">]</span></span></a></sup>\n"}}'>
+1 2 "Current Designations of U.S. Unmanned Military Aerospace Vehicles".
+↑ 
+"Pre-1963 Designations of U.S. Missiles and Drones".
+↑ 
+Trapp, Robert E.; Berkeley, William P.; Egerland, Arnold V. (1967). "The Criteria for an Equipment Identification Coding System" (PDF). Air Force Institute of Technology School of Systems and Logistics. p. III-22. Archived (PDF) from the original on 13 April 2022. Retrieved 13 April 2022.
+↑ 
+"New missile code names reveal wealth of information on them". Air University Library Index to Military Periodicals. 13–15 (4). Air University Library: 689. 1964. Archived from the original on 17 April 2022. Retrieved 13 April 2022.
+↑ 
+Mindling, George; Bolton, Robert (2008). U.S. Air Force Tactical Missiles 1949-1969 The Pioneers. Lulu.com. p. 269. ISBN 9780557000296. Archived from the original on 20 June 2020. Retrieved 21 April 2022.
+↑ 
+"United States Air Force Statistical Digest, Fiscal Year 1974" (PDF). Directorate of Management Analysis, Comptroller of the Air Force Headquarters. 15 April 1975. p. 77. Archived (PDF) from the original on 12 April 2022. Retrieved 12 April 2022.
+↑ 
+"Annual Department of Defense Bibliography of Logistics Studies and Related Documents 1976". Defense Logistics Studies Information Exchange. January 1976. p. 2. Archived from the original on 12 April 2022. Retrieved 12 April 2022.
+↑ 
+"SECOND DESTINATION TRANSPORTATION PHASE 2 LMI TASK 75-4" (PDF). LOGISTICS MANAGEMENT INSTITUTE. January 1976. Archived (PDF) from the original on 11 April 2022. Retrieved 11 April 2022.
+↑ 
+"DoDD 4120.15E November 29, 2004 Incorporating Change 2, September 17, 2020 Designating and Naming Military Aerospace Vehicles" (PDF). US DoD. 17 September 2020. Archived from the original (PDF) on 29 March 2022. Retrieved 11 April 2022.
+↑ 
+"AIR FORCE POLICY DIRECTIVE 16-4: 20 NOVEMBER 2018 ACCOUNTING FOR AEROSPACE VEHICLES AT UNITS AND INSTALLATIONS" (PDF). Department of Air Force E-Publishing. 20 November 2018. Archived from the original (PDF) on 12 April 2022. Retrieved 12 April 2022.
+1 2 
+"DEPARTMENT AIR FORCE INSTRUCTION 16-401, ARMY REGULATION 70-50, NAVAIRINST 13100.16 3 November 2020 DESIGNATING AND NAMING DEFENSE MILITARY AEROSPACE VEHICLES" (PDF). Department of Air Force E-Publishing. 3 November 2020. Archived from the original (PDF) on 6 March 2022. Retrieved 11 April 2022.
+↑ 
+"DoDD 4120.15-L MODEL DESIGNATION OF MILITARY AEROSPACE VEHICLES August 31 2018" (PDF). US DoD Executive Services Directorate. 31 August 2018. Archived from the original (PDF) on 19 January 2022. Retrieved 11 April 2022.
+1 2 
+"DESIGNATING AND NAMING DEFENSE MILITARY AEROSPACE VEHICLES" (PDF). November 3, 2020. Retrieved July 9, 2024.
+↑ 
+U.S. Congress (1971). Senate Hearings, Before the Committee on Appropriations, Department of Defense Appropriations, 92d Congress, First Session, Fiscal Year 1972. U.S. Government Printing Office. p. 916. ...the Phoenix YAIM-54A missile...
+↑ 
+Rogoway, Tyler (23 July 2024). "AIM-174 Missile Seen On Super Hornet About To Launch From A Carrier For First Time". Archived from the original on 2024-07-24. Retrieved 2024-08-02. An XAIM-174B... missile under the wing of another VFA-192 Super Hornet seen at Joint Base Pearl Harbor-Hickam, Hawaii, earlier this month
+External links[edit]
+ The dictionary definition of missile at Wiktionary
+ | 
+v
+t
+e1963 United States Tri-Service missile designations, 1963–present
+ | 1–50 | 
+MGM-1
+RIM-2
+MIM-3
+AIM-4 (I)2
+AHM-4 (II)2
+MGM-5
+RGM-6
+AIM-7
+RIM-7
+Brazo
+RIM-8
+AIM-9
+CIM-10
+PGM-11
+AGM-12
+CGM-13/MGM-13
+MIM-14
+RGM-15
+CGM-16
+PGM-17
+MGM-18
+PGM-19
+ADM-20
+MGM-21
+AGM-22
+MIM-23
+RIM-24
+HGM-25A
+LGM-25C
+AIM-26
+UGM-27
+AGM-28
+MGM-29
+LGM-30
+MGM-31A/B (MGM-31C)
+MGM-32
+MQM-33
+AQM-34
+AQM-35 (I)2
+LGM-35 (II)2
+MQM-36
+AQM-37
+AQM-38
+MQM-39
+MQM-40
+AQM-41
+MQM-42
+FIM-43
+UUM-44
+AGM-45
+MIM-46
+AIM-47
+AGM-48
+LIM-49
+XLIM-49
+RIM-50
+ | 51–100 | 
+MGM-51
+MGM-52
+AGM-53
+AIM-54
+RIM-55
+PQM-56
+MQM-57
+MQM-58
+RGM-59
+AQM-60
+MQM-61
+AGM-62
+AGM-63
+AGM-64
+AGM-65
+RIM-66
+RIM-67
+AIM-68
+AGM-69
+LEM-70
+BGM-71
+MIM-72
+UGM-73
+BQM-74
+BGM-75
+AGM-76
+FGM-77
+AGM-78
+AGM-79
+AGM-80
+AQM-81
+AIM-82
+AGM-83
+AGM-84/RGM-84/UGM-84
+AGM-84E
+AGM-84H/K
+RIM-85
+AGM-86
+AGM-87
+AGM-88
+AGM-88J
+UGM-89
+BQM-90
+AQM-91
+FIM-92
+"AIM-92"
+XQM-93
+YQM-94
+AIM-95
+UGM-96
+AIM-97
+YQM-98
+LIM-991
+LIM-1001
+ | 101–150 | 
+RIM-101
+PQM-102
+AQM-103
+MIM-104
+MQM-105
+BQM-106
+MQM-107
+BQM-108
+AGM-109/BGM-109/RGM-109/UGM-109
+BGM-109G
+BGM-110
+BQM-111
+AGM-112
+RIM-113
+AGM-114
+MIM-115
+RIM-116
+FQM-117
+LGM-118
+AGM-119
+AIM-120
+NCADE
+CQM-121/CGM-121
+AGM-122
+AGM-123
+AGM-124
+RUM-125/UUM-125
+BQM-126
+AQM-127
+ASALM
+AQM-128
+AGM-129
+AGM-130
+AGM-131
+AIM-132
+UGM-133
+MGM-134
+ASM-135
+AGM-136
+AGM-137
+CEM-138
+RUM-139
+MGM-140
+ADM-141
+AGM-142
+MQM-143
+ADM-1441
+BQM-145
+MIM-146
+BQM-147
+FGM-148
+PQM-149
+PQM-150
+ | 151–200 | 
+FQM-151
+AIM-152
+AGM-153
+AGM-154
+BQM-155
+RIM-156
+MGM-157
+AGM-158A/B
+AGM-158C
+AGM-159
+ADM-160
+RIM-161
+RIM-162
+GQM-163
+MGM-164
+RGM-165
+MGM-166
+CKEM
+BQM-167
+MGM-168
+AGM-169
+MQM-170
+MQM-171
+FGM-172 (I)2
+MQM-172 (II)2
+GQM-173
+RIM-174
+AIM-174B
+MQM-175
+AGM-176
+BQM-177
+MQM-178
+AGM-179
+AGM-180
+AGM-181
+LGM-182
+AGM-183
+RGM-184
+AGM-184
+MQM-185
+MQM-186
+AGM-187
+AGM-188
+AGM-189
+AGM-190
+ | 201– | 
+AIM-260
+MIM-401
+AIM-424
+ | Undesignated | 
+Aequare
+Sprint
+Wagtail
+Common Missile
+GBI
+HACM
+HALO
+Have Dash
+KEI
+Longbow
+LREW
+LRHW
+LUCAS
+M30 GMLRS/M31 GMLRS-U
+GLSDB
+PrSM
+MA-31
+MSDM
+NLOS
+OpFires
+SACM
+Senior Prom
+ | 1 Reserved but not assigned  •  2 Conflicts with another designation
+See also:
+United States tri-service rocket designations post-1963
+US military research rockets
+Drones designated in UAV sequence
+ | 
+v
+t
+e1963 United States tri-service rocket designations and post-1963 undesignated rockets
+ | Designated (1–) | 
+MGR-1
+AIR-2
+MGR-3
+RUR-4
+RUR-5
+MER-6
+ADR-7
+ADR-8
+ADR-9
+ADR-10
+ADR-11
+ADR-12
+MQR-13
+AGR-14
+MTR-15
+MQR-16
+FGR-17
+GTR-18
+AGR-19
+AGR-20
+AGR-21
+ | Undesignated | 
+Hydra 70
+GATR
+DAGR
+LOCAT
+LOGIR
+FFAR
+Zuni
+M72 LAW
+MK153 SMAW
+M141 BDM
+M202 FLASH
+M26 MLRS
+ | 
+United States tri-service rocket and guided missile designations post-1962
+Research rocket designations
+ | 
+v
+t
+e1963 United States tri-service research rocket designations and post-1963 research rockets
+ | Designated (1–) | 
+PWN-1
+PWN-2
+PWN-3
+PWN-4
+PWN-5
+PWN-6
+PWN-7
+PWN-8
+PWN-9
+PWN-10
+PWN-11
+PWN-12
+ | Undesignated | 
+Nike booster derivatives
+Astrobee
+Castor-Orbus
+Hopi-Dart
+ | 
+See also: United States tri-service rocket and guided missile designations post-1962
+United States tri-service rocket weapon designations post-1962
+ | 
+v
+t
+e1963 United States tri-service booster and satellite designations
+ | Boosters and stages | 
+SB-1
+SB-2
+SB-3
+SB-4
+SB-5
+SB-6
+SSB-6
+SSB-8
+SSB-9
+SSB-10
+ASB-11
+ | Satellites | 
+WS-1
+WS-2
+LS-3
+ES-4
+ES-5
+LS-6
+NS-7
+ES-8
+LS-9
+LS-10
+XSS-101
+XSS-111
+XSS-121
+ES-14
+LS-15
+LS-16
+ES-17
+ES-19
+ES-21
+ES-23
+ | 1 Reserved but not assigned
+See also: United States tri-service rocket and guided missile designations post-1962
+United States tri-service rocket weapon designations post-1962
+US military research rockets post-1962
+US tri-service spaceplane designations
+Retrieved from "https://en.wikipedia.org/w/index.php?title=1963_United_States_Tri-Service_rocket_and_guided_missile_designation_system&oldid=1362813602"
+					Categories: 
+Guided missiles
+Weapons of the United States
+Naming conventions
+RocketryHidden categories: 
+Articles with short description
+Short description matches Wikidata
+CS1: long volume value
+ This page was last edited on 6 July 2026, at 10:39 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+						Search
+Toggle the table of contents
+				1963 United States Tri-Service rocket and guided missile designation system
+6 languages
+Add topic
