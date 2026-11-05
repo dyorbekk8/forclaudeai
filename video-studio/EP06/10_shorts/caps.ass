@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,3,2,60,60,430,1
+Style: Title,Fredoka Light,92,&H0000D2FF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,8,50,50,170,1
+Style: Sub,Fredoka Light,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,6,2,8,50,50,290,1
+Style: CTA,Fredoka Light,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:18.35,Title,,0,0,0,,EVERY LIE TOLD TO YOU…
+Dialogue: 1,0:00:00.00,0:00:18.35,Sub,,0,0,0,,{\c&H005EFF4D&}+1% TALLER
+Dialogue: 0,0:00:00.20,0:00:00.92,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}I LOVE YOUR
+Dialogue: 0,0:00:00.92,0:00:01.44,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}HAIRCUT,
+Dialogue: 0,0:00:01.44,0:00:01.70,Cap,,0,0,0,,{\c&H0031C5FF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LEO.
+Dialogue: 0,0:00:01.90,0:00:02.71,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOUR HEAD HITS
+Dialogue: 0,0:00:02.71,0:00:03.41,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE CEILING.
+Dialogue: 0,0:00:04.01,0:00:05.68,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}BECAUSE STARTING TODAY...
+Dialogue: 0,0:00:05.68,0:00:06.89,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}EVERY TIME SOMEONE
+Dialogue: 0,0:00:06.89,0:00:07.69,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LIES TO YOU,
+Dialogue: 0,0:00:07.69,0:00:08.49,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}YOU GROW ONE
+Dialogue: 0,0:00:08.49,0:00:09.50,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}PERCENT TALLER.
+Dialogue: 0,0:00:09.85,0:00:10.57,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}DAY THREE.
+Dialogue: 0,0:00:10.57,0:00:12.02,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}NINETY THREE METERS.
+Dialogue: 0,0:00:12.02,0:00:12.75,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}AS TALL AS
+Dialogue: 0,0:00:12.75,0:00:13.69,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}THE STATUE OF
+Dialogue: 0,0:00:13.69,0:00:14.27,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}LIBERTY.
+Dialogue: 0,0:00:14.27,0:00:15.29,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}EVERY STEP YOU
+Dialogue: 0,0:00:15.29,0:00:16.23,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}TAKE SETS OFF
+Dialogue: 0,0:00:16.23,0:00:17.25,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}CAR ALARMS FOR
+Dialogue: 0,0:00:17.25,0:00:17.75,Cap,,0,0,0,,{\c&H00FFFFFF&\fscx80\fscy80\t(0,90,\fscx100\fscy100)}A MILE.
