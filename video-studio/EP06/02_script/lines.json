@@ -1,0 +1,359 @@
+{
+ "title": "What If You Grew 1% Every Time Someone Lied to You?",
+ "cast": {
+  "N": {
+   "voice": "am_michael",
+   "speed": 0.95
+  },
+  "MOM": {
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  "MIA": {
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  "KID": {
+   "voice": "am_puck",
+   "speed": 1.05
+  }
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "s": "MIA",
+   "t": "I love your haircut, Leo.",
+   "el": "[sweetly] I love your haircut, Leo.",
+   "p": 0.2
+  },
+  {
+   "id": "a02",
+   "s": "N",
+   "t": "Your head hits the ceiling.",
+   "el": "Your head hits the ceiling.",
+   "p": 0.6
+  },
+  {
+   "id": "a03",
+   "s": "N",
+   "t": "Because starting today... every time someone lies to you, you grow one percent taller.",
+   "el": "[curious] Because starting today... every time someone lies to you, you grow one percent taller.",
+   "p": 0.5
+  },
+  {
+   "id": "a04",
+   "s": "N",
+   "t": "And your little sister... absolutely hates that haircut.",
+   "el": "And your little sister... absolutely hates that haircut.",
+   "p": 1.1
+  },
+  {
+   "id": "b01",
+   "s": "N",
+   "t": "Here's the rule. Every lie told to your face, or sent to you, makes you one percent taller. And every hard truth... makes you one percent shorter.",
+   "el": "Here's the rule. Every lie told to your face, or sent to you, makes you one percent taller. And every hard truth... makes you one percent shorter.",
+   "p": 0.5
+  },
+  {
+   "id": "b02",
+   "s": "N",
+   "t": "You're a hundred and sixty centimeters. The shortest kid in your class.",
+   "el": "You're a hundred and sixty centimeters. The shortest kid in your class.",
+   "p": 0.5
+  },
+  {
+   "id": "b03",
+   "s": "N",
+   "t": "Scientists think the average person tells about one and a half lies a day. Most of them small. Nice shirt. I'm almost there. I'm fine.",
+   "el": "Scientists think the average person tells about one and a half lies a day. Most of them small. Nice shirt. I'm almost there. I'm fine.",
+   "p": 0.5
+  },
+  {
+   "id": "b04",
+   "s": "N",
+   "t": "But one percent stacks. Fifty three lies, and you're taller than the tallest man who ever lived.",
+   "el": "But one percent stacks. Fifty three lies, and you're taller than the tallest man who ever lived.",
+   "p": 0.6
+  },
+  {
+   "id": "b05",
+   "s": "N",
+   "t": "Eight hundred sixty six lies... and you're taller than Mount Everest.",
+   "el": "Eight hundred sixty six lies... and you're taller than Mount Everest.",
+   "p": 1.0
+  },
+  {
+   "id": "c01",
+   "s": "N",
+   "t": "Day one. Your friend says he's five minutes away. He's still at home. Plus one percent.",
+   "el": "Day one. Your friend says he's five minutes away. He's still at home. Plus one percent.",
+   "p": 0.4
+  },
+  {
+   "id": "c02",
+   "s": "N",
+   "t": "Your teacher says the test will be easy. Plus one percent.",
+   "el": "Your teacher says the test will be easy. Plus one percent.",
+   "p": 0.4
+  },
+  {
+   "id": "c03",
+   "s": "N",
+   "t": "By lunch, you're two meters tall. You duck under every door frame. And for the first time in your life... people look up at you.",
+   "el": "By lunch, you're two meters tall. You duck under every door frame. And for the first time in your life... people look up at you.",
+   "p": 0.5
+  },
+  {
+   "id": "c04",
+   "s": "N",
+   "t": "So you get smart. You start asking questions that people always lie about.",
+   "el": "[smug] So you get smart. You start asking questions that people always lie about.",
+   "p": 0.3
+  },
+  {
+   "id": "c05",
+   "s": "KID",
+   "t": "Your drawing? Uh... it's amazing, man. Really.",
+   "el": "[nervous] Your drawing? Uh... it's amazing, man. Really.",
+   "p": 0.3
+  },
+  {
+   "id": "c06",
+   "s": "N",
+   "t": "Plus one. Do I look tired? No! Plus one. Is my singing good? Plus one. Plus one. Plus one.",
+   "el": "Plus one. Do I look tired? No! Plus one. Is my singing good? Plus one. Plus one. Plus one.",
+   "p": 0.5
+  },
+  {
+   "id": "c07",
+   "s": "N",
+   "t": "By Friday, you're two meters seventy. Taller than Robert Wadlow, the tallest man in recorded history.",
+   "el": "By Friday, you're two meters seventy. Taller than Robert Wadlow, the tallest man in recorded history.",
+   "p": 0.6
+  },
+  {
+   "id": "c08",
+   "s": "N",
+   "t": "You dunk a basketball without jumping. Everyone suddenly laughs at your jokes. Even the terrible ones. Plus one. Plus one. Plus one.",
+   "el": "[amused] You dunk a basketball without jumping. Everyone suddenly laughs at your jokes. Even the terrible ones. Plus one. Plus one. Plus one.",
+   "p": 1.0
+  },
+  {
+   "id": "d01",
+   "s": "N",
+   "t": "Then the internet finds out.",
+   "el": "Then the internet finds out.",
+   "p": 0.6
+  },
+  {
+   "id": "d02",
+   "s": "N",
+   "t": "Millions of strangers start sending you lies on purpose. Just to watch you grow. You're the most handsome person alive. You have two hundred I Q. You can fly.",
+   "el": "[building] Millions of strangers start sending you lies on purpose. Just to watch you grow. You're the most handsome person alive. You have two hundred I Q. You can fly.",
+   "p": 0.3
+  },
+  {
+   "id": "d03",
+   "s": "N",
+   "t": "Plus one percent. Plus one percent. Plus one percent. Faster than you can read them.",
+   "el": "Plus one percent. Plus one percent. Plus one percent. Faster than you can read them.",
+   "p": 0.5
+  },
+  {
+   "id": "d04",
+   "s": "N",
+   "t": "By morning, you're as tall as a giraffe. By noon, you can't fit in your house.",
+   "el": "By morning, you're as tall as a giraffe. By noon, you can't fit in your house.",
+   "p": 0.5
+  },
+  {
+   "id": "d05",
+   "s": "N",
+   "t": "You sleep in the park. Your feet are three streets away from your head.",
+   "el": "[tense] You sleep in the park. Your feet are three streets away from your head.",
+   "p": 0.6
+  },
+  {
+   "id": "d06",
+   "s": "N",
+   "t": "Day three. Ninety three meters. As tall as the Statue of Liberty. Every step you take sets off car alarms for a mile.",
+   "el": "Day three. Ninety three meters. As tall as the Statue of Liberty. Every step you take sets off car alarms for a mile.",
+   "p": 0.5
+  },
+  {
+   "id": "d06b",
+   "s": "N",
+   "t": "A news helicopter circles your head. The reporter shouts into a megaphone. You look fantastic! Plus one percent.",
+   "el": "A news helicopter circles your head. The reporter shouts into a megaphone. You look fantastic! Plus one percent.",
+   "p": 1.0
+  },
+  {
+   "id": "e01",
+   "s": "N",
+   "t": "Day five. Nine hundred meters. You're looking down at the top of the tallest building on Earth.",
+   "el": "Day five. Nine hundred meters. You're looking down at the top of the tallest building on Earth.",
+   "p": 0.5
+  },
+  {
+   "id": "e02",
+   "s": "N",
+   "t": "And up here, it's freezing. The air is thin. Clouds drift past your chest.",
+   "el": "And up here, it's freezing. The air is thin. Clouds drift past your chest.",
+   "p": 0.4
+  },
+  {
+   "id": "e02b",
+   "s": "N",
+   "t": "A passenger jet glides past your ear. The pilot waves. You wave back. Very, very slowly.",
+   "el": "[awed] A passenger jet glides past your ear. The pilot waves. You wave back. Very, very slowly.",
+   "p": 0.9
+  },
+  {
+   "id": "e03",
+   "s": "N",
+   "t": "Day seven. Nine kilometers. Higher than Mount Everest. Above eight thousand meters, climbers call it the death zone. There isn't enough oxygen to stay alive for long.",
+   "el": "Day seven. Nine kilometers. Higher than Mount Everest. Above eight thousand meters, climbers call it the death zone. There isn't enough oxygen to stay alive for long.",
+   "p": 0.6
+  },
+  {
+   "id": "e04",
+   "s": "N",
+   "t": "Your head is spinning. Your lips are blue. And the lies just keep coming.",
+   "el": "[breathless] Your head is spinning. Your lips are blue. And the lies just keep coming.",
+   "p": 0.6
+  },
+  {
+   "id": "e05",
+   "s": "N",
+   "t": "You realize something terrible. If this keeps going... you'll grow until your head is in space.",
+   "el": "You realize something terrible. If this keeps going... you'll grow until your head is in space.",
+   "p": 1.2
+  },
+  {
+   "id": "f01",
+   "s": "N",
+   "t": "There's only one way down. Someone has to tell you the truth.",
+   "el": "There's only one way down. Someone has to tell you the truth.",
+   "p": 0.8
+  },
+  {
+   "id": "f02",
+   "s": "N",
+   "t": "But nobody does. Your doctors say you'll be fine. The news says help is on the way. Even your mom says, don't worry, sweetheart. Everything's okay.",
+   "el": "[frustrated] But nobody does. Your doctors say you'll be fine. The news says help is on the way. Even your mom says, don't worry, sweetheart. Everything's okay.",
+   "p": 0.4
+  },
+  {
+   "id": "f03",
+   "s": "N",
+   "t": "Plus one. Plus one. Plus one. Everyone you love is lying to you... to make you feel better.",
+   "el": "Plus one. Plus one. Plus one. Everyone you love is lying to you... to make you feel better.",
+   "p": 0.8
+  },
+  {
+   "id": "f04",
+   "s": "N",
+   "t": "And then a tiny voice comes through the phone in your ear.",
+   "el": "[quietly] And then a tiny voice comes through the phone in your ear.",
+   "p": 0.6
+  },
+  {
+   "id": "f05",
+   "s": "MIA",
+   "t": "Leo. It's Mia. I'm going to tell you the truth. All of it.",
+   "el": "[serious] Leo. It's Mia. I'm going to tell you the truth. All of it.",
+   "p": 0.6
+  },
+  {
+   "id": "f06",
+   "s": "MIA",
+   "t": "You've been a bad brother since you got tall. You stopped coming to my games. You only talk to people who lie to you.",
+   "el": "[shaky] You've been a bad brother since you got tall. You stopped coming to my games. You only talk to people who lie to you.",
+   "p": 0.6
+  },
+  {
+   "id": "f07",
+   "s": "N",
+   "t": "Minus one percent. Minus one percent. It hurts more than the cold.",
+   "el": "Minus one percent. Minus one percent. It hurts more than the cold.",
+   "p": 0.6
+  },
+  {
+   "id": "f08",
+   "s": "MIA",
+   "t": "And I hate your haircut. I always did. And I don't care how tall you are. I just want my brother back.",
+   "el": "[crying] And I hate your haircut. I always did. And I don't care how tall you are. I just want my brother back.",
+   "p": 0.6
+  },
+  {
+   "id": "f08b",
+   "s": "MOM",
+   "t": "And Leo... I'm scared. I've been scared every single day. I'm sorry I lied to you.",
+   "el": "[crying] And Leo... I'm scared. I've been scared every single day. I'm sorry I lied to you.",
+   "p": 0.6
+  },
+  {
+   "id": "f08c",
+   "s": "N",
+   "t": "Minus one percent. Your mom's truth hits harder than anything.",
+   "el": "Minus one percent. Your mom's truth hits harder than anything.",
+   "p": 0.8
+  },
+  {
+   "id": "f09",
+   "s": "N",
+   "t": "Every truth pulls you closer to the ground. Clouds. Rooftops. Trees.",
+   "el": "[emotional] Every truth pulls you closer to the ground. Clouds. Rooftops. Trees.",
+   "p": 0.6
+  },
+  {
+   "id": "f10",
+   "s": "N",
+   "t": "For a whole night, she doesn't lie to you once. Not even to be nice.",
+   "el": "For a whole night, she doesn't lie to you once. Not even to be nice.",
+   "p": 1.2
+  },
+  {
+   "id": "g01",
+   "s": "N",
+   "t": "When the sun comes up, you're a hundred and sixty centimeters again. Shortest kid in the class.",
+   "el": "When the sun comes up, you're a hundred and sixty centimeters again. Shortest kid in the class.",
+   "p": 0.6
+  },
+  {
+   "id": "g02",
+   "s": "N",
+   "t": "And for the first time, you understand. The people who tell you nice lies are the ones who want you to feel good.",
+   "el": "And for the first time, you understand. The people who tell you nice lies are the ones who want you to feel good.",
+   "p": 0.5
+  },
+  {
+   "id": "g03",
+   "s": "N",
+   "t": "The ones who tell you the truth... are the ones who want you to stay.",
+   "el": "[softly] The ones who tell you the truth... are the ones who want you to stay.",
+   "p": 1.0
+  },
+  {
+   "id": "g04",
+   "s": "MIA",
+   "t": "Also, I didn't eat your last cookie.",
+   "el": "[smiling] Also, I didn't eat your last cookie.",
+   "p": 0.6
+  },
+  {
+   "id": "g05",
+   "s": "N",
+   "t": "Plus one percent.",
+   "el": "[pause] Plus one percent.",
+   "p": 1.0
+  },
+  {
+   "id": "g06",
+   "s": "N",
+   "t": "Who in your life always tells you the truth? Tag them in the comments.",
+   "el": "Who in your life always tells you the truth? Tag them in the comments.",
+   "p": 0.32
+  }
+ ]
+}

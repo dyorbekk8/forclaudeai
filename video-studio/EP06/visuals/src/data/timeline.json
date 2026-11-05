@@ -1,0 +1,341 @@
+{
+ "duration": 303.899,
+ "lines": [
+  {
+   "id": "a01",
+   "speaker": "MIA",
+   "text": "I love your haircut, Leo.",
+   "start": 0.5,
+   "end": 1.999
+  },
+  {
+   "id": "a02",
+   "speaker": "N",
+   "text": "Your head hits the ceiling.",
+   "start": 2.199,
+   "end": 3.708
+  },
+  {
+   "id": "a03",
+   "speaker": "N",
+   "text": "Because starting today... every time someone lies to you, you grow one percent taller.",
+   "start": 4.308,
+   "end": 9.798
+  },
+  {
+   "id": "a04",
+   "speaker": "N",
+   "text": "And your little sister... absolutely hates that haircut.",
+   "start": 10.298,
+   "end": 14.019
+  },
+  {
+   "id": "b01",
+   "speaker": "N",
+   "text": "Here's the rule. Every lie told to your face, or sent to you, makes you one percent taller. And every hard truth... makes you one percent shorter.",
+   "start": 15.119,
+   "end": 24.722
+  },
+  {
+   "id": "b02",
+   "speaker": "N",
+   "text": "You're a hundred and sixty centimeters. The shortest kid in your class.",
+   "start": 25.222,
+   "end": 29.415
+  },
+  {
+   "id": "b03",
+   "speaker": "N",
+   "text": "Scientists think the average person tells about one and a half lies a day. Most of them small. Nice shirt. I'm almost there. I'm fine.",
+   "start": 29.915,
+   "end": 39.229
+  },
+  {
+   "id": "b04",
+   "speaker": "N",
+   "text": "But one percent stacks. Fifty three lies, and you're taller than the tallest man who ever lived.",
+   "start": 39.729,
+   "end": 45.481
+  },
+  {
+   "id": "b05",
+   "speaker": "N",
+   "text": "Eight hundred sixty six lies... and you're taller than Mount Everest.",
+   "start": 46.081,
+   "end": 50.693
+  },
+  {
+   "id": "c01",
+   "speaker": "N",
+   "text": "Day one. Your friend says he's five minutes away. He's still at home. Plus one percent.",
+   "start": 51.693,
+   "end": 57.408
+  },
+  {
+   "id": "c02",
+   "speaker": "N",
+   "text": "Your teacher says the test will be easy. Plus one percent.",
+   "start": 57.808,
+   "end": 61.353
+  },
+  {
+   "id": "c03",
+   "speaker": "N",
+   "text": "By lunch, you're two meters tall. You duck under every door frame. And for the first time in your life... people look up at you.",
+   "start": 61.753,
+   "end": 69.51
+  },
+  {
+   "id": "c04",
+   "speaker": "N",
+   "text": "So you get smart. You start asking questions that people always lie about.",
+   "start": 70.01,
+   "end": 75.155
+  },
+  {
+   "id": "c05",
+   "speaker": "KID",
+   "text": "Your drawing? Uh... it's amazing, man. Really.",
+   "start": 75.455,
+   "end": 79.318
+  },
+  {
+   "id": "c06",
+   "speaker": "N",
+   "text": "Plus one. Do I look tired? No! Plus one. Is my singing good? Plus one. Plus one. Plus one.",
+   "start": 79.618,
+   "end": 88.041
+  },
+  {
+   "id": "c07",
+   "speaker": "N",
+   "text": "By Friday, you're two meters seventy. Taller than Robert Wadlow, the tallest man in recorded history.",
+   "start": 88.541,
+   "end": 94.972
+  },
+  {
+   "id": "c08",
+   "speaker": "N",
+   "text": "You dunk a basketball without jumping. Everyone suddenly laughs at your jokes. Even the terrible ones. Plus one. Plus one. Plus one.",
+   "start": 95.572,
+   "end": 105.022
+  },
+  {
+   "id": "d01",
+   "speaker": "N",
+   "text": "Then the internet finds out.",
+   "start": 106.022,
+   "end": 107.74
+  },
+  {
+   "id": "d02",
+   "speaker": "N",
+   "text": "Millions of strangers start sending you lies on purpose. Just to watch you grow. You're the most handsome person alive. You have two hundred I Q. You can fly.",
+   "start": 108.34,
+   "end": 118.488
+  },
+  {
+   "id": "d03",
+   "speaker": "N",
+   "text": "Plus one percent. Plus one percent. Plus one percent. Faster than you can read them.",
+   "start": 118.788,
+   "end": 124.48
+  },
+  {
+   "id": "d04",
+   "speaker": "N",
+   "text": "By morning, you're as tall as a giraffe. By noon, you can't fit in your house.",
+   "start": 124.98,
+   "end": 129.493
+  },
+  {
+   "id": "d05",
+   "speaker": "N",
+   "text": "You sleep in the park. Your feet are three streets away from your head.",
+   "start": 129.993,
+   "end": 134.496
+  },
+  {
+   "id": "d06",
+   "speaker": "N",
+   "text": "Day three. Ninety three meters. As tall as the Statue of Liberty. Every step you take sets off car alarms for a mile.",
+   "start": 135.096,
+   "end": 143.003
+  },
+  {
+   "id": "d06b",
+   "speaker": "N",
+   "text": "A news helicopter circles your head. The reporter shouts into a megaphone. You look fantastic! Plus one percent.",
+   "start": 143.503,
+   "end": 150.966
+  },
+  {
+   "id": "e01",
+   "speaker": "N",
+   "text": "Day five. Nine hundred meters. You're looking down at the top of the tallest building on Earth.",
+   "start": 151.966,
+   "end": 157.979
+  },
+  {
+   "id": "e02",
+   "speaker": "N",
+   "text": "And up here, it's freezing. The air is thin. Clouds drift past your chest.",
+   "start": 158.479,
+   "end": 163.627
+  },
+  {
+   "id": "e02b",
+   "speaker": "N",
+   "text": "A passenger jet glides past your ear. The pilot waves. You wave back. Very, very slowly.",
+   "start": 164.027,
+   "end": 171.088
+  },
+  {
+   "id": "e03",
+   "speaker": "N",
+   "text": "Day seven. Nine kilometers. Higher than Mount Everest. Above eight thousand meters, climbers call it the death zone. There isn't enough oxygen to stay alive for long.",
+   "start": 171.988,
+   "end": 183.196
+  },
+  {
+   "id": "e04",
+   "speaker": "N",
+   "text": "Your head is spinning. Your lips are blue. And the lies just keep coming.",
+   "start": 183.796,
+   "end": 188.733
+  },
+  {
+   "id": "e05",
+   "speaker": "N",
+   "text": "You realize something terrible. If this keeps going... you'll grow until your head is in space.",
+   "start": 189.333,
+   "end": 195.771
+  },
+  {
+   "id": "f01",
+   "speaker": "N",
+   "text": "There's only one way down. Someone has to tell you the truth.",
+   "start": 196.971,
+   "end": 200.942
+  },
+  {
+   "id": "f02",
+   "speaker": "N",
+   "text": "But nobody does. Your doctors say you'll be fine. The news says help is on the way. Even your mom says, don't worry, sweetheart. Everything's okay.",
+   "start": 201.742,
+   "end": 211.291
+  },
+  {
+   "id": "f03",
+   "speaker": "N",
+   "text": "Plus one. Plus one. Plus one. Everyone you love is lying to you... to make you feel better.",
+   "start": 211.691,
+   "end": 219.205
+  },
+  {
+   "id": "f04",
+   "speaker": "N",
+   "text": "And then a tiny voice comes through the phone in your ear.",
+   "start": 220.005,
+   "end": 223.095
+  },
+  {
+   "id": "f05",
+   "speaker": "MIA",
+   "text": "Leo. It's Mia. I'm going to tell you the truth. All of it.",
+   "start": 223.695,
+   "end": 228.883
+  },
+  {
+   "id": "f06",
+   "speaker": "MIA",
+   "text": "You've been a bad brother since you got tall. You stopped coming to my games. You only talk to people who lie to you.",
+   "start": 229.483,
+   "end": 236.998
+  },
+  {
+   "id": "f07",
+   "speaker": "N",
+   "text": "Minus one percent. Minus one percent. It hurts more than the cold.",
+   "start": 237.598,
+   "end": 242.507
+  },
+  {
+   "id": "f08",
+   "speaker": "MIA",
+   "text": "And I hate your haircut. I always did. And I don't care how tall you are. I just want my brother back.",
+   "start": 243.107,
+   "end": 250.72
+  },
+  {
+   "id": "f08b",
+   "speaker": "MOM",
+   "text": "And Leo... I'm scared. I've been scared every single day. I'm sorry I lied to you.",
+   "start": 251.32,
+   "end": 257.672
+  },
+  {
+   "id": "f08c",
+   "speaker": "N",
+   "text": "Minus one percent. Your mom's truth hits harder than anything.",
+   "start": 258.272,
+   "end": 262.331
+  },
+  {
+   "id": "f09",
+   "speaker": "N",
+   "text": "Every truth pulls you closer to the ground. Clouds. Rooftops. Trees.",
+   "start": 263.131,
+   "end": 269.124
+  },
+  {
+   "id": "f10",
+   "speaker": "N",
+   "text": "For a whole night, she doesn't lie to you once. Not even to be nice.",
+   "start": 269.724,
+   "end": 274.067
+  },
+  {
+   "id": "g01",
+   "speaker": "N",
+   "text": "When the sun comes up, you're a hundred and sixty centimeters again. Shortest kid in the class.",
+   "start": 275.267,
+   "end": 281.29
+  },
+  {
+   "id": "g02",
+   "speaker": "N",
+   "text": "And for the first time, you understand. The people who tell you nice lies are the ones who want you to feel good.",
+   "start": 281.89,
+   "end": 288.899
+  },
+  {
+   "id": "g03",
+   "speaker": "N",
+   "text": "The ones who tell you the truth... are the ones who want you to stay.",
+   "start": 289.399,
+   "end": 293.606
+  },
+  {
+   "id": "g04",
+   "speaker": "MIA",
+   "text": "Also, I didn't eat your last cookie.",
+   "start": 294.606,
+   "end": 296.635
+  },
+  {
+   "id": "g05",
+   "speaker": "N",
+   "text": "Plus one percent.",
+   "start": 297.235,
+   "end": 298.434
+  },
+  {
+   "id": "g06",
+   "speaker": "N",
+   "text": "Who in your life always tells you the truth? Tag them in the comments.",
+   "start": 299.434,
+   "end": 303.579
+  }
+ ]
+}
