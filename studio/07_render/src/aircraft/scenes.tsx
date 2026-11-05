@@ -77,8 +77,8 @@ export const Code: React.FC<CodeP> = ({code, focus = -1, plane, planeColor, capt
                     height: 230,
                     padding: '0 16px',
                     borderRadius: 20,
-                    border: c ? `6px solid ${on ? SLOT_COLORS[i] : C.ink}` : `5px dashed ${C.tileBorder}`,
-                    background: c ? (on ? SLOT_COLORS[i] : '#fff') : 'transparent',
+                    border: c && p > 0.3 ? `6px solid ${on ? SLOT_COLORS[i] : C.ink}` : `5px dashed ${on ? SLOT_COLORS[i] : C.tileBorder}`,
+                    background: c && p > 0.3 ? (on ? SLOT_COLORS[i] : '#fff') : 'transparent',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
@@ -184,8 +184,10 @@ export const Letters: React.FC<{items: LT[]; title?: string; color?: string; ev?
         {items.map((it, i) => {
           const s = at(ev, i, 8 + i * 10);
           const p = Math.min(1, pop(f, s, 11));
+          const pre = prog(f, i * 3, 8);
+          const vis = Math.max(0.28 * pre, p);
           return (
-            <div key={it.l + i} style={{...TILE, height: n <= 4 ? 500 : 330, display: 'flex', flexDirection: n <= 4 ? 'column' : 'row', alignItems: 'center', justifyContent: 'center', gap: 16, padding: 16, opacity: p * (it.dim ? 0.45 : 1), transform: `translateY(${(1 - p) * 50}px)`}}>
+            <div key={it.l + i} style={{...TILE, height: n <= 4 ? 500 : 330, display: 'flex', flexDirection: n <= 4 ? 'column' : 'row', alignItems: 'center', justifyContent: 'center', gap: 16, padding: 16, opacity: vis * (it.dim ? 0.45 : 1), transform: `scale(${0.96 + 0.04 * p})`, borderColor: p > 0.5 ? color : C.tileBorder, borderWidth: p > 0.5 ? 5 : 3}}>
               <div style={{width: 120, height: 120, borderRadius: 18, background: color, color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: fonts.label, fontWeight: 800, fontSize: 100}}>{it.l}</div>
               <div style={{display: 'flex', flexDirection: 'column', alignItems: n <= 4 ? 'center' : 'flex-start'}}>
                 {it.kind && <Plane kind={it.kind} size={n <= 4 ? 200 : 120} rotate={-90} />}
@@ -345,7 +347,7 @@ export const MCode: React.FC<{code: string[]; focus?: number; caption?: string; 
             <React.Fragment key={i}>
               {i === 3 && <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 190, lineHeight: '230px', color: C.ink}}>-</div>}
               <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10}}>
-                <div style={{minWidth: i === 3 ? 230 : 170, height: 230, padding: '0 16px', borderRadius: 20, border: c ? `6px solid ${on ? MCOL[i] : C.ink}` : `5px dashed ${C.tileBorder}`, background: c ? (on ? MCOL[i] : '#fff') : 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: c ? '0 16px 30px rgba(0,0,0,0.10)' : 'none'}}>
+                <div style={{minWidth: i === 3 ? 230 : 170, height: 230, padding: '0 16px', borderRadius: 20, border: c && p > 0.3 ? `6px solid ${on ? MCOL[i] : C.ink}` : `5px dashed ${on ? MCOL[i] : C.tileBorder}`, background: c && p > 0.3 ? (on ? MCOL[i] : '#fff') : 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: c ? '0 16px 30px rgba(0,0,0,0.10)' : 'none'}}>
                   <div style={{fontFamily: fonts.label, fontWeight: 800, fontSize: 190, color: on ? '#fff' : C.ink, transform: `translateY(${(1 - p) * -60}px)`, opacity: p}}>{c}</div>
                 </div>
                 <div style={{fontFamily: fonts.mono, fontWeight: 700, fontSize: 20, color: on ? MCOL[i] : C.inkSoft, width: 180, textAlign: 'center'}}>{MLAB[i]}</div>

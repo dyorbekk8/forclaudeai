@@ -1,0 +1,507 @@
+1
+00:00:00,067 --> 00:00:03,136
+The F-35 should have been called the F-24.
+
+2
+00:00:03,567 --> 00:00:11,263
+Under the rules, the next new American fighter after the YF-23 should have taken the next number in line: twenty-four.
+
+3
+00:00:11,667 --> 00:00:16,864
+Instead, the winning demonstrator, the X-35, simply kept its number.
+
+4
+00:00:16,904 --> 00:00:18,251
+And that's a clue.
+
+5
+00:00:18,291 --> 00:00:24,644
+Every letter and number in a military aircraft name is supposed to follow a system.
+
+6
+00:00:25,067 --> 00:00:29,695
+Before nineteen sixty-two, the Navy and the Air Force each had their own.
+
+7
+00:00:29,735 --> 00:00:35,451
+The same fighter was the F four H Phantom to the Navy, and the F one ten to the Air Force.
+
+8
+00:00:35,867 --> 00:00:38,562
+The old Navy name packed in the maker, too.
+
+9
+00:00:38,602 --> 00:00:43,778
+F for fighter, four for the fourth fighter from that company, and H for McDonnell.
+
+10
+00:00:44,200 --> 00:00:48,890
+Defense Secretary Robert McNamara reportedly found that maddening.
+
+11
+00:00:48,930 --> 00:00:56,629
+So in nineteen sixty-two, the Pentagon replaced them with one system, and the Phantom became simply the F-4.
+
+12
+00:00:57,033 --> 00:01:05,204
+The full name has six parts: status, modified mission, basic mission, vehicle type, design number, and series letter.
+
+13
+00:01:05,244 --> 00:01:10,677
+Only the basic mission, the number, and the series letter are always required.
+
+14
+00:01:11,400 --> 00:01:15,928
+Start with the one letter every aircraft must have: the basic mission.
+
+15
+00:01:16,333 --> 00:01:21,819
+A is attack, built for hitting targets on land or at sea.
+
+16
+00:01:21,859 --> 00:01:22,983
+B is bomber.
+
+17
+00:01:23,023 --> 00:01:24,049
+C is cargo.
+
+18
+00:01:24,089 --> 00:01:25,309
+F is fighter.
+
+19
+00:01:25,733 --> 00:01:27,756
+Then the rarer ones.
+
+20
+00:01:27,796 --> 00:01:30,437
+E for special electronics.
+
+21
+00:01:30,477 --> 00:01:32,705
+P for maritime patrol.
+
+22
+00:01:32,745 --> 00:01:35,696
+S for anti-submarine warfare.
+
+23
+00:01:35,736 --> 00:01:37,139
+T for trainer.
+
+24
+00:01:37,179 --> 00:01:38,583
+U for utility.
+
+25
+00:01:38,623 --> 00:01:41,367
+And X for special research.
+
+26
+00:01:41,800 --> 00:01:44,169
+Two letters on the list are strange.
+
+27
+00:01:44,209 --> 00:01:53,472
+K for tanker and R for reconnaissance exist as basic missions, but no ordinary aircraft has ever been given one the way the rules intended.
+
+28
+00:01:53,900 --> 00:01:56,322
+Utility was once used as a cover.
+
+29
+00:01:56,362 --> 00:02:01,171
+The U-2 spy plane was labeled utility to hide what it really did.
+
+30
+00:02:01,600 --> 00:02:05,266
+And the line between attack and fighter has blurred.
+
+31
+00:02:05,306 --> 00:02:10,113
+Today, an F can also be a multirole jet that strikes ground targets.
+
+32
+00:02:10,533 --> 00:02:19,063
+The Air Force even gave the F to the F-117 Nighthawk, a stealth jet built for ground attack, with no official air-to-air role.
+
+33
+00:02:19,467 --> 00:02:24,300
+For years, people were convinced a secret F-19 stealth fighter existed.
+
+34
+00:02:24,340 --> 00:02:31,577
+In July nineteen eighty-six, the Air Force sealed off a crash site in California, and the rumors exploded.
+
+35
+00:02:32,000 --> 00:02:37,797
+The jet that crashed was actually an F-117, still classified at the time.
+
+36
+00:02:37,837 --> 00:02:41,155
+No real F-19 has ever been shown to exist.
+
+37
+00:02:41,567 --> 00:02:48,173
+Meanwhile, the A-10 is the only aircraft in today's Air Force that still carries a plain A.
+
+38
+00:02:48,900 --> 00:02:56,485
+Next comes the modified mission: an extra letter in front, for an aircraft rebuilt, or built, for a different job.
+
+39
+00:02:56,900 --> 00:03:01,374
+The best example is the C-130 Hercules, a cargo plane.
+
+40
+00:03:01,800 --> 00:03:05,733
+Put an A in front, and the AC-130 is a gunship.
+
+41
+00:03:05,773 --> 00:03:08,184
+H makes it a rescue aircraft.
+
+42
+00:03:08,224 --> 00:03:10,720
+M makes it special operations.
+
+43
+00:03:10,760 --> 00:03:13,256
+E makes it electronic warfare.
+
+44
+00:03:13,296 --> 00:03:15,285
+And K makes it a tanker.
+
+45
+00:03:15,700 --> 00:03:16,947
+Same airframe.
+
+46
+00:03:16,987 --> 00:03:19,429
+One letter changes the job.
+
+47
+00:03:19,833 --> 00:03:24,158
+That's why the Air Force's newest tanker is the KC-46.
+
+48
+00:03:24,198 --> 00:03:27,067
+K for tanker, on top of C for cargo.
+
+49
+00:03:27,500 --> 00:03:30,011
+The rest of the list works the same way.
+
+50
+00:03:30,051 --> 00:03:36,197
+W is weather reconnaissance, which is why the Air Force's hurricane hunters are W C one thirties.
+
+51
+00:03:36,633 --> 00:03:38,052
+V is VIP transport.
+
+52
+00:03:38,092 --> 00:03:47,645
+The President's Boeing seven forty-seven is the V C twenty-five, and the President's newest helicopter is the V H ninety-two.
+
+53
+00:03:48,067 --> 00:03:50,794
+L means modified for cold weather.
+
+54
+00:03:50,834 --> 00:03:54,700
+The L C one thirty has skis, for landing on ice.
+
+55
+00:03:55,133 --> 00:03:59,572
+And M and U look alike, but they're split by the kind of mission.
+
+56
+00:03:59,612 --> 00:04:02,673
+M aircraft fly combat and special operations.
+
+57
+00:04:02,713 --> 00:04:06,394
+U aircraft fly support, like the U H sixty Black Hawk.
+
+58
+00:04:07,100 --> 00:04:12,112
+The vehicle type sits right before the dash, and most airplanes don't need one at all.
+
+59
+00:04:12,533 --> 00:04:18,390
+H means helicopter, like the AH-64 Apache: an attack helicopter.
+
+60
+00:04:18,800 --> 00:04:23,546
+V means vertical or short takeoff, like the MV-22 Osprey.
+
+61
+00:04:23,967 --> 00:04:25,792
+And Q means unmanned.
+
+62
+00:04:25,832 --> 00:04:32,188
+So the MQ-9 Reaper reads as multi-mission, unmanned, design number nine.
+
+63
+00:04:32,600 --> 00:04:37,267
+There's even a letter for a spaceplane, and one for the ground stations that fly drones.
+
+64
+00:04:38,000 --> 00:04:43,447
+In front of everything sits the status prefix, for aircraft that aren't in normal service.
+
+65
+00:04:43,867 --> 00:04:45,541
+X means experimental.
+
+66
+00:04:45,581 --> 00:04:47,011
+Y means prototype.
+
+67
+00:04:47,051 --> 00:04:55,912
+That's why the jet that flew in the competition was the YF-22, and the one that entered service was the F-22.
+
+68
+00:04:56,333 --> 00:05:00,741
+J and N mean special test, temporary or permanent.
+
+69
+00:05:00,781 --> 00:05:03,676
+And G means permanently grounded.
+
+70
+00:05:04,400 --> 00:05:06,801
+After the dash comes the design number.
+
+71
+00:05:06,841 --> 00:05:13,060
+In nineteen sixty-two, the counts were restarted, which is why the numbers suddenly got small again.
+
+72
+00:05:13,467 --> 00:05:18,202
+Then the series letter marks each version: A, then B, then C.
+
+73
+00:05:18,242 --> 00:05:24,230
+The letters I and O are skipped, so they're never confused with one and zero.
+
+74
+00:05:24,633 --> 00:05:27,633
+There was never an F-4H Phantom, either.
+
+75
+00:05:27,673 --> 00:05:33,407
+That letter was skipped to avoid confusion with its old Navy name, F four H.
+
+76
+00:05:33,833 --> 00:05:38,074
+And the number thirteen has been skipped in many series, for superstition.
+
+77
+00:05:38,800 --> 00:05:40,695
+Then there are the rule breakers.
+
+78
+00:05:41,100 --> 00:05:45,294
+The SR-71 Blackbird continued the old bomber numbers.
+
+79
+00:05:45,334 --> 00:05:53,843
+It was set to be called RS-71, but Air Force chief Curtis LeMay preferred SR, for strategic reconnaissance.
+
+80
+00:05:53,883 --> 00:05:55,521
+And SR is what stuck.
+
+81
+00:05:55,933 --> 00:06:01,236
+The B-21 skipped ahead, because it's the first bomber of the twenty-first century.
+
+82
+00:06:01,276 --> 00:06:03,451
+The next number in line was three.
+
+83
+00:06:03,867 --> 00:06:13,438
+The MV-75, the Army's new tiltrotor, jumped all the way to seventy-five, to honor the year the Army was founded, seventeen seventy-five.
+
+84
+00:06:13,867 --> 00:06:20,019
+The T-6 Texan Two skipped four and five, as a tribute to the original T-6 trainer.
+
+85
+00:06:20,433 --> 00:06:28,109
+The F-47 was chosen partly to honor the P-47 Thunderbolt, and nineteen forty-seven, the year the Air Force was founded.
+
+86
+00:06:28,533 --> 00:06:30,871
+Some numbers simply copy the maker.
+
+87
+00:06:30,911 --> 00:06:37,051
+A tanker sold abroad became the K C seven sixty-seven, straight from Boeing's model number.
+
+88
+00:06:37,467 --> 00:06:43,129
+And the F/A-18 Hornet has a slash that the system doesn't even allow.
+
+89
+00:06:43,169 --> 00:06:46,766
+By the rules, it should have been the AF-18.
+
+90
+00:06:47,500 --> 00:06:50,874
+Missiles get the same treatment, with three letters of their own.
+
+91
+00:06:51,300 --> 00:06:55,191
+The first letter says where it's launched from.
+
+92
+00:06:55,231 --> 00:06:55,944
+A is air.
+
+93
+00:06:55,984 --> 00:06:57,617
+R is a surface ship.
+
+94
+00:06:57,657 --> 00:06:58,955
+U is underwater.
+
+95
+00:06:58,995 --> 00:06:59,959
+L is a silo.
+
+96
+00:06:59,999 --> 00:07:03,556
+And B means more than one kind of launcher.
+
+97
+00:07:03,967 --> 00:07:06,307
+The second letter is the job.
+
+98
+00:07:06,347 --> 00:07:09,590
+I means intercepting targets in the air.
+
+99
+00:07:09,630 --> 00:07:13,201
+G means attacking targets on land or at sea.
+
+100
+00:07:13,633 --> 00:07:15,764
+And the third says what it is.
+
+101
+00:07:15,804 --> 00:07:17,284
+M for guided missile.
+
+102
+00:07:17,324 --> 00:07:21,336
+R for a rocket that can't be steered once it's launched.
+
+103
+00:07:21,767 --> 00:07:27,390
+So an AIM-9 reads as air-launched, intercept, guided missile.
+
+104
+00:07:27,800 --> 00:07:31,150
+The Sparrow shows how flexible this is.
+
+105
+00:07:31,190 --> 00:07:34,019
+Fired from a jet, it's the AIM-7.
+
+106
+00:07:34,059 --> 00:07:38,539
+Fired from a ship, it becomes the RIM-7 Sea Sparrow.
+
+107
+00:07:38,579 --> 00:07:41,147
+Same number, new first letter.
+
+108
+00:07:41,567 --> 00:07:45,402
+And an RGM-84D Harpoon reads the same way.
+
+109
+00:07:45,442 --> 00:07:46,694
+Ship-launched.
+
+110
+00:07:46,734 --> 00:07:48,079
+Surface attack.
+
+111
+00:07:48,119 --> 00:07:49,463
+Guided missile.
+
+112
+00:07:49,503 --> 00:07:51,216
+Design eighty-four.
+
+113
+00:07:51,256 --> 00:07:53,062
+Fourth modification.
+
+114
+00:07:53,767 --> 00:07:57,941
+Now, a longer aircraft name: the HH-60G.
+
+115
+00:07:58,367 --> 00:08:02,647
+The first H is the modified mission: search and rescue.
+
+116
+00:08:02,687 --> 00:08:06,183
+The second H is the vehicle type: helicopter.
+
+117
+00:08:06,223 --> 00:08:11,525
+Sixty is the design number, the same family as the UH-60 Black Hawk.
+
+118
+00:08:11,565 --> 00:08:13,646
+And G is the series letter.
+
+119
+00:08:14,067 --> 00:08:21,276
+In fact, some of them started life as Black Hawks that were modified for rescue, and the mission letter followed the new job.
+
+120
+00:08:22,000 --> 00:08:28,500
+So, the next time you see a name like MQ-9A, read it left to right.
+
+121
+00:08:28,540 --> 00:08:29,867
+Multi-mission.
+
+122
+00:08:29,907 --> 00:08:30,745
+Unmanned.
+
+123
+00:08:30,785 --> 00:08:31,916
+Design nine.
+
+124
+00:08:31,956 --> 00:08:33,283
+First version.
+
+125
+00:08:33,700 --> 00:08:38,982
+And if the number looks wrong, like F-35, there's usually a story behind it.
+
+126
+00:08:39,400 --> 00:08:42,207
+Which aircraft name should I decode next?
+
+127
+00:08:42,247 --> 00:08:43,873
+Tell me in the comments.
