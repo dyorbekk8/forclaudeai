@@ -1,1 +1,1174 @@
-{}
+{
+ "s1": {
+  "total": 723,
+  "title": "Why Some Bombs Have Two Yellow Stripes",
+  "shots": [
+   {
+    "id": "s1a",
+    "beat": "s1a",
+    "scene": "live",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "One",
+      "f": 0
+     },
+     {
+      "w": "yellow",
+      "f": 8
+     },
+     {
+      "w": "stripe",
+      "f": 17
+     },
+     {
+      "w": "on",
+      "f": 29
+     },
+     {
+      "w": "a",
+      "f": 35
+     },
+     {
+      "w": "bomb",
+      "f": 38
+     },
+     {
+      "w": "means",
+      "f": 47
+     },
+     {
+      "w": "it's",
+      "f": 55
+     },
+     {
+      "w": "live.",
+      "f": 63
+     }
+    ],
+    "from": 0,
+    "dur": 85,
+    "cues": [
+     {
+      "file": "whoosh_hard_1",
+      "frame": 0,
+      "gain": -12
+     },
+     {
+      "file": "sub_hit_1",
+      "frame": 2,
+      "gain": -12
+     },
+     {
+      "file": "marker_scribble",
+      "frame": 6,
+      "gain": -18
+     }
+    ]
+   },
+   {
+    "id": "s1b",
+    "beat": "s1b",
+    "scene": "two",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "So",
+      "f": 2
+     },
+     {
+      "w": "why",
+      "f": 13
+     },
+     {
+      "w": "do",
+      "f": 21
+     },
+     {
+      "w": "some",
+      "f": 27
+     },
+     {
+      "w": "bombs",
+      "f": 35
+     },
+     {
+      "w": "have",
+      "f": 45
+     },
+     {
+      "w": "two?",
+      "f": 53
+     }
+    ],
+    "from": 85,
+    "dur": 75,
+    "cues": [
+     {
+      "file": "pop_1",
+      "frame": 91,
+      "gain": -14
+     },
+     {
+      "file": "marker_scribble",
+      "frame": 93,
+      "gain": -18
+     },
+     {
+      "file": "tick_2",
+      "frame": 99,
+      "gain": -14
+     }
+    ]
+   },
+   {
+    "id": "s1c",
+    "beat": "s1c",
+    "scene": "fire",
+    "props": {
+     "ev": [
+      204
+     ]
+    },
+    "words": [
+     {
+      "w": "In",
+      "f": 2
+     },
+     {
+      "w": "1967,",
+      "f": 12
+     },
+     {
+      "w": "a",
+      "f": 54
+     },
+     {
+      "w": "fire",
+      "f": 60
+     },
+     {
+      "w": "broke",
+      "f": 69
+     },
+     {
+      "w": "out",
+      "f": 77
+     },
+     {
+      "w": "on",
+      "f": 84
+     },
+     {
+      "w": "the",
+      "f": 88
+     },
+     {
+      "w": "carrier",
+      "f": 93
+     },
+     {
+      "w": "USS",
+      "f": 102
+     },
+     {
+      "w": "Forrestal.",
+      "f": 126
+     },
+     {
+      "w": "A",
+      "f": 168
+     },
+     {
+      "w": "bomb",
+      "f": 176
+     },
+     {
+      "w": "in",
+      "f": 184
+     },
+     {
+      "w": "the",
+      "f": 189
+     },
+     {
+      "w": "flames",
+      "f": 192
+     },
+     {
+      "w": "exploded",
+      "f": 204
+     },
+     {
+      "w": "about",
+      "f": 224
+     },
+     {
+      "w": "a",
+      "f": 235
+     },
+     {
+      "w": "minute",
+      "f": 240
+     },
+     {
+      "w": "and",
+      "f": 244
+     },
+     {
+      "w": "a",
+      "f": 252
+     },
+     {
+      "w": "half",
+      "f": 255
+     },
+     {
+      "w": "later.",
+      "f": 261
+     }
+    ],
+    "from": 160,
+    "dur": 280,
+    "cues": [
+     {
+      "file": "heat_rise",
+      "frame": 160,
+      "gain": -18
+     },
+     {
+      "file": "sub_hit_1",
+      "frame": 364,
+      "gain": -10
+     },
+     {
+      "file": "glass_shatter_1",
+      "frame": 364,
+      "gain": -16
+     }
+    ]
+   },
+   {
+    "id": "s1d",
+    "beat": "s1d",
+    "scene": "bars",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "After",
+      "f": 2
+     },
+     {
+      "w": "that,",
+      "f": 10
+     },
+     {
+      "w": "the",
+      "f": 26
+     },
+     {
+      "w": "Navy",
+      "f": 33
+     },
+     {
+      "w": "pushed",
+      "f": 40
+     },
+     {
+      "w": "for",
+      "f": 50
+     },
+     {
+      "w": "bombs",
+      "f": 59
+     },
+     {
+      "w": "that",
+      "f": 70
+     },
+     {
+      "w": "could",
+      "f": 79
+     },
+     {
+      "w": "sit",
+      "f": 82
+     },
+     {
+      "w": "in",
+      "f": 88
+     },
+     {
+      "w": "a",
+      "f": 92
+     },
+     {
+      "w": "fire",
+      "f": 95
+     },
+     {
+      "w": "for",
+      "f": 103
+     },
+     {
+      "w": "several",
+      "f": 111
+     },
+     {
+      "w": "minutes.",
+      "f": 122
+     }
+    ],
+    "from": 440,
+    "dur": 146,
+    "cues": [
+     {
+      "file": "tick_1",
+      "frame": 444,
+      "gain": -16
+     },
+     {
+      "file": "riser_2s",
+      "frame": 450,
+      "gain": -24
+     },
+     {
+      "file": "pop_2",
+      "frame": 488,
+      "gain": -16
+     }
+    ]
+   },
+   {
+    "id": "s1e",
+    "beat": "s1e",
+    "scene": "coated",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "That",
+      "f": 2
+     },
+     {
+      "w": "second",
+      "f": 9
+     },
+     {
+      "w": "yellow",
+      "f": 21
+     },
+     {
+      "w": "stripe",
+      "f": 30
+     },
+     {
+      "w": "marks",
+      "f": 44
+     },
+     {
+      "w": "the",
+      "f": 60
+     },
+     {
+      "w": "ones",
+      "f": 66
+     },
+     {
+      "w": "built",
+      "f": 74
+     },
+     {
+      "w": "to",
+      "f": 82
+     },
+     {
+      "w": "buy",
+      "f": 90
+     },
+     {
+      "w": "you",
+      "f": 95
+     },
+     {
+      "w": "time.",
+      "f": 100
+     }
+    ],
+    "from": 586,
+    "dur": 137,
+    "cues": [
+     {
+      "file": "whoosh_soft_2",
+      "frame": 586,
+      "gain": -16
+     },
+     {
+      "file": "stamp_thud_1",
+      "frame": 598,
+      "gain": -10
+     }
+    ]
+   }
+  ]
+ },
+ "s2": {
+  "total": 702,
+  "title": "A Blue Bomb Isn't Harmless",
+  "shots": [
+   {
+    "id": "s2a",
+    "beat": "s2a",
+    "scene": "blue",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "This",
+      "f": 0
+     },
+     {
+      "w": "bomb",
+      "f": 9
+     },
+     {
+      "w": "is",
+      "f": 22
+     },
+     {
+      "w": "blue.",
+      "f": 32
+     },
+     {
+      "w": "Blue",
+      "f": 61
+     },
+     {
+      "w": "means",
+      "f": 71
+     },
+     {
+      "w": "practice.",
+      "f": 88
+     }
+    ],
+    "from": 0,
+    "dur": 117,
+    "cues": [
+     {
+      "file": "whoosh_hard_1",
+      "frame": 0,
+      "gain": -12
+     },
+     {
+      "file": "sub_hit_2",
+      "frame": 2,
+      "gain": -12
+     }
+    ]
+   },
+   {
+    "id": "s2b",
+    "beat": "s2b",
+    "scene": "harmless",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "So,",
+      "f": 2
+     },
+     {
+      "w": "it's",
+      "f": 22
+     },
+     {
+      "w": "harmless,",
+      "f": 30
+     },
+     {
+      "w": "right?",
+      "f": 46
+     }
+    ],
+    "from": 117,
+    "dur": 61,
+    "cues": [
+     {
+      "file": "tick_2",
+      "frame": 125,
+      "gain": -14
+     }
+    ]
+   },
+   {
+    "id": "s2c",
+    "beat": "s2c",
+    "scene": "puff",
+    "props": {
+     "ev": [
+      111
+     ]
+    },
+    "words": [
+     {
+      "w": "Not",
+      "f": 2
+     },
+     {
+      "w": "quite.",
+      "f": 10
+     },
+     {
+      "w": "Inside",
+      "f": 45
+     },
+     {
+      "w": "is",
+      "f": 57
+     },
+     {
+      "w": "a",
+      "f": 67
+     },
+     {
+      "w": "spotting",
+      "f": 71
+     },
+     {
+      "w": "charge,",
+      "f": 82
+     },
+     {
+      "w": "a",
+      "f": 106
+     },
+     {
+      "w": "puff",
+      "f": 111
+     },
+     {
+      "w": "of",
+      "f": 114
+     },
+     {
+      "w": "smoke",
+      "f": 119
+     },
+     {
+      "w": "that",
+      "f": 129
+     },
+     {
+      "w": "shows",
+      "f": 137
+     },
+     {
+      "w": "pilots",
+      "f": 145
+     },
+     {
+      "w": "where",
+      "f": 157
+     },
+     {
+      "w": "they",
+      "f": 167
+     },
+     {
+      "w": "hit.",
+      "f": 172
+     }
+    ],
+    "from": 178,
+    "dur": 190,
+    "cues": [
+     {
+      "file": "whoosh_soft_1",
+      "frame": 178,
+      "gain": -16
+     },
+     {
+      "file": "sub_hit_2",
+      "frame": 289,
+      "gain": -12
+     },
+     {
+      "file": "whoosh_soft_4",
+      "frame": 289,
+      "gain": -16
+     }
+    ]
+   },
+   {
+    "id": "s2d",
+    "beat": "s2d",
+    "scene": "a10",
+    "props": {
+     "ev": [
+      70,
+      96
+     ]
+    },
+    "words": [
+     {
+      "w": "In",
+      "f": 2
+     },
+     {
+      "w": "2019,",
+      "f": 14
+     },
+     {
+      "w": "an",
+      "f": 46
+     },
+     {
+      "w": "A",
+      "f": 48
+     },
+     {
+      "w": "-10",
+      "f": 54
+     },
+     {
+      "w": "hit",
+      "f": 60
+     },
+     {
+      "w": "a",
+      "f": 66
+     },
+     {
+      "w": "bird",
+      "f": 70
+     },
+     {
+      "w": "and",
+      "f": 76
+     },
+     {
+      "w": "accidentally",
+      "f": 82
+     },
+     {
+      "w": "dropped",
+      "f": 96
+     },
+     {
+      "w": "three",
+      "f": 109
+     },
+     {
+      "w": "of",
+      "f": 119
+     },
+     {
+      "w": "them",
+      "f": 123
+     },
+     {
+      "w": "over",
+      "f": 128
+     },
+     {
+      "w": "northern",
+      "f": 137
+     },
+     {
+      "w": "Florida.",
+      "f": 147
+     }
+    ],
+    "from": 368,
+    "dur": 170,
+    "cues": [
+     {
+      "file": "whoosh_hard_2",
+      "frame": 368,
+      "gain": -16
+     },
+     {
+      "file": "glass_shatter_2",
+      "frame": 438,
+      "gain": -16
+     },
+     {
+      "file": "pop_1",
+      "frame": 464,
+      "gain": -14
+     }
+    ]
+   },
+   {
+    "id": "s2e",
+    "beat": "s2e",
+    "scene": "rules",
+    "props": {
+     "ev": [
+      78,
+      115
+     ]
+    },
+    "words": [
+     {
+      "w": "The",
+      "f": 2
+     },
+     {
+      "w": "Air",
+      "f": 5
+     },
+     {
+      "w": "Force's",
+      "f": 11
+     },
+     {
+      "w": "advice",
+      "f": 24
+     },
+     {
+      "w": "was",
+      "f": 35
+     },
+     {
+      "w": "simple.",
+      "f": 46
+     },
+     {
+      "w": "Don't",
+      "f": 78
+     },
+     {
+      "w": "approach",
+      "f": 88
+     },
+     {
+      "w": "it.",
+      "f": 92
+     },
+     {
+      "w": "Call",
+      "f": 115
+     },
+     {
+      "w": "it",
+      "f": 124
+     },
+     {
+      "w": "in.",
+      "f": 129
+     }
+    ],
+    "from": 538,
+    "dur": 164,
+    "cues": [
+     {
+      "file": "pop_2",
+      "frame": 616,
+      "gain": -14
+     },
+     {
+      "file": "stamp_thud_2",
+      "frame": 653,
+      "gain": -10
+     }
+    ]
+   }
+  ]
+ },
+ "s3": {
+  "total": 748,
+  "title": "The Stripe That Means Nerve Agent",
+  "shots": [
+   {
+    "id": "s3a",
+    "beat": "s3a",
+    "scene": "gray",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "A",
+      "f": 0
+     },
+     {
+      "w": "gray",
+      "f": 5
+     },
+     {
+      "w": "shell",
+      "f": 13
+     },
+     {
+      "w": "with",
+      "f": 22
+     },
+     {
+      "w": "a",
+      "f": 29
+     },
+     {
+      "w": "broken",
+      "f": 34
+     },
+     {
+      "w": "green",
+      "f": 43
+     },
+     {
+      "w": "stripe",
+      "f": 54
+     },
+     {
+      "w": "is",
+      "f": 67
+     },
+     {
+      "w": "the",
+      "f": 75
+     },
+     {
+      "w": "one",
+      "f": 80
+     },
+     {
+      "w": "you",
+      "f": 86
+     },
+     {
+      "w": "never",
+      "f": 92
+     },
+     {
+      "w": "want",
+      "f": 101
+     },
+     {
+      "w": "to",
+      "f": 109
+     },
+     {
+      "w": "see.",
+      "f": 115
+     }
+    ],
+    "from": 0,
+    "dur": 132,
+    "cues": [
+     {
+      "file": "whoosh_hard_1",
+      "frame": 0,
+      "gain": -12
+     },
+     {
+      "file": "sub_hit_1",
+      "frame": 2,
+      "gain": -12
+     },
+     {
+      "file": "marker_scribble",
+      "frame": 6,
+      "gain": -18
+     }
+    ]
+   },
+   {
+    "id": "s3b",
+    "beat": "s3b",
+    "scene": "meaning",
+    "props": {
+     "ev": [
+      61
+     ]
+    },
+    "words": [
+     {
+      "w": "Gray",
+      "f": 2
+     },
+     {
+      "w": "means",
+      "f": 10
+     },
+     {
+      "w": "chemical.",
+      "f": 22
+     },
+     {
+      "w": "Dark",
+      "f": 61
+     },
+     {
+      "w": "green",
+      "f": 64
+     },
+     {
+      "w": "means",
+      "f": 75
+     },
+     {
+      "w": "toxic.",
+      "f": 92
+     }
+    ],
+    "from": 132,
+    "dur": 119,
+    "cues": [
+     {
+      "file": "pop_1",
+      "frame": 134,
+      "gain": -14
+     },
+     {
+      "file": "marker_scribble",
+      "frame": 193,
+      "gain": -18
+     }
+    ]
+   },
+   {
+    "id": "s3c",
+    "beat": "s3c",
+    "scene": "binary",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "And",
+      "f": 2
+     },
+     {
+      "w": "when",
+      "f": 15
+     },
+     {
+      "w": "that",
+      "f": 24
+     },
+     {
+      "w": "green",
+      "f": 32
+     },
+     {
+      "w": "band",
+      "f": 40
+     },
+     {
+      "w": "is",
+      "f": 51
+     },
+     {
+      "w": "broken",
+      "f": 57
+     },
+     {
+      "w": "into",
+      "f": 64
+     },
+     {
+      "w": "dashes,",
+      "f": 73
+     },
+     {
+      "w": "it",
+      "f": 101
+     },
+     {
+      "w": "marks",
+      "f": 101
+     },
+     {
+      "w": "a",
+      "f": 110
+     },
+     {
+      "w": "binary",
+      "f": 118
+     },
+     {
+      "w": "nerve",
+      "f": 130
+     },
+     {
+      "w": "agent.",
+      "f": 142
+     }
+    ],
+    "from": 251,
+    "dur": 165,
+    "cues": [
+     {
+      "file": "tick_1",
+      "frame": 255,
+      "gain": -16
+     },
+     {
+      "file": "stamp_thud_2",
+      "frame": 271,
+      "gain": -12
+     }
+    ]
+   },
+   {
+    "id": "s3d",
+    "beat": "s3d",
+    "scene": "ab",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "two",
+      "f": 2
+     },
+     {
+      "w": "chemicals",
+      "f": 9
+     },
+     {
+      "w": "stored",
+      "f": 24
+     },
+     {
+      "w": "apart",
+      "f": 39
+     },
+     {
+      "w": "that",
+      "f": 50
+     },
+     {
+      "w": "only",
+      "f": 62
+     },
+     {
+      "w": "mix",
+      "f": 71
+     },
+     {
+      "w": "after",
+      "f": 82
+     },
+     {
+      "w": "the",
+      "f": 96
+     },
+     {
+      "w": "shell",
+      "f": 102
+     },
+     {
+      "w": "is",
+      "f": 109
+     },
+     {
+      "w": "fired.",
+      "f": 114
+     }
+    ],
+    "from": 416,
+    "dur": 134,
+    "cues": [
+     {
+      "file": "whoosh_soft_2",
+      "frame": 446,
+      "gain": -16
+     },
+     {
+      "file": "sub_hit_1",
+      "frame": 472,
+      "gain": -14
+     }
+    ]
+   },
+   {
+    "id": "s3e",
+    "beat": "s3e",
+    "scene": "date",
+    "props": {
+     "ev": []
+    },
+    "words": [
+     {
+      "w": "The",
+      "f": 2
+     },
+     {
+      "w": "United",
+      "f": 12
+     },
+     {
+      "w": "States",
+      "f": 24
+     },
+     {
+      "w": "destroyed",
+      "f": 42
+     },
+     {
+      "w": "the",
+      "f": 60
+     },
+     {
+      "w": "last",
+      "f": 68
+     },
+     {
+      "w": "of",
+      "f": 78
+     },
+     {
+      "w": "its",
+      "f": 84
+     },
+     {
+      "w": "declared",
+      "f": 88
+     },
+     {
+      "w": "chemical",
+      "f": 101
+     },
+     {
+      "w": "weapons",
+      "f": 114
+     },
+     {
+      "w": "in",
+      "f": 132
+     },
+     {
+      "w": "2023.",
+      "f": 143
+     }
+    ],
+    "from": 550,
+    "dur": 198,
+    "cues": [
+     {
+      "file": "paper_slide",
+      "frame": 550,
+      "gain": -18
+     },
+     {
+      "file": "stamp_thud_1",
+      "frame": 574,
+      "gain": -10
+     }
+    ]
+   }
+  ]
+ }
+}

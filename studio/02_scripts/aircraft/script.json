@@ -67,7 +67,7 @@
   },
   {
    "id": "m2",
-   "text": "A is attack, built for hitting targets on the ground. B is bomber. C is cargo. F is fighter.",
+   "text": "A is attack, built for hitting targets on land or at sea. B is bomber. C is cargo. F is fighter.",
    "src": [
     "WIKI_1962"
    ]
@@ -102,14 +102,14 @@
   },
   {
    "id": "m6",
-   "text": "The Air Force even gave the F to the F-117 Nighthawk, a stealth jet with no air-to-air mission at all.",
+   "text": "The Air Force even gave the F to the F-117 Nighthawk, a stealth jet built for ground attack, with no official air-to-air role.",
    "src": [
     "WIKI_1962"
    ]
   },
   {
    "id": "m6b",
-   "text": "For years, people were convinced a secret F-19 stealth fighter existed. In July nineteen eighty-six, the Air Force sealed off a crash site in Nevada, and the rumors exploded.",
+   "text": "For years, people were convinced a secret F-19 stealth fighter existed. In July nineteen eighty-six, the Air Force sealed off a crash site in California, and the rumors exploded.",
    "src": [
     "WIKI_1962"
    ]
@@ -163,7 +163,7 @@
   },
   {
    "id": "d5b",
-   "text": "The rest of the list works the same way. W is weather reconnaissance, which is why the planes that fly into hurricanes are W C one thirties.",
+   "text": "The rest of the list works the same way. W is weather reconnaissance, which is why the Air Force's hurricane hunters are W C one thirties.",
    "src": [
     "WIKI_1962"
    ]
@@ -184,7 +184,7 @@
   },
   {
    "id": "d5e",
-   "text": "And M and U look alike, but they're split by risk. M aircraft fly combat and special operations. U aircraft fly support, like the U H sixty Black Hawk.",
+   "text": "And M and U look alike, but they're split by the kind of mission. M aircraft fly combat and special operations. U aircraft fly support, like the U H sixty Black Hawk.",
    "src": [
     "WIKI_1962"
    ]
@@ -309,7 +309,7 @@
   },
   {
    "id": "x5",
-   "text": "The F-47 was chosen to honor the P-47 Thunderbolt, and nineteen forty-seven, the year the Air Force was founded.",
+   "text": "The F-47 was chosen partly to honor the P-47 Thunderbolt, and nineteen forty-seven, the year the Air Force was founded.",
    "src": [
     "WIKI_1962"
    ]

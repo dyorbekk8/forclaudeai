@@ -11,6 +11,11 @@ LINES = {l['id']: l['text'] for l in json.load(open(os.path.join(ROOT, '02_scrip
 ORDER = [l['id'] for l in json.load(open(os.path.join(ROOT, '02_scripts', 'aircraft', 'script.json')))['lines']]
 VO = os.path.join(ROOT, '03_voiceover', 'aircraft', 'final')
 asr = WhisperModel('small.en', device='cpu', compute_type='int8')
+import numpy as np
+def load16(path):
+    x, sr = sf.read(path, dtype='float32')
+    if x.ndim > 1: x = x.mean(axis=1)
+    return np.interp(np.arange(0, len(x), sr / 16000), np.arange(len(x)), x).astype(np.float32)
 
 T = lambda *ls: [dict(t=l) if isinstance(l, str) else l for l in ls]
 R = lambda t: dict(t=t, red=True)
@@ -46,8 +51,8 @@ SPEC = {
  'm3b': [(0, 'Letters', dict(title='ON THE LIST · NEVER USED BY THE BOOK', items=[dict(l='K', m='TANKER', dim=False), dict(l='R', m='RECONNAISSANCE')]), ['K for', 'R for'], POP[:2] + [['stamp_thud_1', 'ev:1+20', -16]])],
  'm4': [(0, 'Story', STORY('U-2 · "UTILITY"', 'A SPY PLANE LABELED UTILITY', 'TO HIDE WHAT IT REALLY DID', 'COVER\nSTORY', 'u2'), ['spy plane', 'hide'], ST)],
  'm5': [(0, 'Kinetic', dict(lines=T('ATTACK VS FIGHTER', R('THE LINE HAS BLURRED'))), ['attack', 'blurred'], TK)],
- 'm6': [(0, 'Story', STORY('F-117 NIGHTHAWK', 'A "FIGHTER" WITH NO AIR-TO-AIR MISSION', None, None, 'stealth', '#2A2D33'), [], [['whoosh_soft_3', 'f:0', -16], ['tick_2', 'f:10', -18]])],
- 'm6b': [(0, 'Story', STORY('JULY 1986 · NEVADA', 'THE SECRET "F-19"?', 'A CRASH SITE SEALED OFF', 'RUMOR', 'stealth', '#2A2D33'), ['sealed off', 'rumors'], ST + [['riser_2s', 'ev:0', -24]])],
+ 'm6': [(0, 'Story', STORY('F-117 NIGHTHAWK', 'A "FIGHTER" BUILT FOR GROUND ATTACK', None, None, 'stealth', '#2A2D33'), [], [['whoosh_soft_3', 'f:0', -16], ['tick_2', 'f:10', -18]])],
+ 'm6b': [(0, 'Story', STORY('JULY 1986 · CALIFORNIA', 'THE SECRET "F-19"?', 'A CRASH SITE SEALED OFF', 'RUMOR', 'stealth', '#2A2D33'), ['sealed off', 'rumors'], ST + [['riser_2s', 'ev:0', -24]])],
  'm6c': [(0, 'Story', STORY('THE TRUTH', 'IT WAS AN F-117', 'NO REAL F-19 HAS EVER BEEN SHOWN', 'STILL CLASSIFIED\nAT THE TIME', 'stealth', '#2A2D33'), ['still classified', 'No real'], ST + [['sub_hit_2', 'f:4', -14]])],
  'm7': [(0, 'Code', CODE(['', '', 'A', '', '10', ''], 2, 'a10', 'THE ONLY PLAIN "A" IN TODAY\'S AIR FORCE'), ['A ten', 'plain'], SLOT)],
  'd1': [(0, 'Code', CODE(['', '?', 'C', '', '130', ''], 1, 'cargo', 'AN EXTRA LETTER = A NEW JOB'), ['extra letter', 'different job'], SLOT)],
@@ -55,7 +60,7 @@ SPEC = {
  'd3': [(0, 'Morph', {}, ['A in front', 'H makes', 'M makes', 'E makes', 'K makes'], [['stamp_thud_2', 'ev:0', -16], ['pop_1', 'ev:1', -16], ['pop_2', 'ev:2', -16], ['pop_3', 'ev:3', -16], ['stamp_thud_1', 'ev:4', -14]])],
  'd4': [(0, 'Kinetic', dict(lines=T('SAME AIRFRAME', R('ONE LETTER CHANGES THE JOB'))), ['Same airframe', 'One letter'], TK)],
  'd5': [(0, 'Code', CODE(['', 'K', 'C', '', '46', ''], 1, 'jumbo', 'K = TANKER · C = CARGO'), ['K for', 'C for'], SLOT)],
- 'd5b': [(0, 'Code', CODE(['', 'W', 'C', '', '130', ''], 1, 'cargo', 'WEATHER RECON · HURRICANE HUNTERS'), ['W is', 'hurricanes'], SLOT)],
+ 'd5b': [(0, 'Code', CODE(['', 'W', 'C', '', '130', ''], 1, 'cargo', 'WEATHER RECON · HURRICANE HUNTERS'), ['W is', 'hurricane'], SLOT)],
  'd5c': [(0, 'Breakers', dict(items=[dict(name='VC-25', why='THE PRESIDENT\'S 747', kind='jumbo'), dict(name='VH-92', why='THE PRESIDENT\'S HELICOPTER', kind='heli')]), ['V C', 'V H'], POP)],
  'd5d': [(0, 'Code', CODE(['', 'L', 'C', '', '130', ''], 1, 'cargo', 'COLD WEATHER · SKIS FOR ICE'), ['L means', 'skis'], SLOT)],
  'd5e': [(0, 'Letters', dict(title='M VS U', items=[dict(l='M', m='COMBAT · SPECIAL OPS', kind='heli'), dict(l='U', m='SUPPORT · UH-60', kind='heli')]), ['M aircraft', 'U aircraft'], POP)],
@@ -87,7 +92,7 @@ STEPOF = {'h': -1, 'm': 2, 'd': 1, 'v': 3, 'p': 0, 'n': 4, 'x': 6, 'e': 6}
 
 norm = lambda w: re.sub(r"[^a-z0-9']", '', w.lower())
 def word_times(path, text, lead):
-    segs, _ = asr.transcribe(path, language='en', word_timestamps=True)
+    segs, _ = asr.transcribe(load16(path), language='en', word_timestamps=True)
     ws = [w for s in segs for w in s.words]
     sw = text.split()
     times = []

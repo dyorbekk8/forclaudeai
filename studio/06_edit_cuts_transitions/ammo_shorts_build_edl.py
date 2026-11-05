@@ -11,6 +11,11 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 VO = os.path.join(ROOT, '03_voiceover', 'ammo_shorts', 'final')
 OUT = os.path.join(ROOT, '07_render', 'src', 'short')
 asr = WhisperModel('small.en', device='cpu', compute_type='int8')
+import numpy as np
+def load16(path):
+    x, sr = sf.read(path, dtype='float32')
+    if x.ndim > 1: x = x.mean(axis=1)
+    return np.interp(np.arange(0, len(x), sr / 16000), np.arange(len(x)), x).astype(np.float32)
 
 # scene, event first-words, sfx [file, 'f:N' | 'ev:i(+/-N)', gain]
 PLAN = {
@@ -44,7 +49,7 @@ for k, lines in PLAN.items():
         lead = 0.0 if n == 0 else 0.05
         tail = 0.8 if n == len(ids) - 1 else 0.18
         dur = round((lead + vo + tail) * FPS)
-        segs, _ = asr.transcribe(path, language='en', word_timestamps=True)
+        segs, _ = asr.transcribe(load16(path), language='en', word_timestamps=True)
         words = [dict(w=w.word.strip(), f=round((lead + w.start) * FPS)) for s in segs for w in s.words]
         scene, evw, sfx = lines[i]
         ev = []

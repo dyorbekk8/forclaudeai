@@ -1,0 +1,37 @@
+interpol_notices|interpol notices colors explained
+interpol_notices2|interpol red notice explained
+navy_hull|navy ship hull classification symbols explained
+navy_hull2|what do navy ship letters mean CVN DDG
+missile_desig|missile designation system explained AIM AGM
+missile_desig2|what do missile names mean AIM-9 AGM-114
+nato_names|nato reporting names explained
+nato_names2|why does nato call russian jets flanker fulcrum
+mopp|mopp levels explained
+mopp2|mopp gear levels military chemical
+fpcon|fpcon levels explained force protection condition
+fpcon2|defcon fpcon infocon explained military alert levels
+classif|classification markings explained top secret sci noforn
+classif2|security clearance levels explained
+runway|runway markings explained
+runway2|airport runway signs and markings explained
+squawk|squawk codes explained 7500 7600 7700
+squawk2|transponder emergency codes explained
+signal_flags|maritime signal flags explained
+signal_flags2|naval signal flags meaning
+bullet_glass|bulletproof glass levels explained ul 752
+bullet_glass2|bullet resistant glass levels
+safe_rating|safe ratings explained TL-15 TL-30
+safe_rating2|safe security ratings explained
+mil_time|military time zones letters zulu explained
+mil_time2|why is it called zulu time
+uk_threat|uk terrorism threat levels explained
+uk_threat2|terror threat levels explained
+bsl|biosafety levels explained bsl 1 2 3 4
+bsl2|bsl-4 lab explained
+hazmat|hazmat placards explained
+hazmat2|hazard classes placards meaning
+smoke|military smoke grenade colors meaning
+smoke2|smoke signal colors military explained
+sof_tier|special forces tiers explained tier 1 2 3
+sof_tier2|tier 1 units explained
+airport_signs|airport signs explained taxiway signs

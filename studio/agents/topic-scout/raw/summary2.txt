@@ -1,0 +1,232 @@
+== defcon
+  1382091|Unclassified          | 5m|lS4ZDwBhu7I|Every DEFCON Level Explained
+     2952|Posh Painter          | 5m|ZdJFtUIId-w|Every Level of DEFCON explained in Five Minutes
+     1814|Doodler Explains      | 7m|S2BpIBYWkYk|Every DEFCON level Explained in 7 Minutes
+     7837|Unclassified          | 3m|n7Xqdntq6jA|Every DEFCON Level Explained
+    23706|I Am Your Target Demog| 4m|1dRZ6R1pKzM|What are the DEFCON Levels? What do they mean?
+  1096106|Casual Tactics and Scr| 9m|jmNGp3AyC0E|How DEFCON Actually Works
+     2099|Al Capony Explains    | 8m|-Ghq86zJGf0|Every DEFCON Level Explained in 8 Minutes
+     5222|Mission Intel         | 8m|XBzQQBiHqcY|Every DEFCON Level EXPLAINED in Detail
+  4918741|Polygon               | 6m|y6neDk_4XBs|DEFCON scares me and science says it will scare you too
+       87|Doctrine Explains     |43m|zK9aOmGUvbg|Every DEFCON Level Explained
+== defcon2
+  1382091|Unclassified          | 5m|lS4ZDwBhu7I|Every DEFCON Level Explained
+     5222|Mission Intel         | 8m|XBzQQBiHqcY|Every DEFCON Level EXPLAINED in Detail
+     2099|Al Capony Explains    | 8m|-Ghq86zJGf0|Every DEFCON Level Explained in 8 Minutes
+     1814|Doodler Explains      | 7m|S2BpIBYWkYk|Every DEFCON level Explained in 7 Minutes
+     7837|Unclassified          | 3m|n7Xqdntq6jA|Every DEFCON Level Explained
+     2112|Best of MiliTek       | 2m|myakPMl3NKA|Understand Every Defcon Level : From Normal to Nuclear War
+     2952|Posh Painter          | 5m|ZdJFtUIId-w|Every Level of DEFCON explained in Five Minutes
+  4918741|Polygon               | 6m|y6neDk_4XBs|DEFCON scares me and science says it will scare you too
+       87|Doctrine Explains     |43m|zK9aOmGUvbg|Every DEFCON Level Explained
+      993|krisis LOGS           | 8m|W981vdHWSW8|Every DEFCON Level Explained in 8 Minutes
+== mapsym
+    21790|The Modern Warfare His|11m|9M_rXi5GFBA|Explaining the Military: NATO Symbols (Episode 1)
+     3396|Keith's Orders of Batt| 8m|tCnsanIoJnY|NATO Military Symbols Explained | How to Read a Battlefield Map
+      235|29 Pixel Studios | Cre| 1m|_scRqKF3w1k|Army Symbology 101 | Understanding Military Map Symbols
+    17787|Harsh Rules           |10m|SWP3eBlOX3w|Wargaming Basics - Military Symbology
+    16252|Tactical Forge        | 3m|tzGfzkW3x_o|Military Symbols!
+    15619|Tactical Forge        | 3m|pfLTQVa_iJw|Military symbols!
+   453156|Battle Order          |15m|O4NuTcP6ifI|How to Read Russian Army Battle Maps
+    52543|University of Iowa Arm|16m|oF2nZdIfatc|Army Symbology
+      674|Bridge WW2 main channe|10m|-TlyeL43H5g|WW2 | Mr. Bridge | NATO symbols| Military Basic
+      421|OpsCommon             | 1m|v9lycVIKHzM|Markers: How to Use NATO Map Symbols (MIL-STD-2525E) in OpsCommon
+== mapsym2
+      369|Keith's Orders of Batt| 7m|TDZe6lZQPx0|NATO Military Symbols Explained (Part II) | Tactical Levels & Combat P
+      421|OpsCommon             | 1m|v9lycVIKHzM|Markers: How to Use NATO Map Symbols (MIL-STD-2525E) in OpsCommon
+    55024|The Korean War by Indy|10m|u8w8OZ8oIPg|How Maps Decide Battles - NATO Symbology Special
+    21790|The Modern Warfare His|11m|9M_rXi5GFBA|Explaining the Military: NATO Symbols (Episode 1)
+     3396|Keith's Orders of Batt| 8m|tCnsanIoJnY|NATO Military Symbols Explained | How to Read a Battlefield Map
+      189|Mark Sieger           | 7m|-s6OYAnbHNU|NATO Symbols in Command Modern Operation
+    16252|Tactical Forge        | 3m|tzGfzkW3x_o|Military Symbols!
+     5908|Alvaro Anguix         | 1m|ec5JFujFFaQ|gvSIG military APP6 symbols: Installation
+      235|29 Pixel Studios | Cre| 1m|_scRqKF3w1k|Army Symbology 101 | Understanding Military Map Symbols
+    15619|Tactical Forge        | 3m|pfLTQVa_iJw|Military symbols!
+== handsig
+   504081|Brent0331             |13m|ZNFfMRfMvfE|INFANTRYMAN'S GUIDE: Basic Hand & Arm Signals
+   196859|The Infographics Show | 9m|-5yk2FMCQlM|Military / Army Hand Signs Explained (Signals & What Do They Mean)
+   184147|Navy Life             | 9m|f-Bnbl7u1GI|Aircraft Carrier's Crew Hand Signals Explained
+    44912|Claude Nelson         | 0m|V0_3JheqT20|The Only 14 Tactical Hand Signals You Need to Know
+    43998|Cadet Books           | 6m|CrW8yDRt_NY|ACF Fieldcraft: Basic Field Signals (movement)
+      571|Camo Explained        | 8m|KFEzuvVG7UA|Military Hand Signals Explained: How Soldiers Talk Without a Word
+    14668|3ABCT, 4ID            |12m|3HhiuSmApfU|EIB Task P5: Camouflage and Visual Signaling Techniques
+   901882|Jim Wagner RBPP       |16m|uEfLh75wh3Q|Tactical Hand Signals Part 1
+    24288|Louisiana National Gua| 8m|JqzgXKMJZIk|Ground Guide Training Video
+  1505976|X-planed              |12m|As7zQPkkv8c|Aircraft Carrier's Crew hand signals explained - preflight and launch
+== handsig2
+   179901|Dandurut              | 7m|WcAuuMXZciM|Hand and Arm Signals
+   504081|Brent0331             |13m|ZNFfMRfMvfE|INFANTRYMAN'S GUIDE: Basic Hand & Arm Signals
+     7362|Strike EIB and ESB 202| 2m|9RnuLsL3Hx8|ESB2 Hand and Arm Signals
+    24288|Louisiana National Gua| 8m|JqzgXKMJZIk|Ground Guide Training Video
+    11326|ForTheInfantry        |36m|Ip7n-lApHLg|[ HAND & ARM SIGNALS ] for Marine Corps Infantry
+    14668|3ABCT, 4ID            |12m|3HhiuSmApfU|EIB Task P5: Camouflage and Visual Signaling Techniques
+     1062|MCRDParrisIsland      | 1m|IdzZJSdvvpM|Echo & Oscar Companies – Hand and Arm Signals – March 21, 2017
+    64370|116th IBCT            | 2m|uKfYwmm3XA8|P12 Use Visual Signaling Techniques
+   196859|The Infographics Show | 9m|-5yk2FMCQlM|Military / Army Hand Signs Explained (Signals & What Do They Mean)
+    17704|William McConnell     | 4m|C_7MedRrACM|Army Ground Guiding Basics
+== lightgun
+     9546|Aviator Zone          | 2m|192awDd6xgU|Light Gun Signals Explained | Signals used by Air Traffic Control when
+    17586|Civil Aviation Safety | 1m|y_Fo-UjzQaE|Explaining the rules – Light signals
+    81584|FLY8MA.com Flight Trai| 0m|nxoakUa8UqQ|Real Light Gun Signals | ATC Tower
+     2472|MzeroA Flight Training| 1m|0B4AIOBHVfI|Learn to Fly - Light Gun Signals
+    20853|Lightspeed Aviation   | 8m|nksBr6BDaf4|ATC Light Gun Signals in Real Life
+      452|Dave Nguyen           | 0m|WHtvB4XyYl4|Towered Light Gun Signals Green and Red
+       51|Qian Hong Ng          | 9m|jlDM7adWT5Y|DBF 4.5 - iTeach Pilots 01
+     2175|MzeroA Flight Training| 8m|fcBTZb7haF8|Flight Training with Light Gun Signals
+    22572|MzeroA Flight Training| 6m|FekAM36mTbg|Light Gun Signals
+    27734|FlightInsight         | 0m|Ha9W3ZYrGnE|Air Traffic Control Lights | Flight Training | FlightInsight
+== lightgun2
+    17586|Civil Aviation Safety | 1m|y_Fo-UjzQaE|Explaining the rules – Light signals
+     2175|MzeroA Flight Training| 8m|fcBTZb7haF8|Flight Training with Light Gun Signals
+    81584|FLY8MA.com Flight Trai| 0m|nxoakUa8UqQ|Real Light Gun Signals | ATC Tower
+    20853|Lightspeed Aviation   | 8m|nksBr6BDaf4|ATC Light Gun Signals in Real Life
+     9546|Aviator Zone          | 2m|192awDd6xgU|Light Gun Signals Explained | Signals used by Air Traffic Control when
+    73855|310 Pilot             | 8m|HQHo4qvnQR4|Air Traffic Control Tower Light Gun Signals
+      452|Dave Nguyen           | 0m|WHtvB4XyYl4|Towered Light Gun Signals Green and Red
+     1954|Part Time Pilot       | 2m|-3Y3NmuZNkc|Lost Comm Tower Light Signals & Meanings
+    45678|hosk jr               | 2m|7Zo6qf0DwiQ|light gun signals
+    20441|Everything Aviation   | 1m|TKrOqwCeLT0|Airport ATC Light Signals | Air Regulations | CPL/SPL
+== airlights
+     9569|AeroShorts            | 2m|_YNZebGKoP0|Aircraft Lights Explained – Simple and Clear!
+       44|Long Journey          | 4m|Oi2tgGXF3Ws|aircraft light system || plane light
+      545|AVIATION TECH         | 2m|NlxYMjPbK70|Aircraft Navigation & Position Lights Explained
+    99998|Pilot Institute Airpla| 4m|3yfEYmyH-Ro|Aircraft Lights: Red and Green Airplane Light Meaning
+     8452|Aviate Global Network(| 0m|yy2XLILVJvo|Strobes Lights - BOEING vs AIRBUS
+    31879|JxJ AVIATION          | 3m|sl1ap63hIIU|What are the External Lights on an Aircraft? | When are they used? | W
+  1392727|Captain Joe           | 7m|A1eqrunJuc0|LIGHTS on Airplanes explained by "CAPTAIN"Joe
+     3789|Flightdeck Focus      | 7m|qelNrU4I3MY|Every Light on an Airplane EXPLAINED (And Why Pilots Use Them!) Part 1
+      755|AKSHAJ MAHESHWARI     | 7m|98S4AJRQbBY|Why Airplanes Glow at Night: Aircraft Lights EXPLAINED!
+   100072|flight-club           | 3m|0M1J9qQX1TQ|Aircraft lights | They're not UFOs
+== brevity
+  1104353|Armor Cast            |18m|9kqZ2m7AbYI|FOX, BRA & Air Combat Terminology | Koala Explains: Missile Types & Br
+    15744|Prudentia Tech        | 1m|k7QotnC-FtI|Fox Codes - How do they Work?
+   150908|StootWorts            | 7m|HUOeuH_SwVQ|How to Speak Plane - VTOL VR Brevity Codes
+   235650|Grim Reapers          | 7m|eXWbi6FV2Ic|Explained: What Does Fox-1, Fox-2 & Fox-3 Mean?
+      965|AirPra                |12m|RMjAm04q5Dw|NATO Brevity Codes: The Secret Language of Modern Warfare # Speak Fast
+   145882|Growling Sidewinder   |31m|ct-Dl2fW8cA|DCS: Radio Terminology/ Brevity codes/Ordnance codes Tutorial
+      158|Unredacted Briefs     |11m|79HbAxiIbp4|Why Pilots Say 'Roger' Instead of 'Okay'
+     3088|Defense Forces Insight| 2m|uEwCeOWqMZM|Have you wondered why fighter pilot say "Fox 1 or Fox 2 when they laun
+   214228|Growling Sidewinder   |31m|chHUDIklPug|DCS: Missile Education/Fox Codes tutorial
+     1914|Brevity Code 556      | 5m|n1pWbm9Yy7I|Military Codes! A Brief Overview of Brevity codes
+== brevity2
+  4034213|TALEYE                | 8m|Szd5g7vt8R8|The Last 77 Seconds of the Florida Learjet 60 Before The Crash
+  1104353|Armor Cast            |18m|9kqZ2m7AbYI|FOX, BRA & Air Combat Terminology | Koala Explains: Missile Types & Br
+     3088|Defense Forces Insight| 2m|uEwCeOWqMZM|Have you wondered why fighter pilot say "Fox 1 or Fox 2 when they laun
+  1792212|Fault Lines Official a|10m|dcfldWqanJc|The Florida Learjet Crash Reconstructed in 3D: The Last 60 Seconds (Ne
+    22112|The Ops Center By Mike|11m|k9E6g2pJ664|Fighter Pilot Communication 101 | Air Supremacy Series | Part 6
+    46154|The Ops Center By Mike| 6m|4tLVlwvvy1M|The Basics: Radio Comms 101
+      158|Unredacted Briefs     |11m|79HbAxiIbp4|Why Pilots Say 'Roger' Instead of 'Okay'
+     8923|军旅映像                  |65m|13kHooYCYjE|【抗日電影】日軍追殺小夥進森林，殊不知小夥是最強獵人，當場消滅日軍1000人。#抗日 #抗戰
+   206169|iCkEdMeL              |118m|mMbVkE9N5PQ|🔴 BREAKING: She Could Fly Before She Could Drive | 20-Year-Old Dead in
+   133662|Cinéma Cinémas        |100m|sbfWevYHlY4|THE GOVERNMENT WANTS HIM DEAD (2017) The Fox - THRILLER
+== broken_arrow
+       19|Minutrotta Tales      | 7m|XqDaUmaAqfI|Why the US Military Uses These 6 Secret Codes (NUCFLASH)
+        0|Dowspro.              |11m|4cs8yL3ydAo|Broken Arrow: The Nuclear Bombs America Lost and Never Found | Full Do
+    50559|Senior Crown          |65m|ltLHRINNBYE|The Nuclear Bombs America Lost and Never Found
+    33375|Zelendes              |12m|tFYgFTSfpZo|All Bows and Quivers | Attack and Rune Attacks | How Advanced Status W
+      306|Immortal Reads        |770m|qsuHnPD2dUc|BTTH 4 Afterstory Part 7 END | Xiao Yan Discovers His True Origin and 
+      927|Immortal Reads        |1216m|bcOWYoSBPhE|BTTH 4 Afterstory Part 6 | Xiao Yan Unleashes His Soul Power and Turns
+      216|Mythical Bard         |193m|YMW--opNV3s|He Played an Impossible Game for 9 Years—Then Woke Up as a Barbarian! 
+   564556|GameSpot              | 3m|kEUcdwSj8bU|Assassin's Creed Origins - 7 Essential Tips
+     8472|天天动态漫                 |740m|AgFkWhILHgo|Helmut: The Forsaken Child | Manhwa Recap
+    34058|Lucky-No-Flask        |32m|lElV7jZn95s|72 Elden Ring SECRETS that will make you a GOD
+== broken_arrow2
+   939898|CrashCourse           |12m|w4q1fG1vh5I|The Atomic Bomb: Crash Course History of Science #33
+ 10305937|So Basically          |21m|d558tMKjvgc|How Every Country Got Nuclear Weapons Explained
+ 19411426|Kyle Hill             |14m|aFlromB6SnU|Demon Core - The True Story
+  4323779|Ridddle               |10m|3p4NteQYhL0|How Atomic and Hydrogen Bombs Work In 10 Minutes
+       19|Minutrotta Tales      | 7m|XqDaUmaAqfI|Why the US Military Uses These 6 Secret Codes (NUCFLASH)
+    67285|Sci-Wise              | 2m|uAjtJ54h8rs|Why Do ATOM BOMBS Have So Much ENERGY?
+  1481388|Science Simplified 4 A|18m|ColFoVzc444|Nuclear Explosions Explained Stage By Stage (With Real Footage)
+ 15878289|The Diary Of A CEO    |131m|asmaLnhaFiY|Minute By Minute Of What Happens If A Nuclear Bomb Hits & How To Survi
+    50559|Senior Crown          |65m|ltLHRINNBYE|The Nuclear Bombs America Lost and Never Found
+    97691|NBC News              | 3m|AZsngBRP8o0|A Brief History Of The Atomic Bomb | Mach | NBC News
+== condzebra
+== condzebra2
+       15|DataEndure            | 3m|6cWKUz15QWE|Understanding Microsegmentation: A Simple Analogy
+      159|Fleet Insider         |13m|kltkL-8kzI8|What Navy Sailors Do on a Destroyer During Emergencies?
+   193376|The Daily Navy        |14m|_VATkhi4C0I|The Hidden Traffic System That Moves 5,000 Sailors Inside a U.S. Aircr
+       63|DeepBlueWarfare       |55m|LghLjPyrxgw|Declassified: USS Virginia SSN-774 Trails Chinese Type 094A Sub 89 Mil
+      378|Navy Pelagos          |13m|-btNfXvavR8|The Underwater Nightmare: How Supercarriers SURVIVE Torpedo Blasts
+       56|Thomas Franklin Arsena| 3m|2VR8wrhi2Zw|A Carrier's Long Vigil｜USS Dwight D. Eisenhower (CVN 69) in 1/700｜T.F.
+   185509|America's Navy        | 1m|2F5IiVf5Kg8|Life on a Navy Submarine - Battle Stations
+  2924293|Vox                   | 5m|zDbq7y20wpw|Why ships used this camouflage in World War I
+   261908|Peace Is Our Professio|57m|sHOD4DMpP-o|By Dawn's Early Light: Command and Control Cut
+    14665|Exploring Virginia's H| 3m|pWS3J6NrRXk|"General Quarters: U.S.S. George H.W. Bush" WTVR-TV Nov 2018
+== police10
+    94110|Unclassified          |14m|nn1G7-sXECA|Every Police 10-Code Explained
+    61474|Officer D             |12m|eDWPrGvjqwU|Police 10 Codes. What they mean and easy way to learn them.
+    17102|SD County Radio Codes |59m|6VDyYWlqcKI|10 Codes Repeated
+    10636|Police1               | 1m|ziDKoMKrL0U|10 common police 10 codes
+    39700|WatchMojo.com         | 9m|f-su3heZbwQ|Top 25 Most Used Police Codes Explained
+    13494|Anger                 | 3m|ePf2TW_LLws|CHP 10 & 11 Codes
+   336805|officer401            |10m|yzP8YvOFLpk|How Police 10 Codes Work (Pt. 1)
+     1891|Security and Safety Vi| 3m|D0zDz5SraDc|12 Most Common Police Codes 🚓[And What They Mean]
+   321801|BRIGHT SIDE           |11m|vgqxNY32zHY|37 Secret Police Codes No One Understands
+    28995|Zip Scanners          | 2m|aHeau5K0svU|Police Codes Explained | Tutorial
+== police10b
+    61474|Officer D             |12m|eDWPrGvjqwU|Police 10 Codes. What they mean and easy way to learn them.
+    39700|WatchMojo.com         | 9m|f-su3heZbwQ|Top 25 Most Used Police Codes Explained
+    94110|Unclassified          |14m|nn1G7-sXECA|Every Police 10-Code Explained
+     1891|Security and Safety Vi| 3m|D0zDz5SraDc|12 Most Common Police Codes 🚓[And What They Mean]
+    10636|Police1               | 1m|ziDKoMKrL0U|10 common police 10 codes
+   110297|Top 10s               | 7m|jf0Vb_8JGo4|What Do Police Codes Mean?
+   336805|officer401            |10m|yzP8YvOFLpk|How Police 10 Codes Work (Pt. 1)
+   168087|59 JO Sinag           | 8m|4FrvBERE4D4|TOP 10 Radio 10 Codes Commonly Used by Security Guards II 59 JO Sinag
+    28995|Zip Scanners          | 2m|aHeau5K0svU|Police Codes Explained | Tutorial
+    19238|SG Enteng             | 6m|G1uUBzQHDP4|Radio codes with meaning 1 to 200
+== rating_badges
+      667|Stripes Decoded       |10m|zWjzK8LKr6g|Every US Navy Rating Badge Explained In 11 Minutes
+    12731|Saadi Explainer       | 9m|6Kdl9W259gk|U S Navy Insignias and badges Explained in 10 Minutes
+   158597|Master Chief's Sea Che|19m|xNvXDZxVdhw|Navy Rating Badges
+     1317|The Salty Shipmate    | 1m|kBpO9Gtvwms|Breaking down the Navy’s rank structure so you know exactly who’s who 
+   371546|Posh Painter          |24m|AIpfGaDFtwQ|Every Rank in the US Navy Explained in 24 Minutes
+     7484|Chain of Command      |12m|exOhFTKepDg|Every Rank In The U.S. Navy EXPLAINED In 12 Minutes
+    33808|Ask A RDC             |10m|hMd85Nm1zQ4|Every Rank in the US NAVY explained in 10 minutes
+    13377|Veterans' Medals Works|19m|cYOBVTFxbLs|Navy Surface Warfare Badges, Aviation Warfare Badges, Navy World War I
+    81702|Briefed               |14m|_sWnisokq84|Every US Navy Badge Explained
+     8622|Mission Intel         |23m|CPBOWCuPQlw|Every Rank in the US Navy Explained in Detail
+== airlights2
+  3544167|BRIGHT SIDE           | 8m|MyHUWG4_pXc|Why Lights at Plane Wings Are Different
+      378|Anything Everything Fa| 2m|5HVrPxvUDz0|Why Do Airplanes Have Red and Green Lights?
+      383|Simple Things Analysis| 5m|ZjoDInYLq6A|Why Do Planes have Red and Green Lights?
+     9569|AeroShorts            | 2m|_YNZebGKoP0|Aircraft Lights Explained – Simple and Clear!
+      414|HM Facts Factory      | 1m|2kTNyJHsgTY|Why do planes have red & green lights on Wings? ✈️ Aviation Technologi
+       60|Saihari Speakz Tech   | 2m|zb6tC4UOi9c|Interesting Facts about Planes - Red, Green and White Lights!
+     3814|13News Now            | 3m|O0G-QMKNN9g|How to spot the difference: Drones vs. planes
+     9305|Indian Defense News   | 6m|nBuOs23dFTE|Why Planes have Red and Greed Lights on Wing,Plane में Red और Green क्
+   255396|CNTAA                 | 8m|mQVgz3X652A|Airplane Lights explained by Capt. Neha Thakare
+        5|ThemanbunYT           | 0m|HugAsFgkflo|Why Do Planes Have Green and Red Lights?
+== squawk3
+    43970|Simple Flying         | 3m|3BpIPDYHHls|A Look At The World Of Squawk Codes And Their Meanings
+        3|Flightmarks           | 9m|t5goa2ZlQdQ|Every Squawk Code Explained
+  1217579|Captain Joe           | 9m|H4skJviQlMo|What is a SQUAWK CODE? -7500-7600-7700 EXPLAINED by CAPTAIN JOE
+     1615|Captain Inverted      | 3m|Ql2IEkRdUrs|Airplane TRANSPONDER - Secret Hijack code explained
+     3113|Epic Flight Academy   | 9m|rEIBnLEpH0o|Squawk Box Explained: How Pilots and ATC Use Transponders | #SquawkBox
+    27514|thecorporatepilotdad  | 1m|mlrjJzDHceo|Aircraft Transponders -  Why it’s Called 4096, Functions, and Codes.
+     3844|PILOTCLIMB            | 4m|8V7AnK04EaY|What Is a Squawk Code In Aviation?
+      825|Aero Tech             | 5m|wFZC76u9VSY|Squawk Codes Explained | The Hidden Meanings of Squawk Codes Behind Av
+       69|The Bangladesh Monitor| 2m|RfBvx63CrjQ|বিমানের ‘Squawk 7700’ কোড কী বুঝায়? | Squawk 7700 Explained | Airplan
+    65575|Captain Frank Dreyer A|20m|e8SuYDP9yno|Aircraft Transponder; What is it for? How does it work?/Aviation expla
+== safe3
+    48423|Locksmith Recommended | 5m|G2lu1qgKA14|Features of High Security TL-15 and TL-30 Safes
+     4214|Northwest Safe        |25m|-UUjKLVrnMs|Safe Space Ep. 72: TL-15 vs. TL-30 | Is a TL-30 Safe Really Twice as S
+     3610|SafeandVaultStore     | 3m|ZxDYPTwY6Gw|Omni-Vault TL30-252122 TL-30 High Security Burglar & Fire Safe
+     7432|Dean Safe             |12m|VkvqK4g555c|USA Made TL-30, TL-30X6 Safes That Cost LESS? Meet DeVault
+    39743|Northwest Safe        |14m|X9RijeeFDa4|Cheap Safe vs TL- 30 Rated Safe | Cutting Test Shows the Shocking Diff
+   298762|Locksmith Recommended | 8m|9u-asS7Ldys|Safe Burglary Ratings Explained
+    27277|Dean Safe             | 8m|hywiH4td6-k|AMSEC CFX TL‑30X6 Safe Review: America’s Highest UL-Rated Safe
+    82735|SafeandVaultStore     | 3m|17VdpPiGmXs|High Security Safes TL-15, TL-30 with Dye the Safe Guy
+    89108|FireKingFan           | 5m|OtbGUbeM860|Meilink TL30 Safe Burglary Test at UL
+     1982|SafeandVaultStore     | 2m|ueiK5DYf4zM|DEA Approved Safes for Schedule I & II Drugs
+== glass3
+      643|Steel Door Institute  | 2m|VruyJGvCXi0|Specifying Bullet Resistant Steel Doors: UL 752 Levels Explained
+     1741|Total Security Solutio| 2m|oj638zduG0o|UL 752 Standard for Safety in Bullet- Resisting Equipment Explained
+      641|LearnGlazing          | 1m|Nt-9VzASfrQ|Bulletproof Glass Levels DECODED: What Each UL 752 Rating Protects Aga
+     4339|Riot Glass            | 9m|pMWE7df7pTc|UL 752 Ballistic Glass Basics | Riot Glass
+      234|T&T Tinting Specialist| 6m|bnx6X_6MKtY|BulletShield by DefenseLite   UL 752 Level 1 Testing
+     4468|Fortified Estate | Bul| 3m|FDQXAmA9O6s|What Are the Bulletproofing Levels Available To Me?
+     1253|GreenCE Education     | 3m|T2Kd4dWEPa4|What Bullet-Resistant Panels Are and How to Specify Them Under UL 752
+     2981|Total Security Solutio| 1m|I18NcBa72ow|Bulletproof Fiberglass Explained
+      376|Total Security Solutio| 0m|yhBzrz_-KLo|Bulletproofing Standards, Explained
+      336|FUCARE Protection     | 0m|JwhaCzfBRb8|FC-BPW-PH High-security Ballistic Windows (UL752 Level 8) Rating Test 

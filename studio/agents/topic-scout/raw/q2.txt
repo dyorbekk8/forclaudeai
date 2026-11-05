@@ -1,0 +1,22 @@
+defcon|defcon levels explained
+defcon2|every defcon level explained
+mapsym|military map symbols explained
+mapsym2|nato military symbols app-6 explained
+handsig|military hand signals explained
+handsig2|army hand and arm signals
+lightgun|atc light gun signals explained
+lightgun2|light gun signals pilot
+airlights|airplane lights explained navigation lights strobe beacon
+brevity|military brevity codes explained fox 2
+brevity2|what does fox 2 mean pilot radio
+broken_arrow|broken arrow bent spear empty quiver explained
+broken_arrow2|nuclear weapon accident code names explained
+condzebra|navy material condition zebra yoke xray explained
+condzebra2|condition zebra explained navy
+police10|police 10 codes explained
+police10b|police radio codes meaning
+rating_badges|navy ratings explained rating badges
+airlights2|why do planes have red and green lights
+squawk3|every squawk code explained
+safe3|what does tl-30 mean safe
+glass3|ul 752 levels explained

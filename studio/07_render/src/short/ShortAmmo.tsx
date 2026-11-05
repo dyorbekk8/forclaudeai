@@ -23,7 +23,7 @@ const Captions: React.FC<{words: W[]}> = ({words}) => {
   const g0 = Math.floor(cur / 3) * 3;
   const group = words.slice(g0, g0 + 3);
   return (
-    <div style={{position: 'absolute', left: 50, right: 50, top: 1380, display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: 16}}>
+    <div style={{position: 'absolute', left: 50, right: 50, top: 1560, display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: 16}}>
       {group.map((w, i) => {
         const idx = g0 + i;
         const on = idx === cur;
@@ -173,7 +173,7 @@ const S: Record<string, React.FC<any>> = {
     const f = useCurrentFrame();
     const hit = ev?.[0] ?? 24;
     const fall = prog(f, 0, Math.max(8, hit), (x) => x * x);
-    const by = interpolate(fall, [0, 1], [380, 960]);
+    const by = interpolate(fall, [0, 1], [640, 960]);
     const after = Math.max(0, f - hit);
     return (
       <>
@@ -343,7 +343,9 @@ export const ShortAmmo: React.FC<{which: string}> = ({which}) => {
           <Sequence key={s.id} from={s.from} durationInFrames={s.dur + 5}>
             <Shot first={i === 0} dur={s.dur}>
               <Paper>
-                <Comp {...s.props} />
+                <AbsoluteFill style={{transform: 'scale(1.22)', transformOrigin: '50% 22%'}}>
+                  <Comp {...s.props} />
+                </AbsoluteFill>
                 <Captions words={s.words} />
               </Paper>
             </Shot>

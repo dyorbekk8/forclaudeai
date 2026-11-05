@@ -1,0 +1,462 @@
+{
+ "fps": 30,
+ "total": 723,
+ "beats": [
+  {
+   "id": "s1a",
+   "from": 0,
+   "dur": 85,
+   "voStart": 0,
+   "vo": "03_voiceover/ammo_shorts/final/s1a.wav",
+   "voDur": 2.669
+  },
+  {
+   "id": "s1b",
+   "from": 85,
+   "dur": 75,
+   "voStart": 87,
+   "vo": "03_voiceover/ammo_shorts/final/s1b.wav",
+   "voDur": 2.257
+  },
+  {
+   "id": "s1c",
+   "from": 160,
+   "dur": 280,
+   "voStart": 162,
+   "vo": "03_voiceover/ammo_shorts/final/s1c.wav",
+   "voDur": 9.111
+  },
+  {
+   "id": "s1d",
+   "from": 440,
+   "dur": 146,
+   "voStart": 442,
+   "vo": "03_voiceover/ammo_shorts/final/s1d.wav",
+   "voDur": 4.64
+  },
+  {
+   "id": "s1e",
+   "from": 586,
+   "dur": 137,
+   "voStart": 588,
+   "vo": "03_voiceover/ammo_shorts/final/s1e.wav",
+   "voDur": 3.71
+  }
+ ],
+ "shots": [
+  {
+   "id": "s1a",
+   "beat": "s1a",
+   "scene": "live",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "One",
+     "f": 0
+    },
+    {
+     "w": "yellow",
+     "f": 8
+    },
+    {
+     "w": "stripe",
+     "f": 17
+    },
+    {
+     "w": "on",
+     "f": 29
+    },
+    {
+     "w": "a",
+     "f": 35
+    },
+    {
+     "w": "bomb",
+     "f": 38
+    },
+    {
+     "w": "means",
+     "f": 47
+    },
+    {
+     "w": "it's",
+     "f": 55
+    },
+    {
+     "w": "live.",
+     "f": 63
+    }
+   ],
+   "from": 0,
+   "dur": 85,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -12
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 2,
+     "gain": -12
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 6,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "s1b",
+   "beat": "s1b",
+   "scene": "two",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "So",
+     "f": 2
+    },
+    {
+     "w": "why",
+     "f": 13
+    },
+    {
+     "w": "do",
+     "f": 21
+    },
+    {
+     "w": "some",
+     "f": 27
+    },
+    {
+     "w": "bombs",
+     "f": 35
+    },
+    {
+     "w": "have",
+     "f": 45
+    },
+    {
+     "w": "two?",
+     "f": 53
+    }
+   ],
+   "from": 85,
+   "dur": 75,
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 91,
+     "gain": -14
+    },
+    {
+     "file": "marker_scribble",
+     "frame": 93,
+     "gain": -18
+    },
+    {
+     "file": "tick_2",
+     "frame": 99,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s1c",
+   "beat": "s1c",
+   "scene": "fire",
+   "props": {
+    "ev": [
+     204
+    ]
+   },
+   "words": [
+    {
+     "w": "In",
+     "f": 2
+    },
+    {
+     "w": "1967,",
+     "f": 12
+    },
+    {
+     "w": "a",
+     "f": 54
+    },
+    {
+     "w": "fire",
+     "f": 60
+    },
+    {
+     "w": "broke",
+     "f": 69
+    },
+    {
+     "w": "out",
+     "f": 77
+    },
+    {
+     "w": "on",
+     "f": 84
+    },
+    {
+     "w": "the",
+     "f": 88
+    },
+    {
+     "w": "carrier",
+     "f": 93
+    },
+    {
+     "w": "USS",
+     "f": 102
+    },
+    {
+     "w": "Forrestal.",
+     "f": 126
+    },
+    {
+     "w": "A",
+     "f": 168
+    },
+    {
+     "w": "bomb",
+     "f": 176
+    },
+    {
+     "w": "in",
+     "f": 184
+    },
+    {
+     "w": "the",
+     "f": 189
+    },
+    {
+     "w": "flames",
+     "f": 192
+    },
+    {
+     "w": "exploded",
+     "f": 204
+    },
+    {
+     "w": "about",
+     "f": 224
+    },
+    {
+     "w": "a",
+     "f": 235
+    },
+    {
+     "w": "minute",
+     "f": 240
+    },
+    {
+     "w": "and",
+     "f": 244
+    },
+    {
+     "w": "a",
+     "f": 252
+    },
+    {
+     "w": "half",
+     "f": 255
+    },
+    {
+     "w": "later.",
+     "f": 261
+    }
+   ],
+   "from": 160,
+   "dur": 280,
+   "cues": [
+    {
+     "file": "heat_rise",
+     "frame": 160,
+     "gain": -18
+    },
+    {
+     "file": "sub_hit_1",
+     "frame": 364,
+     "gain": -10
+    },
+    {
+     "file": "glass_shatter_1",
+     "frame": 364,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1d",
+   "beat": "s1d",
+   "scene": "bars",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "After",
+     "f": 2
+    },
+    {
+     "w": "that,",
+     "f": 10
+    },
+    {
+     "w": "the",
+     "f": 26
+    },
+    {
+     "w": "Navy",
+     "f": 33
+    },
+    {
+     "w": "pushed",
+     "f": 40
+    },
+    {
+     "w": "for",
+     "f": 50
+    },
+    {
+     "w": "bombs",
+     "f": 59
+    },
+    {
+     "w": "that",
+     "f": 70
+    },
+    {
+     "w": "could",
+     "f": 79
+    },
+    {
+     "w": "sit",
+     "f": 82
+    },
+    {
+     "w": "in",
+     "f": 88
+    },
+    {
+     "w": "a",
+     "f": 92
+    },
+    {
+     "w": "fire",
+     "f": 95
+    },
+    {
+     "w": "for",
+     "f": 103
+    },
+    {
+     "w": "several",
+     "f": 111
+    },
+    {
+     "w": "minutes.",
+     "f": 122
+    }
+   ],
+   "from": 440,
+   "dur": 146,
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 444,
+     "gain": -16
+    },
+    {
+     "file": "riser_2s",
+     "frame": 450,
+     "gain": -24
+    },
+    {
+     "file": "pop_2",
+     "frame": 488,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s1e",
+   "beat": "s1e",
+   "scene": "coated",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "That",
+     "f": 2
+    },
+    {
+     "w": "second",
+     "f": 9
+    },
+    {
+     "w": "yellow",
+     "f": 21
+    },
+    {
+     "w": "stripe",
+     "f": 30
+    },
+    {
+     "w": "marks",
+     "f": 44
+    },
+    {
+     "w": "the",
+     "f": 60
+    },
+    {
+     "w": "ones",
+     "f": 66
+    },
+    {
+     "w": "built",
+     "f": 74
+    },
+    {
+     "w": "to",
+     "f": 82
+    },
+    {
+     "w": "buy",
+     "f": 90
+    },
+    {
+     "w": "you",
+     "f": 95
+    },
+    {
+     "w": "time.",
+     "f": 100
+    }
+   ],
+   "from": 586,
+   "dur": 137,
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 586,
+     "gain": -16
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 598,
+     "gain": -10
+    }
+   ]
+  }
+ ]
+}

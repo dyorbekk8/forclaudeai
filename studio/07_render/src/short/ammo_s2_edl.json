@@ -1,0 +1,409 @@
+{
+ "fps": 30,
+ "total": 702,
+ "beats": [
+  {
+   "id": "s2a",
+   "from": 0,
+   "dur": 117,
+   "voStart": 0,
+   "vo": "03_voiceover/ammo_shorts/final/s2a.wav",
+   "voDur": 3.733
+  },
+  {
+   "id": "s2b",
+   "from": 117,
+   "dur": 61,
+   "voStart": 119,
+   "vo": "03_voiceover/ammo_shorts/final/s2b.wav",
+   "voDur": 1.818
+  },
+  {
+   "id": "s2c",
+   "from": 178,
+   "dur": 190,
+   "voStart": 180,
+   "vo": "03_voiceover/ammo_shorts/final/s2c.wav",
+   "voDur": 6.098
+  },
+  {
+   "id": "s2d",
+   "from": 368,
+   "dur": 170,
+   "voStart": 370,
+   "vo": "03_voiceover/ammo_shorts/final/s2d.wav",
+   "voDur": 5.447
+  },
+  {
+   "id": "s2e",
+   "from": 538,
+   "dur": 164,
+   "voStart": 540,
+   "vo": "03_voiceover/ammo_shorts/final/s2e.wav",
+   "voDur": 4.611
+  }
+ ],
+ "shots": [
+  {
+   "id": "s2a",
+   "beat": "s2a",
+   "scene": "blue",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "This",
+     "f": 0
+    },
+    {
+     "w": "bomb",
+     "f": 9
+    },
+    {
+     "w": "is",
+     "f": 22
+    },
+    {
+     "w": "blue.",
+     "f": 32
+    },
+    {
+     "w": "Blue",
+     "f": 61
+    },
+    {
+     "w": "means",
+     "f": 71
+    },
+    {
+     "w": "practice.",
+     "f": 88
+    }
+   ],
+   "from": 0,
+   "dur": 117,
+   "cues": [
+    {
+     "file": "whoosh_hard_1",
+     "frame": 0,
+     "gain": -12
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 2,
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "s2b",
+   "beat": "s2b",
+   "scene": "harmless",
+   "props": {
+    "ev": []
+   },
+   "words": [
+    {
+     "w": "So,",
+     "f": 2
+    },
+    {
+     "w": "it's",
+     "f": 22
+    },
+    {
+     "w": "harmless,",
+     "f": 30
+    },
+    {
+     "w": "right?",
+     "f": 46
+    }
+   ],
+   "from": 117,
+   "dur": 61,
+   "cues": [
+    {
+     "file": "tick_2",
+     "frame": 125,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s2c",
+   "beat": "s2c",
+   "scene": "puff",
+   "props": {
+    "ev": [
+     111
+    ]
+   },
+   "words": [
+    {
+     "w": "Not",
+     "f": 2
+    },
+    {
+     "w": "quite.",
+     "f": 10
+    },
+    {
+     "w": "Inside",
+     "f": 45
+    },
+    {
+     "w": "is",
+     "f": 57
+    },
+    {
+     "w": "a",
+     "f": 67
+    },
+    {
+     "w": "spotting",
+     "f": 71
+    },
+    {
+     "w": "charge,",
+     "f": 82
+    },
+    {
+     "w": "a",
+     "f": 106
+    },
+    {
+     "w": "puff",
+     "f": 111
+    },
+    {
+     "w": "of",
+     "f": 114
+    },
+    {
+     "w": "smoke",
+     "f": 119
+    },
+    {
+     "w": "that",
+     "f": 129
+    },
+    {
+     "w": "shows",
+     "f": 137
+    },
+    {
+     "w": "pilots",
+     "f": 145
+    },
+    {
+     "w": "where",
+     "f": 157
+    },
+    {
+     "w": "they",
+     "f": 167
+    },
+    {
+     "w": "hit.",
+     "f": 172
+    }
+   ],
+   "from": 178,
+   "dur": 190,
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 178,
+     "gain": -16
+    },
+    {
+     "file": "sub_hit_2",
+     "frame": 289,
+     "gain": -12
+    },
+    {
+     "file": "whoosh_soft_4",
+     "frame": 289,
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "s2d",
+   "beat": "s2d",
+   "scene": "a10",
+   "props": {
+    "ev": [
+     70,
+     96
+    ]
+   },
+   "words": [
+    {
+     "w": "In",
+     "f": 2
+    },
+    {
+     "w": "2019,",
+     "f": 14
+    },
+    {
+     "w": "an",
+     "f": 46
+    },
+    {
+     "w": "A",
+     "f": 48
+    },
+    {
+     "w": "-10",
+     "f": 54
+    },
+    {
+     "w": "hit",
+     "f": 60
+    },
+    {
+     "w": "a",
+     "f": 66
+    },
+    {
+     "w": "bird",
+     "f": 70
+    },
+    {
+     "w": "and",
+     "f": 76
+    },
+    {
+     "w": "accidentally",
+     "f": 82
+    },
+    {
+     "w": "dropped",
+     "f": 96
+    },
+    {
+     "w": "three",
+     "f": 109
+    },
+    {
+     "w": "of",
+     "f": 119
+    },
+    {
+     "w": "them",
+     "f": 123
+    },
+    {
+     "w": "over",
+     "f": 128
+    },
+    {
+     "w": "northern",
+     "f": 137
+    },
+    {
+     "w": "Florida.",
+     "f": 147
+    }
+   ],
+   "from": 368,
+   "dur": 170,
+   "cues": [
+    {
+     "file": "whoosh_hard_2",
+     "frame": 368,
+     "gain": -16
+    },
+    {
+     "file": "glass_shatter_2",
+     "frame": 438,
+     "gain": -16
+    },
+    {
+     "file": "pop_1",
+     "frame": 464,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "s2e",
+   "beat": "s2e",
+   "scene": "rules",
+   "props": {
+    "ev": [
+     78,
+     115
+    ]
+   },
+   "words": [
+    {
+     "w": "The",
+     "f": 2
+    },
+    {
+     "w": "Air",
+     "f": 5
+    },
+    {
+     "w": "Force's",
+     "f": 11
+    },
+    {
+     "w": "advice",
+     "f": 24
+    },
+    {
+     "w": "was",
+     "f": 35
+    },
+    {
+     "w": "simple.",
+     "f": 46
+    },
+    {
+     "w": "Don't",
+     "f": 78
+    },
+    {
+     "w": "approach",
+     "f": 88
+    },
+    {
+     "w": "it.",
+     "f": 92
+    },
+    {
+     "w": "Call",
+     "f": 115
+    },
+    {
+     "w": "it",
+     "f": 124
+    },
+    {
+     "w": "in.",
+     "f": 129
+    }
+   ],
+   "from": 538,
+   "dur": 164,
+   "cues": [
+    {
+     "file": "pop_2",
+     "frame": 616,
+     "gain": -14
+    },
+    {
+     "file": "stamp_thud_2",
+     "frame": 653,
+     "gain": -10
+    }
+   ]
+  }
+ ]
+}
