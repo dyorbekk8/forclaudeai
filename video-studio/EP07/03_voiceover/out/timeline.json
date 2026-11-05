@@ -1,0 +1,313 @@
+{
+ "duration": 278.754,
+ "lines": [
+  {
+   "id": "a01",
+   "speaker": "KID",
+   "text": "Leo, you're so stupid.",
+   "start": 0.5,
+   "end": 1.654
+  },
+  {
+   "id": "a02",
+   "speaker": "N",
+   "text": "And suddenly... you understand calculus.",
+   "start": 1.854,
+   "end": 4.816
+  },
+  {
+   "id": "a03",
+   "speaker": "N",
+   "text": "Because starting today, every time someone calls you stupid, you get one percent smarter.",
+   "start": 5.416,
+   "end": 11.05
+  },
+  {
+   "id": "a04",
+   "speaker": "N",
+   "text": "And people call you stupid... a lot.",
+   "start": 11.55,
+   "end": 14.645
+  },
+  {
+   "id": "b01",
+   "speaker": "N",
+   "text": "Here's the rule. Every time anyone calls you stupid, dumb, or an idiot, your I Q goes up one percent. And every time someone calls you smart... it drops one percent.",
+   "start": 15.745,
+   "end": 27.095
+  },
+  {
+   "id": "b02",
+   "speaker": "N",
+   "text": "Your I Q right now is a hundred. Perfectly average. You got a C minus in math. Twice.",
+   "start": 27.595,
+   "end": 33.913
+  },
+  {
+   "id": "b03",
+   "speaker": "N",
+   "text": "But one percent stacks. Thirty four insults, and you're officially a genius. Seventy, and your I Q is two hundred.",
+   "start": 34.413,
+   "end": 41.626
+  },
+  {
+   "id": "b04",
+   "speaker": "N",
+   "text": "Two hundred thirty one insults... and you'd have an I Q of one thousand. No human in history has ever come close.",
+   "start": 42.226,
+   "end": 50.409
+  },
+  {
+   "id": "c01",
+   "speaker": "N",
+   "text": "Day one. Kyle calls you stupid in the hallway. Plus one percent.",
+   "start": 51.409,
+   "end": 55.628
+  },
+  {
+   "id": "c02",
+   "speaker": "N",
+   "text": "Your sister calls you stupid at breakfast. She does that every morning. Plus one percent.",
+   "start": 55.948,
+   "end": 61.363
+  },
+  {
+   "id": "c03",
+   "speaker": "N",
+   "text": "By lunch, you've read every book in the school library. By dinner, you speak French. And Japanese. And a little bit of Latin.",
+   "start": 61.683,
+   "end": 69.212
+  },
+  {
+   "id": "c04",
+   "speaker": "N",
+   "text": "So you get smart. Really smart. You start doing stupid things... on purpose.",
+   "start": 69.712,
+   "end": 76.214
+  },
+  {
+   "id": "c05",
+   "speaker": "N",
+   "text": "You wear socks with sandals. You walk into a glass door. Twice. You put pineapple on pizza... in front of the whole cafeteria.",
+   "start": 76.514,
+   "end": 84.842
+  },
+  {
+   "id": "c06",
+   "speaker": "KID",
+   "text": "Dude, you're SO dumb!",
+   "start": 85.242,
+   "end": 86.235
+  },
+  {
+   "id": "c07",
+   "speaker": "N",
+   "text": "Plus one. Plus one. Plus one. By Friday, your I Q is two hundred. You finish your math test in four minutes. Your teacher cries.",
+   "start": 86.535,
+   "end": 95.821
+  },
+  {
+   "id": "d01",
+   "speaker": "N",
+   "text": "Then someone posts a video. The kid who gets smarter when you call him stupid.",
+   "start": 96.821,
+   "end": 101.485
+  },
+  {
+   "id": "d02",
+   "speaker": "N",
+   "text": "And the whole internet joins in. Millions of comments. Stupid. Idiot. Brainless. Dumbest kid alive. Every single one makes you smarter.",
+   "start": 102.085,
+   "end": 111.994
+  },
+  {
+   "id": "d03",
+   "speaker": "N",
+   "text": "Plus one percent. Plus one percent. Faster than you can scroll.",
+   "start": 112.294,
+   "end": 116.48
+  },
+  {
+   "id": "d04",
+   "speaker": "N",
+   "text": "By morning, your I Q is one thousand. You can see math in everything. In raindrops. In the way your cereal floats.",
+   "start": 116.98,
+   "end": 124.77
+  },
+  {
+   "id": "d05",
+   "speaker": "N",
+   "text": "Scientists fly in from around the world. You solve a problem they've been stuck on for thirty years. On a napkin. In nine minutes.",
+   "start": 125.27,
+   "end": 133.654
+  },
+  {
+   "id": "d06",
+   "speaker": "N",
+   "text": "Your face is on every news channel. The smartest person who has ever lived. And he's fifteen.",
+   "start": 134.254,
+   "end": 140.201
+  },
+  {
+   "id": "e01",
+   "speaker": "N",
+   "text": "But there's a problem nobody warned you about.",
+   "start": 141.201,
+   "end": 144.115
+  },
+  {
+   "id": "e02",
+   "speaker": "N",
+   "text": "When your mind runs a thousand times faster, the world starts to feel... slow. Conversations feel like waiting for a song to load. Jokes feel like puzzles you solved hours ago.",
+   "start": 144.915,
+   "end": 156.722
+  },
+  {
+   "id": "e03",
+   "speaker": "N",
+   "text": "You stop laughing with your friends. You start correcting them.",
+   "start": 157.222,
+   "end": 160.728
+  },
+  {
+   "id": "e04",
+   "speaker": "N",
+   "text": "And one night at dinner, your dad tries to read a letter out loud. He struggles with the long words. He always has. And you sigh. Loudly.",
+   "start": 161.328,
+   "end": 171.92
+  },
+  {
+   "id": "e05",
+   "speaker": "DAD",
+   "text": "Sorry, Leo. I'm... I'm not as smart as you.",
+   "start": 172.42,
+   "end": 177.399
+  },
+  {
+   "id": "e06",
+   "speaker": "N",
+   "text": "Plus one percent. Because even your dad just called himself stupid... and somehow that counts.",
+   "start": 178.199,
+   "end": 184.865
+  },
+  {
+   "id": "e07",
+   "speaker": "N",
+   "text": "Your brain is buzzing. You can't sleep. You can't stop thinking. And for the first time, you feel completely alone.",
+   "start": 185.465,
+   "end": 193.683
+  },
+  {
+   "id": "f01",
+   "speaker": "N",
+   "text": "There's only one way back. People have to tell you that you're smart. Each time... minus one percent.",
+   "start": 194.883,
+   "end": 202.257
+  },
+  {
+   "id": "f02",
+   "speaker": "N",
+   "text": "But nobody does. Why would they? You're a genius. Saying it out loud feels pointless.",
+   "start": 203.057,
+   "end": 209.072
+  },
+  {
+   "id": "f03",
+   "speaker": "N",
+   "text": "And then your sister sits next to you on the stairs.",
+   "start": 209.672,
+   "end": 212.478
+  },
+  {
+   "id": "f04",
+   "speaker": "MIA",
+   "text": "You're smart, Leo. You were always smart. Even when you got a C minus.",
+   "start": 213.078,
+   "end": 218.358
+  },
+  {
+   "id": "f05",
+   "speaker": "N",
+   "text": "Minus one percent.",
+   "start": 218.958,
+   "end": 220.328
+  },
+  {
+   "id": "f06",
+   "speaker": "MIA",
+   "text": "You were smart when you taught me to ride a bike. You were smart when you knew I was sad before I said anything.",
+   "start": 220.928,
+   "end": 228.017
+  },
+  {
+   "id": "f07",
+   "speaker": "N",
+   "text": "Minus one. Minus one. The buzzing gets quieter.",
+   "start": 228.617,
+   "end": 232.717
+  },
+  {
+   "id": "f08",
+   "speaker": "DAD",
+   "text": "You're the smartest kid I know. You always were. Not because of a number.",
+   "start": 233.317,
+   "end": 239.739
+  },
+  {
+   "id": "f09",
+   "speaker": "N",
+   "text": "Your dad says it every night. Your mom says it at breakfast. Your friends say it at lunch.",
+   "start": 240.539,
+   "end": 246.531
+  },
+  {
+   "id": "f10",
+   "speaker": "N",
+   "text": "Nine hundred. Five hundred. Two hundred. A hundred and forty.",
+   "start": 247.131,
+   "end": 252.182
+  },
+  {
+   "id": "g01",
+   "speaker": "N",
+   "text": "Three weeks later, your I Q is back to a hundred. Perfectly average.",
+   "start": 253.382,
+   "end": 258.149
+  },
+  {
+   "id": "g02",
+   "speaker": "N",
+   "text": "And you understand something no I Q test can measure. Being smart was never about being faster than everyone else.",
+   "start": 258.749,
+   "end": 266.297
+  },
+  {
+   "id": "g03",
+   "speaker": "N",
+   "text": "It was about understanding the people next to you.",
+   "start": 266.797,
+   "end": 269.495
+  },
+  {
+   "id": "g04",
+   "speaker": "MIA",
+   "text": "Also, you're stupid.",
+   "start": 270.495,
+   "end": 271.821
+  },
+  {
+   "id": "g05",
+   "speaker": "N",
+   "text": "Plus one percent.",
+   "start": 272.421,
+   "end": 273.596
+  },
+  {
+   "id": "g06",
+   "speaker": "N",
+   "text": "Who in your life makes you feel smart? Tag them in the comments.",
+   "start": 274.596,
+   "end": 278.434
+  }
+ ]
+}

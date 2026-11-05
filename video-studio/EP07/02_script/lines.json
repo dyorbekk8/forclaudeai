@@ -1,0 +1,331 @@
+{
+ "title": "What If You Got 1% Smarter Every Time Someone Called You Stupid?",
+ "cast": {
+  "N": {
+   "voice": "am_michael",
+   "speed": 0.95
+  },
+  "MIA": {
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  "KID": {
+   "voice": "am_puck",
+   "speed": 1.05
+  },
+  "DAD": {
+   "voice": "bm_george",
+   "speed": 0.95
+  }
+ },
+ "lines": [
+  {
+   "id": "a01",
+   "s": "KID",
+   "t": "Leo, you're so stupid.",
+   "el": "[mocking] Leo, you're so stupid.",
+   "p": 0.2
+  },
+  {
+   "id": "a02",
+   "s": "N",
+   "t": "And suddenly... you understand calculus.",
+   "el": "And suddenly... you understand calculus.",
+   "p": 0.6
+  },
+  {
+   "id": "a03",
+   "s": "N",
+   "t": "Because starting today, every time someone calls you stupid, you get one percent smarter.",
+   "el": "[curious] Because starting today, every time someone calls you stupid, you get one percent smarter.",
+   "p": 0.5
+  },
+  {
+   "id": "a04",
+   "s": "N",
+   "t": "And people call you stupid... a lot.",
+   "el": "[ominous] And people call you stupid... a lot.",
+   "p": 1.1
+  },
+  {
+   "id": "b01",
+   "s": "N",
+   "t": "Here's the rule. Every time anyone calls you stupid, dumb, or an idiot, your I Q goes up one percent. And every time someone calls you smart... it drops one percent.",
+   "el": "Here's the rule. Every time anyone calls you stupid, dumb, or an idiot, your I Q goes up one percent. And every time someone calls you smart... it drops one percent.",
+   "p": 0.5
+  },
+  {
+   "id": "b02",
+   "s": "N",
+   "t": "Your I Q right now is a hundred. Perfectly average. You got a C minus in math. Twice.",
+   "el": "Your I Q right now is a hundred. Perfectly average. You got a C minus in math. Twice.",
+   "p": 0.5
+  },
+  {
+   "id": "b03",
+   "s": "N",
+   "t": "But one percent stacks. Thirty four insults, and you're officially a genius. Seventy, and your I Q is two hundred.",
+   "el": "But one percent stacks. Thirty four insults, and you're officially a genius. Seventy, and your I Q is two hundred.",
+   "p": 0.6
+  },
+  {
+   "id": "b04",
+   "s": "N",
+   "t": "Two hundred thirty one insults... and you'd have an I Q of one thousand. No human in history has ever come close.",
+   "el": "Two hundred thirty one insults... and you'd have an I Q of one thousand. No human in history has ever come close.",
+   "p": 1.0
+  },
+  {
+   "id": "c01",
+   "s": "N",
+   "t": "Day one. Kyle calls you stupid in the hallway. Plus one percent.",
+   "el": "Day one. Kyle calls you stupid in the hallway. Plus one percent.",
+   "p": 0.32
+  },
+  {
+   "id": "c02",
+   "s": "N",
+   "t": "Your sister calls you stupid at breakfast. She does that every morning. Plus one percent.",
+   "el": "Your sister calls you stupid at breakfast. She does that every morning. Plus one percent.",
+   "p": 0.32
+  },
+  {
+   "id": "c03",
+   "s": "N",
+   "t": "By lunch, you've read every book in the school library. By dinner, you speak French. And Japanese. And a little bit of Latin.",
+   "el": "By lunch, you've read every book in the school library. By dinner, you speak French. And Japanese. And a little bit of Latin.",
+   "p": 0.5
+  },
+  {
+   "id": "c04",
+   "s": "N",
+   "t": "So you get smart. Really smart. You start doing stupid things... on purpose.",
+   "el": "[smug] So you get smart. Really smart. You start doing stupid things... on purpose.",
+   "p": 0.3
+  },
+  {
+   "id": "c05",
+   "s": "N",
+   "t": "You wear socks with sandals. You walk into a glass door. Twice. You put pineapple on pizza... in front of the whole cafeteria.",
+   "el": "You wear socks with sandals. You walk into a glass door. Twice. You put pineapple on pizza... in front of the whole cafeteria.",
+   "p": 0.4
+  },
+  {
+   "id": "c06",
+   "s": "KID",
+   "t": "Dude, you're SO dumb!",
+   "el": "[laughing] Dude, you're SO dumb!",
+   "p": 0.3
+  },
+  {
+   "id": "c07",
+   "s": "N",
+   "t": "Plus one. Plus one. Plus one. By Friday, your I Q is two hundred. You finish your math test in four minutes. Your teacher cries.",
+   "el": "Plus one. Plus one. Plus one. By Friday, your I Q is two hundred. You finish your math test in four minutes. Your teacher cries.",
+   "p": 1.0
+  },
+  {
+   "id": "d01",
+   "s": "N",
+   "t": "Then someone posts a video. The kid who gets smarter when you call him stupid.",
+   "el": "Then someone posts a video. The kid who gets smarter when you call him stupid.",
+   "p": 0.6
+  },
+  {
+   "id": "d02",
+   "s": "N",
+   "t": "And the whole internet joins in. Millions of comments. Stupid. Idiot. Brainless. Dumbest kid alive. Every single one makes you smarter.",
+   "el": "[building] And the whole internet joins in. Millions of comments. Stupid. Idiot. Brainless. Dumbest kid alive. Every single one makes you smarter.",
+   "p": 0.3
+  },
+  {
+   "id": "d03",
+   "s": "N",
+   "t": "Plus one percent. Plus one percent. Faster than you can scroll.",
+   "el": "Plus one percent. Plus one percent. Faster than you can scroll.",
+   "p": 0.5
+  },
+  {
+   "id": "d04",
+   "s": "N",
+   "t": "By morning, your I Q is one thousand. You can see math in everything. In raindrops. In the way your cereal floats.",
+   "el": "By morning, your I Q is one thousand. You can see math in everything. In raindrops. In the way your cereal floats.",
+   "p": 0.5
+  },
+  {
+   "id": "d05",
+   "s": "N",
+   "t": "Scientists fly in from around the world. You solve a problem they've been stuck on for thirty years. On a napkin. In nine minutes.",
+   "el": "[awed] Scientists fly in from around the world. You solve a problem they've been stuck on for thirty years. On a napkin. In nine minutes.",
+   "p": 0.6
+  },
+  {
+   "id": "d06",
+   "s": "N",
+   "t": "Your face is on every news channel. The smartest person who has ever lived. And he's fifteen.",
+   "el": "Your face is on every news channel. The smartest person who has ever lived. And he's fifteen.",
+   "p": 1.0
+  },
+  {
+   "id": "e01",
+   "s": "N",
+   "t": "But there's a problem nobody warned you about.",
+   "el": "[tense] But there's a problem nobody warned you about.",
+   "p": 0.8
+  },
+  {
+   "id": "e02",
+   "s": "N",
+   "t": "When your mind runs a thousand times faster, the world starts to feel... slow. Conversations feel like waiting for a song to load. Jokes feel like puzzles you solved hours ago.",
+   "el": "When your mind runs a thousand times faster, the world starts to feel... slow. Conversations feel like waiting for a song to load. Jokes feel like puzzles you solved hours ago.",
+   "p": 0.5
+  },
+  {
+   "id": "e03",
+   "s": "N",
+   "t": "You stop laughing with your friends. You start correcting them.",
+   "el": "You stop laughing with your friends. You start correcting them.",
+   "p": 0.6
+  },
+  {
+   "id": "e04",
+   "s": "N",
+   "t": "And one night at dinner, your dad tries to read a letter out loud. He struggles with the long words. He always has. And you sigh. Loudly.",
+   "el": "[cold] And one night at dinner, your dad tries to read a letter out loud. He struggles with the long words. He always has. And you sigh. Loudly.",
+   "p": 0.5
+  },
+  {
+   "id": "e05",
+   "s": "DAD",
+   "t": "Sorry, Leo. I'm... I'm not as smart as you.",
+   "el": "[hurt, quiet] Sorry, Leo. I'm... I'm not as smart as you.",
+   "p": 0.8
+  },
+  {
+   "id": "e06",
+   "s": "N",
+   "t": "Plus one percent. Because even your dad just called himself stupid... and somehow that counts.",
+   "el": "[quietly] Plus one percent. Because even your dad just called himself stupid... and somehow that counts.",
+   "p": 0.6
+  },
+  {
+   "id": "e07",
+   "s": "N",
+   "t": "Your brain is buzzing. You can't sleep. You can't stop thinking. And for the first time, you feel completely alone.",
+   "el": "Your brain is buzzing. You can't sleep. You can't stop thinking. And for the first time, you feel completely alone.",
+   "p": 1.2
+  },
+  {
+   "id": "f01",
+   "s": "N",
+   "t": "There's only one way back. People have to tell you that you're smart. Each time... minus one percent.",
+   "el": "There's only one way back. People have to tell you that you're smart. Each time... minus one percent.",
+   "p": 0.8
+  },
+  {
+   "id": "f02",
+   "s": "N",
+   "t": "But nobody does. Why would they? You're a genius. Saying it out loud feels pointless.",
+   "el": "But nobody does. Why would they? You're a genius. Saying it out loud feels pointless.",
+   "p": 0.6
+  },
+  {
+   "id": "f03",
+   "s": "N",
+   "t": "And then your sister sits next to you on the stairs.",
+   "el": "[softly] And then your sister sits next to you on the stairs.",
+   "p": 0.6
+  },
+  {
+   "id": "f04",
+   "s": "MIA",
+   "t": "You're smart, Leo. You were always smart. Even when you got a C minus.",
+   "el": "[gently] You're smart, Leo. You were always smart. Even when you got a C minus.",
+   "p": 0.6
+  },
+  {
+   "id": "f05",
+   "s": "N",
+   "t": "Minus one percent.",
+   "el": "Minus one percent.",
+   "p": 0.6
+  },
+  {
+   "id": "f06",
+   "s": "MIA",
+   "t": "You were smart when you taught me to ride a bike. You were smart when you knew I was sad before I said anything.",
+   "el": "[smiling, tearful] You were smart when you taught me to ride a bike. You were smart when you knew I was sad before I said anything.",
+   "p": 0.6
+  },
+  {
+   "id": "f07",
+   "s": "N",
+   "t": "Minus one. Minus one. The buzzing gets quieter.",
+   "el": "Minus one. Minus one. The buzzing gets quieter.",
+   "p": 0.6
+  },
+  {
+   "id": "f08",
+   "s": "DAD",
+   "t": "You're the smartest kid I know. You always were. Not because of a number.",
+   "el": "[warm] You're the smartest kid I know. You always were. Not because of a number.",
+   "p": 0.8
+  },
+  {
+   "id": "f09",
+   "s": "N",
+   "t": "Your dad says it every night. Your mom says it at breakfast. Your friends say it at lunch.",
+   "el": "[emotional] Your dad says it every night. Your mom says it at breakfast. Your friends say it at lunch.",
+   "p": 0.6
+  },
+  {
+   "id": "f10",
+   "s": "N",
+   "t": "Nine hundred. Five hundred. Two hundred. A hundred and forty.",
+   "el": "Nine hundred. Five hundred. Two hundred. A hundred and forty.",
+   "p": 1.2
+  },
+  {
+   "id": "g01",
+   "s": "N",
+   "t": "Three weeks later, your I Q is back to a hundred. Perfectly average.",
+   "el": "Three weeks later, your I Q is back to a hundred. Perfectly average.",
+   "p": 0.6
+  },
+  {
+   "id": "g02",
+   "s": "N",
+   "t": "And you understand something no I Q test can measure. Being smart was never about being faster than everyone else.",
+   "el": "And you understand something no I Q test can measure. Being smart was never about being faster than everyone else.",
+   "p": 0.5
+  },
+  {
+   "id": "g03",
+   "s": "N",
+   "t": "It was about understanding the people next to you.",
+   "el": "[softly] It was about understanding the people next to you.",
+   "p": 1.0
+  },
+  {
+   "id": "g04",
+   "s": "MIA",
+   "t": "Also, you're stupid.",
+   "el": "[teasing] Also, you're stupid.",
+   "p": 0.6
+  },
+  {
+   "id": "g05",
+   "s": "N",
+   "t": "Plus one percent.",
+   "el": "[pause] Plus one percent.",
+   "p": 1.0
+  },
+  {
+   "id": "g06",
+   "s": "N",
+   "t": "Who in your life makes you feel smart? Tag them in the comments.",
+   "el": "Who in your life makes you feel smart? Tag them in the comments.",
+   "p": 0.32
+  }
+ ]
+}
