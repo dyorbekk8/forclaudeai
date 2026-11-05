@@ -16,6 +16,9 @@ import shortEdl from './short/edl.json';
 import {ThumbPrison} from './prison/ThumbPrison';
 import prisonEdl from './prison/edl.json';
 import {MainAmmo} from './ammo/MainAmmo';
+import {MainAircraft} from './aircraft/MainAircraft';
+import {ThumbAircraft} from './aircraft/Thumb';
+import aircraftEdl from './aircraft/edl.json';
 import {ThumbAmmo} from './ammo/ThumbAmmo';
 import {ThumbAmmoB, ThumbCarrierB} from './ammo/ThumbB';
 import ammoEdl from './ammo/edl.json';
@@ -46,6 +49,8 @@ export const Root = () => (
     <Composition id="ThumbAmmoB" component={ThumbAmmoB} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="ThumbCarrierB" component={ThumbCarrierB} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="ThumbAmmo" component={ThumbAmmo} durationInFrames={1} fps={30} width={1280} height={720} />
+    <Composition id="ThumbAircraft" component={ThumbAircraft} durationInFrames={1} fps={30} width={1280} height={720} />
+    <Composition id="Aircraft" component={MainAircraft} durationInFrames={aircraftEdl.total} fps={30} width={1920} height={1080} />
     <Composition id="Ammo" component={MainAmmo} durationInFrames={ammoEdl.total} fps={30} width={1920} height={1080} />
     <Composition id="Prison" component={MainPrison} durationInFrames={prisonEdl.total} fps={30} width={1920} height={1080} />
     {prisonEdl.beats.map((b) => (
