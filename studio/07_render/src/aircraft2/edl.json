@@ -1,6 +1,6 @@
 {
  "fps": 30,
- "total": 10882,
+ "total": 11326,
  "items": [
   {
    "letter": "F",
@@ -770,546 +770,546 @@
   {
    "id": "i01a",
    "from": 0,
-   "dur": 34,
+   "dur": 57,
    "voStart": 3,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i01a.wav",
-   "voDur": 0.769
+   "vo": "03_voiceover/aircraft2/final/i01a.wav",
+   "voDur": 1.53
   },
   {
    "id": "i01b",
-   "from": 34,
-   "dur": 254,
-   "voStart": 37,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i01b.wav",
-   "voDur": 8.077
+   "from": 57,
+   "dur": 248,
+   "voStart": 60,
+   "vo": "03_voiceover/aircraft2/final/i01b.wav",
+   "voDur": 7.888
   },
   {
    "id": "i01c",
-   "from": 288,
-   "dur": 300,
-   "voStart": 291,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i01c.wav",
-   "voDur": 9.615
+   "from": 305,
+   "dur": 278,
+   "voStart": 308,
+   "vo": "03_voiceover/aircraft2/final/i01c.wav",
+   "voDur": 8.877
   },
   {
    "id": "i01d",
-   "from": 588,
-   "dur": 215,
-   "voStart": 591,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i01d.wav",
-   "voDur": 6.538
+   "from": 583,
+   "dur": 178,
+   "voStart": 586,
+   "vo": "03_voiceover/aircraft2/final/i01d.wav",
+   "voDur": 5.298
   },
   {
    "id": "i02a",
-   "from": 803,
-   "dur": 34,
-   "voStart": 806,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i02a.wav",
-   "voDur": 0.769
+   "from": 761,
+   "dur": 71,
+   "voStart": 764,
+   "vo": "03_voiceover/aircraft2/final/i02a.wav",
+   "voDur": 1.984
   },
   {
    "id": "i02b",
-   "from": 837,
-   "dur": 161,
-   "voStart": 840,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i02b.wav",
-   "voDur": 5.0
+   "from": 832,
+   "dur": 125,
+   "voStart": 835,
+   "vo": "03_voiceover/aircraft2/final/i02b.wav",
+   "voDur": 3.792
   },
   {
    "id": "i02c",
-   "from": 998,
-   "dur": 227,
-   "voStart": 1001,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i02c.wav",
-   "voDur": 6.923
+   "from": 957,
+   "dur": 177,
+   "voStart": 960,
+   "vo": "03_voiceover/aircraft2/final/i02c.wav",
+   "voDur": 5.279
   },
   {
    "id": "i03a",
-   "from": 1225,
-   "dur": 34,
-   "voStart": 1228,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i03a.wav",
-   "voDur": 0.769
+   "from": 1134,
+   "dur": 55,
+   "voStart": 1137,
+   "vo": "03_voiceover/aircraft2/final/i03a.wav",
+   "voDur": 1.45
   },
   {
    "id": "i03b",
-   "from": 1259,
-   "dur": 69,
-   "voStart": 1262,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i03b.wav",
-   "voDur": 1.923
+   "from": 1189,
+   "dur": 89,
+   "voStart": 1192,
+   "vo": "03_voiceover/aircraft2/final/i03b.wav",
+   "voDur": 2.594
   },
   {
    "id": "i03c",
-   "from": 1328,
-   "dur": 365,
-   "voStart": 1331,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i03c.wav",
-   "voDur": 11.538
+   "from": 1278,
+   "dur": 327,
+   "voStart": 1281,
+   "vo": "03_voiceover/aircraft2/final/i03c.wav",
+   "voDur": 10.26
   },
   {
    "id": "i04a",
-   "from": 1693,
-   "dur": 34,
-   "voStart": 1696,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i04a.wav",
-   "voDur": 0.769
+   "from": 1605,
+   "dur": 66,
+   "voStart": 1608,
+   "vo": "03_voiceover/aircraft2/final/i04a.wav",
+   "voDur": 1.82
   },
   {
    "id": "i04b",
-   "from": 1727,
-   "dur": 115,
-   "voStart": 1730,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i04b.wav",
-   "voDur": 3.462
+   "from": 1671,
+   "dur": 126,
+   "voStart": 1674,
+   "vo": "03_voiceover/aircraft2/final/i04b.wav",
+   "voDur": 3.822
   },
   {
    "id": "i04c",
-   "from": 1842,
-   "dur": 457,
-   "voStart": 1845,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i04c.wav",
-   "voDur": 14.615
+   "from": 1797,
+   "dur": 447,
+   "voStart": 1800,
+   "vo": "03_voiceover/aircraft2/final/i04c.wav",
+   "voDur": 14.256
   },
   {
    "id": "i05a",
-   "from": 2299,
-   "dur": 34,
-   "voStart": 2302,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i05a.wav",
-   "voDur": 0.769
+   "from": 2244,
+   "dur": 60,
+   "voStart": 2247,
+   "vo": "03_voiceover/aircraft2/final/i05a.wav",
+   "voDur": 1.627
   },
   {
    "id": "i05b",
-   "from": 2333,
-   "dur": 219,
-   "voStart": 2336,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i05b.wav",
-   "voDur": 6.923
+   "from": 2304,
+   "dur": 155,
+   "voStart": 2307,
+   "vo": "03_voiceover/aircraft2/final/i05b.wav",
+   "voDur": 4.788
   },
   {
    "id": "i05c",
-   "from": 2552,
-   "dur": 254,
-   "voStart": 2555,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i05c.wav",
-   "voDur": 8.077
+   "from": 2459,
+   "dur": 225,
+   "voStart": 2462,
+   "vo": "03_voiceover/aircraft2/final/i05c.wav",
+   "voDur": 7.111
   },
   {
    "id": "i05d",
-   "from": 2806,
-   "dur": 284,
-   "voStart": 2809,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i05d.wav",
-   "voDur": 8.846
+   "from": 2684,
+   "dur": 285,
+   "voStart": 2687,
+   "vo": "03_voiceover/aircraft2/final/i05d.wav",
+   "voDur": 8.87
   },
   {
    "id": "i06a",
-   "from": 3090,
-   "dur": 34,
-   "voStart": 3093,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i06a.wav",
-   "voDur": 0.769
+   "from": 2969,
+   "dur": 73,
+   "voStart": 2972,
+   "vo": "03_voiceover/aircraft2/final/i06a.wav",
+   "voDur": 2.039
   },
   {
    "id": "i06b",
-   "from": 3124,
-   "dur": 173,
-   "voStart": 3127,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i06b.wav",
-   "voDur": 5.385
+   "from": 3042,
+   "dur": 178,
+   "voStart": 3045,
+   "vo": "03_voiceover/aircraft2/final/i06b.wav",
+   "voDur": 5.544
   },
   {
    "id": "i06c",
-   "from": 3297,
-   "dur": 192,
-   "voStart": 3300,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i06c.wav",
-   "voDur": 5.769
+   "from": 3220,
+   "dur": 218,
+   "voStart": 3223,
+   "vo": "03_voiceover/aircraft2/final/i06c.wav",
+   "voDur": 6.627
   },
   {
    "id": "i07a",
-   "from": 3489,
-   "dur": 58,
-   "voStart": 3492,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i07a.wav",
-   "voDur": 1.538
+   "from": 3438,
+   "dur": 109,
+   "voStart": 3441,
+   "vo": "03_voiceover/aircraft2/final/i07a.wav",
+   "voDur": 3.261
   },
   {
    "id": "i07b",
    "from": 3547,
-   "dur": 161,
+   "dur": 86,
    "voStart": 3550,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i07b.wav",
-   "voDur": 5.0
+   "vo": "03_voiceover/aircraft2/final/i07b.wav",
+   "voDur": 2.488
   },
   {
    "id": "i07c",
-   "from": 3708,
-   "dur": 388,
-   "voStart": 3711,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i07c.wav",
-   "voDur": 12.308
+   "from": 3633,
+   "dur": 362,
+   "voStart": 3636,
+   "vo": "03_voiceover/aircraft2/final/i07c.wav",
+   "voDur": 11.424
   },
   {
    "id": "i08a",
-   "from": 4096,
-   "dur": 34,
-   "voStart": 4099,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i08a.wav",
-   "voDur": 0.769
+   "from": 3995,
+   "dur": 72,
+   "voStart": 3998,
+   "vo": "03_voiceover/aircraft2/final/i08a.wav",
+   "voDur": 2.011
   },
   {
    "id": "i08b",
-   "from": 4130,
-   "dur": 161,
-   "voStart": 4133,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i08b.wav",
-   "voDur": 5.0
+   "from": 4067,
+   "dur": 173,
+   "voStart": 4070,
+   "vo": "03_voiceover/aircraft2/final/i08b.wav",
+   "voDur": 5.39
   },
   {
    "id": "i08c",
-   "from": 4291,
-   "dur": 169,
-   "voStart": 4294,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i08c.wav",
-   "voDur": 5.0
+   "from": 4240,
+   "dur": 196,
+   "voStart": 4243,
+   "vo": "03_voiceover/aircraft2/final/i08c.wav",
+   "voDur": 5.919
   },
   {
    "id": "i09a",
-   "from": 4460,
-   "dur": 34,
-   "voStart": 4463,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i09a.wav",
-   "voDur": 0.769
+   "from": 4436,
+   "dur": 66,
+   "voStart": 4439,
+   "vo": "03_voiceover/aircraft2/final/i09a.wav",
+   "voDur": 1.827
   },
   {
    "id": "i09b",
-   "from": 4494,
-   "dur": 150,
-   "voStart": 4497,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i09b.wav",
-   "voDur": 4.615
+   "from": 4502,
+   "dur": 137,
+   "voStart": 4505,
+   "vo": "03_voiceover/aircraft2/final/i09b.wav",
+   "voDur": 4.194
   },
   {
    "id": "i09c",
-   "from": 4644,
-   "dur": 261,
-   "voStart": 4647,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i09c.wav",
-   "voDur": 8.077
+   "from": 4639,
+   "dur": 247,
+   "voStart": 4642,
+   "vo": "03_voiceover/aircraft2/final/i09c.wav",
+   "voDur": 7.614
   },
   {
    "id": "i10a",
-   "from": 4905,
-   "dur": 34,
-   "voStart": 4908,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i10a.wav",
-   "voDur": 0.769
+   "from": 4886,
+   "dur": 84,
+   "voStart": 4889,
+   "vo": "03_voiceover/aircraft2/final/i10a.wav",
+   "voDur": 2.408
   },
   {
    "id": "i10b",
-   "from": 4939,
-   "dur": 69,
-   "voStart": 4942,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i10b.wav",
-   "voDur": 1.923
+   "from": 4970,
+   "dur": 66,
+   "voStart": 4973,
+   "vo": "03_voiceover/aircraft2/final/i10b.wav",
+   "voDur": 1.813
   },
   {
    "id": "i10c",
-   "from": 5008,
-   "dur": 388,
-   "voStart": 5011,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i10c.wav",
-   "voDur": 12.308
+   "from": 5036,
+   "dur": 391,
+   "voStart": 5039,
+   "vo": "03_voiceover/aircraft2/final/i10c.wav",
+   "voDur": 12.401
   },
   {
    "id": "i11a",
-   "from": 5396,
-   "dur": 34,
-   "voStart": 5399,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i11a.wav",
-   "voDur": 0.769
+   "from": 5427,
+   "dur": 58,
+   "voStart": 5430,
+   "vo": "03_voiceover/aircraft2/final/i11a.wav",
+   "voDur": 1.555
   },
   {
    "id": "i11b",
-   "from": 5430,
-   "dur": 58,
-   "voStart": 5433,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i11b.wav",
-   "voDur": 1.538
+   "from": 5485,
+   "dur": 88,
+   "voStart": 5488,
+   "vo": "03_voiceover/aircraft2/final/i11b.wav",
+   "voDur": 2.54
   },
   {
    "id": "i11c",
-   "from": 5488,
-   "dur": 157,
-   "voStart": 5491,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i11c.wav",
-   "voDur": 4.615
+   "from": 5573,
+   "dur": 160,
+   "voStart": 5576,
+   "vo": "03_voiceover/aircraft2/final/i11c.wav",
+   "voDur": 4.702
   },
   {
    "id": "i12a",
-   "from": 5645,
-   "dur": 69,
-   "voStart": 5648,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i12a.wav",
-   "voDur": 1.923
+   "from": 5733,
+   "dur": 118,
+   "voStart": 5736,
+   "vo": "03_voiceover/aircraft2/final/i12a.wav",
+   "voDur": 3.542
   },
   {
    "id": "i12b",
-   "from": 5714,
-   "dur": 277,
-   "voStart": 5717,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i12b.wav",
-   "voDur": 8.846
+   "from": 5851,
+   "dur": 331,
+   "voStart": 5854,
+   "vo": "03_voiceover/aircraft2/final/i12b.wav",
+   "voDur": 10.667
   },
   {
    "id": "i12c",
-   "from": 5991,
-   "dur": 192,
-   "voStart": 5994,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i12c.wav",
-   "voDur": 5.769
+   "from": 6182,
+   "dur": 199,
+   "voStart": 6185,
+   "vo": "03_voiceover/aircraft2/final/i12c.wav",
+   "voDur": 5.997
   },
   {
    "id": "i13a",
-   "from": 6183,
-   "dur": 46,
-   "voStart": 6186,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i13a.wav",
-   "voDur": 1.154
+   "from": 6381,
+   "dur": 62,
+   "voStart": 6384,
+   "vo": "03_voiceover/aircraft2/final/i13a.wav",
+   "voDur": 1.683
   },
   {
    "id": "i13b",
-   "from": 6229,
+   "from": 6443,
    "dur": 215,
-   "voStart": 6232,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i13b.wav",
-   "voDur": 6.538
+   "voStart": 6446,
+   "vo": "03_voiceover/aircraft2/final/i13b.wav",
+   "voDur": 6.53
   },
   {
    "id": "i14a",
-   "from": 6444,
-   "dur": 34,
-   "voStart": 6447,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i14a.wav",
-   "voDur": 0.769
+   "from": 6658,
+   "dur": 64,
+   "voStart": 6661,
+   "vo": "03_voiceover/aircraft2/final/i14a.wav",
+   "voDur": 1.745
   },
   {
    "id": "i14b",
-   "from": 6478,
-   "dur": 46,
-   "voStart": 6481,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i14b.wav",
-   "voDur": 1.154
+   "from": 6722,
+   "dur": 64,
+   "voStart": 6725,
+   "vo": "03_voiceover/aircraft2/final/i14b.wav",
+   "voDur": 1.748
   },
   {
    "id": "i14c",
-   "from": 6524,
-   "dur": 238,
-   "voStart": 6527,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i14c.wav",
-   "voDur": 7.308
+   "from": 6786,
+   "dur": 197,
+   "voStart": 6789,
+   "vo": "03_voiceover/aircraft2/final/i14c.wav",
+   "voDur": 5.932
   },
   {
    "id": "i15a",
-   "from": 6762,
-   "dur": 34,
-   "voStart": 6765,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i15a.wav",
-   "voDur": 0.769
+   "from": 6983,
+   "dur": 58,
+   "voStart": 6986,
+   "vo": "03_voiceover/aircraft2/final/i15a.wav",
+   "voDur": 1.537
   },
   {
    "id": "i15b",
-   "from": 6796,
-   "dur": 127,
-   "voStart": 6799,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i15b.wav",
-   "voDur": 3.846
+   "from": 7041,
+   "dur": 154,
+   "voStart": 7044,
+   "vo": "03_voiceover/aircraft2/final/i15b.wav",
+   "voDur": 4.758
   },
   {
    "id": "i15c",
-   "from": 6923,
-   "dur": 204,
-   "voStart": 6926,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i15c.wav",
-   "voDur": 6.154
+   "from": 7195,
+   "dur": 198,
+   "voStart": 7198,
+   "vo": "03_voiceover/aircraft2/final/i15c.wav",
+   "voDur": 5.97
   },
   {
    "id": "i16a",
-   "from": 7127,
-   "dur": 34,
-   "voStart": 7130,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i16a.wav",
-   "voDur": 0.769
+   "from": 7393,
+   "dur": 84,
+   "voStart": 7396,
+   "vo": "03_voiceover/aircraft2/final/i16a.wav",
+   "voDur": 2.412
   },
   {
    "id": "i16b",
-   "from": 7161,
-   "dur": 184,
-   "voStart": 7164,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i16b.wav",
-   "voDur": 5.769
+   "from": 7477,
+   "dur": 241,
+   "voStart": 7480,
+   "vo": "03_voiceover/aircraft2/final/i16b.wav",
+   "voDur": 7.665
   },
   {
    "id": "i16c",
-   "from": 7345,
-   "dur": 146,
-   "voStart": 7348,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i16c.wav",
-   "voDur": 4.231
+   "from": 7718,
+   "dur": 147,
+   "voStart": 7721,
+   "vo": "03_voiceover/aircraft2/final/i16c.wav",
+   "voDur": 4.276
   },
   {
    "id": "i17a",
-   "from": 7491,
-   "dur": 34,
-   "voStart": 7494,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i17a.wav",
-   "voDur": 0.769
+   "from": 7865,
+   "dur": 60,
+   "voStart": 7868,
+   "vo": "03_voiceover/aircraft2/final/i17a.wav",
+   "voDur": 1.606
   },
   {
    "id": "i17b",
-   "from": 7525,
-   "dur": 250,
-   "voStart": 7528,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i17b.wav",
-   "voDur": 7.692
+   "from": 7925,
+   "dur": 193,
+   "voStart": 7928,
+   "vo": "03_voiceover/aircraft2/final/i17b.wav",
+   "voDur": 5.79
   },
   {
    "id": "i18a",
-   "from": 7775,
-   "dur": 34,
-   "voStart": 7778,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i18a.wav",
-   "voDur": 0.769
+   "from": 8118,
+   "dur": 69,
+   "voStart": 8121,
+   "vo": "03_voiceover/aircraft2/final/i18a.wav",
+   "voDur": 1.928
   },
   {
    "id": "i18b",
-   "from": 7809,
-   "dur": 319,
-   "voStart": 7812,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i18b.wav",
-   "voDur": 10.0
+   "from": 8187,
+   "dur": 326,
+   "voStart": 8190,
+   "vo": "03_voiceover/aircraft2/final/i18b.wav",
+   "voDur": 10.236
   },
   {
    "id": "i19a",
-   "from": 8128,
-   "dur": 34,
-   "voStart": 8131,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i19a.wav",
-   "voDur": 0.769
+   "from": 8513,
+   "dur": 93,
+   "voStart": 8516,
+   "vo": "03_voiceover/aircraft2/final/i19a.wav",
+   "voDur": 2.736
   },
   {
    "id": "i19b",
-   "from": 8162,
-   "dur": 208,
-   "voStart": 8165,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i19b.wav",
-   "voDur": 6.538
+   "from": 8606,
+   "dur": 214,
+   "voStart": 8609,
+   "vo": "03_voiceover/aircraft2/final/i19b.wav",
+   "voDur": 6.762
   },
   {
    "id": "i19c",
-   "from": 8370,
-   "dur": 169,
-   "voStart": 8373,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i19c.wav",
-   "voDur": 5.0
+   "from": 8820,
+   "dur": 194,
+   "voStart": 8823,
+   "vo": "03_voiceover/aircraft2/final/i19c.wav",
+   "voDur": 5.834
   },
   {
    "id": "i20a",
-   "from": 8539,
-   "dur": 34,
-   "voStart": 8542,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i20a.wav",
-   "voDur": 0.769
+   "from": 9014,
+   "dur": 59,
+   "voStart": 9017,
+   "vo": "03_voiceover/aircraft2/final/i20a.wav",
+   "voDur": 1.581
   },
   {
    "id": "i20b",
-   "from": 8573,
-   "dur": 250,
-   "voStart": 8576,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i20b.wav",
-   "voDur": 7.692
+   "from": 9073,
+   "dur": 217,
+   "voStart": 9076,
+   "vo": "03_voiceover/aircraft2/final/i20b.wav",
+   "voDur": 6.618
   },
   {
    "id": "i21a",
-   "from": 8823,
-   "dur": 34,
-   "voStart": 8826,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i21a.wav",
-   "voDur": 0.769
+   "from": 9290,
+   "dur": 59,
+   "voStart": 9293,
+   "vo": "03_voiceover/aircraft2/final/i21a.wav",
+   "voDur": 1.597
   },
   {
    "id": "i21b",
-   "from": 8857,
-   "dur": 169,
-   "voStart": 8860,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i21b.wav",
-   "voDur": 5.0
+   "from": 9349,
+   "dur": 200,
+   "voStart": 9352,
+   "vo": "03_voiceover/aircraft2/final/i21b.wav",
+   "voDur": 6.047
   },
   {
    "id": "i22a",
-   "from": 9026,
-   "dur": 69,
-   "voStart": 9029,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i22a.wav",
-   "voDur": 1.923
+   "from": 9549,
+   "dur": 95,
+   "voStart": 9552,
+   "vo": "03_voiceover/aircraft2/final/i22a.wav",
+   "voDur": 2.779
   },
   {
    "id": "i22b",
-   "from": 9095,
-   "dur": 238,
-   "voStart": 9098,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/i22b.wav",
-   "voDur": 7.308
+   "from": 9644,
+   "dur": 249,
+   "voStart": 9647,
+   "vo": "03_voiceover/aircraft2/final/i22b.wav",
+   "voDur": 7.659
   },
   {
    "id": "ya",
-   "from": 9333,
-   "dur": 469,
-   "voStart": 9336,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/ya.wav",
-   "voDur": 15.0
+   "from": 9893,
+   "dur": 414,
+   "voStart": 9896,
+   "vo": "03_voiceover/aircraft2/final/ya.wav",
+   "voDur": 13.165
   },
   {
    "id": "yb",
-   "from": 9802,
-   "dur": 123,
-   "voStart": 9805,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/yb.wav",
-   "voDur": 3.462
+   "from": 10307,
+   "dur": 107,
+   "voStart": 10310,
+   "vo": "03_voiceover/aircraft2/final/yb.wav",
+   "voDur": 2.951
   },
   {
    "id": "za",
-   "from": 9925,
-   "dur": 273,
-   "voStart": 9928,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/za.wav",
-   "voDur": 8.461
+   "from": 10414,
+   "dur": 259,
+   "voStart": 10417,
+   "vo": "03_voiceover/aircraft2/final/za.wav",
+   "voDur": 7.995
   },
   {
    "id": "zb",
-   "from": 10198,
-   "dur": 296,
-   "voStart": 10201,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/zb.wav",
-   "voDur": 9.231
+   "from": 10673,
+   "dur": 282,
+   "voStart": 10676,
+   "vo": "03_voiceover/aircraft2/final/zb.wav",
+   "voDur": 8.779
   },
   {
    "id": "zb2",
-   "from": 10494,
+   "from": 10955,
    "dur": 157,
-   "voStart": 10497,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/zb2.wav",
-   "voDur": 4.615
+   "voStart": 10958,
+   "vo": "03_voiceover/aircraft2/final/zb2.wav",
+   "voDur": 4.612
   },
   {
    "id": "zc",
-   "from": 10651,
-   "dur": 231,
-   "voStart": 10654,
-   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvo2/zc.wav",
-   "voDur": 4.615
+   "from": 11112,
+   "dur": 214,
+   "voStart": 11115,
+   "vo": "03_voiceover/aircraft2/final/zc.wav",
+   "voDur": 4.068
   }
  ],
  "shots": [
@@ -1318,17 +1318,17 @@
    "kind": "grid",
    "item": 0,
    "from": 0,
-   "dur": 34,
+   "dur": 57,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 8,
+     "frame": 31,
      "gain": -17
     },
     {
      "file": "pop_1",
-     "frame": 30,
+     "frame": 53,
      "gain": -19
     }
    ]
@@ -1337,27 +1337,27 @@
    "id": "0c0",
    "kind": "card",
    "item": 0,
-   "from": 34,
-   "dur": 254,
+   "from": 57,
+   "dur": 248,
    "feat": [
     3,
-    87,
+    85,
     99999
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 36,
+     "frame": 59,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 37,
+     "frame": 60,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 121,
+     "frame": 142,
      "gain": -18
     }
    ]
@@ -1366,23 +1366,23 @@
    "id": "0s1",
    "kind": "summary",
    "item": 0,
-   "from": 288,
-   "dur": 300,
+   "from": 305,
+   "dur": 278,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 288,
+     "frame": 305,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 292,
+     "frame": 309,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 318,
+     "frame": 335,
      "gain": -18
     }
    ]
@@ -1391,8 +1391,8 @@
    "id": "0c2",
    "kind": "card",
    "item": 0,
-   "from": 588,
-   "dur": 215,
+   "from": 583,
+   "dur": 178,
    "feat": [
     -100,
     -100,
@@ -1401,12 +1401,12 @@
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 590,
+     "frame": 585,
      "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 591,
+     "frame": 586,
      "gain": -18
     }
    ]
@@ -1415,18 +1415,18 @@
    "id": "1g",
    "kind": "grid",
    "item": 1,
-   "from": 803,
-   "dur": 34,
+   "from": 761,
+   "dur": 71,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 811,
+     "frame": 806,
      "gain": -17
     },
     {
      "file": "pop_2",
-     "frame": 833,
+     "frame": 828,
      "gain": -19
     }
    ]
@@ -1435,32 +1435,32 @@
    "id": "1c0",
    "kind": "card",
    "item": 1,
-   "from": 837,
-   "dur": 388,
+   "from": 832,
+   "dur": 302,
    "feat": [
     3,
-    164,
-    239
+    128,
+    186
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 839,
+     "frame": 834,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 840,
+     "frame": 835,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 1001,
+     "frame": 960,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 1076,
+     "frame": 1018,
      "gain": -18
     }
    ]
@@ -1469,18 +1469,18 @@
    "id": "2g",
    "kind": "grid",
    "item": 2,
-   "from": 1225,
-   "dur": 34,
+   "from": 1134,
+   "dur": 55,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_3",
-     "frame": 1233,
+     "frame": 1163,
      "gain": -17
     },
     {
      "file": "pop_3",
-     "frame": 1255,
+     "frame": 1185,
      "gain": -19
     }
    ]
@@ -1489,27 +1489,27 @@
    "id": "2c0",
    "kind": "card",
    "item": 2,
-   "from": 1259,
-   "dur": 186,
+   "from": 1189,
+   "dur": 137,
    "feat": [
     3,
-    72,
+    92,
     99999
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 1261,
+     "frame": 1191,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 1262,
+     "frame": 1192,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 1331,
+     "frame": 1281,
      "gain": -18
     }
    ]
@@ -1518,23 +1518,23 @@
    "id": "2s1",
    "kind": "summary",
    "item": 2,
-   "from": 1445,
-   "dur": 0,
+   "from": 1326,
+   "dur": 174,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 1445,
+     "frame": 1326,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 1449,
+     "frame": 1330,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 1475,
+     "frame": 1356,
      "gain": -18
     }
    ]
@@ -1543,8 +1543,8 @@
    "id": "2c2",
    "kind": "card",
    "item": 2,
-   "from": 1445,
-   "dur": 248,
+   "from": 1500,
+   "dur": 105,
    "feat": [
     -100,
     -100,
@@ -1553,12 +1553,12 @@
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 1447,
+     "frame": 1502,
      "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 1448,
+     "frame": 1503,
      "gain": -18
     }
    ]
@@ -1567,18 +1567,18 @@
    "id": "3g",
    "kind": "grid",
    "item": 3,
-   "from": 1693,
-   "dur": 34,
+   "from": 1605,
+   "dur": 66,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_4",
-     "frame": 1701,
+     "frame": 1645,
      "gain": -17
     },
     {
      "file": "pop_1",
-     "frame": 1723,
+     "frame": 1667,
      "gain": -19
     }
    ]
@@ -1587,32 +1587,32 @@
    "id": "3c0",
    "kind": "card",
    "item": 3,
-   "from": 1727,
-   "dur": 180,
+   "from": 1671,
+   "dur": 206,
    "feat": [
     3,
-    41,
-    118
+    45,
+    129
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 1729,
+     "frame": 1673,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 1730,
+     "frame": 1674,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 1768,
+     "frame": 1716,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 1845,
+     "frame": 1800,
      "gain": -18
     }
    ]
@@ -1621,23 +1621,23 @@
    "id": "3s1",
    "kind": "summary",
    "item": 3,
-   "from": 1907,
-   "dur": 392,
+   "from": 1877,
+   "dur": 367,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 1907,
+     "frame": 1877,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 1911,
+     "frame": 1881,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 1937,
+     "frame": 1907,
      "gain": -18
     }
    ]
@@ -1646,18 +1646,18 @@
    "id": "4g",
    "kind": "grid",
    "item": 4,
-   "from": 2299,
-   "dur": 34,
+   "from": 2244,
+   "dur": 60,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 2307,
+     "frame": 2278,
      "gain": -17
     },
     {
      "file": "pop_2",
-     "frame": 2329,
+     "frame": 2300,
      "gain": -19
     }
    ]
@@ -1666,27 +1666,27 @@
    "id": "4c0",
    "kind": "card",
    "item": 4,
-   "from": 2333,
-   "dur": 219,
+   "from": 2304,
+   "dur": 155,
    "feat": [
     3,
-    75,
+    54,
     99999
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 2335,
+     "frame": 2306,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 2336,
+     "frame": 2307,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 2408,
+     "frame": 2358,
      "gain": -18
     }
    ]
@@ -1695,23 +1695,23 @@
    "id": "4s1",
    "kind": "summary",
    "item": 4,
-   "from": 2552,
-   "dur": 254,
+   "from": 2459,
+   "dur": 225,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 2552,
+     "frame": 2459,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 2556,
+     "frame": 2463,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 2582,
+     "frame": 2489,
      "gain": -18
     }
    ]
@@ -1720,8 +1720,8 @@
    "id": "4c2",
    "kind": "card",
    "item": 4,
-   "from": 2806,
-   "dur": 284,
+   "from": 2684,
+   "dur": 285,
    "feat": [
     -100,
     -100,
@@ -1730,12 +1730,12 @@
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 2808,
+     "frame": 2686,
      "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 2809,
+     "frame": 2687,
      "gain": -18
     }
    ]
@@ -1744,18 +1744,18 @@
    "id": "5g",
    "kind": "grid",
    "item": 5,
-   "from": 3090,
-   "dur": 34,
+   "from": 2969,
+   "dur": 73,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 3098,
+     "frame": 3016,
      "gain": -17
     },
     {
      "file": "pop_3",
-     "frame": 3120,
+     "frame": 3038,
      "gain": -19
     }
    ]
@@ -1764,32 +1764,32 @@
    "id": "5c0",
    "kind": "card",
    "item": 5,
-   "from": 3124,
-   "dur": 365,
+   "from": 3042,
+   "dur": 396,
    "feat": [
     3,
-    176,
-    60
+    181,
+    62
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 3126,
+     "frame": 3044,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 3127,
+     "frame": 3045,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 3300,
+     "frame": 3223,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 3184,
+     "frame": 3104,
      "gain": -18
     }
    ]
@@ -1798,8 +1798,8 @@
    "id": "6g",
    "kind": "grid",
    "item": 6,
-   "from": 3489,
-   "dur": 58,
+   "from": 3438,
+   "dur": 109,
    "feat": [],
    "cues": [
     {
@@ -1819,7 +1819,7 @@
    "kind": "summary",
    "item": 6,
    "from": 3547,
-   "dur": 161,
+   "dur": 86,
    "feat": [],
    "cues": [
     {
@@ -1843,32 +1843,32 @@
    "id": "6c1",
    "kind": "card",
    "item": 6,
-   "from": 3708,
-   "dur": 388,
+   "from": 3633,
+   "dur": 362,
    "feat": [
     3,
-    41,
-    119
+    79,
+    232
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 3710,
+     "frame": 3635,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 3711,
+     "frame": 3636,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 3749,
+     "frame": 3712,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 3827,
+     "frame": 3865,
      "gain": -18
     }
    ]
@@ -1877,18 +1877,18 @@
    "id": "7g",
    "kind": "grid",
    "item": 7,
-   "from": 4096,
-   "dur": 34,
+   "from": 3995,
+   "dur": 72,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_4",
-     "frame": 4104,
+     "frame": 4041,
      "gain": -17
     },
     {
      "file": "pop_2",
-     "frame": 4126,
+     "frame": 4063,
      "gain": -19
     }
    ]
@@ -1897,32 +1897,32 @@
    "id": "7c0",
    "kind": "card",
    "item": 7,
-   "from": 4130,
-   "dur": 330,
+   "from": 4067,
+   "dur": 369,
    "feat": [
     3,
-    56,
-    164
+    60,
+    176
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 4132,
+     "frame": 4069,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 4133,
+     "frame": 4070,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 4186,
+     "frame": 4127,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 4294,
+     "frame": 4243,
      "gain": -18
     }
    ]
@@ -1931,18 +1931,18 @@
    "id": "8g",
    "kind": "grid",
    "item": 8,
-   "from": 4460,
-   "dur": 34,
+   "from": 4436,
+   "dur": 66,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 4468,
+     "frame": 4476,
      "gain": -17
     },
     {
      "file": "pop_3",
-     "frame": 4490,
+     "frame": 4498,
      "gain": -19
     }
    ]
@@ -1951,27 +1951,27 @@
    "id": "8c0",
    "kind": "card",
    "item": 8,
-   "from": 4494,
-   "dur": 150,
+   "from": 4502,
+   "dur": 137,
    "feat": [
     3,
-    53,
+    48,
     99999
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 4496,
+     "frame": 4504,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 4497,
+     "frame": 4505,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 4547,
+     "frame": 4550,
      "gain": -18
     }
    ]
@@ -1980,23 +1980,23 @@
    "id": "8s1",
    "kind": "summary",
    "item": 8,
-   "from": 4644,
-   "dur": 65,
+   "from": 4639,
+   "dur": 94,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 4644,
+     "frame": 4639,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 4648,
+     "frame": 4643,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 4674,
+     "frame": 4669,
      "gain": -18
     }
    ]
@@ -2005,8 +2005,8 @@
    "id": "8c2",
    "kind": "card",
    "item": 8,
-   "from": 4709,
-   "dur": 196,
+   "from": 4733,
+   "dur": 153,
    "feat": [
     -100,
     -100,
@@ -2015,12 +2015,12 @@
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 4711,
+     "frame": 4735,
      "gain": -21
     },
     {
      "file": "pop_3",
-     "frame": 4712,
+     "frame": 4736,
      "gain": -18
     }
    ]
@@ -2029,18 +2029,18 @@
    "id": "9g",
    "kind": "grid",
    "item": 9,
-   "from": 4905,
-   "dur": 34,
+   "from": 4886,
+   "dur": 84,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 4913,
+     "frame": 4944,
      "gain": -17
     },
     {
      "file": "pop_1",
-     "frame": 4935,
+     "frame": 4966,
      "gain": -19
     }
    ]
@@ -2049,32 +2049,32 @@
    "id": "9c0",
    "kind": "card",
    "item": 9,
-   "from": 4939,
-   "dur": 185,
+   "from": 4970,
+   "dur": 376,
    "feat": [
     3,
-    72,
-    110
+    69,
+    171
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 4941,
+     "frame": 4972,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 4942,
+     "frame": 4973,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 5011,
+     "frame": 5039,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 5049,
+     "frame": 5141,
      "gain": -18
     }
    ]
@@ -2083,23 +2083,23 @@
    "id": "9s1",
    "kind": "summary",
    "item": 9,
-   "from": 5124,
-   "dur": 272,
+   "from": 5346,
+   "dur": 81,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 5124,
+     "frame": 5346,
      "gain": -20
     },
     {
      "file": "counter_tick_loop",
-     "frame": 5128,
+     "frame": 5350,
      "gain": -26
     },
     {
      "file": "tick_2",
-     "frame": 5154,
+     "frame": 5376,
      "gain": -18
     }
    ]
@@ -2108,18 +2108,18 @@
    "id": "10g",
    "kind": "grid",
    "item": 10,
-   "from": 5396,
-   "dur": 34,
+   "from": 5427,
+   "dur": 58,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_3",
-     "frame": 5404,
+     "frame": 5459,
      "gain": -17
     },
     {
      "file": "pop_2",
-     "frame": 5426,
+     "frame": 5481,
      "gain": -19
     }
    ]
@@ -2128,32 +2128,32 @@
    "id": "10c0",
    "kind": "card",
    "item": 10,
-   "from": 5430,
-   "dur": 215,
+   "from": 5485,
+   "dur": 248,
    "feat": [
     3,
-    61,
-    22
+    91,
+    32
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 5432,
+     "frame": 5487,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 5433,
+     "frame": 5488,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 5491,
+     "frame": 5576,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 5452,
+     "frame": 5517,
      "gain": -18
     }
    ]
@@ -2162,18 +2162,18 @@
    "id": "11g",
    "kind": "grid",
    "item": 11,
-   "from": 5645,
-   "dur": 69,
+   "from": 5733,
+   "dur": 118,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_4",
-     "frame": 5688,
+     "frame": 5825,
      "gain": -17
     },
     {
      "file": "pop_3",
-     "frame": 5710,
+     "frame": 5847,
      "gain": -19
     }
    ]
@@ -2182,32 +2182,32 @@
    "id": "11c0",
    "kind": "card",
    "item": 11,
-   "from": 5714,
-   "dur": 469,
+   "from": 5851,
+   "dur": 530,
    "feat": [
     3,
-    83,
-    280
+    129,
+    334
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 5716,
+     "frame": 5853,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 5717,
+     "frame": 5854,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 5797,
+     "frame": 5980,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 5994,
+     "frame": 6185,
      "gain": -18
     }
    ]
@@ -2216,18 +2216,18 @@
    "id": "12g",
    "kind": "grid",
    "item": 12,
-   "from": 6183,
-   "dur": 46,
+   "from": 6381,
+   "dur": 62,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 6203,
+     "frame": 6417,
      "gain": -17
     },
     {
      "file": "pop_1",
-     "frame": 6225,
+     "frame": 6439,
      "gain": -19
     }
    ]
@@ -2236,32 +2236,32 @@
    "id": "12c0",
    "kind": "card",
    "item": 12,
-   "from": 6229,
+   "from": 6443,
    "dur": 215,
    "feat": [
     3,
-    64,
-    115
+    101,
+    140
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 6231,
+     "frame": 6445,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 6232,
+     "frame": 6446,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 6293,
+     "frame": 6544,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 6344,
+     "frame": 6583,
      "gain": -18
     }
    ]
@@ -2270,18 +2270,18 @@
    "id": "13g",
    "kind": "grid",
    "item": 13,
-   "from": 6444,
-   "dur": 34,
+   "from": 6658,
+   "dur": 64,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 6452,
+     "frame": 6696,
      "gain": -17
     },
     {
      "file": "pop_2",
-     "frame": 6474,
+     "frame": 6718,
      "gain": -19
     }
    ]
@@ -2290,332 +2290,8 @@
    "id": "13c0",
    "kind": "card",
    "item": 13,
-   "from": 6478,
-   "dur": 284,
-   "feat": [
-    3,
-    18,
-    49
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 6480,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 6481,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 6496,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 6527,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "14g",
-   "kind": "grid",
-   "item": 14,
-   "from": 6762,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_3",
-     "frame": 6770,
-     "gain": -17
-    },
-    {
-     "file": "pop_3",
-     "frame": 6792,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "14c0",
-   "kind": "card",
-   "item": 14,
-   "from": 6796,
-   "dur": 331,
-   "feat": [
-    3,
-    130,
-    45
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 6798,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 6799,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 6926,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 6841,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "15g",
-   "kind": "grid",
-   "item": 15,
-   "from": 7127,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_4",
-     "frame": 7135,
-     "gain": -17
-    },
-    {
-     "file": "pop_1",
-     "frame": 7157,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "15c0",
-   "kind": "card",
-   "item": 15,
-   "from": 7161,
-   "dur": 330,
-   "feat": [
-    3,
-    187,
-    52
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 7163,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 7164,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 7348,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 7213,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "16g",
-   "kind": "grid",
-   "item": 16,
-   "from": 7491,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_1",
-     "frame": 7499,
-     "gain": -17
-    },
-    {
-     "file": "pop_2",
-     "frame": 7521,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "16c0",
-   "kind": "card",
-   "item": 16,
-   "from": 7525,
-   "dur": 250,
-   "feat": [
-    3,
-    85,
-    168
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 7527,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 7528,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 7610,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 7693,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "17g",
-   "kind": "grid",
-   "item": 17,
-   "from": 7775,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_2",
-     "frame": 7783,
-     "gain": -17
-    },
-    {
-     "file": "pop_3",
-     "frame": 7805,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "17c0",
-   "kind": "card",
-   "item": 17,
-   "from": 7809,
-   "dur": 319,
-   "feat": [
-    3,
-    119,
-    186
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 7811,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 7812,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 7928,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 7995,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "18g",
-   "kind": "grid",
-   "item": 18,
-   "from": 8128,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_3",
-     "frame": 8136,
-     "gain": -17
-    },
-    {
-     "file": "pop_1",
-     "frame": 8158,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "18c0",
-   "kind": "card",
-   "item": 18,
-   "from": 8162,
-   "dur": 377,
-   "feat": [
-    3,
-    64,
-    211
-   ],
-   "cues": [
-    {
-     "file": "paper_slide",
-     "frame": 8164,
-     "gain": -21
-    },
-    {
-     "file": "pop_1",
-     "frame": 8165,
-     "gain": -18
-    },
-    {
-     "file": "pop_2",
-     "frame": 8226,
-     "gain": -18
-    },
-    {
-     "file": "pop_3",
-     "frame": 8373,
-     "gain": -18
-    }
-   ]
-  },
-  {
-   "id": "19g",
-   "kind": "grid",
-   "item": 19,
-   "from": 8539,
-   "dur": 34,
-   "feat": [],
-   "cues": [
-    {
-     "file": "whoosh_soft_4",
-     "frame": 8547,
-     "gain": -17
-    },
-    {
-     "file": "pop_2",
-     "frame": 8569,
-     "gain": -19
-    }
-   ]
-  },
-  {
-   "id": "19c0",
-   "kind": "card",
-   "item": 19,
-   "from": 8573,
-   "dur": 250,
+   "from": 6722,
+   "dur": 261,
    "feat": [
     3,
     24,
@@ -2624,22 +2300,346 @@
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 8575,
+     "frame": 6724,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 8576,
+     "frame": 6725,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 8597,
+     "frame": 6746,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 8640,
+     "frame": 6789,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "14g",
+   "kind": "grid",
+   "item": 14,
+   "from": 6983,
+   "dur": 58,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 7015,
+     "gain": -17
+    },
+    {
+     "file": "pop_3",
+     "frame": 7037,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "14c0",
+   "kind": "card",
+   "item": 14,
+   "from": 7041,
+   "dur": 352,
+   "feat": [
+    3,
+    157,
+    54
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 7043,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 7044,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7198,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7095,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "15g",
+   "kind": "grid",
+   "item": 15,
+   "from": 7393,
+   "dur": 84,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 7451,
+     "gain": -17
+    },
+    {
+     "file": "pop_1",
+     "frame": 7473,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "15c0",
+   "kind": "card",
+   "item": 15,
+   "from": 7477,
+   "dur": 388,
+   "feat": [
+    3,
+    244,
+    89
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 7479,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 7480,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7721,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 7566,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "16g",
+   "kind": "grid",
+   "item": 16,
+   "from": 7865,
+   "dur": 60,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 7899,
+     "gain": -17
+    },
+    {
+     "file": "pop_2",
+     "frame": 7921,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "16c0",
+   "kind": "card",
+   "item": 16,
+   "from": 7925,
+   "dur": 193,
+   "feat": [
+    3,
+    67,
+    130
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 7927,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 7928,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 7992,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 8055,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "17g",
+   "kind": "grid",
+   "item": 17,
+   "from": 8118,
+   "dur": 69,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 8161,
+     "gain": -17
+    },
+    {
+     "file": "pop_3",
+     "frame": 8183,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "17c0",
+   "kind": "card",
+   "item": 17,
+   "from": 8187,
+   "dur": 326,
+   "feat": [
+    3,
+    155,
+    212
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 8189,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 8190,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 8342,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 8399,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "18g",
+   "kind": "grid",
+   "item": 18,
+   "from": 8513,
+   "dur": 93,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 8580,
+     "gain": -17
+    },
+    {
+     "file": "pop_1",
+     "frame": 8602,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "18c0",
+   "kind": "card",
+   "item": 18,
+   "from": 8606,
+   "dur": 408,
+   "feat": [
+    3,
+    122,
+    217
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 8608,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 8609,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 8728,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 8823,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "19g",
+   "kind": "grid",
+   "item": 19,
+   "from": 9014,
+   "dur": 59,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 9047,
+     "gain": -17
+    },
+    {
+     "file": "pop_2",
+     "frame": 9069,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "19c0",
+   "kind": "card",
+   "item": 19,
+   "from": 9073,
+   "dur": 217,
+   "feat": [
+    3,
+    44,
+    127
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 9075,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 9076,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 9117,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 9200,
      "gain": -18
     }
    ]
@@ -2648,18 +2648,18 @@
    "id": "20g",
    "kind": "grid",
    "item": 20,
-   "from": 8823,
-   "dur": 34,
+   "from": 9290,
+   "dur": 59,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_1",
-     "frame": 8831,
+     "frame": 9323,
      "gain": -17
     },
     {
      "file": "pop_3",
-     "frame": 8853,
+     "frame": 9345,
      "gain": -19
     }
    ]
@@ -2668,32 +2668,32 @@
    "id": "20c0",
    "kind": "card",
    "item": 20,
-   "from": 8857,
-   "dur": 169,
+   "from": 9349,
+   "dur": 200,
    "feat": [
     3,
-    4,
-    5
+    39,
+    113
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 8859,
+     "frame": 9351,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 8860,
+     "frame": 9352,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 8861,
+     "frame": 9388,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 8862,
+     "frame": 9462,
      "gain": -18
     }
    ]
@@ -2702,18 +2702,18 @@
    "id": "21g",
    "kind": "grid",
    "item": 21,
-   "from": 9026,
-   "dur": 69,
+   "from": 9549,
+   "dur": 95,
    "feat": [],
    "cues": [
     {
      "file": "whoosh_soft_2",
-     "frame": 9069,
+     "frame": 9618,
      "gain": -17
     },
     {
      "file": "pop_1",
-     "frame": 9091,
+     "frame": 9640,
      "gain": -19
     }
    ]
@@ -2722,32 +2722,32 @@
    "id": "21c0",
    "kind": "card",
    "item": 21,
-   "from": 9095,
-   "dur": 238,
+   "from": 9644,
+   "dur": 249,
    "feat": [
     3,
-    65,
-    23
+    182,
+    62
    ],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9097,
+     "frame": 9646,
      "gain": -21
     },
     {
      "file": "pop_1",
-     "frame": 9098,
+     "frame": 9647,
      "gain": -18
     },
     {
      "file": "pop_2",
-     "frame": 9160,
+     "frame": 9826,
      "gain": -18
     },
     {
      "file": "pop_3",
-     "frame": 9118,
+     "frame": 9706,
      "gain": -18
     }
    ]
@@ -2758,18 +2758,18 @@
    "item": -1,
    "title": "SINCE 1962",
    "body": "NAVY F4H + AIR FORCE F-110 \u2192 ONE NAME",
-   "from": 9333,
-   "dur": 469,
+   "from": 9893,
+   "dur": 414,
    "feat": [],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9335,
+     "frame": 9895,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 9345,
+     "frame": 9905,
      "gain": -18
     }
    ]
@@ -2780,18 +2780,18 @@
    "item": -1,
    "title": "F-4",
    "body": "ONE FIGHTER \u00b7 ONE NAME",
-   "from": 9802,
-   "dur": 123,
+   "from": 10307,
+   "dur": 107,
    "feat": [],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9804,
+     "frame": 10309,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 9814,
+     "frame": 10319,
      "gain": -18
     }
    ]
@@ -2802,18 +2802,18 @@
    "item": -1,
    "title": "THE NUMBER",
    "body": "COUNTS RESTARTED IN 1962",
-   "from": 9925,
-   "dur": 273,
+   "from": 10414,
+   "dur": 259,
    "feat": [],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 9927,
+     "frame": 10416,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 9937,
+     "frame": 10426,
      "gain": -18
     }
    ]
@@ -2824,18 +2824,18 @@
    "item": -1,
    "title": "THE LAST LETTER",
    "body": "A \u00b7 B \u00b7 C \u2026  NO \"I\", NO \"O\"",
-   "from": 10198,
-   "dur": 296,
+   "from": 10673,
+   "dur": 282,
    "feat": [],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 10200,
+     "frame": 10675,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 10210,
+     "frame": 10685,
      "gain": -18
     }
    ]
@@ -2846,18 +2846,18 @@
    "item": -1,
    "title": "13",
    "body": "SKIPPED IN MANY SERIES",
-   "from": 10494,
+   "from": 10955,
    "dur": 157,
    "feat": [],
    "cues": [
     {
      "file": "paper_slide",
-     "frame": 10496,
+     "frame": 10957,
      "gain": -20
     },
     {
      "file": "tick_1",
-     "frame": 10506,
+     "frame": 10967,
      "gain": -18
     }
    ]
@@ -2866,13 +2866,13 @@
    "id": "zc",
    "kind": "outro",
    "item": -1,
-   "from": 10651,
-   "dur": 231,
+   "from": 11112,
+   "dur": 214,
    "feat": [],
    "cues": [
     {
      "file": "pop_1",
-     "frame": 10657,
+     "frame": 11118,
      "gain": -18
     }
    ]
@@ -2881,552 +2881,552 @@
  "caps": [
   {
    "from": 2,
-   "to": 2,
+   "to": 37,
    "text": "F."
   },
   {
-   "from": 2,
-   "to": 30,
+   "from": 37,
+   "to": 53,
    "text": "Fighter."
   },
   {
-   "from": 99,
-   "to": 284,
+   "from": 59,
+   "to": 301,
    "text": "It's the most famous letter in military aviation, and today it covers multirole jets that also strike targets on the ground."
   },
   {
-   "from": 404,
-   "to": 404,
+   "from": 307,
+   "to": 442,
    "text": "The F-35 should have been the F-24, the next number in line."
   },
   {
-   "from": 404,
-   "to": 584,
+   "from": 442,
+   "to": 579,
    "text": "Instead, it kept the number of its demonstrator, the X-35."
   },
   {
-   "from": 649,
-   "to": 796,
+   "from": 585,
+   "to": 754,
    "text": "And the F-117 Nighthawk got an F, even though it was built for ground attack."
   },
   {
-   "from": 805,
-   "to": 805,
+   "from": 763,
+   "to": 807,
    "text": "A."
   },
   {
-   "from": 805,
-   "to": 833,
+   "from": 807,
+   "to": 828,
    "text": "Attack."
   },
   {
-   "from": 839,
-   "to": 994,
+   "from": 834,
+   "to": 953,
    "text": "An attack aircraft is built to hit targets on land or at sea."
   },
   {
-   "from": 1059,
-   "to": 1218,
+   "from": 959,
+   "to": 1127,
    "text": "Today, the A-10 is the only aircraft in the Air Force that still carries a plain A."
   },
   {
-   "from": 1227,
-   "to": 1227,
+   "from": 1136,
+   "to": 1147,
    "text": "B."
   },
   {
-   "from": 1227,
-   "to": 1255,
+   "from": 1147,
+   "to": 1185,
    "text": "Bomber."
   },
   {
-   "from": 1261,
-   "to": 1324,
+   "from": 1191,
+   "to": 1274,
    "text": "Bombers fly long-range strike missions."
   },
   {
-   "from": 1445,
-   "to": 1445,
+   "from": 1280,
+   "to": 1326,
    "text": "The newest one is the B-21."
   },
   {
-   "from": 1445,
-   "to": 1445,
+   "from": 1326,
+   "to": 1500,
    "text": "Its number was chosen because it's the first bomber of the twenty-first century."
   },
   {
-   "from": 1445,
-   "to": 1686,
+   "from": 1500,
+   "to": 1598,
    "text": "By the rules, it would have been the B-3."
   },
   {
-   "from": 1695,
-   "to": 1695,
+   "from": 1607,
+   "to": 1648,
    "text": "C."
   },
   {
-   "from": 1695,
-   "to": 1723,
+   "from": 1648,
+   "to": 1667,
    "text": "Cargo."
   },
   {
-   "from": 1729,
-   "to": 1838,
+   "from": 1673,
+   "to": 1793,
    "text": "C means transport, like the C-130 Hercules."
   },
   {
-   "from": 1907,
-   "to": 1907,
+   "from": 1799,
+   "to": 1877,
    "text": "And the C-130 shows how the whole system works."
   },
   {
-   "from": 1907,
-   "to": 2292,
+   "from": 1877,
+   "to": 2237,
    "text": "Add one more letter in front, and the same airframe becomes a gunship, a rescue plane, a special operations plane, an electronic warfare plane, or a tanker."
   },
   {
-   "from": 2301,
-   "to": 2301,
+   "from": 2246,
+   "to": 2270,
    "text": "K."
   },
   {
-   "from": 2301,
-   "to": 2329,
+   "from": 2270,
+   "to": 2300,
    "text": "Tanker."
   },
   {
-   "from": 2394,
-   "to": 2548,
+   "from": 2306,
+   "to": 2455,
    "text": "Put a K in front of a C, and you get a tanker, like the KC-46."
   },
   {
-   "from": 2617,
-   "to": 2802,
+   "from": 2461,
+   "to": 2680,
    "text": "K exists as a basic mission too, but no ordinary aircraft has ever been given it the way the rules intended."
   },
   {
-   "from": 2886,
-   "to": 2886,
+   "from": 2686,
+   "to": 2773,
    "text": "Some names simply copy the maker."
   },
   {
-   "from": 2886,
-   "to": 3083,
+   "from": 2773,
+   "to": 2962,
    "text": "A tanker sold to other countries became the KC-767, straight from Boeing's model number."
   },
   {
-   "from": 3092,
-   "to": 3092,
+   "from": 2971,
+   "to": 2993,
    "text": "E."
   },
   {
-   "from": 3092,
-   "to": 3120,
+   "from": 2993,
+   "to": 3038,
    "text": "Electronic."
   },
   {
-   "from": 3126,
-   "to": 3293,
+   "from": 3044,
+   "to": 3216,
    "text": "As a modified mission, E means electronic warfare, like the EC-130."
   },
   {
-   "from": 3346,
-   "to": 3482,
+   "from": 3222,
+   "to": 3431,
    "text": "As a basic mission, it means special electronics, for aircraft built around radars and sensors."
   },
   {
-   "from": 3491,
-   "to": 3491,
+   "from": 3440,
+   "to": 3487,
    "text": "H."
   },
   {
-   "from": 3491,
+   "from": 3487,
    "to": 3543,
    "text": "Rescue, and helicopter."
   },
   {
    "from": 3549,
-   "to": 3704,
+   "to": 3629,
    "text": "H can show up twice in the same name."
   },
   {
-   "from": 3824,
-   "to": 3824,
+   "from": 3635,
+   "to": 3862,
    "text": "In the HH-60G, the first H means search and rescue, and the second H means helicopter."
   },
   {
-   "from": 3824,
-   "to": 4089,
+   "from": 3862,
+   "to": 3988,
    "text": "Many of them started life as Black Hawks that were modified for rescue."
   },
   {
-   "from": 4098,
-   "to": 4098,
+   "from": 3997,
+   "to": 4037,
    "text": "M."
   },
   {
-   "from": 4098,
-   "to": 4126,
+   "from": 4037,
+   "to": 4063,
    "text": "Multi-mission."
   },
   {
-   "from": 4132,
-   "to": 4287,
+   "from": 4069,
+   "to": 4236,
    "text": "M aircraft fly combat and special operations, like the MC-130."
   },
   {
-   "from": 4293,
-   "to": 4453,
+   "from": 4242,
+   "to": 4429,
    "text": "And the MQ-9 Reaper reads as multi-mission, unmanned, design number nine."
   },
   {
-   "from": 4462,
-   "to": 4462,
+   "from": 4438,
+   "to": 4465,
    "text": "U."
   },
   {
-   "from": 4462,
-   "to": 4490,
+   "from": 4465,
+   "to": 4498,
    "text": "Utility."
   },
   {
-   "from": 4496,
-   "to": 4640,
+   "from": 4504,
+   "to": 4635,
    "text": "U aircraft fly support missions, like the UH-60 Black Hawk."
   },
   {
-   "from": 4709,
-   "to": 4709,
+   "from": 4641,
+   "to": 4733,
    "text": "Utility was once used as a cover."
   },
   {
-   "from": 4709,
-   "to": 4898,
+   "from": 4733,
+   "to": 4879,
    "text": "The U-2 spy plane was labeled utility to hide what it really did."
   },
   {
-   "from": 4907,
-   "to": 4907,
+   "from": 4888,
+   "to": 4909,
    "text": "R."
   },
   {
-   "from": 4907,
-   "to": 4935,
+   "from": 4909,
+   "to": 4966,
    "text": "Reconnaissance."
   },
   {
-   "from": 4941,
-   "to": 5004,
+   "from": 4972,
+   "to": 5032,
    "text": "R is for spy missions."
   },
   {
-   "from": 5124,
-   "to": 5124,
+   "from": 5038,
+   "to": 5346,
    "text": "The SR-71 Blackbird was set to be called the RS-71, but Air Force chief Curtis LeMay preferred SR, for strategic reconnaissance."
   },
   {
-   "from": 5124,
-   "to": 5389,
+   "from": 5346,
+   "to": 5420,
    "text": "And SR is what stuck."
   },
   {
-   "from": 5398,
-   "to": 5398,
+   "from": 5429,
+   "to": 5443,
    "text": "W."
   },
   {
-   "from": 5398,
-   "to": 5426,
+   "from": 5443,
+   "to": 5481,
    "text": "Weather."
   },
   {
-   "from": 5432,
-   "to": 5484,
+   "from": 5487,
+   "to": 5569,
    "text": "W means weather reconnaissance."
   },
   {
-   "from": 5490,
-   "to": 5638,
+   "from": 5575,
+   "to": 5726,
    "text": "That's why the Air Force's hurricane hunters are WC-130s."
   },
   {
-   "from": 5647,
-   "to": 5647,
+   "from": 5735,
+   "to": 5766,
    "text": "V."
   },
   {
-   "from": 5647,
-   "to": 5710,
+   "from": 5766,
+   "to": 5847,
    "text": "VIP, and vertical takeoff."
   },
   {
-   "from": 5794,
-   "to": 5794,
+   "from": 5853,
+   "to": 5977,
    "text": "In front, V means VIP transport."
   },
   {
-   "from": 5794,
-   "to": 5987,
+   "from": 5977,
+   "to": 6178,
    "text": "The President's 747 is the VC-25, and his newest helicopter is the VH-92."
   },
   {
-   "from": 6040,
-   "to": 6176,
+   "from": 6184,
+   "to": 6374,
    "text": "Before the dash, V means vertical or short takeoff, like the MV-22 Osprey."
   },
   {
-   "from": 6185,
-   "to": 6185,
+   "from": 6383,
+   "to": 6416,
    "text": "L."
   },
   {
-   "from": 6185,
-   "to": 6225,
+   "from": 6416,
+   "to": 6439,
    "text": "Cold weather."
   },
   {
-   "from": 6290,
-   "to": 6290,
+   "from": 6445,
+   "to": 6541,
    "text": "L means modified for cold weather."
   },
   {
-   "from": 6290,
-   "to": 6437,
+   "from": 6541,
+   "to": 6651,
    "text": "The LC-130 has skis, for landing on ice."
   },
   {
-   "from": 6446,
-   "to": 6446,
+   "from": 6660,
+   "to": 6672,
    "text": "Q."
   },
   {
-   "from": 6446,
-   "to": 6474,
+   "from": 6672,
+   "to": 6718,
    "text": "Unmanned."
   },
   {
-   "from": 6480,
-   "to": 6520,
+   "from": 6724,
+   "to": 6782,
    "text": "Q means drone."
   },
   {
-   "from": 6586,
-   "to": 6755,
+   "from": 6788,
+   "to": 6976,
    "text": "There's even a letter for the ground stations that fly them: D, for the U A V control segment."
   },
   {
-   "from": 6764,
-   "to": 6764,
+   "from": 6985,
+   "to": 7009,
    "text": "P."
   },
   {
-   "from": 6764,
-   "to": 6792,
+   "from": 7009,
+   "to": 7037,
    "text": "Patrol."
   },
   {
-   "from": 6798,
-   "to": 6919,
+   "from": 7043,
+   "to": 7191,
    "text": "P means maritime patrol, for aircraft that watch the sea."
   },
   {
-   "from": 6984,
-   "to": 7120,
+   "from": 7197,
+   "to": 7386,
    "text": "Today's main one is the P-8 Poseidon, a Navy jet built on a Boeing 737."
   },
   {
-   "from": 7129,
-   "to": 7129,
+   "from": 7395,
+   "to": 7448,
    "text": "S."
   },
   {
-   "from": 7129,
-   "to": 7157,
+   "from": 7448,
+   "to": 7473,
    "text": "Anti-submarine."
   },
   {
-   "from": 7210,
-   "to": 7210,
+   "from": 7479,
+   "to": 7563,
    "text": "S is for hunting submarines."
   },
   {
-   "from": 7210,
-   "to": 7341,
+   "from": 7563,
+   "to": 7714,
    "text": "Before the dash, S means something completely different: a spaceplane."
   },
   {
-   "from": 7347,
-   "to": 7484,
+   "from": 7720,
+   "to": 7858,
    "text": "The S-3 Viking flew from aircraft carriers to hunt submarines."
   },
   {
-   "from": 7493,
-   "to": 7493,
+   "from": 7867,
+   "to": 7894,
    "text": "T."
   },
   {
-   "from": 7493,
-   "to": 7521,
+   "from": 7894,
+   "to": 7921,
    "text": "Trainer."
   },
   {
-   "from": 7589,
-   "to": 7768,
+   "from": 7927,
+   "to": 8111,
    "text": "The T-6 Texan Two skipped the numbers four and five, as a tribute to the original T-6 trainer."
   },
   {
-   "from": 7777,
-   "to": 7777,
+   "from": 8120,
+   "to": 8155,
    "text": "O."
   },
   {
-   "from": 7777,
-   "to": 7805,
+   "from": 8155,
+   "to": 8183,
    "text": "Observation."
   },
   {
-   "from": 7925,
-   "to": 7925,
+   "from": 8189,
+   "to": 8339,
    "text": "O means observation, like spotting targets for other aircraft."
   },
   {
-   "from": 7925,
-   "to": 8121,
+   "from": 8339,
+   "to": 8506,
    "text": "The new OA-1K Skyraider Two borrowed the name of the old A-1 Skyraider."
   },
   {
-   "from": 8130,
-   "to": 8130,
+   "from": 8515,
+   "to": 8564,
    "text": "X."
   },
   {
-   "from": 8130,
-   "to": 8158,
+   "from": 8564,
+   "to": 8602,
    "text": "Experimental."
   },
   {
-   "from": 8223,
-   "to": 8223,
+   "from": 8608,
+   "to": 8725,
    "text": "In front of everything, X means experimental."
   },
   {
-   "from": 8223,
-   "to": 8366,
+   "from": 8725,
+   "to": 8816,
    "text": "That's where the F-35 started, as the X-35."
   },
   {
-   "from": 8372,
-   "to": 8532,
+   "from": 8822,
+   "to": 9007,
    "text": "Experimental aircraft flown by manufacturers or by NASA often get X numbers too."
   },
   {
-   "from": 8541,
-   "to": 8541,
+   "from": 9016,
+   "to": 9041,
    "text": "Y."
   },
   {
-   "from": 8541,
-   "to": 8569,
+   "from": 9041,
+   "to": 9069,
    "text": "Prototype."
   },
   {
-   "from": 8637,
-   "to": 8637,
+   "from": 9075,
+   "to": 9197,
    "text": "The jet that won the competition was the YF-22."
   },
   {
-   "from": 8637,
-   "to": 8816,
+   "from": 9197,
+   "to": 9283,
    "text": "The one that entered service was the F-22."
   },
   {
-   "from": 8825,
-   "to": 8825,
+   "from": 9292,
+   "to": 9302,
    "text": "G."
   },
   {
-   "from": 8825,
-   "to": 8853,
+   "from": 9302,
+   "to": 9345,
    "text": "Grounded."
   },
   {
-   "from": 8859,
-   "to": 8859,
+   "from": 9351,
+   "to": 9459,
    "text": "As a prefix, G means permanently grounded."
   },
   {
-   "from": 8859,
-   "to": 9019,
+   "from": 9459,
+   "to": 9542,
    "text": "Before the dash, G means glider."
   },
   {
-   "from": 9028,
-   "to": 9028,
+   "from": 9551,
+   "to": 9610,
    "text": "J and N."
   },
   {
-   "from": 9028,
-   "to": 9091,
+   "from": 9610,
+   "to": 9640,
    "text": "Special test."
   },
   {
-   "from": 9157,
-   "to": 9157,
+   "from": 9646,
+   "to": 9823,
    "text": "J means a temporary special test, and the aircraft goes back to normal service."
   },
   {
-   "from": 9157,
-   "to": 9326,
+   "from": 9823,
+   "to": 9886,
    "text": "N means it never does."
   },
   {
-   "from": 9449,
-   "to": 9449,
+   "from": 9895,
+   "to": 9999,
    "text": "The whole system dates to nineteen sixty-two."
   },
   {
-   "from": 9449,
-   "to": 9795,
+   "from": 9999,
+   "to": 10300,
    "text": "Before that, the Navy and the Air Force named their aircraft differently, and the same fighter was the F4H Phantom to one and the F-110 to the other."
   },
   {
-   "from": 9804,
-   "to": 9918,
+   "from": 10309,
+   "to": 10407,
    "text": "After the change, it became simply the F-4."
   },
   {
-   "from": 9991,
-   "to": 9991,
+   "from": 10416,
+   "to": 10503,
    "text": "And after the letters come the numbers."
   },
   {
-   "from": 9991,
-   "to": 10191,
+   "from": 10503,
+   "to": 10666,
    "text": "In nineteen sixty-two, the counts were restarted, which is why they suddenly got small again."
   },
   {
-   "from": 10314,
-   "to": 10314,
+   "from": 10675,
+   "to": 10827,
    "text": "The last letter marks the version: A, then B, then C."
   },
   {
-   "from": 10314,
-   "to": 10487,
+   "from": 10827,
+   "to": 10948,
    "text": "I and O are skipped, so they're never confused with one and zero."
   },
   {
-   "from": 10496,
-   "to": 10644,
+   "from": 10957,
+   "to": 11105,
    "text": "And the number thirteen has been skipped in many series, for superstition."
   },
   {
-   "from": 10653,
-   "to": 10653,
+   "from": 11114,
+   "to": 11201,
    "text": "Which aircraft name should I decode next?"
   },
   {
-   "from": 10653,
-   "to": 10846,
+   "from": 11201,
+   "to": 11290,
    "text": "Tell me in the comments."
   }
  ]

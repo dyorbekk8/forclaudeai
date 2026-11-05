@@ -1,0 +1,410 @@
+{
+ "i01a": {
+  "dur": 1.53,
+  "lufs_in": -21.3,
+  "lufs_out": -18.7,
+  "peak_db": -1.5
+ },
+ "i01b": {
+  "dur": 7.888,
+  "lufs_in": -19.8,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i01c": {
+  "dur": 8.877,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i01d": {
+  "dur": 5.298,
+  "lufs_in": -19.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i02a": {
+  "dur": 1.984,
+  "lufs_in": -22.6,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "i02b": {
+  "dur": 3.792,
+  "lufs_in": -20.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i02c": {
+  "dur": 5.279,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -2.7
+ },
+ "i03a": {
+  "dur": 1.45,
+  "lufs_in": -23.1,
+  "lufs_out": -18.8,
+  "peak_db": -1.5
+ },
+ "i03b": {
+  "dur": 2.594,
+  "lufs_in": -19.6,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i03c": {
+  "dur": 10.26,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i04a": {
+  "dur": 1.82,
+  "lufs_in": -21.1,
+  "lufs_out": -18.3,
+  "peak_db": -1.5
+ },
+ "i04b": {
+  "dur": 3.822,
+  "lufs_in": -19.2,
+  "lufs_out": -18.0,
+  "peak_db": -2.5
+ },
+ "i04c": {
+  "dur": 14.256,
+  "lufs_in": -18.8,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i05a": {
+  "dur": 1.627,
+  "lufs_in": -22.8,
+  "lufs_out": -17.8,
+  "peak_db": -1.5
+ },
+ "i05b": {
+  "dur": 4.788,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i05c": {
+  "dur": 7.111,
+  "lufs_in": -18.9,
+  "lufs_out": -18.0,
+  "peak_db": -2.0
+ },
+ "i05d": {
+  "dur": 8.87,
+  "lufs_in": -19.0,
+  "lufs_out": -18.0,
+  "peak_db": -2.8
+ },
+ "i06a": {
+  "dur": 2.039,
+  "lufs_in": -20.6,
+  "lufs_out": -19.0,
+  "peak_db": -1.5
+ },
+ "i06b": {
+  "dur": 5.544,
+  "lufs_in": -20.1,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i06c": {
+  "dur": 6.627,
+  "lufs_in": -18.8,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i07a": {
+  "dur": 3.261,
+  "lufs_in": -21.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i07b": {
+  "dur": 2.488,
+  "lufs_in": -19.3,
+  "lufs_out": -18.0,
+  "peak_db": -2.1
+ },
+ "i07c": {
+  "dur": 11.424,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -2.0
+ },
+ "i08a": {
+  "dur": 2.011,
+  "lufs_in": -21.5,
+  "lufs_out": -18.0,
+  "peak_db": -4.4
+ },
+ "i08b": {
+  "dur": 5.39,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i08c": {
+  "dur": 5.919,
+  "lufs_in": -19.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i09a": {
+  "dur": 1.827,
+  "lufs_in": -20.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.9
+ },
+ "i09b": {
+  "dur": 4.194,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i09c": {
+  "dur": 7.614,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i10a": {
+  "dur": 2.408,
+  "lufs_in": -22.6,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "i10b": {
+  "dur": 1.813,
+  "lufs_in": -20.1,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i10c": {
+  "dur": 12.401,
+  "lufs_in": -19.4,
+  "lufs_out": -18.0,
+  "peak_db": -1.7
+ },
+ "i11a": {
+  "dur": 1.555,
+  "lufs_in": -22.0,
+  "lufs_out": -18.2,
+  "peak_db": -1.5
+ },
+ "i11b": {
+  "dur": 2.54,
+  "lufs_in": -19.2,
+  "lufs_out": -18.0,
+  "peak_db": -2.8
+ },
+ "i11c": {
+  "dur": 4.702,
+  "lufs_in": -19.8,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i12a": {
+  "dur": 3.542,
+  "lufs_in": -20.8,
+  "lufs_out": -18.0,
+  "peak_db": -2.1
+ },
+ "i12b": {
+  "dur": 10.667,
+  "lufs_in": -19.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.8
+ },
+ "i12c": {
+  "dur": 5.997,
+  "lufs_in": -19.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.6
+ },
+ "i13a": {
+  "dur": 1.683,
+  "lufs_in": -20.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i13b": {
+  "dur": 6.53,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i14a": {
+  "dur": 1.745,
+  "lufs_in": -21.6,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "i14b": {
+  "dur": 1.748,
+  "lufs_in": -21.2,
+  "lufs_out": -18.0,
+  "peak_db": -3.0
+ },
+ "i14c": {
+  "dur": 5.932,
+  "lufs_in": -19.4,
+  "lufs_out": -18.0,
+  "peak_db": -3.1
+ },
+ "i15a": {
+  "dur": 1.537,
+  "lufs_in": -20.2,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i15b": {
+  "dur": 4.758,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.7
+ },
+ "i15c": {
+  "dur": 5.97,
+  "lufs_in": -18.8,
+  "lufs_out": -18.0,
+  "peak_db": -2.0
+ },
+ "i16a": {
+  "dur": 2.412,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i16b": {
+  "dur": 7.665,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i16c": {
+  "dur": 4.276,
+  "lufs_in": -19.9,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "i17a": {
+  "dur": 1.606,
+  "lufs_in": -20.3,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "i17b": {
+  "dur": 5.79,
+  "lufs_in": -18.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i18a": {
+  "dur": 1.928,
+  "lufs_in": -20.3,
+  "lufs_out": -18.0,
+  "peak_db": -3.5
+ },
+ "i18b": {
+  "dur": 10.236,
+  "lufs_in": -19.0,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i19a": {
+  "dur": 2.736,
+  "lufs_in": -18.6,
+  "lufs_out": -18.0,
+  "peak_db": -3.4
+ },
+ "i19b": {
+  "dur": 6.762,
+  "lufs_in": -19.7,
+  "lufs_out": -18.0,
+  "peak_db": -1.6
+ },
+ "i19c": {
+  "dur": 5.834,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.9
+ },
+ "i20a": {
+  "dur": 1.581,
+  "lufs_in": -21.1,
+  "lufs_out": -18.0,
+  "peak_db": -1.8
+ },
+ "i20b": {
+  "dur": 6.618,
+  "lufs_in": -20.1,
+  "lufs_out": -17.9,
+  "peak_db": -2.5
+ },
+ "i21a": {
+  "dur": 1.597,
+  "lufs_in": -22.8,
+  "lufs_out": -18.3,
+  "peak_db": -1.5
+ },
+ "i21b": {
+  "dur": 6.047,
+  "lufs_in": -20.1,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "i22a": {
+  "dur": 2.779,
+  "lufs_in": -20.1,
+  "lufs_out": -18.0,
+  "peak_db": -2.9
+ },
+ "i22b": {
+  "dur": 7.659,
+  "lufs_in": -19.6,
+  "lufs_out": -18.0,
+  "peak_db": -2.2
+ },
+ "ya": {
+  "dur": 13.165,
+  "lufs_in": -19.3,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "yb": {
+  "dur": 2.951,
+  "lufs_in": -19.5,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "za": {
+  "dur": 7.995,
+  "lufs_in": -19.3,
+  "lufs_out": -18.1,
+  "peak_db": -1.5
+ },
+ "zb": {
+  "dur": 8.779,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ },
+ "zb2": {
+  "dur": 4.612,
+  "lufs_in": -19.1,
+  "lufs_out": -18.0,
+  "peak_db": -3.0
+ },
+ "zc": {
+  "dur": 4.068,
+  "lufs_in": -19.9,
+  "lufs_out": -18.0,
+  "peak_db": -1.5
+ }
+}
