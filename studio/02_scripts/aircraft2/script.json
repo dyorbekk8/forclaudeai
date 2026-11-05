@@ -1,0 +1,1115 @@
+{
+ "title": "Every Letter in a Military Aircraft Name Explained",
+ "sources": {
+  "WIKI_1962": "https://en.wikipedia.org/wiki/1962_United_States_Tri-Service_aircraft_designation_system",
+  "WIKI_DOD": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense_aerospace_vehicle_designation",
+  "F35_DEV": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development"
+ },
+ "items": [
+  {
+   "letter": "F",
+   "name": "Fighter",
+   "cat": "BASIC MISSION",
+   "kind": "fighter",
+   "example": "F-35",
+   "features": [
+    {
+     "t": "Air-to-Air",
+     "s": "Built to fight other aircraft"
+    },
+    {
+     "t": "Multirole",
+     "s": "Can strike ground targets too"
+    },
+    {
+     "t": "F-117",
+     "s": "A 'fighter' built for ground attack"
+    }
+   ],
+   "stat": {
+    "v": "24",
+    "l": "the number the F-35 should have had"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    "S",
+    "S",
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "A",
+   "name": "Attack",
+   "cat": "BASIC MISSION",
+   "kind": "a10",
+   "example": "A-10",
+   "features": [
+    {
+     "t": "Air-to-Surface",
+     "s": "Targets on land or at sea"
+    },
+    {
+     "t": "A-10",
+     "s": "Thunderbolt II"
+    },
+    {
+     "t": "Rare Today",
+     "s": "Most new jets get an F"
+    }
+   ],
+   "stat": {
+    "v": "1",
+    "l": "plain A in today's Air Force"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2",
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "B",
+   "name": "Bomber",
+   "cat": "BASIC MISSION",
+   "kind": "wing",
+   "example": "B-21",
+   "features": [
+    {
+     "t": "Strategic",
+     "s": "Long-range strike"
+    },
+    {
+     "t": "B-21",
+     "s": "Raider"
+    },
+    {
+     "t": "Skipped Ahead",
+     "s": "Next in line was B-3"
+    }
+   ],
+   "stat": {
+    "v": "21",
+    "l": "for the 21st century"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2"
+    ],
+    "S",
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "C",
+   "name": "Cargo",
+   "cat": "BASIC MISSION",
+   "kind": "cargo",
+   "example": "C-130",
+   "features": [
+    {
+     "t": "Transport",
+     "s": "Moves troops and supplies"
+    },
+    {
+     "t": "C-130",
+     "s": "Hercules"
+    },
+    {
+     "t": "Base Airframe",
+     "s": "Many jobs, one design"
+    }
+   ],
+   "stat": {
+    "v": "5",
+    "l": "jobs from one airframe"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "K",
+   "name": "Tanker",
+   "cat": "MODIFIED MISSION",
+   "kind": "jumbo",
+   "example": "KC-46",
+   "features": [
+    {
+     "t": "Aerial Refueling",
+     "s": "Gas station in the sky"
+    },
+    {
+     "t": "KC-46",
+     "s": "Pegasus"
+    },
+    {
+     "t": "KC-767",
+     "s": "Boeing's model number"
+    }
+   ],
+   "stat": {
+    "v": "K",
+    "l": "never used as a basic mission by the book"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    "S",
+    [
+     "f3"
+    ],
+    []
+   ]
+  },
+  {
+   "letter": "E",
+   "name": "Electronic",
+   "cat": "MISSION",
+   "kind": "jumbo",
+   "example": "EC-130",
+   "features": [
+    {
+     "t": "Electronic Warfare",
+     "s": "Jamming and sensing"
+    },
+    {
+     "t": "Special Electronics",
+     "s": "Radar and command jets"
+    },
+    {
+     "t": "EC-130",
+     "s": "On a C-130 airframe"
+    }
+   ],
+   "stat": {
+    "v": "1",
+    "l": "letter, a whole new job"
+   },
+   "views": [
+    [
+     "f1",
+     "f3"
+    ],
+    [
+     "f2"
+    ]
+   ]
+  },
+  {
+   "letter": "H",
+   "name": "Rescue \u00b7 Helicopter",
+   "cat": "MOD. MISSION + VEHICLE",
+   "kind": "heli",
+   "example": "HH-60G",
+   "features": [
+    {
+     "t": "Search & Rescue",
+     "s": "H in front"
+    },
+    {
+     "t": "Helicopter",
+     "s": "H before the dash"
+    },
+    {
+     "t": "HH-60G",
+     "s": "Pave Hawk"
+    }
+   ],
+   "stat": {
+    "v": "2",
+    "l": "H's in the HH-60G"
+   },
+   "views": [
+    "S",
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "M",
+   "name": "Multi-Mission",
+   "cat": "MODIFIED MISSION",
+   "kind": "drone",
+   "example": "MQ-9",
+   "features": [
+    {
+     "t": "Special Operations",
+     "s": "Combat missions"
+    },
+    {
+     "t": "MC-130",
+     "s": "Special ops Hercules"
+    },
+    {
+     "t": "MQ-9",
+     "s": "Reaper drone"
+    }
+   ],
+   "stat": {
+    "v": "9",
+    "l": "design number of the Reaper"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "U",
+   "name": "Utility",
+   "cat": "MISSION",
+   "kind": "u2",
+   "example": "U-2",
+   "features": [
+    {
+     "t": "Support",
+     "s": "Transport and backup roles"
+    },
+    {
+     "t": "UH-60",
+     "s": "Black Hawk"
+    },
+    {
+     "t": "U-2",
+     "s": "A spy plane labeled utility"
+    }
+   ],
+   "stat": {
+    "v": "U-2",
+    "l": "the cover story"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    "S",
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "R",
+   "name": "Reconnaissance",
+   "cat": "MISSION",
+   "kind": "blackbird",
+   "example": "SR-71",
+   "features": [
+    {
+     "t": "Spy Missions",
+     "s": "Watching from above"
+    },
+    {
+     "t": "SR-71",
+     "s": "Blackbird"
+    },
+    {
+     "t": "LeMay's Pick",
+     "s": "Strategic Reconnaissance"
+    }
+   ],
+   "stat": {
+    "v": "SR",
+    "l": "strategic reconnaissance"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2",
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "W",
+   "name": "Weather",
+   "cat": "MODIFIED MISSION",
+   "kind": "cargo",
+   "example": "WC-130",
+   "features": [
+    {
+     "t": "Weather Recon",
+     "s": "Flies into storms"
+    },
+    {
+     "t": "WC-130",
+     "s": "Air Force hurricane hunters"
+    },
+    {
+     "t": "Modified Mission",
+     "s": "W in front of C"
+    }
+   ],
+   "stat": {
+    "v": "W",
+    "l": "weather reconnaissance"
+   },
+   "views": [
+    [
+     "f1",
+     "f3"
+    ],
+    [
+     "f2"
+    ]
+   ]
+  },
+  {
+   "letter": "V",
+   "name": "VIP \u00b7 Vertical",
+   "cat": "MOD. MISSION + VEHICLE",
+   "kind": "tilt",
+   "example": "MV-22",
+   "features": [
+    {
+     "t": "VIP Transport",
+     "s": "V in front of the mission"
+    },
+    {
+     "t": "VC-25 \u00b7 VH-92",
+     "s": "The President's 747 and helicopter"
+    },
+    {
+     "t": "MV-22",
+     "s": "Osprey \u00b7 vertical takeoff"
+    }
+   ],
+   "stat": {
+    "v": "2",
+    "l": "jobs for one letter"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "L",
+   "name": "Cold Weather",
+   "cat": "MODIFIED MISSION",
+   "kind": "cargo",
+   "example": "LC-130",
+   "features": [
+    {
+     "t": "Cold Weather",
+     "s": "Modified mission"
+    },
+    {
+     "t": "LC-130",
+     "s": "Hercules"
+    },
+    {
+     "t": "Skis",
+     "s": "For landing on ice"
+    }
+   ],
+   "stat": {
+    "v": "L",
+    "l": "skis for ice"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2",
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "Q",
+   "name": "Unmanned",
+   "cat": "VEHICLE TYPE",
+   "kind": "drone",
+   "example": "MQ-9",
+   "features": [
+    {
+     "t": "Drone",
+     "s": "No pilot on board"
+    },
+    {
+     "t": "MQ-9",
+     "s": "Reaper"
+    },
+    {
+     "t": "D",
+     "s": "Its ground control station"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "pilots on board"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "P",
+   "name": "Patrol",
+   "cat": "BASIC MISSION",
+   "kind": "cargo",
+   "example": "P-8",
+   "features": [
+    {
+     "t": "Maritime Patrol",
+     "s": "Watching the sea"
+    },
+    {
+     "t": "P-8 Poseidon",
+     "s": "Built on a Boeing 737"
+    },
+    {
+     "t": "Ocean Focus",
+     "s": "Ships and submarines"
+    }
+   ],
+   "stat": {
+    "v": "P",
+    "l": "maritime patrol"
+   },
+   "views": [
+    [
+     "f1",
+     "f3"
+    ],
+    [
+     "f2"
+    ]
+   ]
+  },
+  {
+   "letter": "S",
+   "name": "Anti-Submarine",
+   "cat": "BASIC MISSION",
+   "kind": "hornet",
+   "example": "S-3",
+   "features": [
+    {
+     "t": "Sub Hunting",
+     "s": "Anti-submarine warfare"
+    },
+    {
+     "t": "S-3 Viking",
+     "s": "Flew from carriers"
+    },
+    {
+     "t": "Spaceplane",
+     "s": "S before the dash"
+    }
+   ],
+   "stat": {
+    "v": "S",
+    "l": "anti-submarine"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f3"
+    ],
+    [
+     "f2"
+    ]
+   ]
+  },
+  {
+   "letter": "T",
+   "name": "Trainer",
+   "cat": "BASIC MISSION",
+   "kind": "trainer",
+   "example": "T-6",
+   "features": [
+    {
+     "t": "Pilot Training",
+     "s": "First jets and props"
+    },
+    {
+     "t": "T-6",
+     "s": "Texan II"
+    },
+    {
+     "t": "Tribute",
+     "s": "Skipped T-4 and T-5"
+    }
+   ],
+   "stat": {
+    "v": "6",
+    "l": "in honor of the original T-6"
+   },
+   "views": [
+    [
+     "f1",
+     "f2",
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "O",
+   "name": "Observation",
+   "cat": "BASIC MISSION",
+   "kind": "trainer",
+   "example": "OA-1K",
+   "features": [
+    {
+     "t": "Observation",
+     "s": "Forward air control"
+    },
+    {
+     "t": "OA-1K",
+     "s": "Skyraider II"
+    },
+    {
+     "t": "Old Name",
+     "s": "Renews the A-1 Skyraider"
+    }
+   ],
+   "stat": {
+    "v": "O",
+    "l": "observation"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2",
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "X",
+   "name": "Experimental",
+   "cat": "STATUS PREFIX",
+   "kind": "fighter",
+   "example": "X-35",
+   "features": [
+    {
+     "t": "Experimental",
+     "s": "In front of everything"
+    },
+    {
+     "t": "X-35",
+     "s": "Became the F-35"
+    },
+    {
+     "t": "X-Planes",
+     "s": "Manufacturers and NASA"
+    }
+   ],
+   "stat": {
+    "v": "X",
+    "l": "experimental"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "Y",
+   "name": "Prototype",
+   "cat": "STATUS PREFIX",
+   "kind": "fighter",
+   "example": "YF-22",
+   "features": [
+    {
+     "t": "Prototype",
+     "s": "Pre-production"
+    },
+    {
+     "t": "YF-22",
+     "s": "Won the competition"
+    },
+    {
+     "t": "F-22",
+     "s": "Raptor in service"
+    }
+   ],
+   "stat": {
+    "v": "Y",
+    "l": "prototype"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "G",
+   "name": "Grounded",
+   "cat": "STATUS PREFIX",
+   "kind": "fighter",
+   "example": "GF-16",
+   "features": [
+    {
+     "t": "Grounded",
+     "s": "Permanently"
+    },
+    {
+     "t": "Training",
+     "s": "Ground instruction"
+    },
+    {
+     "t": "Also",
+     "s": "G vehicle type = glider"
+    }
+   ],
+   "stat": {
+    "v": "G",
+    "l": "permanently grounded"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ]
+   ]
+  },
+  {
+   "letter": "J",
+   "name": "Special Test",
+   "cat": "STATUS PREFIX",
+   "kind": "fighter",
+   "example": "JF-16",
+   "features": [
+    {
+     "t": "J",
+     "s": "Temporary special test"
+    },
+    {
+     "t": "N",
+     "s": "Permanent special test"
+    },
+    {
+     "t": "Returns?",
+     "s": "J goes back to service"
+    }
+   ],
+   "stat": {
+    "v": "2",
+    "l": "kinds of test aircraft"
+   },
+   "views": [
+    [
+     "f1",
+     "f3"
+    ],
+    [
+     "f2"
+    ]
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "i01a",
+   "text": "F. Fighter.",
+   "item": 0
+  },
+  {
+   "id": "i01b",
+   "text": "It's the most famous letter in military aviation, and today it covers multirole jets that also strike targets on the ground.",
+   "item": 0
+  },
+  {
+   "id": "i01c",
+   "text": "The F-35 should have been the F-24, the next number in line. Instead, it kept the number of its demonstrator, the X-35.",
+   "item": 0
+  },
+  {
+   "id": "i01d",
+   "text": "And the F-117 Nighthawk got an F, even though it was built for ground attack.",
+   "item": 0
+  },
+  {
+   "id": "i02a",
+   "text": "A. Attack.",
+   "item": 1
+  },
+  {
+   "id": "i02b",
+   "text": "An attack aircraft is built to hit targets on land or at sea.",
+   "item": 1
+  },
+  {
+   "id": "i02c",
+   "text": "Today, the A-10 is the only aircraft in the Air Force that still carries a plain A.",
+   "item": 1
+  },
+  {
+   "id": "i03a",
+   "text": "B. Bomber.",
+   "item": 2
+  },
+  {
+   "id": "i03b",
+   "text": "Bombers fly long-range strike missions.",
+   "item": 2
+  },
+  {
+   "id": "i03c",
+   "text": "The newest one is the B-21. Its number was chosen because it's the first bomber of the twenty-first century. By the rules, it would have been the B-3.",
+   "item": 2
+  },
+  {
+   "id": "i04a",
+   "text": "C. Cargo.",
+   "item": 3
+  },
+  {
+   "id": "i04b",
+   "text": "C means transport, like the C-130 Hercules.",
+   "item": 3
+  },
+  {
+   "id": "i04c",
+   "text": "And the C-130 shows how the whole system works. Add one more letter in front, and the same airframe becomes a gunship, a rescue plane, a special operations plane, an electronic warfare plane, or a tanker.",
+   "item": 3
+  },
+  {
+   "id": "i05a",
+   "text": "K. Tanker.",
+   "item": 4
+  },
+  {
+   "id": "i05b",
+   "text": "Put a K in front of a C, and you get a tanker, like the KC-46.",
+   "item": 4
+  },
+  {
+   "id": "i05c",
+   "text": "K exists as a basic mission too, but no ordinary aircraft has ever been given it the way the rules intended.",
+   "item": 4
+  },
+  {
+   "id": "i05d",
+   "text": "Some names simply copy the maker. A tanker sold to other countries became the KC-767, straight from Boeing's model number.",
+   "item": 4
+  },
+  {
+   "id": "i06a",
+   "text": "E. Electronic.",
+   "item": 5
+  },
+  {
+   "id": "i06b",
+   "text": "As a modified mission, E means electronic warfare, like the EC-130.",
+   "item": 5
+  },
+  {
+   "id": "i06c",
+   "text": "As a basic mission, it means special electronics, for aircraft built around radars and sensors.",
+   "item": 5
+  },
+  {
+   "id": "i07a",
+   "text": "H. Rescue, and helicopter.",
+   "item": 6
+  },
+  {
+   "id": "i07b",
+   "text": "H can show up twice in the same name.",
+   "item": 6
+  },
+  {
+   "id": "i07c",
+   "text": "In the HH-60G, the first H means search and rescue, and the second H means helicopter. Many of them started life as Black Hawks that were modified for rescue.",
+   "item": 6
+  },
+  {
+   "id": "i08a",
+   "text": "M. Multi-mission.",
+   "item": 7
+  },
+  {
+   "id": "i08b",
+   "text": "M aircraft fly combat and special operations, like the MC-130.",
+   "item": 7
+  },
+  {
+   "id": "i08c",
+   "text": "And the MQ-9 Reaper reads as multi-mission, unmanned, design number nine.",
+   "item": 7
+  },
+  {
+   "id": "i09a",
+   "text": "U. Utility.",
+   "item": 8
+  },
+  {
+   "id": "i09b",
+   "text": "U aircraft fly support missions, like the UH-60 Black Hawk.",
+   "item": 8
+  },
+  {
+   "id": "i09c",
+   "text": "Utility was once used as a cover. The U-2 spy plane was labeled utility to hide what it really did.",
+   "item": 8
+  },
+  {
+   "id": "i10a",
+   "text": "R. Reconnaissance.",
+   "item": 9
+  },
+  {
+   "id": "i10b",
+   "text": "R is for spy missions.",
+   "item": 9
+  },
+  {
+   "id": "i10c",
+   "text": "The SR-71 Blackbird was set to be called the RS-71, but Air Force chief Curtis LeMay preferred SR, for strategic reconnaissance. And SR is what stuck.",
+   "item": 9
+  },
+  {
+   "id": "i11a",
+   "text": "W. Weather.",
+   "item": 10
+  },
+  {
+   "id": "i11b",
+   "text": "W means weather reconnaissance.",
+   "item": 10
+  },
+  {
+   "id": "i11c",
+   "text": "That's why the Air Force's hurricane hunters are WC-130s.",
+   "item": 10
+  },
+  {
+   "id": "i12a",
+   "text": "V. VIP, and vertical takeoff.",
+   "item": 11
+  },
+  {
+   "id": "i12b",
+   "text": "In front, V means VIP transport. The President's 747 is the VC-25, and his newest helicopter is the VH-92.",
+   "item": 11
+  },
+  {
+   "id": "i12c",
+   "text": "Before the dash, V means vertical or short takeoff, like the MV-22 Osprey.",
+   "item": 11
+  },
+  {
+   "id": "i13a",
+   "text": "L. Cold weather.",
+   "item": 12
+  },
+  {
+   "id": "i13b",
+   "text": "L means modified for cold weather. The LC-130 has skis, for landing on ice.",
+   "item": 12
+  },
+  {
+   "id": "i14a",
+   "text": "Q. Unmanned.",
+   "item": 13
+  },
+  {
+   "id": "i14b",
+   "text": "Q means drone.",
+   "item": 13
+  },
+  {
+   "id": "i14c",
+   "text": "There's even a letter for the ground stations that fly them: D, for the U A V control segment.",
+   "item": 13
+  },
+  {
+   "id": "i15a",
+   "text": "P. Patrol.",
+   "item": 14
+  },
+  {
+   "id": "i15b",
+   "text": "P means maritime patrol, for aircraft that watch the sea.",
+   "item": 14
+  },
+  {
+   "id": "i15c",
+   "text": "Today's main one is the P-8 Poseidon, a Navy jet built on a Boeing 737.",
+   "item": 14
+  },
+  {
+   "id": "i16a",
+   "text": "S. Anti-submarine.",
+   "item": 15
+  },
+  {
+   "id": "i16b",
+   "text": "S is for hunting submarines. Before the dash, S means something completely different: a spaceplane.",
+   "item": 15
+  },
+  {
+   "id": "i16c",
+   "text": "The S-3 Viking flew from aircraft carriers to hunt submarines.",
+   "item": 15
+  },
+  {
+   "id": "i17a",
+   "text": "T. Trainer.",
+   "item": 16
+  },
+  {
+   "id": "i17b",
+   "text": "The T-6 Texan Two skipped the numbers four and five, as a tribute to the original T-6 trainer.",
+   "item": 16
+  },
+  {
+   "id": "i18a",
+   "text": "O. Observation.",
+   "item": 17
+  },
+  {
+   "id": "i18b",
+   "text": "O means observation, like spotting targets for other aircraft. The new OA-1K Skyraider Two borrowed the name of the old A-1 Skyraider.",
+   "item": 17
+  },
+  {
+   "id": "i19a",
+   "text": "X. Experimental.",
+   "item": 18
+  },
+  {
+   "id": "i19b",
+   "text": "In front of everything, X means experimental. That's where the F-35 started, as the X-35.",
+   "item": 18
+  },
+  {
+   "id": "i19c",
+   "text": "Experimental aircraft flown by manufacturers or by NASA often get X numbers too.",
+   "item": 18
+  },
+  {
+   "id": "i20a",
+   "text": "Y. Prototype.",
+   "item": 19
+  },
+  {
+   "id": "i20b",
+   "text": "The jet that won the competition was the YF-22. The one that entered service was the F-22.",
+   "item": 19
+  },
+  {
+   "id": "i21a",
+   "text": "G. Grounded.",
+   "item": 20
+  },
+  {
+   "id": "i21b",
+   "text": "As a prefix, G means permanently grounded. Before the dash, G means glider.",
+   "item": 20
+  },
+  {
+   "id": "i22a",
+   "text": "J and N. Special test.",
+   "item": 21
+  },
+  {
+   "id": "i22b",
+   "text": "J means a temporary special test, and the aircraft goes back to normal service. N means it never does.",
+   "item": 21
+  },
+  {
+   "id": "ya",
+   "text": "The whole system dates to nineteen sixty-two. Before that, the Navy and the Air Force named their aircraft differently, and the same fighter was the F4H Phantom to one and the F-110 to the other.",
+   "item": -1
+  },
+  {
+   "id": "yb",
+   "text": "After the change, it became simply the F-4.",
+   "item": -1
+  },
+  {
+   "id": "za",
+   "text": "And after the letters come the numbers. In nineteen sixty-two, the counts were restarted, which is why they suddenly got small again.",
+   "item": -1
+  },
+  {
+   "id": "zb",
+   "text": "The last letter marks the version: A, then B, then C. I and O are skipped, so they're never confused with one and zero.",
+   "item": -1
+  },
+  {
+   "id": "zb2",
+   "text": "And the number thirteen has been skipped in many series, for superstition.",
+   "item": -1
+  },
+  {
+   "id": "zc",
+   "text": "Which aircraft name should I decode next? Tell me in the comments.",
+   "item": -1
+  }
+ ]
+}
