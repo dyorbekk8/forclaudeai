@@ -1,0 +1,1541 @@
+{
+ "fps": 30,
+ "total": 7200,
+ "items": [
+  {
+   "letter": "1",
+   "name": "NUCFLASH",
+   "cat": "PINNACLE \u00b7 HIGHEST PRECEDENCE",
+   "kind": "flash",
+   "example": "DETONATION",
+   "features": [
+    {
+     "t": "Detonation",
+     "s": "Possible or actual"
+    },
+    {
+     "t": "Risk of War",
+     "s": "Could start a nuclear war"
+    },
+    {
+     "t": "Top Priority",
+     "s": "Highest precedence report"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "accidental U.S. nuclear explosions on record"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "2",
+   "name": "BROKEN ARROW",
+   "cat": "PINNACLE \u00b7 ACCIDENT",
+   "kind": "arrow",
+   "example": "PALOMARES 1966",
+   "features": [
+    {
+     "t": "Accident",
+     "s": "Weapon involved, no risk of war"
+    },
+    {
+     "t": "Palomares 1966",
+     "s": "Four bombs, one lost at sea"
+    },
+    {
+     "t": "Goldsboro 1961",
+     "s": "Two bombs fell on North Carolina"
+    }
+   ],
+   "stat": {
+    "v": "32",
+    "l": "official Broken Arrows, 1950\u20131980"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    "S",
+    "E:tybee",
+    "E:tybee",
+    "E:tybee",
+    [
+     "f3"
+    ],
+    [],
+    [
+     "f2"
+    ],
+    [],
+    [],
+    "E:thule",
+    "E:damascus",
+    "E:damascus",
+    "E:damascus"
+   ],
+   "events": {
+    "tybee": {
+     "date": "FEB 1958",
+     "place": "TYBEE ISLAND, GEORGIA",
+     "head": "B-47 JETTISONS A NUCLEAR WEAPON AFTER A MID-AIR COLLISION",
+     "stamp": "NEVER\nRECOVERED",
+     "icon": "bomb"
+    },
+    "thule": {
+     "date": "JAN 1968",
+     "place": "THULE AIR BASE, GREENLAND",
+     "head": "B-52 FIRE AND CRASH ON THE SEA ICE",
+     "stamp": "RADIOACTIVE\nDEBRIS",
+     "icon": "plane"
+    },
+    "damascus": {
+     "date": "SEPT 1980",
+     "place": "DAMASCUS, ARKANSAS",
+     "head": "A DROPPED SOCKET PUNCTURES A TITAN II FUEL TANK",
+     "stamp": "WARHEAD DID\nNOT DETONATE",
+     "icon": "silo"
+    }
+   }
+  },
+  {
+   "letter": "3",
+   "name": "EMPTY QUIVER",
+   "cat": "PINNACLE \u00b7 LOSS OR THEFT",
+   "kind": "quiver",
+   "example": "SEIZED \u00b7 STOLEN \u00b7 LOST",
+   "features": [
+    {
+     "t": "Seizure",
+     "s": "Taken by force"
+    },
+    {
+     "t": "Theft",
+     "s": "Stolen"
+    },
+    {
+     "t": "Loss",
+     "s": "A working weapon is missing"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "publicly confirmed thefts of a U.S. nuclear weapon"
+   },
+   "views": [
+    [
+     "f1",
+     "f2",
+     "f3"
+    ],
+    [],
+    "S"
+   ]
+  },
+  {
+   "letter": "4",
+   "name": "BENT SPEAR",
+   "cat": "SIGNIFICANT INCIDENT",
+   "kind": "spear",
+   "example": "MINOT 2007",
+   "features": [
+    {
+     "t": "Incident",
+     "s": "Serious, but not an accident"
+    },
+    {
+     "t": "Minot \u2192 Barksdale",
+     "s": "Six warheads flown by mistake"
+    },
+    {
+     "t": "36 Hours",
+     "s": "Before anyone noticed"
+    }
+   ],
+   "stat": {
+    "v": "36 HRS",
+    "l": "before anyone realized"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [],
+    [
+     "f2"
+    ],
+    "E:minot",
+    "E:minot",
+    [
+     "f3"
+    ],
+    [],
+    []
+   ],
+   "events": {
+    "minot": {
+     "date": "AUG 2007",
+     "place": "MINOT AFB \u2192 BARKSDALE AFB",
+     "head": "THE SPOT CHECK LOOKED AT THE WRONG PYLON",
+     "stamp": "WARHEADS\nSTILL ON",
+     "icon": "plane"
+    }
+   }
+  },
+  {
+   "letter": "5",
+   "name": "FADED GIANT",
+   "cat": "REACTOR OR RADIOLOGICAL",
+   "kind": "reactor",
+   "example": "REACTOR",
+   "features": [
+    {
+     "t": "Reactor",
+     "s": "Military nuclear reactor"
+    },
+    {
+     "t": "Radiological",
+     "s": "Radioactive release"
+    },
+    {
+     "t": "Not a Weapon",
+     "s": "No warhead involved"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "weapons involved"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "6",
+   "name": "DULL SWORD",
+   "cat": "DEFICIENCY",
+   "kind": "sword",
+   "example": "SAFETY DEFICIENCY",
+   "features": [
+    {
+     "t": "Deficiency",
+     "s": "Safety problem found"
+    },
+    {
+     "t": "Minor",
+     "s": "Below an incident"
+    },
+    {
+     "t": "Equipment",
+     "s": "Tools and systems too"
+    }
+   ],
+   "stat": {
+    "v": "6",
+    "l": "words, from detonation to deficiency"
+   },
+   "views": [
+    [
+     "f1",
+     "f2",
+     "f3"
+    ],
+    "S"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "i01a",
+   "from": 0,
+   "dur": 34,
+   "voStart": 3,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i01a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i01b",
+   "from": 34,
+   "dur": 265,
+   "voStart": 37,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i01b.wav",
+   "voDur": 8.461
+  },
+  {
+   "id": "i01c",
+   "from": 299,
+   "dur": 150,
+   "voStart": 302,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i01c.wav",
+   "voDur": 4.615
+  },
+  {
+   "id": "i01d",
+   "from": 449,
+   "dur": 227,
+   "voStart": 452,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i01d.wav",
+   "voDur": 6.923
+  },
+  {
+   "id": "i02a",
+   "from": 676,
+   "dur": 34,
+   "voStart": 679,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i02b",
+   "from": 710,
+   "dur": 231,
+   "voStart": 713,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02b.wav",
+   "voDur": 7.308
+  },
+  {
+   "id": "i02c",
+   "from": 941,
+   "dur": 173,
+   "voStart": 944,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02c.wav",
+   "voDur": 5.385
+  },
+  {
+   "id": "i02d",
+   "from": 1114,
+   "dur": 323,
+   "voStart": 1117,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02d.wav",
+   "voDur": 10.385
+  },
+  {
+   "id": "i02e",
+   "from": 1437,
+   "dur": 173,
+   "voStart": 1440,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02e.wav",
+   "voDur": 5.385
+  },
+  {
+   "id": "i02f",
+   "from": 1610,
+   "dur": 196,
+   "voStart": 1613,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02f.wav",
+   "voDur": 6.154
+  },
+  {
+   "id": "i02g",
+   "from": 1806,
+   "dur": 161,
+   "voStart": 1809,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02g.wav",
+   "voDur": 5.0
+  },
+  {
+   "id": "i02h",
+   "from": 1967,
+   "dur": 231,
+   "voStart": 1970,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02h.wav",
+   "voDur": 7.308
+  },
+  {
+   "id": "i02i",
+   "from": 2198,
+   "dur": 69,
+   "voStart": 2201,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02i.wav",
+   "voDur": 1.923
+  },
+  {
+   "id": "i02j",
+   "from": 2267,
+   "dur": 311,
+   "voStart": 2270,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02j.wav",
+   "voDur": 10.0
+  },
+  {
+   "id": "i02k",
+   "from": 2578,
+   "dur": 346,
+   "voStart": 2581,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02k.wav",
+   "voDur": 11.154
+  },
+  {
+   "id": "i02l",
+   "from": 2924,
+   "dur": 265,
+   "voStart": 2927,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02l.wav",
+   "voDur": 8.461
+  },
+  {
+   "id": "i02m",
+   "from": 3189,
+   "dur": 100,
+   "voStart": 3192,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i02m.wav",
+   "voDur": 2.692
+  },
+  {
+   "id": "i03a",
+   "from": 3289,
+   "dur": 34,
+   "voStart": 3292,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i03a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i03b",
+   "from": 3323,
+   "dur": 161,
+   "voStart": 3326,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i03b.wav",
+   "voDur": 5.0
+  },
+  {
+   "id": "i03c",
+   "from": 3484,
+   "dur": 104,
+   "voStart": 3487,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i03c.wav",
+   "voDur": 3.077
+  },
+  {
+   "id": "i03d",
+   "from": 3588,
+   "dur": 169,
+   "voStart": 3591,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i03d.wav",
+   "voDur": 5.0
+  },
+  {
+   "id": "i04a",
+   "from": 3757,
+   "dur": 34,
+   "voStart": 3760,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i04b",
+   "from": 3791,
+   "dur": 208,
+   "voStart": 3794,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04b.wav",
+   "voDur": 6.538
+  },
+  {
+   "id": "i04c",
+   "from": 3999,
+   "dur": 115,
+   "voStart": 4002,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04c.wav",
+   "voDur": 3.462
+  },
+  {
+   "id": "i04d",
+   "from": 4114,
+   "dur": 277,
+   "voStart": 4117,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04d.wav",
+   "voDur": 8.846
+  },
+  {
+   "id": "i04e",
+   "from": 4391,
+   "dur": 104,
+   "voStart": 4394,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04e.wav",
+   "voDur": 3.077
+  },
+  {
+   "id": "i04f",
+   "from": 4495,
+   "dur": 138,
+   "voStart": 4498,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04f.wav",
+   "voDur": 4.231
+  },
+  {
+   "id": "i04g",
+   "from": 4633,
+   "dur": 150,
+   "voStart": 4636,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04g.wav",
+   "voDur": 4.615
+  },
+  {
+   "id": "i04h",
+   "from": 4783,
+   "dur": 161,
+   "voStart": 4786,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04h.wav",
+   "voDur": 5.0
+  },
+  {
+   "id": "i04i",
+   "from": 4944,
+   "dur": 169,
+   "voStart": 4947,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i04i.wav",
+   "voDur": 5.0
+  },
+  {
+   "id": "i05a",
+   "from": 5113,
+   "dur": 34,
+   "voStart": 5116,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i05a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i05b",
+   "from": 5147,
+   "dur": 288,
+   "voStart": 5150,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i05b.wav",
+   "voDur": 9.231
+  },
+  {
+   "id": "i05c",
+   "from": 5435,
+   "dur": 92,
+   "voStart": 5438,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i05c.wav",
+   "voDur": 2.692
+  },
+  {
+   "id": "i05d",
+   "from": 5527,
+   "dur": 88,
+   "voStart": 5530,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i05d.wav",
+   "voDur": 2.308
+  },
+  {
+   "id": "i06a",
+   "from": 5615,
+   "dur": 34,
+   "voStart": 5618,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i06a.wav",
+   "voDur": 0.769
+  },
+  {
+   "id": "i06b",
+   "from": 5649,
+   "dur": 311,
+   "voStart": 5652,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i06b.wav",
+   "voDur": 10.0
+  },
+  {
+   "id": "i06c",
+   "from": 5960,
+   "dur": 192,
+   "voStart": 5963,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/i06c.wav",
+   "voDur": 5.769
+  },
+  {
+   "id": "za",
+   "from": 6152,
+   "dur": 134,
+   "voStart": 6155,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/za.wav",
+   "voDur": 3.846
+  },
+  {
+   "id": "zb",
+   "from": 6286,
+   "dur": 330,
+   "voStart": 6289,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/zb.wav",
+   "voDur": 10.385
+  },
+  {
+   "id": "zc",
+   "from": 6616,
+   "dur": 365,
+   "voStart": 6619,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/zc.wav",
+   "voDur": 11.538
+  },
+  {
+   "id": "zd",
+   "from": 6981,
+   "dur": 219,
+   "voStart": 6984,
+   "vo": "../../../../tmp/claude-0/-home-user-forclaudeai/ca0ae257-5aef-5b77-8685-e8cad32d02d1/scratchpad/tmpvoN/zd.wav",
+   "voDur": 4.231
+  }
+ ],
+ "shots": [
+  {
+   "id": "0g",
+   "kind": "grid",
+   "item": 0,
+   "from": 0,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 8,
+     "gain": -17
+    },
+    {
+     "file": "pop_1",
+     "frame": 30,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "0c0",
+   "kind": "card",
+   "item": 0,
+   "from": 34,
+   "dur": 415,
+   "feat": [
+    3,
+    90,
+    268
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 36,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 37,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 124,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 302,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "0s1",
+   "kind": "summary",
+   "item": 0,
+   "from": 449,
+   "dur": 227,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 449,
+     "gain": -20
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 453,
+     "gain": -26
+    },
+    {
+     "file": "tick_2",
+     "frame": 479,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "1g",
+   "kind": "grid",
+   "item": 1,
+   "from": 676,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 684,
+     "gain": -17
+    },
+    {
+     "file": "pop_2",
+     "frame": 706,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "1c0",
+   "kind": "card",
+   "item": 1,
+   "from": 710,
+   "dur": 231,
+   "feat": [
+    3,
+    99999,
+    99999
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 712,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 713,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "1s1",
+   "kind": "summary",
+   "item": 1,
+   "from": 941,
+   "dur": 173,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 941,
+     "gain": -20
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 945,
+     "gain": -26
+    },
+    {
+     "file": "tick_2",
+     "frame": 971,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "1e2",
+   "kind": "event",
+   "ev": "tybee",
+   "stampAt": 323,
+   "item": 1,
+   "from": 1114,
+   "dur": 496,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 1116,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 1124,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 1441,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "1c3",
+   "kind": "card",
+   "item": 1,
+   "from": 1610,
+   "dur": 968,
+   "feat": [
+    -100,
+    360,
+    3
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 1612,
+     "gain": -21
+    },
+    {
+     "file": "pop_2",
+     "frame": 1970,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 1613,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "1e4",
+   "kind": "event",
+   "ev": "thule",
+   "stampAt": 45,
+   "item": 1,
+   "from": 2578,
+   "dur": 346,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 2580,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 2588,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 2627,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "1e5",
+   "kind": "event",
+   "ev": "damascus",
+   "stampAt": 265,
+   "item": 1,
+   "from": 2924,
+   "dur": 365,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 2926,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 2934,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 3193,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "2g",
+   "kind": "grid",
+   "item": 2,
+   "from": 3289,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_3",
+     "frame": 3297,
+     "gain": -17
+    },
+    {
+     "file": "pop_3",
+     "frame": 3319,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "2c0",
+   "kind": "card",
+   "item": 2,
+   "from": 3323,
+   "dur": 265,
+   "feat": [
+    3,
+    56,
+    109
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 3325,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 3326,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 3379,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 3432,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "2s1",
+   "kind": "summary",
+   "item": 2,
+   "from": 3588,
+   "dur": 169,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 3588,
+     "gain": -20
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 3592,
+     "gain": -26
+    },
+    {
+     "file": "tick_2",
+     "frame": 3618,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "3g",
+   "kind": "grid",
+   "item": 3,
+   "from": 3757,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_4",
+     "frame": 3765,
+     "gain": -17
+    },
+    {
+     "file": "pop_1",
+     "frame": 3787,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "3c0",
+   "kind": "card",
+   "item": 3,
+   "from": 3791,
+   "dur": 600,
+   "feat": [
+    3,
+    326,
+    99999
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 3793,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 3794,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 4117,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "3e1",
+   "kind": "event",
+   "ev": "minot",
+   "stampAt": 104,
+   "item": 3,
+   "from": 4391,
+   "dur": 242,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 4393,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 4401,
+     "gain": -18
+    },
+    {
+     "file": "stamp_thud_1",
+     "frame": 4499,
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "3c2",
+   "kind": "card",
+   "item": 3,
+   "from": 4633,
+   "dur": 480,
+   "feat": [
+    -100,
+    -100,
+    3
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 4635,
+     "gain": -21
+    },
+    {
+     "file": "pop_3",
+     "frame": 4636,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "4g",
+   "kind": "grid",
+   "item": 4,
+   "from": 5113,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_1",
+     "frame": 5121,
+     "gain": -17
+    },
+    {
+     "file": "pop_2",
+     "frame": 5143,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "4c0",
+   "kind": "card",
+   "item": 4,
+   "from": 5147,
+   "dur": 380,
+   "feat": [
+    3,
+    98,
+    291
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 5149,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 5150,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 5245,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 5438,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "4s1",
+   "kind": "summary",
+   "item": 4,
+   "from": 5527,
+   "dur": 88,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5527,
+     "gain": -20
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 5531,
+     "gain": -26
+    },
+    {
+     "file": "tick_2",
+     "frame": 5557,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "5g",
+   "kind": "grid",
+   "item": 5,
+   "from": 5615,
+   "dur": 34,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5623,
+     "gain": -17
+    },
+    {
+     "file": "pop_3",
+     "frame": 5645,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "5c0",
+   "kind": "card",
+   "item": 5,
+   "from": 5649,
+   "dur": 311,
+   "feat": [
+    3,
+    106,
+    208
+   ],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 5651,
+     "gain": -21
+    },
+    {
+     "file": "pop_1",
+     "frame": 5652,
+     "gain": -18
+    },
+    {
+     "file": "pop_2",
+     "frame": 5755,
+     "gain": -18
+    },
+    {
+     "file": "pop_3",
+     "frame": 5857,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "5s1",
+   "kind": "summary",
+   "item": 5,
+   "from": 5960,
+   "dur": 192,
+   "feat": [],
+   "cues": [
+    {
+     "file": "whoosh_soft_2",
+     "frame": 5960,
+     "gain": -20
+    },
+    {
+     "file": "counter_tick_loop",
+     "frame": 5964,
+     "gain": -26
+    },
+    {
+     "file": "tick_2",
+     "frame": 5990,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "za",
+   "kind": "text",
+   "item": -1,
+   "title": "PINNACLE",
+   "body": "THE FLAG ON TOP OF THE LADDER",
+   "from": 6152,
+   "dur": 134,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 6154,
+     "gain": -20
+    },
+    {
+     "file": "tick_1",
+     "frame": 6164,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "zb",
+   "kind": "text",
+   "item": -1,
+   "title": "PINNACLE \u2192 NMCC",
+   "body": "NUCFLASH \u00b7 BROKEN ARROW \u00b7 EMPTY QUIVER",
+   "from": 6286,
+   "dur": 330,
+   "feat": [],
+   "cues": [
+    {
+     "file": "paper_slide",
+     "frame": 6288,
+     "gain": -20
+    },
+    {
+     "file": "tick_1",
+     "frame": 6298,
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "zc",
+   "kind": "recap",
+   "item": -1,
+   "from": 6616,
+   "dur": 365,
+   "feat": [],
+   "cues": [
+    {
+     "file": "tick_1",
+     "frame": 6626,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6666,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6706,
+     "gain": -19
+    },
+    {
+     "file": "tick_1",
+     "frame": 6746,
+     "gain": -19
+    },
+    {
+     "file": "tick_2",
+     "frame": 6786,
+     "gain": -19
+    },
+    {
+     "file": "tick_3",
+     "frame": 6826,
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "zd",
+   "kind": "outro",
+   "item": -1,
+   "from": 6981,
+   "dur": 219,
+   "feat": [],
+   "cues": [
+    {
+     "file": "pop_1",
+     "frame": 6987,
+     "gain": -18
+    }
+   ]
+  }
+ ],
+ "caps": [
+  {
+   "from": 2,
+   "to": 30,
+   "text": "NUCFLASH."
+  },
+  {
+   "from": 99,
+   "to": 295,
+   "text": "This is the top of the ladder: a possible, or actual, nuclear detonation that could create the risk of a nuclear war."
+  },
+  {
+   "from": 301,
+   "to": 445,
+   "text": "Its report goes out with the highest precedence of any military report."
+  },
+  {
+   "from": 510,
+   "to": 669,
+   "text": "And as far as the public record shows, the United States has never had an accidental nuclear explosion."
+  },
+  {
+   "from": 678,
+   "to": 706,
+   "text": "Broken Arrow."
+  },
+  {
+   "from": 772,
+   "to": 937,
+   "text": "A Broken Arrow is an accident involving a nuclear weapon that does not create a risk of nuclear war."
+  },
+  {
+   "from": 943,
+   "to": 1110,
+   "text": "The Pentagon's official list counts thirty-two of them between nineteen fifty and nineteen eighty."
+  },
+  {
+   "from": 1230,
+   "to": 1433,
+   "text": "In nineteen fifty-eight, after a mid-air collision on a training flight, a B-47 bomber jettisoned a nuclear weapon near Tybee Island, off the coast of Georgia."
+  },
+  {
+   "from": 1439,
+   "to": 1439,
+   "text": "After ten weeks of searching, it was declared lost."
+  },
+  {
+   "from": 1439,
+   "to": 1606,
+   "text": "It has never been recovered."
+  },
+  {
+   "from": 1659,
+   "to": 1802,
+   "text": "In nineteen sixty-one, a B-52 broke apart over Goldsboro, North Carolina, and two bombs fell."
+  },
+  {
+   "from": 1808,
+   "to": 1963,
+   "text": "Exactly how close one of them came to arming is still debated today."
+  },
+  {
+   "from": 2029,
+   "to": 2194,
+   "text": "In nineteen sixty-six, a B-52 collided with its refueling tanker over Palomares, Spain, and four hydrogen bombs fell."
+  },
+  {
+   "from": 2200,
+   "to": 2263,
+   "text": "Three landed near the village."
+  },
+  {
+   "from": 2383,
+   "to": 2574,
+   "text": "The fourth fell into the sea, and was recovered about eighty days later, with help from a local fisherman who had seen where it went down."
+  },
+  {
+   "from": 2695,
+   "to": 2920,
+   "text": "In nineteen sixty-eight, a B-52 with a fire on board crashed near Thule Air Base in Greenland, and its weapons broke apart, scattering radioactive material across the ice."
+  },
+  {
+   "from": 2989,
+   "to": 3185,
+   "text": "And in nineteen eighty, in Damascus, Arkansas, a dropped socket punctured the fuel tank of a Titan Two missile in its silo."
+  },
+  {
+   "from": 3191,
+   "to": 3191,
+   "text": "The fuel exploded."
+  },
+  {
+   "from": 3191,
+   "to": 3282,
+   "text": "The warhead did not."
+  },
+  {
+   "from": 3291,
+   "to": 3319,
+   "text": "Empty Quiver."
+  },
+  {
+   "from": 3325,
+   "to": 3480,
+   "text": "Empty Quiver means a working nuclear weapon has been seized, stolen, or lost."
+  },
+  {
+   "from": 3486,
+   "to": 3584,
+   "text": "It's the scenario security systems are built around."
+  },
+  {
+   "from": 3590,
+   "to": 3750,
+   "text": "And there's no publicly confirmed case of an American nuclear weapon being stolen."
+  },
+  {
+   "from": 3759,
+   "to": 3787,
+   "text": "Bent Spear."
+  },
+  {
+   "from": 3852,
+   "to": 3995,
+   "text": "A Bent Spear is a significant incident involving nuclear weapons that falls short of a Broken Arrow."
+  },
+  {
+   "from": 4001,
+   "to": 4110,
+   "text": "The best known one happened in two thousand seven."
+  },
+  {
+   "from": 4194,
+   "to": 4387,
+   "text": "A B-52 flew from Minot Air Force Base to Barksdale in Louisiana, carrying six cruise missiles that still had their nuclear warheads."
+  },
+  {
+   "from": 4393,
+   "to": 4491,
+   "text": "The warheads were supposed to have been removed."
+  },
+  {
+   "from": 4497,
+   "to": 4629,
+   "text": "A crew spot check looked at the wrong set of missiles."
+  },
+  {
+   "from": 4635,
+   "to": 4779,
+   "text": "They sat on the bomber for about thirty-six hours before anyone realized."
+  },
+  {
+   "from": 4785,
+   "to": 4940,
+   "text": "The Air Force called it a series of procedural breakdowns and human errors."
+  },
+  {
+   "from": 4946,
+   "to": 5106,
+   "text": "Commanders were relieved, and the Air Force said seventy airmen would be disciplined."
+  },
+  {
+   "from": 5115,
+   "to": 5143,
+   "text": "Faded Giant."
+  },
+  {
+   "from": 5263,
+   "to": 5431,
+   "text": "Faded Giant covers a different kind of event: an accident with a military nuclear reactor, or another radiological accident that doesn't involve a weapon."
+  },
+  {
+   "from": 5437,
+   "to": 5523,
+   "text": "That's why it gets its own word."
+  },
+  {
+   "from": 5529,
+   "to": 5608,
+   "text": "The ladder doesn't only track bombs."
+  },
+  {
+   "from": 5617,
+   "to": 5645,
+   "text": "Dull Sword."
+  },
+  {
+   "from": 5765,
+   "to": 5956,
+   "text": "Dull Sword is the bottom rung: a safety deficiency, or a minor problem with a nuclear weapon, its parts, or the equipment built to handle it."
+  },
+  {
+   "from": 6009,
+   "to": 6145,
+   "text": "It sounds small, but reporting the small problems is how the big ones are prevented."
+  },
+  {
+   "from": 6154,
+   "to": 6279,
+   "text": "One more word sits on top of the ladder: Pinnacle."
+  },
+  {
+   "from": 6402,
+   "to": 6609,
+   "text": "Pinnacle marks the reports that go straight to the National Military Command Center at the Pentagon, like Pinnacle NUCFLASH, Pinnacle Broken Arrow, and Pinnacle Empty Quiver."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "So, from the top."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "NUCFLASH, a detonation."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "Broken Arrow, an accident."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "Empty Quiver, a missing weapon."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "Bent Spear, an incident."
+  },
+  {
+   "from": 6734,
+   "to": 6734,
+   "text": "Faded Giant, a reactor."
+  },
+  {
+   "from": 6734,
+   "to": 6974,
+   "text": "And Dull Sword, a deficiency."
+  },
+  {
+   "from": 6983,
+   "to": 6983,
+   "text": "Which of these surprised you most?"
+  },
+  {
+   "from": 6983,
+   "to": 7164,
+   "text": "Tell me in the comments."
+  }
+ ]
+}

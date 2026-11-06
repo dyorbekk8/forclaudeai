@@ -1,0 +1,484 @@
+{
+ "title": "Broken Arrow, Bent Spear, Empty Quiver: Nuclear Incident Code Words Explained",
+ "sources": {
+  "WIKI_TERMS": "https://en.wikipedia.org/wiki/United_States_military_nuclear_incident_terminology",
+  "AFMAG": "https://www.airandspaceforces.com/article/0208issbf/",
+  "AFMAN91_221": "https://www.bits.de/NRANEU/others/END-Archive/afman91-221_usafesup1_i-2005.pdf",
+  "PBS_32": "https://www.pbs.org/wgbh/americanexperience/features/command-and-control-broken-arrows-how-many-nuclear-accidents-have-we-had",
+  "HISTORY_PALOMARES": "https://www.history.com/this-day-in-history/january-17/h-bomb-lost-in-spain",
+  "ASN_PALOMARES": "https://aviation-safety.net/wikibase/48306",
+  "MILCOM_GOLDSBORO": "https://www.military.com/defensetech/2013/09/23/report-b-52-crash-nearly-caused-nuclear-explosion-over-north-carolina",
+  "WIKI_DAMASCUS": "https://en.wikipedia.org/wiki/Damascus_Titan_missile_explosion",
+  "GS_MINOT": "https://www.globalsecurity.org/military/library/news/2007/10/mil-071019-afps07.htm",
+  "WIKI_MINOT": "https://en.wikipedia.org/wiki/2007_United_States_Air_Force_nuclear_weapons_incident",
+  "HIST_9": "https://www.history.com/articles/9-tales-of-broken-arrows-thermonuclear-near-misses-throughout-history",
+  "HIST_TYBEE": "https://www.history.com/articles/9-tales-of-broken-arrows-thermonuclear-near-misses-throughout-history",
+  "THULE": "https://unredacted.com/2013/10/16/nuclear-weapons-accidents-simply-a-fact-of-life-declassified-state-department-history-on-palomares-and-thule-clean-up-and-negotiations/"
+ },
+ "items": [
+  {
+   "letter": "1",
+   "name": "NUCFLASH",
+   "cat": "PINNACLE \u00b7 HIGHEST PRECEDENCE",
+   "kind": "flash",
+   "example": "DETONATION",
+   "features": [
+    {
+     "t": "Detonation",
+     "s": "Possible or actual"
+    },
+    {
+     "t": "Risk of War",
+     "s": "Could start a nuclear war"
+    },
+    {
+     "t": "Top Priority",
+     "s": "Highest precedence report"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "accidental U.S. nuclear explosions on record"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "2",
+   "name": "BROKEN ARROW",
+   "cat": "PINNACLE \u00b7 ACCIDENT",
+   "kind": "arrow",
+   "example": "PALOMARES 1966",
+   "features": [
+    {
+     "t": "Accident",
+     "s": "Weapon involved, no risk of war"
+    },
+    {
+     "t": "Palomares 1966",
+     "s": "Four bombs, one fell into the sea"
+    },
+    {
+     "t": "Goldsboro 1961",
+     "s": "Two bombs fell on North Carolina"
+    }
+   ],
+   "stat": {
+    "v": "32",
+    "l": "official Broken Arrows, 1950\u20131980"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    "S",
+    "E:tybee",
+    "E:tybee",
+    "E:tybee",
+    [
+     "f3"
+    ],
+    [],
+    [
+     "f2"
+    ],
+    [],
+    [],
+    "E:thule",
+    "E:damascus",
+    "E:damascus",
+    "E:damascus"
+   ],
+   "events": {
+    "tybee": {
+     "date": "FEB 1958",
+     "place": "TYBEE ISLAND, GEORGIA",
+     "head": "B-47 JETTISONS A NUCLEAR WEAPON AFTER A MID-AIR COLLISION",
+     "stamp": "NEVER\nRECOVERED",
+     "icon": "bomb"
+    },
+    "thule": {
+     "date": "JAN 1968",
+     "place": "THULE AIR BASE, GREENLAND",
+     "head": "B-52 FIRE AND CRASH ON THE SEA ICE",
+     "stamp": "RADIOACTIVE\nDEBRIS",
+     "icon": "plane"
+    },
+    "damascus": {
+     "date": "SEPT 1980",
+     "place": "DAMASCUS, ARKANSAS",
+     "head": "A DROPPED SOCKET PUNCTURES A TITAN II FUEL TANK",
+     "stamp": "WARHEAD DID\nNOT DETONATE",
+     "icon": "silo"
+    }
+   }
+  },
+  {
+   "letter": "3",
+   "name": "EMPTY QUIVER",
+   "cat": "PINNACLE \u00b7 LOSS OR THEFT",
+   "kind": "quiver",
+   "example": "SEIZED \u00b7 STOLEN \u00b7 LOST",
+   "features": [
+    {
+     "t": "Seizure",
+     "s": "Taken by force"
+    },
+    {
+     "t": "Theft",
+     "s": "Stolen"
+    },
+    {
+     "t": "Loss",
+     "s": "A working weapon is missing"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "publicly confirmed thefts of a U.S. nuclear weapon"
+   },
+   "views": [
+    [
+     "f1",
+     "f2",
+     "f3"
+    ],
+    [],
+    "S"
+   ]
+  },
+  {
+   "letter": "4",
+   "name": "BENT SPEAR",
+   "cat": "SIGNIFICANT INCIDENT",
+   "kind": "spear",
+   "example": "MINOT 2007",
+   "features": [
+    {
+     "t": "Incident",
+     "s": "Serious, but not an accident"
+    },
+    {
+     "t": "Minot \u2192 Barksdale",
+     "s": "Six warheads flown by mistake"
+    },
+    {
+     "t": "36 Hours",
+     "s": "Before anyone noticed"
+    }
+   ],
+   "stat": {
+    "v": "36 HRS",
+    "l": "before anyone realized"
+   },
+   "views": [
+    [
+     "f1"
+    ],
+    [],
+    [
+     "f2"
+    ],
+    "E:minot",
+    "E:minot",
+    [
+     "f3"
+    ],
+    [],
+    []
+   ],
+   "events": {
+    "minot": {
+     "date": "AUG 2007",
+     "place": "MINOT AFB \u2192 BARKSDALE AFB",
+     "head": "THE PREFLIGHT CHECK ONLY LOOKED AT ONE PYLON",
+     "stamp": "WARHEADS\nSTILL ON",
+     "icon": "plane"
+    }
+   }
+  },
+  {
+   "letter": "5",
+   "name": "FADED GIANT",
+   "cat": "REACTOR OR RADIOLOGICAL",
+   "kind": "reactor",
+   "example": "REACTOR",
+   "features": [
+    {
+     "t": "Reactor",
+     "s": "Military nuclear reactor"
+    },
+    {
+     "t": "Radiological",
+     "s": "Radiological accident"
+    },
+    {
+     "t": "Not a Weapon",
+     "s": "No warhead involved"
+    }
+   ],
+   "stat": {
+    "v": "0",
+    "l": "weapons involved"
+   },
+   "views": [
+    [
+     "f1",
+     "f2"
+    ],
+    [
+     "f3"
+    ],
+    "S"
+   ]
+  },
+  {
+   "letter": "6",
+   "name": "DULL SWORD",
+   "cat": "DEFICIENCY",
+   "kind": "sword",
+   "example": "SAFETY DEFICIENCY",
+   "features": [
+    {
+     "t": "Deficiency",
+     "s": "Safety problem found"
+    },
+    {
+     "t": "Minor",
+     "s": "Below an incident"
+    },
+    {
+     "t": "Equipment",
+     "s": "Tools and systems too"
+    }
+   ],
+   "stat": {
+    "v": "6",
+    "l": "main code words, from detonation to deficiency"
+   },
+   "views": [
+    [
+     "f1",
+     "f2",
+     "f3"
+    ],
+    "S"
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "i01a",
+   "text": "NUCFLASH.",
+   "item": 0
+  },
+  {
+   "id": "i01b",
+   "text": "This is the top of the ladder: a possible, or actual, nuclear detonation, or any event, like an accidental missile launch, that could create the risk of a nuclear war.",
+   "item": 0
+  },
+  {
+   "id": "i01c",
+   "text": "Its report goes out with the highest precedence in the military's incident reporting system.",
+   "item": 0
+  },
+  {
+   "id": "i01d",
+   "text": "And as far as the public record shows, the United States has never had an accidental nuclear explosion.",
+   "item": 0
+  },
+  {
+   "id": "i02a",
+   "text": "Broken Arrow.",
+   "item": 1
+  },
+  {
+   "id": "i02b",
+   "text": "A Broken Arrow is an accident involving a nuclear weapon that does not create a risk of nuclear war.",
+   "item": 1
+  },
+  {
+   "id": "i02c",
+   "text": "The Pentagon's official list counts thirty-two of them between nineteen fifty and nineteen eighty.",
+   "item": 1
+  },
+  {
+   "id": "i02d",
+   "text": "In nineteen fifty-eight, after a mid-air collision on a training flight, a B-47 bomber jettisoned a nuclear weapon near Tybee Island, off the coast of Georgia.",
+   "item": 1
+  },
+  {
+   "id": "i02e",
+   "text": "After ten weeks of searching, it was declared lost. It has never been recovered.",
+   "item": 1
+  },
+  {
+   "id": "i02f",
+   "text": "In nineteen sixty-one, a B-52 broke apart near Goldsboro, North Carolina, and two bombs fell.",
+   "item": 1
+  },
+  {
+   "id": "i02g",
+   "text": "Exactly how close one of them came to detonating is still debated today.",
+   "item": 1
+  },
+  {
+   "id": "i02h",
+   "text": "In nineteen sixty-six, a B-52 collided with its refueling tanker off the coast near Palomares, Spain, and four hydrogen bombs fell.",
+   "item": 1
+  },
+  {
+   "id": "i02i",
+   "text": "Three landed near the village.",
+   "item": 1
+  },
+  {
+   "id": "i02j",
+   "text": "The fourth fell into the sea, and was recovered about eighty days later, with help from a local fisherman who had seen where it went down.",
+   "item": 1
+  },
+  {
+   "id": "i02k",
+   "text": "In nineteen sixty-eight, a B-52 with a fire on board crashed near Thule Air Base in Greenland, and its weapons broke apart, scattering radioactive material across the ice.",
+   "item": 1
+  },
+  {
+   "id": "i02l",
+   "text": "And in nineteen eighty, in Damascus, Arkansas, a dropped socket punctured the fuel tank of a Titan Two missile in its silo.",
+   "item": 1
+  },
+  {
+   "id": "i02m",
+   "text": "The fuel exploded. The warhead did not.",
+   "item": 1
+  },
+  {
+   "id": "i03a",
+   "text": "Empty Quiver.",
+   "item": 2
+  },
+  {
+   "id": "i03b",
+   "text": "Empty Quiver means a working nuclear weapon has been seized, stolen, or lost.",
+   "item": 2
+  },
+  {
+   "id": "i03c",
+   "text": "It's the scenario security systems are built around.",
+   "item": 2
+  },
+  {
+   "id": "i03d",
+   "text": "And there's no publicly confirmed case of an American nuclear weapon being stolen.",
+   "item": 2
+  },
+  {
+   "id": "i04a",
+   "text": "Bent Spear.",
+   "item": 3
+  },
+  {
+   "id": "i04b",
+   "text": "A Bent Spear is a significant incident involving nuclear weapons that falls short of a Broken Arrow.",
+   "item": 3
+  },
+  {
+   "id": "i04c",
+   "text": "The best known one happened in two thousand seven.",
+   "item": 3
+  },
+  {
+   "id": "i04d",
+   "text": "A B-52 flew from Minot Air Force Base to Barksdale in Louisiana, carrying six cruise missiles that still had their nuclear warheads.",
+   "item": 3
+  },
+  {
+   "id": "i04e",
+   "text": "The warheads were supposed to have been removed.",
+   "item": 3
+  },
+  {
+   "id": "i04f",
+   "text": "The crew's preflight check looked at only one wing's missiles, the ones without warheads.",
+   "item": 3
+  },
+  {
+   "id": "i04g",
+   "text": "They sat on the bomber for about thirty-six hours before anyone realized.",
+   "item": 3
+  },
+  {
+   "id": "i04h",
+   "text": "The Air Force called it a series of procedural breakdowns and human errors.",
+   "item": 3
+  },
+  {
+   "id": "i04i",
+   "text": "Commanders were relieved, and the Air Force said seventy airmen would be disciplined.",
+   "item": 3
+  },
+  {
+   "id": "i05a",
+   "text": "Faded Giant.",
+   "item": 4
+  },
+  {
+   "id": "i05b",
+   "text": "Faded Giant covers a different kind of event: an accident with a military nuclear reactor, or another radiological accident that doesn't involve a weapon.",
+   "item": 4
+  },
+  {
+   "id": "i05c",
+   "text": "That's why it gets its own word.",
+   "item": 4
+  },
+  {
+   "id": "i05d",
+   "text": "The ladder doesn't only track bombs.",
+   "item": 4
+  },
+  {
+   "id": "i06a",
+   "text": "Dull Sword.",
+   "item": 5
+  },
+  {
+   "id": "i06b",
+   "text": "Dull Sword is the bottom rung: a safety deficiency, or a minor problem with a nuclear weapon, its parts, or the equipment built to handle it.",
+   "item": 5
+  },
+  {
+   "id": "i06c",
+   "text": "It sounds small, but reporting the small problems is how the big ones are prevented.",
+   "item": 5
+  },
+  {
+   "id": "za",
+   "text": "One more word sits on top of the ladder: Pinnacle.",
+   "item": -1
+  },
+  {
+   "id": "zb",
+   "text": "Pinnacle marks the reports that go straight to the National Military Command Center at the Pentagon, like Pinnacle NUCFLASH, Pinnacle Broken Arrow, and Pinnacle Empty Quiver.",
+   "item": -1
+  },
+  {
+   "id": "zc",
+   "text": "So, from the top. NUCFLASH, a detonation. Broken Arrow, an accident. Empty Quiver, a missing weapon. Bent Spear, an incident. Faded Giant, a reactor. And Dull Sword, a deficiency.",
+   "item": -1
+  },
+  {
+   "id": "zd",
+   "text": "Which of these surprised you most? Tell me in the comments.",
+   "item": -1
+  }
+ ]
+}
